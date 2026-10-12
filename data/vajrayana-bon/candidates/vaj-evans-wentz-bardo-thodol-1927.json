@@ -1,0 +1,45 @@
+{
+ "id": "vaj-evans-wentz-bardo-thodol-1927",
+ "stream": "vajrayana-bon",
+ "title": "The Tibetan Book of the Dead, or The After-Death Experiences on the Bardo Plane (Bardo Thödol)",
+ "author": "attributed to Padmasambhava, revealed by Karma Lingpa (14th c.); ed. W. Y. Evans-Wentz",
+ "translator": "Lama Kazi Dawa-Samdup",
+ "year": "14th century text; English 1927",
+ "edition_cited": "First edition, London: Humphrey Milford, Oxford University Press, 1927",
+ "tradition": "Nyingma (Karma Lingpa's Zhitro cycle)",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/the-tibetan-book-of-the-dead_202401",
+ "alt_urls": [],
+ "source_files": [
+  "sources/vaj-evans-wentz-bardo-thodol-1927.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Book I, Part I: 'The Bardo of the Moments of Death', instructions on the Primary and Secondary Clear Light (search 'setting-face-to-face with the Clear Light')",
+  "Book I, Part II: the Chönyid Bardo, days one to seven: bright lights of the five wisdoms paired with dull lights, and the instruction not to flee the bright one",
+  "search 'who have meditated upon the Great Perfection' for the remark on prior training",
+  "Evans-Wentz's footnotes on the death-process signs and on yogic rehearsal"
+ ],
+ "summary": "The classic guide read to the dying and dead, in its first English edition. It is not a sitting-practice manual, but it is the tradition's instruction on what to do when light appears: the Clear Light at the moment of death is to be recognised as one's own mind and rested in; in the following days dazzling coloured radiances appear together with dull, comfortable lights, and the hearer is told to trust the dazzling light and not be drawn to the dull one; sounds, rays and forms are to be known as one's own projections. The text says that those trained in life by a teacher's 'setting-face-to-face' recognise at once, and mentions meditators of the Great Perfection and Great Symbol. Evans-Wentz's notes add yogic glosses.",
+ "why_relevant": "Public-domain primary instruction on recognising and responding to light phenomena, framed as post-death but explicitly tied to prior meditative training; marginal for this library because no living practice method for producing light is given.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "attention_to_spontaneous_phenomena",
+  "devotion_or_transmission"
+ ],
+ "priority": 3,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1927",
+  "class": "published_record",
+  "basis": "title page of the scanned edition: 'London: Humphrey Milford, 1927'; preface dated 'Easter, 1927'"
+ },
+ "author_identifiable": true,
+ "author_basis": "Published book, Oxford University Press 1927",
+ "found_via": "own lead: public-domain Tibetan translations on archive.org",
+ "notes": "Likely to be judged marginal or dropped: the lights described are after-death experiences, and the BRIEF excludes near-death light without a practice account. Kept as a candidate because the text is instruction on how to meet arising light and names prior training as the condition for recognition. OCR is rough. Evans-Wentz's editorial notes mix in Theosophical and Hindu-yoga comparisons."
+}

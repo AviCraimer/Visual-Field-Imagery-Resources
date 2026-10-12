@@ -1,0 +1,50 @@
+{
+ "id": "suf-tawakkul-beg-initiation-by-mulla-shah",
+ "stream": "sufi",
+ "title": "Tawakkul Beg's account of his initiation by Mulla Shah (from the Nuskha-i ahwal-i shahi), in Macdonald, Lecture VII",
+ "author": "Tawakkul Beg Kulali (17th c.), disciple of Mulla Shah Badakhshi (d. 1661)",
+ "translator": "D. B. Macdonald, from Alfred von Kremer's French rendering (Journal asiatique, Feb. 1869)",
+ "year": "17th century; English 1909",
+ "edition_cited": "D. B. Macdonald, The Religious Attitude and Life in Islam (Haskell Lectures 1906), University of Chicago Press, 1909; archive.org religiousattitud00macd (OCR text, double-spaced words)",
+ "tradition": "Qadiri (Mian Mir / Mulla Shah lineage), Kashmir and Lahore",
+ "language": "English",
+ "source_type": "practitioner_testimony",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/religiousattitud00macd",
+ "alt_urls": [],
+ "source_files": [
+  "sources/suf-macdonald-religious-attitude-1909.txt"
+ ],
+ "seen_via": "Duncan Black Macdonald, The Religious Attitude and Life in Islam (Chicago, 1909)",
+ "locator_hints": [
+  "Lecture VII 'The Ascetic-Ecstatic Life in Islam', printed pp. 195-201 (OCR lines ~7540-7775)",
+  "p. 197: 'some little light and clearness showed themselves in my heart; but I was not able to distinguish either color or form'",
+  "p. 198: eyes bandaged, told to reproduce the master's image and concentrate on the heart; sees the cell and the master; 'a dazzling figure'",
+  "p. 199: three months of figures, then 'the sphere where all color is effaced'",
+  "pp. 200-201: Macdonald's note on seven stages each marked by a differently coloured light, and on teachers who rejected attention to such lights as bodily; refers to Fleischer (1862)"
+ ],
+ "summary": "First-person narrative of a 17th-century Qadiri novice. After reciting sura 112 a hundred thousand times he sits whole nights facing Mecca, concentrating on his own heart while the master and two adepts direct their attention (tawajjuh) at him. Three nights nothing; on the fourth, towards dawn, 'some little light and clearness' appear in the heart without colour or form. The master then bandages his eyes, tells him to reproduce the master's image and concentrate on the heart; the heart 'opens', he sees a replica of the cell and the master with eyes bound, then a dazzling figure, then over three months processions of figures, and finally 'the sphere where all color is effaced'. Macdonald adds a paragraph on Sufi schemes of seven coloured lights and the teachers who warned that such lights belong to the body.",
+ "why_relevant": "Dated first-person report of what was done (recitation, night vigils, blindfold, heart concentration, the shaykh's attention) and what was seen, with a clear nothing-then-light onset; plus the tradition's dissent about coloured lights.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "devotion_or_transmission",
+  "concentration_nonvisual",
+  "visualization_crossing",
+  "sensory_restriction",
+  "sound_or_mantra",
+  "sleep_threshold"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1909",
+  "class": "published_record",
+  "basis": "archive.org metadata: date 1909, publisher University of Chicago Press"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "own lead (Macdonald 1909); archive.org search by title",
+ "notes": "Translation is at two removes (Persian > French > English). Same source file as suf-ghazali-ihya-dhikr-seclusion-method."
+}

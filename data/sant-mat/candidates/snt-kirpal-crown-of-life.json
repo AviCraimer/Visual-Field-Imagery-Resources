@@ -1,0 +1,48 @@
+{
+ "id": "snt-kirpal-crown-of-life",
+ "stream": "sant-mat",
+ "title": "The Crown of Life: A Study in Yoga",
+ "author": "Kirpal Singh (1894-1974)",
+ "translator": null,
+ "year": "1961; edition used 2012",
+ "edition_cited": "Ruhani Satsang, 2012 edition, uploaded to archive.org by the publisher (item crownoflifebykirpalsinghedition2012)",
+ "tradition": "Ruhani Satsang (Kirpal Singh line of Sant Mat / surat shabd yoga)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/crownoflifebykirpalsinghedition2012",
+ "alt_urls": [],
+ "source_files": [
+  "sources/snt-kirpal-crown-of-life.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Part One surveys ashtanga, hatha, laya etc.; file c. 3468-3475 and 5947-5950: tratak (yellow spot on a wall; gaze fixing) as described for hatha yoga",
+  "Part Two, chapter 'Surat Shabd Yoga' (file c. 9400-9800): the practice sequence; file c. 9518-9525: darkness 'gets gradually illuminated by shifting points of light' which 'cease flickering and develop into a single radiating point'",
+  "file c. 9785: stages of the inner journey",
+  "Index entry 'Veil of Inner Darkness, 350' (file c. 14820)"
+ ],
+ "summary": "Kirpal Singh's comparative study of the yogas, ending in an account of surat shabd yoga. The practical core for this catalogue is the chapter on the Sant Mat method: at initiation the teacher gives a first-hand experience and a charged five-word formula; repeating it mentally with the inward gaze brought to a steady focus, the disciple finds the darkness first confronted 'gradually illuminated by shifting points of light', which stop flickering as concentration grows and gather into a single radiating point; perception of the light speeds withdrawal of the sensory currents and leads on to the sound. Part One describes tratak and other gaze practices of hatha and laya yoga as preliminary or inferior methods, and argues that breath control is unnecessary. More expository than the letters, but it states the mechanism the lineage claims.",
+ "why_relevant": "States the lineage's claimed mechanism for first light (simran plus steady inward gaze in darkness) and contrasts it with tratak and pranayama routes.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "eye_position",
+  "sound_or_mantra",
+  "darkness_exposure",
+  "devotion_or_transmission",
+  "gazing_fixed_point"
+ ],
+ "priority": 2,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1961",
+  "class": "published_record",
+  "basis": "'First Edition 1961' printed in the front matter of the saved text; archive.org metadata date 1961; edition used is the publisher's 2012 reprint."
+ },
+ "author_identifiable": true,
+ "author_basis": "Kirpal Singh; published by Ruhani Satsang",
+ "found_via": "seed lead; archive.org title search 'crown of life kirpal'",
+ "notes": "Rights: front matter prints 'I have written books without any copyright—no rights reserved'; publisher upload under Public Domain Mark 1.0. Overlaps with the hindu-yoga-tantra stream only in Part One's survey of tratak; the reading agent should confine itself to the surat shabd yoga chapter and the tratak comparison."
+}

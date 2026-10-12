@@ -1,0 +1,34 @@
+{
+  "id": "hin-aurobindo-record-of-yoga", "stream": "hindu-yoga-tantra",
+  "verdict": "keep",
+  "drop_reason": null, "drop_note": "",
+  "relevance": 4, "practicality": 2,
+  "text_read": "digest only",
+  "mode": "perceptual",
+  "mode_evidence": "Diary distinguishes images seen with physical eye (sthuladrishti) from chittakash images with closed eyes, and notes the sun of the pranic world seen with the physical vision, warmth felt.",
+  "eyes": "both",
+  "onset_pathway": "development_only",
+  "onset_evidence": "A diary of an already-advanced practitioner; no instruction for someone who sees nothing. Shows tratak of the sun for about a minute followed by coloured subtle suns, and tratak on floating colours. Later records abandoning 'the pressure of the eye on the akasha' and that perfect images arise spontaneously, to the side or above the brows, without thought or tratak. No time scales for beginners.",
+  "stimulus_independence": "yes",
+  "techniques": ["light_source_gazing", "gazing_fixed_point", "afterimage_retention", "attention_to_spontaneous_phenomena", "visualization_crossing"],
+  "conditions": {"posture": "", "gaze_or_eye_position": "Tratak on the physical sun for about a minute, then closed eyes; eye pressure on the akasha used then abandoned.", "setting": "", "duration_and_schedule": "Tratak for a minute (June 1909).", "prerequisites": "Long daily yogic practice.", "other": ""},
+  "phenomena": ["sun_disc", "colour_fields", "green", "blue", "gold_yellow", "red", "sparks_or_points", "lightning_flashes", "fireflies", "stars", "figures_or_forms", "geometric_patterns"],
+  "stages": [
+    {"label": "crude to dense to developed forms (rupa)", "description": "Images on a background or in the akasha progress from crude, unstable forms to dense, developed, stable and finally perfect images placed full before the vision."},
+    {"label": "antardarshi / bahirdarshi", "description": "Waking vision with eyes closed versus eyes open."}
+  ],
+  "what_to_do_with_light": "Observe and record details; aim for stable, perfect images placed before the vision; interpret as symbols.",
+  "obstacles_and_fixes": ["Forms used to vanish under tratak; this habit was gradually eliminated.", "Pressure of the eye on the akasha abandoned as a method."],
+  "cautions": [],
+  "safety_flags": ["sun_gazing"],
+  "interpretation": "Images and lights are siddhi of rupadrishti, symbolic of forces and planes; the sun is the symbol of vijnana.",
+  "practice_summary": "The diary shows Aurobindo's own training rather than a method. In June 1909 he gazed (tratak) at the sun for about a minute and then saw, in the chittakash, deep green, a bluish-green or pale yellow sun with waves of subtle substance round it; with eyes closed a yellowish green with a blue patch; looking at the sky a large deep-yellow patch floated before the eyes. Next evening he practised tratak on floating colours. Later he records working with images on walls and window-frames, then in open space, with eyes closed or open. He drops pressing the eye on the akasha, notes that forms no longer vanish under tratak, and that perfect images come spontaneously at the side or above the brows.",
+  "key_passages": [
+    {"locator": "17-25 June 1909, source lines 1743-1805", "about": "testimony", "anchor": "After first gaze saw in chittakash most exquisite deep green colour", "paraphrase": "After a first gaze at the sun he saw deep green in the mental ether, with a zigzag coming out of the sun.", "quote": "", "source_file": "sources/hin-aurobindo-record-of-yoga.txt"},
+    {"locator": "17-25 June 1909, source lines 1743-1805", "about": "method", "anchor": "Gazing into physical sky large patch of deep yellow floated before the eyes.", "paraphrase": "After tratak and closed eyes, gazing at sky gave a floating yellow patch.", "quote": "", "source_file": "sources/hin-aurobindo-record-of-yoga.txt"},
+    {"locator": "26 Nov-31 Dec 1912, source lines 6258-6297", "about": "development", "anchor": "The pressure of the eye on the akasha for developing imperfect", "paraphrase": "Eye pressure on the akasha to develop imperfect forms is being abandoned.", "quote": "", "source_file": "sources/hin-aurobindo-record-of-yoga.txt"},
+    {"locator": "source lines 73620-73659", "about": "mode", "anchor": "When the eyes are closed, another ether", "paraphrase": "With eyes closed another ether, chittakasha, appears in which images are seen; jagrat samadhi images can also appear outside as if in the physical atmosphere.", "quote": "", "source_file": "sources/hin-aurobindo-record-of-yoga.txt"}
+  ],
+  "cross_refs": ["hin-aurobindo-letters-on-yoga-3"], "new_leads": [],
+  "reader_confidence": "medium", "confidence_note": "Digest only of a very long diary in idiosyncratic terminology; rupa content is mostly images and scenes, light content thinner."
+}

@@ -1,0 +1,52 @@
+{
+ "id": "suf-dara-shikoh-compass-of-truth",
+ "stream": "sufi",
+ "title": "The Compass of Truth, or Risala-i-Haq-Numa",
+ "author": "Muhammad Dara Shikoh (1615-1659)",
+ "translator": "Rai Bahadur Srisa Chandra Vasu",
+ "year": "1646 (1055-56 AH); English tr. 1912",
+ "edition_cited": "Panini Office, Allahabad, 1912; Digital Library of India scan, archive.org in.ernet.dli.2015.102305 (OCR text, some garbling)",
+ "tradition": "Qadiri (Mian Mir / Mulla Shah lineage), Mughal India",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/in.ernet.dli.2015.102305",
+ "alt_urls": [
+  "https://archive.org/details/RisalaYiHaqqNumaTheCompassOfTruthByDaraShikuh"
+ ],
+ "source_files": [
+  "sources/suf-dara-shikoh-compass-of-truth.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Ch. on the plane of Nasut / 'Method of meditation': close the eyes, fix attention on the heart, see the Master's picture (OCR line ~392-412)",
+  "Three centres of the heart, incl. the 'colourless' spherical heart (lines ~405-460, 927)",
+  "Alam-i-misal / Malakut: 'the picture of the form, which is seen after closing the eyes' (lines ~538-590)",
+  "Regulation of breath with the fingers closing ears, eyes, lips and nostrils; effects incl. 'subtle illumination' (lines ~800-950)",
+  "Sultan-ul-azkar, practised in a cave or at night; mainly inner sound (lines ~1035-1270)",
+  "Later chapter: both eyes closed, plane of no colour (lines ~1350-1370)"
+ ],
+ "summary": "A short practical manual in four 'planes' (Nasut, Malakut, Jabarut, Lahut) by the Mughal prince, written for seekers without a teacher. It tells the practitioner to sit alone, close the eyes, fix attention on the heart and see the form of the Master there; says the form seen after closing the eyes belongs to the 'alam-i mithal and that with practice the mirror of the heart brightens and forms of prophets and saints appear. It then gives a detailed breath-retention exercise with the fingers sealing ears, eyes, lips and nostrils (eyes shut by the index fingers 'but the fingers should not press the eye-balls'), and reports heat, buoyancy and 'a subtle illumination in thy heart, and in all thy body'. The Sultan-ul-azkar section concerns inner sound more than light. The translator's theosophical notes are interleaved.",
+ "why_relevant": "Explicit step-by-step sense-closure and breath-retention instruction with a claimed result of forms and illumination seen with closed eyes; seed lead confirmed. Whether 'illumination' is visual needs the reading agent's judgement.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "eye_pressure_or_sense_closure",
+  "breath_control",
+  "visualization_crossing",
+  "sound_or_mantra",
+  "concentration_nonvisual"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1912",
+  "class": "published_record",
+  "basis": "archive.org metadata date 1912 for the DLI scan; title page gives composition 1055-1056 AH"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; archive.org search title:(compass of truth)",
+ "notes": "OCR is rough in places; anchors should be taken from clean lines. Sound-centred Sultan-ul-azkar material overlaps the sant-mat stream's territory only thematically."
+}

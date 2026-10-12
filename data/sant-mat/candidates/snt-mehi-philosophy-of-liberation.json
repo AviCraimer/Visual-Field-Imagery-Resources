@@ -1,0 +1,50 @@
+{
+ "id": "snt-mehi-philosophy-of-liberation",
+ "stream": "sant-mat",
+ "title": "The Philosophy of Liberation (Moksha Darshan): A Manual of Sant Mat Mysticism",
+ "author": "Maharshi Mehi Paramhans (1885-1986)",
+ "translator": "Donald and Veena Howard",
+ "year": "Hindi original (as part four of Satsang-Yoga) 1940; English translation 1998",
+ "edition_cited": "Sant Mat Society of North America, first English edition (108 copies), August 1998; archive.org item PhilosophyOfLiberationAManualOfSantMatMysticism",
+ "tradition": "Santmat of Bihar (Maharshi Mehi lineage, from Tulsi Sahib via Baba Devi Sahab)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "in_copyright",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/PhilosophyOfLiberationAManualOfSantMatMysticism",
+ "alt_urls": [],
+ "source_files": [
+  "sources/snt-mehi-philosophy-of-liberation.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Numbered aphorisms. File lines 1130-1190 (printed pp. 25-26): manas japa and manas dhyan as preparation; bindu 'cannot be marked by the tip of a hair'; drishti yoga defined as 'uniting the rays of both eyes on the focus and gazing on it with a steady mind'; straining pupils or eyeballs 'brings pain and abnormality in the eyes'",
+  "File c. 1273-1310 (aphorism 68 and around): once one-pointedness is attained drop drishti yoga and take up sound; light is within the sound",
+  "Aphorisms 91-94 (file c. 1826-1845): eyes shut comfortably 'without turning the eyeballs or pressing them in any way'; times of day (3 a.m. etc.); eyes and mouth closed, ears closed only for sound practice",
+  "File c. 1870-1910: pratyahara, returning repeatedly to the focal point; 'the Divine vision dawns'",
+  "Translators' appendix (file c. 2300-2360): five-stage summary; 'One gazes into the middle of the darkness or the Light one sees'"
+ ],
+ "summary": "Mehi's compact manual of the four-stage Santmat sadhana: mental repetition (manas japa), visualising a holy form (manas dhyan), drishti yoga or bindu dhyana, then inner sound. The third stage is the light practice: with eyes comfortably shut, the two lines of sight are brought together on an infinitesimal point in the inner darkness and held there with a steady mind; the point cannot be imagined or marked, and is found only by this converging gaze. Mehi is unusually explicit on mechanics and prohibitions: no turning, straining or pressing of the eyeballs (which brings 'pain and abnormality'), no drowsiness, fixed daily hours. One-pointedness on the bindu opens 'subtle or divine sight' and lights appear; once established, the gaze practice should be dropped for sound, since staying with light costs time. The first two stages are presented as the preparation that makes the third possible.",
+ "why_relevant": "Explicit, mechanical instruction for producing first inner light by converging the gaze on a point in closed-eye darkness, with a stated preparatory sequence and warnings against eye pressure.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "eye_position",
+  "gazing_fixed_point",
+  "sound_or_mantra",
+  "visualization_crossing",
+  "darkness_exposure",
+  "devotion_or_transmission"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1998",
+  "class": "published_record",
+  "basis": "Title page in saved text: 'First Edition 108 Copies, August 1998, All Rights Reserved (c) 1998'; preface says the Hindi treatise was first published in 1940; archive.org metadata year 1998."
+ },
+ "author_identifiable": true,
+ "author_basis": "Maharshi Mehi; published by the Sant Mat Society of North America with Maharshi Mehi Ashram",
+ "found_via": "seed lead; archive.org search 'philosophy of liberation mehi'",
+ "notes": "In copyright; uploaded by the publisher's webmaster under CC BY-NC-ND 3.0, so the full text is saved, but passages should be paraphrased with anchors. The final pages are translators' and editors' notes (James Bean), not Mehi's text: keep them distinct. The tradition requires initiation for the exact technique; the book states this."
+}

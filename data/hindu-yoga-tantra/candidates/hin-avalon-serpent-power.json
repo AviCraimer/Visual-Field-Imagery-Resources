@@ -1,0 +1,51 @@
+{
+ "id": "hin-avalon-serpent-power",
+ "stream": "hindu-yoga-tantra",
+ "title": "The Serpent Power: being the Shat-chakra-nirupana and Paduka-panchaka",
+ "author": "Purnananda Svami (Shat-chakra-nirupana, 1577) with Kalicharana's commentary; introduction by Arthur Avalon (Sir John Woodroffe)",
+ "translator": "Arthur Avalon (Sir John Woodroffe)",
+ "year": "1577 text; translation 1919; 2nd revised ed. 1924",
+ "edition_cited": "Second revised edition, Madras: Ganesh & Co., 1924 (archive.org in.ernet.dli.2015.283748, Digital Library of India scan; OCR is noisy)",
+ "tradition": "Bengali Shakta tantra, laya / kundalini yoga",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/in.ernet.dli.2015.283748",
+ "alt_urls": [
+  "https://archive.org/details/dli.ministry.06283"
+ ],
+ "source_files": [
+  "sources/hin-avalon-serpent-power.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Shat-chakra-nirupana verse 36 with commentary (file lines c. 20105-20175): 'When the Yogi closes the house which hangs without support ... he then sees ... sparks of fire distinctly shining'; commentary identifies the closing as Yoni-mudra and quotes its definition (heels, crow-beak inhalation, thumbs on ears, index fingers on eyes, middle fingers on nostrils, breath restrained)",
+  "Verse 37 with commentary (file lines c. 20240-20300): 'After seeing the fiery sparks they see the light', a light like the morning sun glowing 'between the Sky and the Earth'",
+  "Verses 32-35: the Ajna lotus, the inner Atma 'lustrous like a flame', sparks surrounding (file lines c. 19800-20100, 20595)",
+  "Introduction, section on practice, printed pp. 223-224 (file lines c. 11040-11135): the Gheranda samadhi types; rasananda yoga by closing both ears with kumbhaka, 'the Anahata sound is heard, and the Light (Jyotih) ... is seen'; Shanmukhi mudra and stages of nada",
+  "Introduction: search 'Shambhavi', 'Trataka', 'Jyotirdhyana' for Woodroffe's summaries of the hatha practices"
+ ],
+ "summary": "Woodroffe's translation of Purnananda's sixteenth-century description of the chakras with Kalicharana's commentary. Verses 36-37 on the ajna centre describe a sequence: the yogi 'closes the house', which the commentator reads as Yoni-mudra and defines in detail (left heel at the anus, right heel on the left foot, air drawn in through crow-beak lips, ears closed by thumbs, eyes by index fingers, nostrils by middle fingers, mouth by the rest, breath held, attention on the pranava at the brow); when the mind dissolves there by repeated practice, sparks of fire are seen distinctly shining in the space above; after the sparks comes a steady light like the morning sun. The knowledge is said to be gained through service of the guru. Woodroffe's long introduction also summarises ear-closing with retention leading to inner sound and then seen light, and Shanmukhi mudra.",
+ "why_relevant": "A tantric text and commentary giving a two-stage sign sequence (sparks, then steady light) tied to an explicitly described sense-closure technique.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "eye_pressure_or_sense_closure",
+  "breath_control",
+  "posture_or_body_lock",
+  "sound_or_mantra",
+  "concentration_nonvisual"
+ ],
+ "priority": 2,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1924",
+  "class": "published_record",
+  "basis": "title page in the OCR prints 'Second Revised Edition ... Ganesh & Co., Madras 1924'; archive.org metadata year 1924"
+ },
+ "author_identifiable": true,
+ "author_basis": "Sir John Woodroffe (1865-1936)",
+ "found_via": "own lead (tantric sources on yoni mudra); archive.org title search",
+ "notes": "Commentary wording 'appear before his mental vision' is the translator-commentator's; the reading agent should weigh that against 'sees ... distinctly shining' when judging mode. OCR quality is poor (many broken diacritics): anchors must be picked from clean runs and tested. Verse numbers follow this edition."
+}

@@ -1,0 +1,49 @@
+{
+ "id": "hin-sivananda-mind-mysteries",
+ "stream": "hindu-yoga-tantra",
+ "title": "Mind: Its Mysteries and Control",
+ "author": "Swami Sivananda",
+ "translator": null,
+ "year": "1935-46 (first eds.); 12th ed. 1994; WWW edition 1998",
+ "edition_cited": "World Wide Web (WWW) Edition 1998 of the Twelfth Edition (1994), The Divine Life Society, 'This WWW reprint is for free distribution'; text from the copy mirrored at archive.org item mind-its-mysteries",
+ "tradition": "Divine Life Society (Rishikesh)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "in_copyright",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/mind-its-mysteries",
+ "alt_urls": [
+  "https://www.dlshq.org/download/"
+ ],
+ "source_files": [
+  "sources/hin-sivananda-mind-mysteries.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Chapter 'Experiences and Obstacles in Meditation', headings 'EXPERIENCES IN MEDITATION' and 'Lights' (WWW ed. pp. 161-163; file lines c. 10030-10070): the divine ray like a sunbeam through a slit; colour of the lights depends on which tattva flows in the nostrils (agni red, akasa blue, apas white, prithvi yellow, vayu black) and can be changed by thought",
+  "Same chapter (file lines c. 10115-10135): a 'dazzling light with abrupt motion'; 'if you see a blazing light during meditation ... do not fall back in terror'",
+  "Chapter on Nirguna meditation (file lines c. 9588-9612): open-eyed gazing 'on the formless air', on the expansive sky; imagined infinite jyotis; trataka on Om",
+  "File line c. 9207: 'You will witness the splendid Antarjyotis ... Unmani Avastha' when the sushumna opens"
+ ],
+ "summary": "A companion to the Kundalini Yoga record, useful for two points not made there. First, Sivananda ties the colour of lights seen in meditation to the tattva said to be flowing in the breath at that moment (fire red, ether blue, water white, earth yellow, air black) and says the tattva, and so the colour, can be changed by thinking intently of another element. Second, he reassures those frightened by a sudden blazing or abruptly moving light: do not mistake it for a phantom, do not give up, 'break veil after veil'. Elsewhere in the book he prescribes open-eyed gazing at formless air or the wide sky as a nirguna meditation and trataka on a drawn Om until tears flow. The treatment is brief and mixed with general exhortation; nothing is said to the person who sees no light.",
+ "why_relevant": "Supplementary teacher guidance on interpreting and responding to lights that arise, with a colour-to-breath claim and open-eyed sky gazing.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "attention_to_spontaneous_phenomena",
+  "sky_or_space_gazing",
+  "gazing_fixed_point",
+  "breath_control"
+ ],
+ "priority": 3,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1998",
+  "class": "published_record",
+  "basis": "edition statement printed in the file: 'Twelfth Edition: 1994 / World Wide Web (WWW) Edition : 1998 / This WWW reprint is for free distribution / (c) The Divine Life Trust Society'; author died 1963"
+ },
+ "author_identifiable": true,
+ "author_basis": "Swami Sivananda (1887-1963); issued by the Divine Life Society",
+ "found_via": "archive.org creator search 'sivananda'",
+ "notes": "In copyright, free-distribution edition: paraphrase + anchor only. Overlaps with the Kundalini Yoga record; read only if time."
+}

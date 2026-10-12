@@ -1,0 +1,32 @@
+{
+  "id": "snt-sawan-singh-spiritual-gems", "stream": "sant-mat",
+  "verdict": "keep",
+  "drop_reason": null, "drop_note": "",
+  "relevance": 5, "practicality": 5,
+  "text_read": "digest only (in-copyright excerpts)",
+  "mode": "perceptual",
+  "mode_evidence": "He contrasts light seen with the Master's form contemplated from a photograph, which he calls a reflection of one's own mind like a bulb seen after closing the eyes; real light and form appear inside after the attention is withdrawn. He says no attempt should be made to look for light.",
+  "eyes": "closed",
+  "onset_pathway": "both",
+  "onset_evidence": "For someone who sees nothing: fix the attention on the darkness in the eye focus and keep peeping into it; the darkness will change into light. Repeat the five names mentally with the attention at the eye centre, unconscious of the body; light is not to be looked for, because the faculty that sees is still outside. Numbness and pain of the limbs are signs of withdrawal. Light is already inside; as concentration nears completion, sparks and fleeting flashes replace darkness. Time scale: lengthen repetition to one and a half hours; some did it by Simran alone. Without having seen the Master, concentrate on candlelight or darkness at the eye focus. Not forced: no pressure on eyes, do not take the soul up by force.",
+  "stimulus_independence": "not_applicable",
+  "techniques": ["sound_or_mantra", "concentration_nonvisual", "gazing_fixed_point", "eye_position", "devotion_or_transmission", "posture_or_body_lock", "attention_to_spontaneous_phenomena"],
+  "conditions": {"posture": "Any posture in which one can remain long without frequent changes.", "gaze_or_eye_position": "Attention at the eye focus (Tisra Til); no strain or pressure on the eyes.", "setting": "Solitary room if possible; can meditate lying down when ill.", "duration_and_schedule": "One and a half hours repetition and half an hour sound daily; add an hour to the existing hour; three-fourths repetition, one-fourth sound.", "prerequisites": "Initiation, five holy names, pure conduct.", "other": "Breathing normal and unforced; ignore pain in heart or throat and numbness."},
+  "phenomena": ["sparks_or_points", "lightning_flashes", "stars", "sun_disc", "moon_disc", "white", "blue", "figures_or_forms", "all_pervading_light"],
+  "stages": [{"label": "darkness, sparks, stars, sun, moon, radiant form", "description": "Darkness in the eye centre gives way to sparks and flashes, then steady light, a starry sky, a large star that bursts, the sun and moon in turn, then the Master's radiant form."}],
+  "what_to_do_with_light": "Fix the attention on the big star until it bursts and pass through it; likewise the sun and moon; look at the light while continuing repetition; do not stop at the stars; absorb in the Master's form.",
+  "obstacles_and_fixes": ["Seeing nothing: peep into the darkness; add practice time.", "Intermittent stars or light: a shaky mind, not the light's fault; light does not disappear, the mind shakes.", "Pain, numbness: ignore, hold attention at eye focus.", "Attention drops to throat or heart: keep it at the eye centre."],
+  "cautions": ["Never accept anything offered by a spirit within; Satan may appear as the Master, test by repeating the names.", "Do not tell others of inner visions.", "Do not meditate on sun, moon and stars as such; they are material; do not stop at them.", "Photograph of the Master is only a reflection of one's own mind.", "No attempt to locate the pineal gland or take the soul up by force."],
+  "safety_flags": ["transmission_required_by_tradition"],
+  "interpretation": "The sky, stars, sun, moon and the Jyoti are regions of the subtle plane on the way to the Master's radiant form; Shabd, not light, lifts the soul higher.",
+  "practice_summary": "Sit in a posture you can hold for long. Close the eyes and repeat the five holy names mentally with the attention gathered at the eye centre between and behind the eyes, with no pressure on the eyes and breathing left alone. Do not try to look for light. Pain or numbness in the body below the eyes means the attention is withdrawing; ignore it. If you see only darkness, keep peeping into the darkness; it will change into light. Next you will see sparks and flashes, then a steady light, a starry sky and a big star. Fix on that star while repeating until it bursts and you pass through; do the same with the sun and moon. Lengthen sittings gradually, and tell no one what you see.",
+  "key_passages": [
+    {"locator": "Letter 118, printed p. 190, OCR lines 8310-8340", "about": "onset", "anchor": "If you cannot see light within, then you should fix", "paraphrase": "If no light is seen, fix attention on the darkness and keep peeping into it; the darkness changes into light.", "quote": "", "source_file": "sources/snt-sawan-singh-spiritual-gems.txt"},
+    {"locator": "Printed p. 336-337, source lines 2385-2423", "about": "stages", "anchor": "in place of darkness in the eye center, sparks and fleeting flashes of light will begin to appear", "paraphrase": "When concentration is nearly complete, sparks and fleeting flashes replace darkness, then the light steadies.", "quote": "", "source_file": "sources/snt-sawan-singh-spiritual-gems.txt"},
+    {"locator": "Source lines 1353-1389", "about": "caution", "anchor": "Names, there should be no attempt to look for light.", "paraphrase": "Do not try to look for light; the faculty that sees is still outside; light is already inside and appears when we go in.", "quote": "", "source_file": "sources/snt-sawan-singh-spiritual-gems.txt"},
+    {"locator": "Printed p. 72, source lines 556-617", "about": "method", "anchor": "Sound and the star. Then this star will burst and you", "paraphrase": "Fix attention in the biggest star until it bursts and shows what is within and beyond; then cross sun and moon to the Master's form.", "quote": "", "source_file": "sources/snt-sawan-singh-spiritual-gems.txt"},
+    {"locator": "Source lines 2073-2135", "about": "caution", "anchor": "the form of the Master and, in order to mislead the soul,", "paraphrase": "Satan can appear as the Master offering powers; repeat the names to test; never ask for anything but the eternal home.", "quote": "", "source_file": "sources/snt-sawan-singh-spiritual-gems.txt"}
+  ],
+  "cross_refs": ["snt-kirpal-spiritual-elixir"], "new_leads": [],
+  "reader_confidence": "high", "confidence_note": "Digest only (excerpts); letters are partial."
+}

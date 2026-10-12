@@ -1,0 +1,43 @@
+{
+  "id": "jew-zohar-flame-contemplation",
+  "stream": "jewish",
+  "title": "Zohar I:50b-51b: 'whoever wishes to know the wisdom of the holy unification should look at the flame'",
+  "author": "Zohar (Castile, late 13th century)",
+  "translator": "Harry Sperling and Maurice Simon (Soncino)",
+  "year": "c. 1280-1300; English 1931-34",
+  "edition_cited": "Sefaria 'Zohar, Bereshit 86': Aramaic 'Vocalized Zohar, Israel 2013'; English 'The Zohar; London, Soncino Press, 1933' (marked Public Domain by Sefaria)",
+  "tradition": "Castilian theosophical Kabbalah (Zohar)",
+  "language": "Aramaic with English",
+  "source_type": "classical_text",
+  "rights": "public_domain",
+  "access": "fulltext_saved",
+  "url": "https://www.sefaria.org/Zohar,_Bereshit.86",
+  "alt_urls": [],
+  "source_files": [
+    "sources/jew-zohar-flame-contemplation.txt"
+  ],
+  "seen_via": null,
+  "locator_hints": [
+    "Zohar, Bereshit 86, paragraphs 3-13 (= I:50b-51a): yistakkal be-shalhova de-salka mi-go gachalta o mi-go botzina de-dalik",
+    "paragraphs 14-21 (I:51a-b): the flame mapped on the letters of YHVH and on sacrifice",
+    "paragraph 22: colours seen in a dream; blue (tikhla) the exception"
+  ],
+  "summary": "R. Shimon tells the companions that one who wants to know the 'wisdom of the holy unification' should look (yistakkal) at a flame rising from a coal or a burning lamp. The text then directs what to discern in it: two lights, a white shining light (nehora chivra) above and a black or blue light (ukhma o tikhla) beneath that serves as its throne, sometimes turning red, attached to the wick and consuming what is under it; and above the white a further 'concealed light' (nehora setima) surrounding it that is barely perceptible. The structure is then read as the four letters of the Name and as the mechanics of sacrifice and cleaving (devekut). It is an object-gazing instruction with an analysed flame, not a report of after-effects.",
+  "why_relevant": "The standard classical Jewish warrant for flame gazing; later kabbalists and modern teachers (Kaplan and others) build candle meditations on it. It names a faint enveloping light above the visible flame. No claim in the passage itself of light persisting after the flame, so possibly marginal under the stimulus rule.",
+  "expected_mode": "perceptual",
+  "expected_onset_pathway": "unclear",
+  "expected_techniques": [
+    "light_source_gazing"
+  ],
+  "priority": 2,
+  "medium": "book_or_classical_text",
+  "date_evidence": {
+    "date": "1933",
+    "class": "published_record",
+    "basis": "Sefaria version record 'The Zohar; London, Soncino Press, 1933' for the English; Aramaic is the 13th-century text. Folio I:50b-51b is the traditional reference given in later works quoting the passage (e.g. Zera Kodesh, Agra de-Kala on Sefaria), not printed in the Sefaria chapter itself."
+  },
+  "author_identifiable": true,
+  "author_basis": "",
+  "found_via": "seed lead; Sefaria search 'יסתכל בשלהובא'",
+  "notes": "Seed lead confirmed. Quoted and developed in Reshit Chokhmah, Gate of Love 5:26 and Shenei Luchot ha-Berit (both on Sefaria), which the reading agent could fetch if practice elaborations are wanted. Parallel in Zohar III (Pekudei 227?) noted by Zera Kodesh as 'Pekudei daf 226/227', not checked."
+}

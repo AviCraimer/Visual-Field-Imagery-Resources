@@ -1,0 +1,51 @@
+{
+  "id": "jew-zohar-closed-eye-colours",
+  "stream": "jewish",
+  "title": "Zohar: the hidden shining colours seen by closing and rolling the eye (II:23a-b, I:97a-b Sitrei Torah, I:42a-43a Heikhalot, I:18b, II:69a)",
+  "author": "Zohar (traditionally R. Shimon bar Yochai; redacted in Castile, late 13th century, circle of Moses de Leon)",
+  "translator": "Harry Sperling, Maurice Simon and Paul Levertoff (Soncino, for the passages that have English)",
+  "year": "c. 1280-1300 (composition); English 1931-34",
+  "edition_cited": "Sefaria: Aramaic 'Vocalized Zohar, Israel 2013'; English 'The Zohar; London, Soncino Press, 1933' (Sefaria marks the English 'Public Domain')",
+  "tradition": "Castilian theosophical Kabbalah (Zohar)",
+  "language": "Aramaic with English (Soncino) for some sections",
+  "source_type": "classical_text",
+  "rights": "public_domain",
+  "access": "fulltext_saved",
+  "url": "https://www.sefaria.org/Zohar,_Vaera.2",
+  "alt_urls": [
+    "https://www.sefaria.org/Zohar,_Vayera.4",
+    "https://www.sefaria.org/Zohar,_Bereshit.66",
+    "https://www.sefaria.org/Zohar,_Bereshit.7",
+    "https://www.sefaria.org/Zohar,_Yitro.1"
+  ],
+  "source_files": [
+    "sources/jew-zohar-closed-eye-colours.txt"
+  ],
+  "seen_via": null,
+  "locator_hints": [
+    "Zohar, Vaera 2, paragraphs 2-9 (= II:23a-b): 'satim einakh ve-ascher galgalakh' (close your eye and turn your eyeball); Aramaic + Soncino English",
+    "Zohar, Vayera 4, paragraphs 1-4 (= I:97a-b, Sitrei Torah): three 'colours' of vision; the third seen only be-gilgula de-eina when the eye is shut. Aramaic only on Sefaria",
+    "Zohar, Bereshit 66, paragraphs 16-17 (= I:42a-43a, end of the first palaces section): the palaces compared to what appears 'bi-stimu kad mitgalgela eina', the sparkling radiance (zahara natzitz). Aramaic only",
+    "Zohar, Bereshit 7, paragraph 6 (= I:18b): 'nehiru de-itkasya be-gilgula de-cheizu de-eina'",
+    "Zohar, Yitro 1, paragraph 49 (= II:69a-b): Balaam looked at the light 'bi-stimu de-eina, ve-itgalgal eina' and saw a hidden light"
+  ],
+  "summary": "The Zohar's own instruction for making 'colours that shine' (gavnin de-naharin, de-mizdaharei) appear: 'close your eye and turn your eyeball' (satim einakh ve-ascher galgalakh; Soncino renders 'press thine eyeball'), with the statement that permission to see them is given only with closed eyes. The three colours visible in the open eye are 'non-luminous'; the closed, rolled eye shows the 'shining mirror' (aspaklarya de-nahara) that Moses saw. The parallel in Sitrei Torah (I:97a-b) grades three modes: sight at a distance with the eye narrowed; sight with the eye nearly shut then opened a little; and a radiance seen only in the rolling of the fully closed eye, which the seer 'cannot hold'. The palaces text (I:42a-43a) and I:18b reuse the same image; II:69a applies it to Balaam's 'closed eye'.",
+  "why_relevant": "A classical text that gives a physical act (closing and rolling or pressing the eye) and says luminous colours are then seen in the closed-eye field, used as a model for prophetic vision. Explicitly perceptual; whether it is stimulus-bound is for the reading agent.",
+  "expected_mode": "perceptual",
+  "expected_onset_pathway": "induction",
+  "expected_techniques": [
+    "eye_pressure_or_sense_closure",
+    "eye_position"
+  ],
+  "priority": 1,
+  "medium": "book_or_classical_text",
+  "date_evidence": {
+    "date": "1933",
+    "class": "published_record",
+    "basis": "Sefaria version record: 'The Zohar; London, Soncino Press, 1933' for the English; Aramaic text is the 13th-century Zohar in the 'Vocalized Zohar, Israel 2013' digital edition. Folio equivalents (II:23a-b etc.) are from cross-references printed in Sefaria's Yahel Ohr and Ohr HaChammah commentaries, not from the Sefaria chapter numbering."
+  },
+  "author_identifiable": true,
+  "author_basis": "",
+  "found_via": "seed lead; Sefaria search for 'גלגולא דעינא', 'גוונין דלא אתחזיין', 'בסתימו דעינא'",
+  "notes": "Seed lead folios confirmed: II:23a-b = Sefaria 'Zohar, Vaera 2'; I:97a-b = 'Zohar, Vayera 4'; I:42a-43a = 'Zohar, Bereshit 65-66'. Sefaria's chapter numbers are its own (Sulam-based) divisions, not folios. Aramaic 'ascher galgalakh' literally 'turn/roll your (eye)ball'; Soncino's 'press' is an interpretation, and its footnote reads the passage as analogy for abstraction from sense. Later commentaries on Sefaria (Yahel Ohr of the Vilna Gaon on I:42a-43b; Ohr HaChammah on II:23a) discuss which colours are seen with open and which with closed eyes: not saved, worth a look. The English for Vayera 4 and Bereshit 65-66 is absent on Sefaria; the reading agent must work from the Aramaic. Rights: English is 1931-34 Soncino, labelled Public Domain by Sefaria; treat verbatim English quotes on that basis, Aramaic is unquestionably public domain."
+}

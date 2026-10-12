@@ -1,0 +1,43 @@
+{
+ "id": "vaj-chakrasambhara-1919",
+ "stream": "vajrayana-bon",
+ "verdict": "drop",
+ "drop_reason": "imaginal_only",
+ "drop_note": "Generation-stage clarity is explicitly located in the mind: the mandala is to be concentrated on 'until it is vividly present to the mind's eye', meditated 'without any vagueness and dimness', and Avalon's introduction says the deities 'exist only in the mind'; useful as the converse case, not as a seen-light source.",
+ "relevance": 2,
+ "text_read": "Grep of full text for clear/vivid/imagine/mirror/rainbow; read Avalon intro pp. on Devatas and Bindu, translation sections around the mandala and armour and the four rites (OCR lines 245-265, 1640-1670, 2410-2420, 3190-3200, 3500-3515, 3690-3750, 3785-3800, 4015-4030).",
+ "key_passages": [
+  {
+   "locator": "Translation p. [42], OCR lines 2416-2417",
+   "about": "mode",
+   "anchor": "Concentrate on the above until it ® is vividly present to the mind's eye",
+   "paraphrase": "Explicit: concentrate until the mandala is vividly present to the mind's eye.",
+   "quote": "Concentrate on the above until it is vividly present to the mind's eye.",
+   "source_file": "sources/vaj-chakrasambhara-1919.txt"
+  },
+  {
+   "locator": "Translation, OCR lines 3196-3198",
+   "about": "method",
+   "anchor": "consisting of the dwellings and their inmates quite clearly and distinctly and without any vagueness and dimness",
+   "paraphrase": "Clarity criterion for the visualized mandala.",
+   "quote": "The worshipper should meditate upon all this Mandala consisting of the dwellings and their inmates quite clearly and distinctly and without any vagueness and dimness.",
+   "source_file": "sources/vaj-chakrasambhara-1919.txt"
+  },
+  {
+   "locator": "Avalon introduction, OCR lines 245-247 and 255-262",
+   "about": "interpretation",
+   "anchor": "After the Chela has gained a clear vision of the Devatas occupying the different parts of the Mandala of worship",
+   "paraphrase": "After clear vision of the deities, they melt into the central deity, which is absorbed into the Bindu between the eyebrows, the Point of Light that disappears into the Void; the initiate knows they exist only in the mind.",
+   "quote": "",
+   "source_file": "sources/vaj-chakrasambhara-1919.txt"
+  },
+  {
+   "locator": "Note on the four rites, OCR lines 4018-4020",
+   "about": "method",
+   "anchor": "Mantra vividly seen in the heart. This is not seen flat like a written letter but upright like a flame",
+   "paraphrase": "Seed syllable in the heart is 'vividly seen', upright like a flame, shining brighter and shooting rays; the seeing is internal.",
+   "quote": "",
+   "source_file": "sources/vaj-chakrasambhara-1919.txt"
+  }
+ ]
+}

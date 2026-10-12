@@ -1,0 +1,5 @@
+Verdicts: 8 keep, 0 keep_marginal, 0 drop (8 readings; 14 candidates in stream, 6 of lower priority not read).
+Best for induction: hin-sivananda-kundalini-yoga (graded trataka, 2-minute start, onset in days to 9 months), hin-thirty-minor-upanishads-aiyar (Mandalabrahmana lakshyas), hin-shiva-samhita-vasu (shadow-sky method, third-eye), hin-rama-prasad-natures-finer-forces (shadow, sense closure, sky gazing).
+Best for development: hin-aurobindo-letters-on-yoga-3 (colour/light meanings, descent of light), hin-sivananda (what to do with lights), hin-hatha-yoga-pradipika-sinh (colour waves to ocean of light).
+Disagreement: Aurobindo says no quiet mind is needed and warns off flame-gazing; Sivananda prescribes flame and star gazing and tells the student to ignore the lights; Aurobindo's lights are never imagination, Sivananda allows they may be.
+Thin: Gheranda and HYP verses name light only tersely; the Siva Samhita finger-closure verses and Record of Yoga's rupa passages were not seen in digest; Shiva Samhita/Gheranda share one digest file, so Gheranda has little of its own.

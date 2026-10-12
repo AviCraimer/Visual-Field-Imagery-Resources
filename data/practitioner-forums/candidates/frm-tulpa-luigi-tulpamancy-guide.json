@@ -1,0 +1,46 @@
+{
+ "id": "frm-tulpa-luigi-tulpamancy-guide",
+ "stream": "practitioner-forums",
+ "title": "Tulpamancy: Guide Into the Strange and Wonderful",
+ "author": "Luigi.exe (also u/Eeveecraft), with contributions credited to 'Darkflame'",
+ "translator": null,
+ "year": "c. 2019-2020 (undated in text; archived April 2020)",
+ "edition_cited": "Google Doc re-archived as PDF in archive.org item 'tulpamancy'; OCR text used",
+ "tradition": "Tulpa community (secular, internet-based)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "unknown",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/tulpamancy",
+ "alt_urls": [
+  "https://archive.org/download/tulpamancy/Tulpamancy_%20Guide%20Into%20the%20Strange%20and%20Wonderful_djvu.txt"
+ ],
+ "source_files": [
+  "sources/frm-tulpa-luigi-tulpamancy-guide.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Section Fourteen: Visualization (methods one to four)",
+  "Section Fifteen: Imposition: spatial awareness, then 'Method One: Wall Method', 'Method Two: Darkness Method', 'Method Three (EXPERIMENTAL): Sensory Control Method' (printed pages 23-25)"
+ ],
+ "summary": "A long community guide whose Section Fifteen treats visual imposition as a controlled, intentional hallucination seen in the physical world without using the mind's eye. It gives three methods. Wall method: sit upright before a plain white wall in dimmed light, impose the figure flat on the wall for at least a few minutes without looking away, over many sessions, until a faint outline, shadow or distortion is seen. Darkness method: in a fully blacked-out room with eyes wide open, impose the figure, or first a simple glowing sphere of light, blink sparingly and let it 'burn in' until it is seen even with closed eyes, then reintroduce room light gradually. A third, experimental method is flagged as untested. It warns that visual imposition is rare, tedious, and can become hard to switch off.",
+ "why_relevant": "Explicit step-by-step community instruction for making a deliberately imagined object (including a glowing sphere) become seen with open eyes, starting from someone who sees nothing; states expected first signs and failure modes.",
+ "expected_mode": "imaginal_crossing",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "visualization_crossing",
+  "darkness_exposure",
+  "gazing_fixed_point"
+ ],
+ "priority": 1,
+ "medium": "web_article",
+ "date_evidence": {
+  "date": "2020-04-14",
+  "class": "platform_timestamp",
+  "basis": "archive.org stamps the item 'tulpamancy' with addeddate/publicdate 2020-04-14; the uploader says the files were Google Docs downloaded and re-archived. The document prints no date of its own (searched for year strings and 'last edit'); it links a Reddit comment in r/Tulpas whose date I could not see. So the date is a latest-possible date, not a writing date."
+ },
+ "author_identifiable": false,
+ "author_basis": "Pseudonymous: signs as Luigi.exe on Discord, Eeveecraft on Steam, u/Eeveecraft on Reddit. No real name.",
+ "found_via": "archive.org advancedsearch 'tulpa guide' (mediatype texts)",
+ "notes": "OCR text of a PDF; page numbers appear as bare numerals between paragraphs. The guide carries a strong mental-health warning at the top. Other sections (vocality, possession, switching) are out of scope."
+}

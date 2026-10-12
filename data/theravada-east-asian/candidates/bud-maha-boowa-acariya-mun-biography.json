@@ -1,0 +1,44 @@
+{
+ "id": "bud-maha-boowa-acariya-mun-biography",
+ "stream": "theravada-east-asian",
+ "title": "Venerable Acariya Mun Bhuridatta Thera: A Spiritual Biography",
+ "author": "Acariya Maha Boowa Nanasampanno",
+ "translator": "Bhikkhu Dick Silaratano",
+ "year": "Thai original 1971; this translation 2003-2004",
+ "edition_cited": "Forest Dhamma of Wat Pa Baan Taad, copyright 2004, free distribution (archive.org OCR)",
+ "tradition": "Thai forest tradition (Kammatthana)",
+ "language": "English",
+ "source_type": "practitioner_testimony",
+ "rights": "in_copyright",
+ "access": "partial_saved",
+ "url": "https://archive.org/details/VenerableAcariyaMunASpiritualBiography",
+ "alt_urls": [],
+ "source_files": [
+  "sources/bud-maha-boowa-acariya-mun-biography.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Chapter 1, 'The Early Years', section 'The Sign': the corpse image that 'changed into a translucent disk that appeared suspended before him'; 'three whole months chasing the disk and its illusions'",
+  "Later in Chapter 1 (search 'translucent disc'): Maha Boowa's comment on Mun's outward-going citta",
+  "Notes 11-12 to Chapter 1 on 'converge' and 'mental image' are in the back matter, not in the saved excerpt"
+ ],
+ "summary": "A disciple's biography of the founder of the modern Thai forest tradition, reporting what Ajahn Mun told his students. In the section 'The Sign', Mun's mind 'converged' into calm while repeating 'buddho' and a vision of a decaying corpse arose; he kept the image as his object in every posture until it turned into a translucent disk suspended in front of him. The more he focused on the disk the more it changed, opening into an endless series of scenes (a mountain range, a monastery, a lantern casting a glow over a mountain). He followed it for three months, found himself more reactive and unsettled, concluded that sending attention outward was the wrong path, and turned to contemplation of his own body, after which samadhi stabilised. Maha Boowa draws the moral that without a teacher such signs waste time and can harm.",
+ "why_relevant": "A forest-tradition testimony of a seen disk arising from mantra-based concentration, given as a cautionary case: the tradition's advice is not to pursue it.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "sound_or_mantra",
+  "concentration_nonvisual",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 3,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "2004",
+  "class": "published_record",
+  "basis": "copyright page in the saved text: 'Copyright (c) 2004 by Venerable Acariya Maha Boowa Nanasampanno', with a U.S. Copyright Office registration number"
+ },
+ "author_basis": "",
+ "found_via": "seed lead (Thai forest accounts); archive.org search 'acariya mun'",
+ "notes": "Marginal for this catalogue: the disk is a vision-generating sign rather than plain light, and the account is second-hand (Maha Boowa relating Mun). Kept because it is the best-known forest-tradition warning. The book's licence allows free reproduction, but only chapter 1 was saved. The companion volume 'Patipada: Venerable Acariya Mun's Path of Practice' (archive.org AcariyaMunPatipadaPathOfPractice) has about 40 mentions of nimitta, mostly visions of figures; not catalogued."
+}

@@ -1,0 +1,45 @@
+{
+ "id": "mod-newton-letter-sun-phantasm",
+ "stream": "modern-nonlineage",
+ "title": "Letter to John Locke, 30 June 1691, on the 'phantasm' of the sun (in Lord King, The Life of John Locke)",
+ "author": "Isaac Newton",
+ "translator": null,
+ "year": "1691 (letter); printed 1830",
+ "edition_cited": "Lord King, The Life of John Locke, with Extracts from his Correspondence, Journals and Common-place Books, new ed., London: Colburn and Bentley, 1830, vol. 1, pp. 404-408; archive.org lifeofjohnlockew01king",
+ "tradition": "Early-modern natural-philosophical self-experiment (non-lineage)",
+ "language": "English",
+ "source_type": "practitioner_testimony",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/lifeofjohnlockew01king",
+ "alt_urls": [],
+ "source_files": [
+  "sources/mod-newton-letter-sun-phantasm.txt"
+ ],
+ "seen_via": "Printed in Lord King's Life of John Locke (1830), vol. 1; the saved file is that whole volume",
+ "locator_hints": [
+  "Vol. 1, printed pp. 404-408: letter headed 'Cambridge, June 30th, 1691'; the account begins 'The observation you mention in Mr. Boyle's book of Colours, I once made upon myself with the hazard of my eyes'",
+  "In the saved file at roughly lines 14095-14185"
+ ],
+ "summary": "Newton tells Locke what happened when he looked briefly at the sun in a mirror with one eye and then watched the after-image in a dark corner, three times. As the 'phantasm of light and colours' was almost gone he 'intended his fancy' on it and found it returning as vivid as at first; when he stopped, it vanished. Thereafter he could bring it back in the dark by attending 'as when a man looks earnestly to see any thing which is difficult to be seen', more easily each time, until a bright round spot appeared on any bright object, and in the unexposed eye too. He shut himself in a darkened room for three days to recover; for months the image returned whenever he thought of it, even in bed at midnight.",
+ "why_relevant": "A first-person report of a physically induced afterimage becoming light that is summoned by attention alone, transferring to the unexposed eye and persisting for months, with a plain account of the damage and of what reversed it. It bears on every afterimage-plus-attention method in this stream.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "afterimage_retention",
+  "light_source_gazing",
+  "visualization_crossing",
+  "darkness_exposure"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1830",
+  "class": "published_record",
+  "basis": "letter dated 'Cambridge, June 30th, 1691' in the text; volume dated 1830 in the saved scan and archive.org metadata"
+ },
+ "author_identifiable": true,
+ "author_basis": "Isaac Newton; letter printed from the Locke papers by Lord King",
+ "found_via": "own lead (not in seeds); archive.org title search for King's Life of Locke",
+ "notes": "Safety: sun_gazing; Newton says he did it 'with the hazard of my eyes' and could not read or write for days. It is a warning as much as a method. Outside the stream's nominal 20th-21st century range, but included as the classic non-lineage report on this mechanism."
+}

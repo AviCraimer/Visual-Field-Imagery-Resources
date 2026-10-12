@@ -1,0 +1,46 @@
+{
+ "id": "wes-goodrich-freer-essays",
+ "stream": "western-esoteric",
+ "title": "Essays in Psychical Research, by Miss X: 'On the Faculty of Crystal-Gazing' (with related essays)",
+ "author": "Ada Goodrich-Freer ('Miss X')",
+ "translator": null,
+ "year": "1899",
+ "edition_cited": "London: George Redway, 1899 (Google scan, New York Public Library copy)",
+ "tradition": "British psychical research; first-person scryer",
+ "language": "English",
+ "source_type": "practitioner_testimony",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/essaysinpsychic00goodgoog",
+ "alt_urls": [],
+ "source_files": [
+  "sources/wes-goodrich-freer-essays.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Essay 'On the Faculty of Crystal-Gazing', pp. 103-140 (file lines c. 5140-6700; c. 34-44% into file)",
+  "pp. 107-109: 'How can you begin?' and the visualiser test questions",
+  "pp. 110 ff.: her classification of what she sees (after-images and revived memories; fancy pictures; possibly telepathic or clairvoyant pictures)",
+  "Other essays ('Hypnotism', 'How it came into my head', 'Second Sight') for her general visionary habit"
+ ],
+ "summary": "A habitual scryer's own account, revised from her 1889 S.P.R. paper after 'some hundreds of experiments'. To begin: take any polished surface with apparent depth (back of a lacquer tray, glass ball, bottle of ink, tumbler of water), sit in a shady corner, guard against reflections with a dark silk handkerchief, and look into it quietly without staring or strain; company and talk do not matter. If nothing happens in a few minutes, put it away and try another time, varying the object, hour or room, and do not be discouraged by long failure. She says she loses the power for weeks at a time, sees pictures while wide awake and occupied, and has always seen visions without any crystal. Her test for likely success is whether one is a strong visualiser; for those who are not, she calls the attempt a waste of time. She accepts that a speck or reflection can seed the picture.",
+ "why_relevant": "First-person testimony plus beginner instruction from a named scryer, with an explicit claim about who can and cannot get onset and a denial that trance or strain is needed.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "scrying_surface",
+  "gazing_fixed_point",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1899",
+  "class": "published_record",
+  "basis": "archive.org metadata date 1899; publisher George Redway named in the scan"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; archive.org search",
+ "notes": "Her fuller experimental record is 'Recent Experiments in Crystal-Vision', Proceedings of the S.P.R. vol. V (part xiv, May 1889), not saved here. Her emphasis is on pictures, not on light as such: the reading agent should check how much concerns luminosity or clouding. Google-scan OCR with frequent misreadings."
+}

@@ -1,0 +1,48 @@
+{
+ "id": "bud-yogavacara-manual-of-a-mystic",
+ "stream": "theravada-east-asian",
+ "title": "Manual of a Mystic: being a translation from the Pali and Sinhalese work entitled The Yogavachara's Manual",
+ "author": "Anonymous (Sinhalese/Siamese-lineage yogavacara manual, probably 18th century)",
+ "translator": "F. L. Woodward; edited with introductory essay by Mrs. C. A. F. Rhys Davids",
+ "year": "1916",
+ "edition_cited": "London: Pali Text Society / H. Milford, 1916 (archive.org scan manualofmysticbe00wood)",
+ "tradition": "Sri Lankan Theravada, esoteric 'yogavacara' (boran kammatthana) meditation",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/manualofmysticbe00wood",
+ "alt_urls": [],
+ "source_files": [
+  "sources/bud-yogavacara-manual-of-a-mystic.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Editor's introduction: remarks on the 'colour-visions' and the 'wax-taper exercise' as elements not found in the Visuddhimagga (file lines c. 195-210, 545-566)",
+  "Opening section on mindfulness of breathing and the element of extension (file lines c. 855-910): gaze on the tip of the nose; the image of the mark arising 'like the moon as he slips from the clouds'; marks of ecstasy, preamble and access each with a named light or colour; placing them from nose-tip to heart to navel",
+  "Sections on the remaining elements and the fivefold zest (piti): morning star, full moon, midday sun (lines c. 1260-1340)",
+  "Jhana section: second jhana 'like the halo of the moon' (line c. 4706)",
+  "Section 10, 'The Light-Device' and colour devices (line c. 5198)",
+  "Search 'wax-taper' for the candle exercise"
+ ],
+ "summary": "A translated practice manual from the Sinhalese esoteric meditation line. For each meditation (breath, the elements, the five kinds of zest, jhanas, kasina 'devices' including a light-device made by a circle of light thrown on a wall) it tells the meditator, seated with sight fixed on the tip of the nose and reciting 'Arahan', what luminous 'thought-form' marks each stage: smoke or white cloud for flaws in the sign, then an image like a mirror drawn from its case or the moon slipping from clouds; a mark 'as the light of the firefly', 'the mild rays of the morning sun', the morning star, the full moon, the midday sun, coloured flowers. The meditator is told to move and fix each mark from the nose-tip to the heart and the navel, in forward and reverse order. A recurring 'wax-taper' exercise uses candles. Woodward's notes compare the scheme with yogic centres.",
+ "why_relevant": "A public-domain primary manual that specifies what light or colour should be seen at each stage and what to do with it (relocation within the body); bears on the mode question because the editor herself calls them 'colour-images of subjective origin'.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "concentration_nonvisual",
+  "eye_position",
+  "sound_or_mantra",
+  "concentration_visual_object"
+ ],
+ "priority": 2,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1916",
+  "class": "published_record",
+  "basis": "archive.org metadata for manualofmysticbe00wood: date 1916, London, Pali Text Society"
+ },
+ "author_basis": "",
+ "found_via": "own lead; archive.org title search 'manual of a mystic'",
+ "notes": "OCR has doubled spaces; anchors should be checked with the validator's normalisation. The manual is terse and formulaic: whether the marks are seen or imagined is not stated outright and needs a careful read. Wax-taper exercise details not yet read."
+}

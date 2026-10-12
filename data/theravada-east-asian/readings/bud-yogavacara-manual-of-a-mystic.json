@@ -1,0 +1,125 @@
+{
+ "id": "bud-yogavacara-manual-of-a-mystic",
+ "stream": "theravada-east-asian",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 4,
+ "practicality": 3,
+ "text_read": "Full text of: editor's preface on colour-visions and wax-taper (source lines 180-215, 530-575); Preamble on breathing with Woodward's notes on the three nimittas (lines 840-945); Meditation for Rapture, the five elements/raptures with their colours (lines 1195-1440); the wax-taper exercise opening (lines 2188-2250); breathing section with blemish and image tokens (lines 4580-4605); Earth-device and the ten devices including the light-device note (lines 4863-4925, 5150-5225); Ten Foul Things, distinction between the two images (lines 5500-5545). Grep for nimitta, mark, sight, eye, visuali, wax, taper. Not read: the long repetitive middle sections and Woodward's appended notes beyond the yogic-centres note (lines 1660-1690).",
+ "mode": "ambiguous",
+ "mode_evidence": "Terms: 'mark of upholding' (uggaha-nimitta) and 'image of the mark' (patibhaga-nimitta); the preamble/preparation is parikamma. The manual says only that the images 'appear' or 'arise in him' and enter 'the threshold of the mind' (manodvara), 'reflected as an image on the mind'. It never says 'as if seen with the eyes', 'in front' or 'in space'; the luminous thought-forms are located on the body (nose-tip, heart, navel), not in a visual field. The meditator's eyes are open and lowered ('With eye-consciousness I look down on the tip of my nose'), so whatever is seen sits against the nose-tip. Woodward glosses uggaha as 'visualized by constant practice as a vivid reality' and quotes Wijesinha (Childers) that uggaha is retained 'even when the eye is averted'; Mrs Rhys Davids calls the colours 'colour-images of subjective origin'. These are editors' framings, not the manual's.",
+ "eyes": "open",
+ "onset_pathway": "unclear",
+ "onset_evidence": "The method is fixed: sit cross-legged, mindfully breathe, eyes on the nose-tip, attention fixed in the heart, recite 'Arahan, Arahan' (or the device's name), after a formal aspiration asking for the marks. The images are said to appear 'to him thus meditating', i.e. as consequences of the procedure, not as things to be built; nothing is said to someone who sees nothing, no time scale, no statement that they cannot be forced. Prerequisites: the duties, offerings and formal requests to the teacher ('Give leave!').",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "concentration_nonvisual",
+  "eye_position",
+  "sound_or_mantra",
+  "breath_control",
+  "devotion_or_transmission",
+  "concentration_visual_object"
+ ],
+ "conditions": {
+  "posture": "Cross-legged, body straight; for some steps squatting on the hams (ukkutika).",
+  "gaze_or_eye_position": "Sight fixed on the tip of the nose ('with eye-consciousness I look down on the tip of my nose').",
+  "setting": "Solitary forest, foot of a tree or lonely place.",
+  "duration_and_schedule": "In the wax-taper exercise wooden 'candle-sticks' stuck into a burning taper fall at intervals of one or two inches of burn and mark when to move the thought-forms to the next spot; the taper is a timer and offering, not a gazing object.",
+  "prerequisites": "Preliminary duties, offerings, ritual confession and requests for leave; prior mastery of breathing before the devices.",
+  "other": "In the ten-device series the 'earth-device' is approached by contemplating the 32 bodily parts while reciting the device's name; a physical disc is not described. The light-device is glossed by the editor as 'a circle of light thrown upon a wall'."
+ },
+ "phenomena": [
+  "smoke_mist_cloud",
+  "white",
+  "moon_disc",
+  "fireflies",
+  "sun_disc",
+  "stars",
+  "gold_yellow",
+  "blue",
+  "red",
+  "colour_fields"
+ ],
+ "stages": [
+  {
+   "label": "preamble / preparation (parikamma)",
+   "description": "Eyes on the nose-tip seen 'with the sight-mind', attention fixed in the heart, reciting Arahan."
+  },
+  {
+   "label": "mark of upholding (uggaha-nimitta), dim image",
+   "description": "Blemishes of the 'induction-artifice' look like smoke, white clouds in the sky, froth, scratches, water with foam, steam passing through a tube; 'appears shaky' like hot milk-rice in a vessel in an oven."
+  },
+  {
+   "label": "image of the mark (patibhaga-nimitta), clear image",
+   "description": "Arises 'like a mirror drawn from its case, like a conch-shell scoured clean, like the moon as he slips from the clouds, or like a flock of cranes before dark clouds', or a jewelled fan or crystal mirror; 'calm and quiet' like cool rice-milk in a dish; cleansed of impurities, it 'enters his whole being'."
+  },
+  {
+   "label": "element and its three thought-forms (ecstasy/appana, preamble/parikamma, access/upacara)",
+   "description": "For each element a triad of lights or colours: extension, firefly light, mild morning sun, blue and yellow flowers; heat, morning star (white), golden, young rising sun; cohesion, full moon, lotus colour, yellow flower; mobility, midday sun, madder-red, rain-cloud indigo; space, jasmine and lotus white, peacock feathers, beetle black. Moved from the nose-tip to heart and navel, forward and in reverse order."
+  }
+ ],
+ "what_to_do_with_light": "Develop and observe the three thought-forms, withdraw them from the nose-tip and place them in the heart, then the navel (or set spots above the navel), forward and in reverse order; in the taper exercise move them at each falling candle-stick.",
+ "obstacles_and_fixes": [
+  "Smoke, cloud, froth or scratch-like appearances are 'blemishes' of the mark of upholding; continued practice yields the cleansed image 'a hundred, nay, a thousand times' better."
+ ],
+ "cautions": [
+  "Editor's note: the method does not arouse centres below the navel, 'a process attended with great danger' (Woodward, citing theosophical sources)."
+ ],
+ "safety_flags": [
+  "transmission_required_by_tradition"
+ ],
+ "interpretation": "The lights are the visible marks of each element and degree of rapture as they enter the mind-door; the manual treats them as real stages to be placed in bodily loci. The editors read them as subjective colour-images.",
+ "practice_summary": "After the preliminary duties and a formal request to the teacher for the marks, sit cross-legged in a solitary place, body straight. Breathe mindfully, knowing long and short breaths, with the breath imagined as running from nose-tip to navel and back. Look down at the tip of the nose with the eyes, fix attention in the heart, and recite 'Arahan, Arahan' (or the name of the object). First a dim, shaky image appears, like smoke or white cloud; then a clear, calm image like the moon slipping from clouds or a polished mirror. Then the element appears with three coloured thought-forms (for extension: firefly light, morning sun, blue and yellow flowers). Withdraw them from the nose-tip and set them in the heart and then the navel, later in reverse order. Optionally time the stages by a taper with wooden pegs that fall as it burns.",
+ "key_passages": [
+  {
+   "locator": "Preamble, printed p. 2, source lines 868-875",
+   "about": "method",
+   "anchor": "he fixes his sight on the tip of the nose and grasps the truth that he sees the tip of the nose with the sight-mind",
+   "paraphrase": "Preparation (parikamma): eyes on the nose-tip, which is seen 'with the sight-mind', while the attended thing is fixed in the heart.",
+   "quote": "he fixes his sight on the tip of the nose and grasps the truth that he sees the tip of the nose with the sight-mind, firmly fixing in the heart the thing he is attending to: such is the preparation or preamble.",
+   "source_file": "sources/bud-yogavacara-manual-of-a-mystic.txt"
+  },
+  {
+   "locator": "Preamble, printed pp. 2-3, source lines 896-909",
+   "about": "stages",
+   "anchor": "arises in him like a mirror drawn from its case, like a conch-shell scoured clean",
+   "paraphrase": "Blemishes of the mark of upholding look like smoke or white clouds; then the image of the mark arises like a mirror, a scoured conch, the moon from clouds; the element of extension appears 'reflected as an image on the mind' with firefly, morning-sun and flower colours, to be placed in heart and navel.",
+   "quote": "any blots or blemishes in the induction-artifice, such as marks of froth or scratches in the mark of upholding will look like smoke or like white clouds in the sky. Forthwith the image of the mark arises in him like a mirror drawn from its case, like a conch-shell scoured clean, like the moon as he slips from the clouds, or like a flock of cranes before dark clouds. The Element of Extension next appears, as if it had come forth piercing the stream of sub-conscious life, reflected as an image on the mind. The mark of its ecstasy is as the light of the firefly, self-lit by day and night.",
+   "source_file": "sources/bud-yogavacara-manual-of-a-mystic.txt"
+  },
+  {
+   "locator": "Woodward's footnotes 3, 4, 8 to the Preamble, source lines 921-943",
+   "about": "mode",
+   "anchor": "is the taking up of the image into the mind so that it is retained there",
+   "paraphrase": "Translator's glosses: uggaha-nimitta 'visualized by constant practice as a vivid reality'; patibhaga 'the after-image'; quoting Wijesinha, parikamma is perceiving the object while looking at it, uggaha is retaining it in the mind even with the eye averted, patibhaga a more refined reflection from deeper contemplation.",
+   "quote": "parikamma is merelv the perception of the object in the mind when looking at it. Uggaha is the taking up of the image into the mind so that it is retained there even when the eye is averted. Patibhaga is a more refined and polished reflection of the object produced in the mind by a deeper and longer contemplation.",
+   "source_file": "sources/bud-yogavacara-manual-of-a-mystic.txt"
+  },
+  {
+   "locator": "Meditation for Rapture, printed pp. 8-9, source lines 1257-1269",
+   "about": "testimony",
+   "anchor": "two images appear, first a dim, then a clear, one",
+   "paraphrase": "Eyes on the nose-tip with Arahan: a dim then a clear image appear; the clear one 'enters his whole being'; the element of heat appears with ecstasy the colour of the morning star, preamble golden, access like the rising sun.",
+   "quote": "When he has thus fixed his thought, alert, and keen-minded, two images appear, first a dim, then a clear, one. When the dim image has faded away, faded as if by the passing of the blemishes, and when the clear image, cleansed of all impurities, has entered his whole being, then, entering the threshold of the mind, the Element of Heat appears.",
+   "source_file": "sources/bud-yogavacara-manual-of-a-mystic.txt"
+  },
+  {
+   "locator": "Meditation on the Ten Foul Things, printed p. 85, source lines 5531-5535",
+   "about": "stages",
+   "anchor": "The one is like hot milk-rice in a vessel kept in an oven; it appears shaky",
+   "paraphrase": "The manual's own contrast between the two signs: the mark of upholding is shaky like hot milk-rice; the image of the mark is calm like cool rice-milk in a dish.",
+   "quote": "This is the difference between the mark of upholding and the image of the mark. The one is like hot milk-rice in a vessel kept in an oven; it appears shaky; whereas the other is like cool rice-milk placed in a dish; it appears calm and quiet.",
+   "source_file": "sources/bud-yogavacara-manual-of-a-mystic.txt"
+  }
+ ],
+ "cross_refs": [
+  "bud-visuddhimagga-nanamoli",
+  "bud-dhammakaya-luang-phor-sodh-manual"
+ ],
+ "new_leads": [
+  "Boran kammatthana / yogavacara studies (Kate Crosby) on the placement of nimittas at nose, heart and navel"
+ ],
+ "reader_confidence": "medium",
+ "confidence_note": "Relevant sections read in full; the manual is formulaic and never states whether the marks are seen in a visual field or mentally, so mode stays ambiguous. 'Mark of upholding' is Woodward's rendering of uggaha-nimitta; 'image of the mark' of patibhaga-nimitta (his footnotes 3 and 4)."
+}

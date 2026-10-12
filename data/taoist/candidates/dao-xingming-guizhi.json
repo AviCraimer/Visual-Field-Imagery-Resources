@@ -1,0 +1,45 @@
+{
+ "id": "dao-xingming-guizhi",
+ "stream": "taoist",
+ "title": "性命圭旨 (Xingming guizhi): lights listed among illusory scenes; 'heart-light' and the six penetrations",
+ "author": "Anonymous (attributed to a disciple of 'Yin Zhenren')",
+ "translator": null,
+ "year": "first printed 1615",
+ "edition_cited": "Punctuated transcription on zh.wikisource in four parts (元, 亨, 利, 貞); no print edition named",
+ "tradition": "Late-Ming neidan synthesis of the Three Teachings",
+ "language": "Chinese (classical)",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://zh.wikisource.org/wiki/性命圭旨",
+ "alt_urls": [],
+ "source_files": [
+  "sources/dao-xingming-guizhi.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "亨集, 第一節口訣 (涵養本原 / the Aperture): eyes always looking inward at the aperture, ears listening back to it; '神光一出便收來' (as soon as the spirit-light goes out, gather it back)",
+  "貞集 (seventh to ninth 口訣): the six penetrations after 玉陽大師: 'sitting until still, suddenly the heart-light appears; inwardly one sees the lungs and viscera, outwardly one's own beard and eyebrows'; seeing through walls",
+  "貞集: 'thunderclaps in the brain, golden stars glittering in the eyes, red haze under the crown, a round light welling out between the brows: these are all illusory scenes; do not accept them; just do the work and do not seek verification'; '項下有光猶是幻'",
+  "貞集: the 'emptiness contemplation' prescribed when palaces and music are seen; mind as a great moon-disc equal to space"
+ ],
+ "summary": "The best-known illustrated manual of late-Ming inner alchemy. Its basic method is continuous inward attention to 'the aperture': eyes turned to look within, hearing turned back, and the 'spirit-light' gathered in the moment it strays outward. In the final part it reports what appears in deep stillness and tells the practitioner how to treat it. On one side it describes 'heart-light' suddenly appearing, by which the viscera and one's own face are seen, as the first of six penetrations. On the other it lists golden stars in the eyes, red haze, thunder in the head and a round light surging from between the brows as illusory scenes that must not be accepted, quoting the line 'light beneath the neck is still illusion', and prescribes a contemplation of emptiness when visionary palaces appear.",
+ "why_relevant": "Gives a named inward-gaze method, specific seen phenomena (sparks, haze, round light at the brow), and an explicit instruction to refuse them and not to look for confirmatory signs; an important contrast with the Golden Flower's use of similar signs as confirmations.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "eye_position",
+  "concentration_nonvisual",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 2,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1615",
+  "class": "published_record",
+  "basis": "The Wikisource pages name no edition. 1615 is the date of the first printing as generally reported in the scholarly literature (from memory, not verified in this run). The work is a Ming text reprinted many times before 1929."
+ },
+ "author_basis": "",
+ "found_via": "own lead, zh.wikisource",
+ "notes": "The illustrations, which carry part of the instruction, are not in the saved text. A partial German translation (Darga) and English studies exist, all in copyright. Anchors: see ANCHOR RULE in the source file."
+}

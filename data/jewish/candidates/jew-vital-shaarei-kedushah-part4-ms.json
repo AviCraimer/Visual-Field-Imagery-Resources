@@ -1,0 +1,39 @@
+{
+ "id": "jew-vital-shaarei-kedushah-part4-ms",
+ "stream": "jewish",
+ "title": "Sha'arei Kedushah, Part 4, Gate 1: on the modes of practice (manuscript)",
+ "author": "Hayyim Vital",
+ "translator": null,
+ "year": "16th century; copy 19th-20th century",
+ "edition_cited": "Bar-Ilan University MS 1211 (formerly Moussaieff 53), fols. 302a-307a; first-pass diplomatic transcription supplied by the user",
+ "tradition": "Lurianic and prophetic Kabbalah",
+ "language": "Hebrew",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "",
+ "alt_urls": [],
+ "source_files": [
+  "sources/jew-vital-shaarei-kedushah-part4-ms.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "302a preface; 302b-303a conditions; 304a-305b recitation procedure; 305b warning against imagination"
+ ],
+ "summary": "The part of Sha'arei Kedushah omitted from the printed editions. Vital collects techniques for attaining holy spirit: Abulafia's recitation of the 72-letter Name with breath, vowels and head movement; a regime of purity, three days' fast, ritual immersion and a clean room; a full procedure of reciting each name as question and answer to an imagined figure standing before one, with raised hands in the priestly position. The promised result is that the Glory appears before the practitioner in a recognisable form, or as speech. Light is not mentioned.",
+ "why_relevant": "Completes the Vital record with the omitted practice gate; an induction procedure for visionary appearance, though not specifically for light.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1900",
+  "class": "published_record",
+  "basis": "Manuscript copy dated 19th-20th century by the transcriber; text by Vital (d. 1620)"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "user",
+ "notes": "User's first-pass transcription; astrological passages on 305a, 306a-b least secure."
+}

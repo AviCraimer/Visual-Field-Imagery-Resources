@@ -1,0 +1,44 @@
+{
+ "id": "snt-tagore-songs-of-kabir",
+ "stream": "sant-mat",
+ "title": "Songs of Kabir",
+ "author": "Kabir (c. 1440-1518)",
+ "translator": "Rabindranath Tagore, with Evelyn Underhill",
+ "year": "1915",
+ "edition_cited": "Macmillan 1915; Project Gutenberg eBook #6519",
+ "tradition": "Sant (nirgun bhakti)",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://www.gutenberg.org/ebooks/6519",
+ "alt_urls": [],
+ "source_files": [
+  "sources/snt-tagore-songs-of-kabir.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "I. 76 sahaj samadh (eyes not shut)",
+  "I. 93 gagan math (light of sun and moon in the sky-temple)",
+  "II. 33 ghar ghar dipak barai"
+ ],
+ "summary": "One hundred poems attributed to Kabir. Light is everywhere (moon within the body, millions of suns and moons, light raining in showers, the unstruck music), but almost entirely as ecstatic description with no method. Two practice-relevant points: 'look within, and behold how the moon-beams of that Hidden One shine in you', and the sahaj-samadhi song I. 76, which rejects shutting the eyes and ears ('I see with eyes open and smile').",
+ "why_relevant": "Classical Sant poetry behind the later surat-shabd light stations; includes an explicit dissent from sense-closure.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "devotion_or_transmission",
+  "sound_or_mantra"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1915",
+  "class": "published_record",
+  "basis": "Gutenberg eBook #6519 of the 1915 Macmillan edition"
+ },
+ "author_identifiable": true,
+ "author_basis": "Kabir; tr. Tagore",
+ "found_via": "gap pass 2",
+ "notes": ""
+}

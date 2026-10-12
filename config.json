@@ -1,0 +1,6 @@
+{
+  "page_fetch": "owner_webfetch",
+  "_note": "Each website outside the archives has exactly one owning search agent (web_sites in streams.json). That agent asks for permission in its first action, while the user is present. No other agent, and no later stage, uses WebFetch or WebSearch.",
+  "webfetch_cap_per_agent": 40,
+  "cutoff_year": 2022
+}

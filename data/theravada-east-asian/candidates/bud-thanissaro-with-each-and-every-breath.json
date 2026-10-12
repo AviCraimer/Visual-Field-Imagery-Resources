@@ -1,0 +1,43 @@
+{
+ "id": "bud-thanissaro-with-each-and-every-breath",
+ "stream": "theravada-east-asian",
+ "title": "With Each & Every Breath: A Guide to Meditation",
+ "author": "Thanissaro Bhikkhu (Geoffrey DeGraff)",
+ "translator": null,
+ "year": "2013",
+ "edition_cited": "Metta Forest Monastery, free distribution, copyright 2013 (archive.org OCR)",
+ "tradition": "Thai forest tradition (Ajaan Lee / Ajaan Fuang line), American",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "in_copyright",
+ "access": "partial_saved",
+ "url": "https://archive.org/details/with-each-and-every-breath-a-guide-to-meditation-thanissaro-bhikku",
+ "alt_urls": [
+  "https://www.dhammatalks.org/books/WithEachAndEveryBreath/Contents.html"
+ ],
+ "source_files": [
+  "sources/bud-thanissaro-with-each-and-every-breath.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Part Two, Common Problems, section 'Visions & Other Uncanny Phenomena': paragraph 'Signs' ('a light may appear to the mind ... don't leave the breath') and paragraph 'Visions' (breathe deeply into the heart three or four times)"
+ ],
+ "summary": "A contemporary breath-meditation manual in Ajaan Lee's line. Its short section on visions and uncanny phenomena gives the general rule 'leave them be' unless under the personal supervision of a teacher skilled in handling them, and says the most a book can offer is how to pull out of them. On signs: when the mind settles a light may appear, or a high-pitched sound, or another unusual sensation; the meditator is told not to leave the breath and to treat these as road signs showing that the mind is settling, not as the road. On visions of people or places: they come when the mind is quiet but not established in its object, and are dispelled by re-establishing mindfulness with three or four deep breaths into the heart. The saved excerpt is this section only.",
+ "why_relevant": "A clear modern statement of the 'do not follow the light' position from a lineage whose founder taught the opposite to adepts; useful dissent for the report.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "concentration_nonvisual",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 3,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "2013",
+  "class": "published_record",
+  "basis": "copyright page in the saved text: 'Copyright (c) 2013 Thanissaro Bhikkhu ... for free distribution'"
+ },
+ "author_basis": "",
+ "found_via": "own lead; archive.org title search",
+ "notes": "Short passage (about 300 words). Free-distribution book; only the relevant section was saved."
+}

@@ -1,0 +1,47 @@
+{
+ "id": "chr-ignatius-autobiography",
+ "stream": "christian",
+ "title": "The Autobiography of St. Ignatius",
+ "author": "Ignatius of Loyola (dictated to Luis Gonçalves da Câmara, 1553-1555)",
+ "translator": "Edited by J. F. X. O'Conor, S.J.",
+ "year": "dictated 1553-1555; this edition 1900",
+ "edition_cited": "New York: Benziger Brothers, 1900. archive.org scan stignatiusautobi00ignauoft",
+ "tradition": "Roman Catholic; founder of the Jesuits",
+ "language": "English",
+ "source_type": "practitioner_testimony",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/stignatiusautobi00ignauoft",
+ "alt_urls": [
+  "https://www.gutenberg.org/ebooks/24534"
+ ],
+ "source_files": [
+  "sources/chr-ignatius-autobiography.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Chapter 'Spiritual Trials' (printed pp. 40-41; about lines 975-1000): the recurring beautiful shape 'of the form of a serpent with glittering eyes' seen at the Manresa hospital",
+  "Chapter 'Heavenly Favors' (pp. 54-58; lines 1340-1440): white object with rays; white rays at the elevation; the humanity of Christ as a white body seen twenty to forty times; the illumination by the river; recognition of the serpent-thing as diabolical and driving it off with his staff",
+  "p. 72 area (line 1800): on the voyage the visions took 'the form of something large, round, and golden'"
+ ],
+ "summary": "Ignatius's dictated memoir. At Manresa (1522-23), during months of long daily prayer, severe fasting, vigils and penance, he repeatedly saw a beautiful indistinct shape 'of the form of a serpent with glittering eyes, and yet they were not eyes', which gave great consolation and left sadness when it went. He also reports a white object with rays, white rays descending at the elevation of the Host seen 'with the eyes of his soul', and the humanity of Christ as a white body without distinct members, seen 'perhaps twenty or even forty times'. After the illumination beside the river he saw the many-eyed thing again near a cross, noticed it had lost colour, judged it the devil's work, and thereafter drove it off with his staff. On the voyage to Jerusalem he saw something 'large, round, and golden'.",
+ "why_relevant": "First-person report of recurring seen luminous forms with the practice regime that surrounded them, a stated distinction between bodily seeing and 'eyes of the soul', and a discernment procedure that ends in rejecting one of the lights.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "fasting_or_austerity",
+  "devotion_or_transmission",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1900",
+  "class": "published_record",
+  "basis": "title page of the saved text: 'Benziger Brothers ... 1900'; copyright line 1900"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; archive.org title search",
+ "notes": "O'Conor's 1900 English is a free rendering. It says the serpent-like shape appeared 'on a clear moonlight night ... in the courtyard'; modern translations of the same passage (e.g. Tylenda, Young) read differently (I recall 'in full daylight' and 'in the air near him'), which matters for the eyes-open tag. The reading agent should flag this and not rest a claim on O'Conor's wording alone. The Spiritual Diary (1544-45: tears, warmth, visions of a luminous sphere) exists in English only in in-copyright translations: see excluded/unobtained list."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "snt-faqir-chand-unknowing-sage", "stream": "sant-mat",
+  "verdict": "keep",
+  "drop_reason": null, "drop_note": "",
+  "relevance": 4, "practicality": 2,
+  "text_read": "digest only (in-copyright excerpts)",
+  "mode": "perceptual",
+  "mode_evidence": "He reports seeing white light and coloured light 'within' after silent repetition and concentration on the guru's image; he also reports forms 'projected' onto it. Whether seen in the field or inwardly is not specified.",
+  "eyes": "closed",
+  "onset_pathway": "both",
+  "onset_evidence": "The 1978 letter gives a sequence: leave the senses by silent repetition of the name, meditate on the guru's image to stop mental vibration, 'then comes light and sound'. Prerequisites: dispassion for worldly life; sadhana beyond the mental region. No time scale. He says the light is 'revealed' in everyone, but offers nothing for someone who sees nothing beyond this sequence.",
+  "stimulus_independence": "not_applicable",
+  "techniques": ["sound_or_mantra", "visualization_crossing", "concentration_nonvisual", "devotion_or_transmission", "attention_to_spontaneous_phenomena"],
+  "conditions": {"posture": "", "gaze_or_eye_position": "", "setting": "", "duration_and_schedule": "Seventy years of practice; deep meditation sometimes only every two or three months reached separation of Self from Light and Sound.", "prerequisites": "Initiation, dispassion for the world, celibacy in his own early years.", "other": ""},
+  "phenomena": ["colour_fields", "white", "red", "green", "sun_disc", "moon_disc", "stars", "figures_or_forms", "all_pervading_light"],
+  "stages": [{"label": "Light, then Sound, then surat", "description": "Beyond mind and forms one sees Light; beyond that Sound; the seer of the light is something other than the light. He reports a fifth state of merging that he could not reach."}],
+  "what_to_do_with_light": "Do not take it as the goal or trust forms seen in it; ask who sees the light and who hears the sound.",
+  "obstacles_and_fixes": ["Attachment to the joy of a region (e.g. a devotee seeing the guru in red light): look instead for the seer.", "Falling asleep while attuned to light and sound."],
+  "cautions": ["Forms and colours seen within are projections of one's own impressions and faith, like a film magnified on a screen.", "Those who take light and sound as ultimate do not attain Nam.", "Lights can frighten and bewilder if not recognised as projections (quoting the Bardo Thodol)."],
+  "safety_flags": ["tradition_warns_against_seeking"],
+  "interpretation": "The light is the soul, white in itself, coloured according to the individual's nature and desires; the seer of the light is beyond it.",
+  "practice_summary": "From his 1978 letter: go within by leaving the physical senses. Repeat the holy name given by the guru silently, without moving the tongue. Meditate on the guru's image until mental vibrations cease. Then light and sound come. At that point do not settle in them. Ask who it is that sees the light and hears the sound, and keep pursuing the seer. He says the colours you see depend on your nature (red, green, sun, moon, stars), the white light is the soul, and any form of the guru or deity appearing in it is your own projection. Forms seen in meditation are not the goal; he himself, after seventy years, treats lights and sounds as phantasmagoria.",
+  "key_passages": [
+    {"locator": "Lane intro / 1978 letter, OCR lines 669-687", "about": "onset", "anchor": "Then comes light and sound. Try to know what is that who sees light", "paraphrase": "After silent repetition and concentration on the guru's image, light and sound arise; the task then is to find the seer.", "quote": "", "source_file": "sources/snt-faqir-chand-unknowing-sage.txt"},
+    {"locator": "Teachings, Three, OCR lines 2596-2626", "about": "stages", "anchor": "see red light within, others see green light and still others see sun, moon, stars according to their nature.", "paraphrase": "The colour of the light depends on the individual's nature.", "quote": "", "source_file": "sources/snt-faqir-chand-unknowing-sage.txt"},
+    {"locator": "Teachings, OCR lines 2891-2911", "about": "caution", "anchor": "The Holy Form that manifests within you is not that of", "paraphrase": "The holy form appearing within is one's own self, not the external guru; attachment to that centre is a trap.", "quote": "", "source_file": "sources/snt-faqir-chand-unknowing-sage.txt"}
+  ],
+  "cross_refs": [], "new_leads": [],
+  "reader_confidence": "medium", "confidence_note": "Read in digest only (excerpts); no onset detail beyond the letter."
+}

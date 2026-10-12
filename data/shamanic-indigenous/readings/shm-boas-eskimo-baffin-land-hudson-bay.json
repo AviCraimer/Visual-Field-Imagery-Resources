@@ -1,0 +1,32 @@
+{
+  "id": "shm-boas-eskimo-baffin-land-hudson-bay", "stream": "shamanic-indigenous",
+  "verdict": "keep",
+  "drop_reason": null, "drop_note": "",
+  "relevance": 3, "practicality": 1,
+  "text_read": "digest only; the printed pp. 153-154 passage on how the power is received was not shown in the digest and could not be confirmed",
+  "mode": "ambiguous",
+  "mode_evidence": "The angakok's light is said to cover the body and to make him see supernatural things, with a film removed from the eyes when its intensity rises; whether it is a visible light, a felt state or a metaphor for vision is not stated. Boas's informants say the light 'covers his body' and is 'always present', but do not describe what is seen.",
+  "eyes": "unspecified",
+  "onset_pathway": "unclear",
+  "onset_evidence": "The digest passage gives no way to acquire the light for a person who has none; it says only that a light covers the body when one becomes an angakok, and that at death it passes into another person. The search agent's summary mentions transmission by an old angakok's laying on of hands or an ordeal of worms, but that passage is not in the digest and is unverified here. The text implies a received power, not a technique.",
+  "stimulus_independence": "not_applicable",
+  "techniques": ["devotion_or_transmission"],
+  "conditions": {"posture": "", "gaze_or_eye_position": "", "setting": "seances held with lights out (per summary, not seen in digest)", "duration_and_schedule": "", "prerequisites": "being or becoming an angakok", "other": ""},
+  "phenomena": ["body_or_objects_luminous", "all_pervading_light"],
+  "stages": [
+    {"label": "light increases", "description": "The body feels well; at higher intensity he feels strong pressure and a film seems removed from his eyes, so that he sees clearly."},
+    {"label": "very great pressure of light", "description": "In this state he visits Sedna (the visit is called nikkatto)."}
+  ],
+  "what_to_do_with_light": "Nothing prescribed: the light is always present, guides him, and lets him see far, under the earth and inside people; the stronger it is, the deeper and farther he sees.",
+  "obstacles_and_fixes": ["Limit stated: he cannot see through drifting snow, fog or rain."],
+  "cautions": [],
+  "safety_flags": ["transmission_required_by_tradition"],
+  "interpretation": "The light is the source of the angakok's supernatural sight and power and passes to another person when he dies.",
+  "practice_summary": "This source gives testimony, not a method. In the Cumberland Sound account, on becoming an angakok a light covers his body, makes him feel well, and lets him see supernatural things; the stronger the light within, the deeper and farther he sees. When its intensity rises he feels strong pressure and it seems a film is lifted from his eyes. The light is always with him, guides him, shows past and future, and lets him see under the earth and into persons, though not through snow, fog or rain. Under very great pressure of light he visits Sedna. At death the light leaves him and enters someone else. How the light first arises is not described in the part read.",
+  "key_passages": [
+    {"locator": "Religion, the angakok, printed p. 133, source lines 5307-5346", "about": "testimony", "anchor": "When a person becomes an angakok, a light covers his body.", "paraphrase": "On becoming an angakok a light covers his body and he can see supernatural things.", "quote": "When a person becomes an angakok, a light covers his body. He can see supernatural things.", "source_file": "sources/shm-boas-eskimo-baffin-land-hudson-bay.txt"},
+    {"locator": "Religion, the angakok, printed p. 133, source lines 5307-5346", "about": "stages", "anchor": "He can see supernatural things. The stronger the light is", "paraphrase": "The stronger the light within him, the deeper and farther he sees; when intensity rises there is strong pressure and a film seems removed from his eyes.", "quote": "", "source_file": "sources/shm-boas-eskimo-baffin-land-hudson-bay.txt"}
+  ],
+  "cross_refs": ["shm-rasmussen-iglulik-intellectual-culture"], "new_leads": ["Boas printed pp. 153-154 on how the power is received"],
+  "reader_confidence": "medium", "confidence_note": "Read in digest; short testimony passage only, onset not confirmed."
+}

@@ -1,0 +1,90 @@
+{
+ "stream": "christian",
+ "drop_reason": null,
+ "drop_note": "",
+ "cross_refs": [
+  "chr-diadochos-hundred-chapters",
+  "chr-xanthopoulos-century"
+ ],
+ "new_leads": [],
+ "safety_flags": [
+  "tradition_warns_against_seeking"
+ ],
+ "stages": [],
+ "obstacles_and_fixes": [
+  "Demon alters the temperament of the body to produce fantasies when it cannot move memory: those used to dwelling on thoughts are easily bent."
+ ],
+ "cautions": [
+  "Do not long to see angels, powers or Christ sensibly, or you will go mad, taking a wolf for the shepherd.",
+  "The beginning of the mind's delusion is vainglory, moving it to circumscribe the divine in shapes and forms.",
+  "A demon touching 'that place' through the brain changes the light around the mind as it wishes."
+ ],
+ "phenomena": [
+  "blue",
+  "sapphire_or_sky_blue",
+  "figures_or_forms",
+  "smoke_mist_cloud"
+ ],
+ "conditions": {
+  "posture": "",
+  "gaze_or_eye_position": "",
+  "setting": "",
+  "duration_and_schedule": "",
+  "prerequisites": "",
+  "other": ""
+ },
+ "id": "chr-evagrius-on-prayer",
+ "verdict": "keep",
+ "relevance": 5,
+ "practicality": 3,
+ "text_read": "Greek 1893 text: On Prayer (source lines 1-1550) searched for φῶς, μορφ-, σχῆμα; chapters ~66-74 and ~114-120 read in full; appended chapter on sapphire read in full.",
+ "mode": "ambiguous",
+ "mode_evidence": "The mind 'will see its own state' sapphire- or sky-coloured during prayer; the demon is said to act 'through the brain' to alter the light around the mind, which treats the light as a quasi-sensory phenomenon; no eyes specified.",
+ "eyes": "unspecified",
+ "onset_pathway": "development_only",
+ "onset_evidence": "The sapphire light comes when the mind has stripped off the old man and put on that of grace, i.e. after apatheia; Evagrius forbids desiring to see angels, powers or Christ sensibly and blesses the mind that attains 'complete formlessness'. No induction method; the condition is imageless prayer and freedom from thoughts.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "concentration_nonvisual",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "what_to_do_with_light": "Accept only the formless, sky-coloured self-luminosity of the mind; refuse any sudden form; suspect light that flatters vainglory.",
+ "interpretation": "The mind's own light in pure prayer is the 'place of God'; formed or flattering lights are demonic manipulations, possibly via the brain.",
+ "practice_summary": "In prayer, do not picture God and do not let the mind take any shape; stand guard, keeping the mind free of thoughts. Do not seek forms or wish to see angels or Christ. If a strange form appears suddenly during pure prayer, treat it as a trap meant to make you think you have located God. Beware of a light that flatters you: Evagrius thinks a demon can alter the light around the mind through the brain. When the mind has put on grace, it sees its own state in prayer as sapphire or sky-coloured: this is the light that counts.",
+ "key_passages": [
+  {
+   "locator": "On Prayer, source lines ~1283-1287",
+   "about": "caution",
+   "anchor": "Μὴ πόθει ἀγγέλους ἰδεῖν ἢ δυνάμεις ἢ Χριστὸν αἰσθητῶς ἵνα μὴ τέλεον φρενήρης",
+   "paraphrase": "Do not long to see angels or powers or Christ sensibly, lest you go wholly mad, receiving a wolf instead of the shepherd and worshipping the enemy demons.",
+   "quote": "Μὴ πόθει ἀγγέλους ἰδεῖν, ἢ δυνάμεις, ἢ Χριστὸν αἰσθητῶς, ἵνα μὴ τέλεον φρενήρης γένῃ· λύκον ἀντὶ ποιμένος δεχόμενος, καὶ προσκυνῶν τοῖς ἐχθροῖς δαίμοσιν.",
+   "source_file": "sources/chr-evagrius-on-prayer.txt"
+  },
+  {
+   "locator": "On Prayer, source lines ~910-926",
+   "about": "mode",
+   "anchor": "τοῦ ἐγχεφάλου τὸ συνεζευγμένον φῶς",
+   "paraphrase": "I think the demon, touching that place, turns the light around the mind as he wishes ... acting cleverly through the brain, altering the light joined to it and giving it shape, so that the vainglorious suspect a divine manifestation.",
+   "quote": "",
+   "source_file": "sources/chr-evagrius-on-prayer.txt"
+  },
+  {
+   "locator": "On Prayer, source lines ~847-854",
+   "about": "caution",
+   "anchor": "ἀπατᾶτα! χαπνὸν ἀντὶ φωτὸς κατέχων",
+   "paraphrase": "When the envious demon cannot move memory in prayer, it acts on the body's temperament to make a strange fantasy and shape the mind; one hastening toward formless knowledge is deceived, holding smoke instead of light.",
+   "quote": "",
+   "source_file": "sources/chr-evagrius-on-prayer.txt"
+  },
+  {
+   "locator": "appended Evagrius chapter, vol. 1 OCR lines ~5667-5673",
+   "about": "development",
+   "anchor": "κατὰ τὸν καιρὸν τῆς προσευχῆς σαπφείρῳ",
+   "paraphrase": "When the mind has put off the old man and put on the one of grace, it will see its own state at the time of prayer like sapphire or sky colour, which Scripture calls the place of God seen by the elders on Sinai.",
+   "quote": "Ὅταν ὁ νοῦς τὸν παλαιὸν ἄνθρωπον ἀποδυσάμενος, τὸν ἐκ τῆς χάριτος ἐνδύσηται, τότε καὶ τὴν ἑαυτοῦ κατάστασιν ὄψεται κατὰ τὸν καιρὸν τῆς προσευχῆς, σαπφείρῳ ἢ οὐρανίῳ χρώματι παρεμφερῆ· ἥν τινα καὶ τόπον Θεοῦ ἡ Γραφὴ ὀνομάζει, ὑπὸ τῶν πρεσβυτέρων ὀφθέντα ἐπὶ τοῦ ὄρους Σινᾶ.",
+   "source_file": "sources/chr-evagrius-on-prayer.txt"
+  }
+ ],
+ "reader_confidence": "high",
+ "confidence_note": "Read in Greek; chapter numbers not reliably visible in OCR, so locators use source lines."
+}

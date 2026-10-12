@@ -1,0 +1,120 @@
+{
+ "id": "chr-teresa-interior-castle",
+ "stream": "christian",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 5,
+ "practicality": 3,
+ "text_read": "English (Stanbrook 1921) read in full: Sixth Mansions ch. VIII (source lines 8965-9290) and ch. IX (9292-9746). Read in part: Zimmerman's note on corporal/imaginary/intellectual vision (6596-6700); ch. III §§21-23 on telling locutions from imagination (7080-7100); ch. V §§8-10 (7860-7925). Spanish (Las Moradas, ed. Navarro Tomas, Madrid 1916, archive.org OCR) saved as sources/chr-teresa-interior-castle-es.txt; Moradas VI.5 §8-9, VI.8 §2 and VI.9 §§2-7 read in Spanish (OCR lines 7660-7690, 8776-8790, 9140-9330). Chs. III and V were not read in full in either language.",
+ "mode": "imaginal_crossing",
+ "mode_evidence": "The Spanish is exact. The image is seen by 'la vista interior, que es la que ve todo esto' (the interior sight, which is what sees all this). Of 'la vista esterior' (outer sight) she says she can say nothing because she never had it (VI.9.3). In VI.5.9 the imaginary vision 'se ve con los ojos del alma, muy mejor que aca vemos con los del cuerpo': seen with the eyes of the soul much better than we see here with the body's. The vision sits in the imagination, it is not taken in by the outer eyes, and yet it is clearer than outer seeing and autonomous. This is the same crossing as in the Life. She separates it sharply from self-made imagery: 'van ellas mesmas componiendo lo que ven con su imaginacion' (VI.9.6). Holding a long gaze is her mark of a self-made image: 'alguna vehemente consideracion, fabricada en la imaginacion' (VI.9.5). 'Perceptual' would overstate it, since she disclaims the outer field. 'Imaginal_only' would contradict her repeated point that the will can neither produce it nor hold it.",
+ "eyes": "unspecified",
+ "onset_pathway": "development_only",
+ "onset_evidence": "No induction. The vision comes when the soul is 'muy lejos de que ha de ver cosa', far from expecting to see anything, with no thought of it (VI.9.7). The jewel simile (VI.9.1-2) makes the point: the owner keeps the key to the locket and opens it when he chooses. Of the intellectual presence: when it is withdrawn, every effort to bring it back 'avails but little, for this grace comes at His will and not by our endeavours' (VI.8.7). She gives six reasons never to desire the way of visions (VI.9.13-18); the third is that strong desire itself makes the imagination fancy it sees (VI.9.15). For one who sees nothing: many saints never had such favours, and virtue gained by one's own toil is more meritorious (VI.9.19-20).",
+ "stimulus_independence": "yes",
+ "techniques": [
+  "devotion_or_transmission",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "conditions": {
+  "posture": "",
+  "gaze_or_eye_position": "Not addressed in these chapters (the Life says eyes open or closed make no difference).",
+  "setting": "Sixth Mansions: after the prayer of union, among raptures, flights of the spirit and intellectual visions.",
+  "duration_and_schedule": "The imaginary vision passes 'as quickly as a flash of lightning' ('presteza ... de un relampago'). It cannot be looked at longer than one can look at the sun, though it does not hurt the interior sight. The intellectual vision of presence, by contrast, lasts days and even more than a year (VI.8.3).",
+  "prerequisites": "Advanced prayer (Sixth Mansions); prior intellectual vision; humility; full candour with a learned and spiritual confessor.",
+  "other": "She advises refusing (with humble reasons) a confessor's order to make signs of scorn at a vision (VI.9.11)."
+ },
+ "phenomena": [
+  "white",
+  "figures_or_forms",
+  "all_pervading_light",
+  "body_or_objects_luminous"
+ ],
+ "stages": [
+  {
+   "label": "vision intelectual (VI.8)",
+   "description": "Christ felt at one's side, 'neither with the eyes of the body nor of the soul'. Nothing is seen. It is long-lasting and gives continual recollection."
+  },
+  {
+   "label": "vision imaginaria (VI.9)",
+   "description": "The Sacred Humanity shown suddenly and whole, living and not painted, in an infused light like the sun under a diamond-thin veil. It lasts a lightning instant, almost always leads into ecstasy, and leaves an image printed in the imagination for life."
+  },
+  {
+   "label": "flight of the spirit with imaginary vision (VI.5)",
+   "description": "In rapture the soul seems carried to another region where 'a light so unearthly is shown' that a lifetime of trying to picture it would fail; it is seen with the eyes of the soul more clearly than bodily sight."
+  }
+ ],
+ "what_to_do_with_light": "Do not seek or desire it; do not scorn it. Report it fully to a confessor, then be at peace. Judge it over time by its effects in humility and virtue. Use the lasting memory of Christ's face as support in meditation on the Passion (VI.9.12).",
+ "obstacles_and_fixes": [
+  "People of weak imagination ('flaca imaginacion') or very active minds become so absorbed that they think they see whatever they think of. Mark: they compose it piece by piece, it leaves no effect, they stay cold, and it is forgotten faster than a dream (VI.9.6). The 1921 English renders 'flaca' as 'vivid', reversing the sense.",
+  "A vision that can be gazed at for a long time is a vehement consideration fabricated in the imagination, a 'dead thing' compared with the true one (VI.9.5).",
+  "Doubts raised later by a confessor work like temptations against faith: they disturb but do not shake her (VI.9.8)."
+ ],
+ "cautions": [
+  "The devil is held to deceive more easily through imaginary than through intellectual visions (VI.9.1).",
+  "Six reasons not to desire visions: it shows lack of humility; it opens the door to the devil; desire makes the imagination fancy it sees or hears; it is presumptuous to choose one's own way; the trials that come with visions are severe; and the gain may prove a loss (VI.9.13-18).",
+  "Zimmerman's note: imaginary visions 'should not only never be sought for, but as much as possible shunned' because imagination is bound up with memory."
+ ],
+ "safety_flags": [
+  "tradition_warns_against_seeking"
+ ],
+ "interpretation": "God shows the Sacred Humanity to the interior sight. Its splendour is an infused light, like a veiled sun, beyond anything imagination could make, and it leaves a permanent image and lasting effects. The intellectual vision, in which nothing is seen, is a distinct and in some ways higher mode. Zimmerman (editor) glosses the imaginary vision in scholastic terms: no object is perceived by the senses, but the same impression is received in the imagination as if one were. He also cites 'lumen prophetiae' for the light of VI.5.",
+ "practice_summary": "This is a teaching text for nuns, not a method for producing light. Teresa sets out how a genuine imaginary vision presents itself. It comes suddenly, when one is not thinking of seeing anything. It is given whole, alive and not like a painting, in a splendour 'like an infused light, of a sun covered with something as thin as a diamond'. It lasts about as long as a flash of lightning, because one can no more keep looking at it than at the sun, though it does not hurt the interior sight. It usually brings on ecstasy and leaves a lifelong imprint. A self-made image is the opposite: built piece by piece, it can be looked at at leisure, leaves the soul cold, and is soon forgotten. Practical counsel: do not pray for visions, since desire itself breeds fancied ones. Do not scorn a vision of Christ. Tell your confessor everything, choosing a learned and if possible experienced one, then stop worrying, and judge by growth in humility and virtue.",
+ "key_passages": [
+  {
+   "locator": "Moradas VI.9 §2, Spanish OCR lines 9157-9170 (printed p. 240); English source lines 9348-9372",
+   "about": "testimony",
+   "anchor": "The  vision  passes  as  quickly  as  a  flash  of  lightning,",
+   "paraphrase": "Duration and quality. The Humanity is shown 'con tanta presteza, que lo podriamos comparar a la de un relampago', yet the image stays so carved in the imagination that it cannot be removed. It is 'not painted ... but truly alive'. It cannot be watched any longer than one can watch the sun, so it passes quickly, though its brightness does not pain the interior sight as the sun pains the bodily eyes.",
+   "quote": "The vision passes as quickly as a flash of lightning, yet this most glorious picture makes an impression on the imagination that I believe can never be effaced until the soul at last sees Christ to enjoy Him for ever. ... though the soul sees this for a certain space of time, it is no more possible to continue looking at it than to gaze for a very long time on the sun; therefore this vision passes very quickly, although its brightness does not pain the interior sight in the same way as the sun's glare injures our bodily eyes.",
+   "source_file": "sources/chr-teresa-interior-castle.txt"
+  },
+  {
+   "locator": "Moradas VI.9 §3, Spanish OCR lines 9175-9186 (printed p. 241); English source lines 9374-9382",
+   "about": "mode",
+   "anchor": "a  la  vista  interior,  que  es  la",
+   "paraphrase": "The channel and the light. The interior sight (vista interior) is 'what sees all this'. Of the outer sight (vista esterior) she can say nothing, since the person she speaks of (herself) never had it. The splendour is 'like an infused light (luz infusa), of a sun covered with something as fine as a diamond, if it could be worked'. The garment looks like fine holland linen.",
+   "quote": "The image is seen by the interior sight alone; but of bodily apparitions I can say nothing, for the person I know so intimately never having experienced anything of the kind herself could not speak about them with certainty. The splendour of Him Who is revealed in the vision resembles an infused light like that of the sun covered with a veil as transparent as a diamond, if such a texture could be woven, while His raiment looks like fine linen.",
+   "source_file": "sources/chr-teresa-interior-castle-es.txt"
+  },
+  {
+   "locator": "Moradas VI.9 §§5-6, Spanish OCR lines 9285-9310; English source lines 9450-9472",
+   "about": "caution",
+   "anchor": "can  contemplate  this  sight  of  our  Lord  for  a  long\ntime,  I  do  not  believe  it  is  a  vision",
+   "paraphrase": "Her test by duration and by authorship. If the soul can gaze at the Lord at length, it is not vision but 'some vehement consideration, a figure fabricated in the imagination', dead next to the living one. Some people of weak imagination ('flaca imaginacion'; the English says 'vivid') become so absorbed that whatever they think they seem clearly to see. They compose it themselves with their imagination, it has no effect, they are left cold, and they forget it sooner than a dream.",
+   "quote": "When any one can contemplate this sight of our Lord for a long time, I do not believe it is a vision but rather some overmastering idea which causes the imagination to fancy it sees something; but this illusion is only like a dead image in comparison with the living reality of the other case. ... They themselves fabricate, piece by piece, what they fancy they see: no after effects are produced on the mind, which is less moved to devotion than by the sight of a sacred picture.",
+   "source_file": "sources/chr-teresa-interior-castle.txt"
+  },
+  {
+   "locator": "Moradas VI.9 §7, Spanish OCR lines 9311-9321; English source lines 9474-9498",
+   "about": "onset",
+   "anchor": "no  idea  of  which  has  crossed  the  mind,",
+   "paraphrase": "Onset of the genuine vision. The soul is far from expecting to see anything and has not thought of it. Then suddenly ('de presto') the whole is presented at once ('muy por junto'). It throws all the powers and senses into fear and tumult, like Paul's fall, and then into a blissful peace. Truths are left impressed without effort.",
+   "quote": "A person is far from thinking of seeing anything, no idea of which has crossed the mind, when suddenly the vision is revealed in its entirety, causing within the powers and senses of the soul a fright and confusion soon changed into a blissful peace.",
+   "source_file": "sources/chr-teresa-interior-castle.txt"
+  },
+  {
+   "locator": "Moradas VI.5 §§8-9, Spanish OCR lines 7666-7684 (printed p. 202); English source lines 7862-7905",
+   "about": "mode",
+   "anchor": "ve  con  los  ojos  del  alma,  muy  mejor  que  acá",
+   "paraphrase": "In the flight of the spirit, a light so unearthly is shown that a lifetime of trying to picture it would fail. 'This is not an intellectual vision but an imaginary one, seen with the eyes of the soul much better than we see here with those of the body.' At other times things are shown to the soul 'without seeing anything with the eyes of the body or of the soul', through an admirable knowledge she cannot explain.",
+   "quote": "",
+   "source_file": "sources/chr-teresa-interior-castle-es.txt"
+  },
+  {
+   "locator": "Moradas VI.9 §15, English source lines 9658-9661",
+   "about": "caution",
+   "anchor": "people  strongly  desire  a  thing,\nthe  imagination  makes  them  fancy  they  see  or  hear",
+   "paraphrase": "Third of six reasons not to desire visions: strong desire itself makes the imagination fancy it sees or hears what is wanted, as a mind set on a subject all day dreams of it at night. Context for anyone trying to produce light by wanting it.",
+   "quote": "Thirdly: when people strongly desire a thing, the imagination makes them fancy they see or hear it, just as when a man's mind is set upon a subject all day he dreams of it at night.",
+   "source_file": "sources/chr-teresa-interior-castle.txt"
+  }
+ ],
+ "cross_refs": [
+  "chr-teresa-life"
+ ],
+ "new_leads": [],
+ "reader_confidence": "high",
+ "confidence_note": "VI.8 and VI.9 read in full in English and the key sections checked in Spanish; VI.3 and VI.5 read only in their relevant sections. The 1921 English has errors that matter here. In VI.9.6 'flaca imaginacion' (weak imagination) is rendered 'vivid imaginations'. 'vista interior / vista esterior' is flattened to 'interior sight / bodily apparitions'. The Spanish OCR has stray line numbers and broken hyphenation; anchors were taken from clean single lines."
+}

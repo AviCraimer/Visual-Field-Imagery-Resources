@@ -1,0 +1,92 @@
+{
+ "id": "jew-vital-shaarei-kedushah-part4-ms",
+ "stream": "jewish",
+ "verdict": "keep_marginal",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 2,
+ "practicality": 4,
+ "text_read": "Whole transcription read in Hebrew by the orchestrator.",
+ "mode": "ambiguous",
+ "mode_evidence": "The result is that the Glory 'is revealed to you and appears before you in a form' (ויתראה לפניך בצורה), or comes as speech; whether it is seen in the visual field is not said. The procedure itself begins by imagining a figure standing before one, and the text warns against the imagination (the 'open blood', ד״ם הפתוח) and tells the practitioner to cleave to the intellect. No light is mentioned anywhere.",
+ "eyes": "unspecified",
+ "onset_pathway": "induction",
+ "onset_evidence": "A full procedure for one who has not attained: begin with the first 24 names, add the next 24 and the last 24 if needed; if nothing is attained, stop and purify one's deeds further before trying again (302a). The promise is conditional: 'if you are pure and whole in all I taught you, I have no doubt the Glory will be revealed to you' (305a).",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "letter_or_symbol_contemplation",
+  "sound_or_mantra",
+  "breath_control",
+  "movement",
+  "posture_or_body_lock",
+  "fasting_or_austerity",
+  "sensory_restriction",
+  "visualization_crossing"
+ ],
+ "conditions": {
+  "posture": "facing the Name, eyes raised, both hands lifted with fingers parted as in the priestly blessing, tongue held between",
+  "gaze_or_eye_position": "eyes raised upward at the start",
+  "setting": "a set-apart clean room, away from all speaking beings",
+  "duration_and_schedule": "three days' continuous fast and daily immersion beforehand; recitation in long slow breaths",
+  "prerequisites": "purity, humility, white clean garments, no contact with the dead or with women",
+  "other": "each name recited as a question and answered in a changed voice as if by the figure before one; bow after each"
+ },
+ "phenomena": [
+  "figures_or_forms"
+ ],
+ "stages": [],
+ "what_to_do_with_light": "Not addressed; the appearance is to be received while keeping the intellect above the imagination.",
+ "obstacles_and_fixes": [
+  "If nothing is attained after all 72 names, stop and purify one's conduct further (302a)."
+ ],
+ "cautions": [
+  "Misuse of the Name brings punishment and death (302b).",
+  "Beware the imagination, which misleads; cleave to the intellect (305b)."
+ ],
+ "safety_flags": [
+  "fasting"
+ ],
+ "interpretation": "The appearance is the Glory (kavod), an angel mediating between the practitioner and God; the imagination is the source of error to be overcome by the intellect.",
+ "practice_summary": "After three days of fasting, daily immersion and strict purity, in a clean room set apart from all speaking beings, the practitioner faces the Name with eyes and hands raised in the priestly gesture. He pictures a figure standing before him ready to answer, recites the first triad of the 72-letter Name in long slow breaths as a question, and answers himself in a changed voice with each letter, then lowers his hands onto his heart and bows to the imagined figure. He continues through the names in the straight-reversed-straight order, 24 at a time as needed. If he is pure, the Glory appears before him in a recognisable form or as speech. Nothing here concerns light.",
+ "key_passages": [
+  {
+   "locator": "fol. 302a",
+   "about": "onset",
+   "anchor": "ובתחלה אינו מזכיר רק כ״ד שמות הראשונים, ואם יצטרך יזכיר כ״ד השניים",
+   "paraphrase": "Begin with only the first 24 names; if needed add the second 24 and the third; if nothing is attained, stop and purify further.",
+   "quote": "ובתחלה אינו מזכיר רק כ״ד שמות הראשונים, ואם יצטרך יזכיר כ״ד השניים, ואם יצטרך יזכיר גם כ״ד השלישים. ואם לא ישיג בכל זה יחדל עד ישוב לזכך מעשיו ביותר עד שישיג.",
+   "source_file": "sources/jew-vital-shaarei-kedushah-part4-ms.txt"
+  },
+  {
+   "locator": "fol. 304b",
+   "about": "method",
+   "anchor": "וחשוב כאלו איש א׳ עומד לפניך ומחכה",
+   "paraphrase": "Imagine a man standing before you, waiting to speak with you and ready to answer whatever you ask.",
+   "quote": "",
+   "source_file": "sources/jew-vital-shaarei-kedushah-part4-ms.txt"
+  },
+  {
+   "locator": "fol. 305a",
+   "about": "mode",
+   "anchor": "אין ספק אצלי שהכבוד יתגלה לך ויתראה לפניך בצורה שתוכל להכיר כחו",
+   "paraphrase": "If you are pure, the Glory will be revealed and appear before you in a form whose power you can recognise, or bring speech you know is from Him.",
+   "quote": "ואם אתה נקי ושלם בכל מה שהורתיך עליו, אין ספק אצלי שהכבוד יתגלה לך ויתראה לפניך בצורה שתוכל להכיר כחו, או יביא לך דבור שתבין כי היא מאתו יתברך ואינו ממך.",
+   "source_file": "sources/jew-vital-shaarei-kedushah-part4-ms.txt"
+  },
+  {
+   "locator": "fol. 305b",
+   "about": "caution",
+   "anchor": "מן הד״ם הפתוח שהוא המטעה, וממנו נביא",
+   "paraphrase": "Beware the 'open blood' (the imagination), which misleads; cleave to the intellect and it will cleave to you.",
+   "quote": "",
+   "source_file": "sources/jew-vital-shaarei-kedushah-part4-ms.txt"
+  }
+ ],
+ "cross_refs": [
+  "jew-vital-shaarei-kedushah",
+  "jew-abulafia-or-ha-sekhel"
+ ],
+ "new_leads": [],
+ "reader_confidence": "medium",
+ "confidence_note": "Read from the user's first-pass transcription; some passages marked uncertain by the transcriber."
+}

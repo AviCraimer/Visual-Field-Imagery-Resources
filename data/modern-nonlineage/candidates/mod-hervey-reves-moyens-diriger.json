@@ -1,0 +1,46 @@
+{
+ "id": "mod-hervey-reves-moyens-diriger",
+ "stream": "modern-nonlineage",
+ "title": "Les rêves et les moyens de les diriger: observations pratiques",
+ "author": "Léon d'Hervey de Saint-Denys (published anonymously)",
+ "translator": null,
+ "year": "1867",
+ "edition_cited": "Paris: Amyot, 1867; archive.org lesrvesetlesmoye00herv",
+ "tradition": "19th-century French dream self-observation (non-lineage)",
+ "language": "French",
+ "source_type": "practitioner_testimony",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/lesrvesetlesmoye00herv",
+ "alt_urls": [
+  "https://archive.org/details/BIUSante_54424"
+ ],
+ "source_files": [
+  "sources/mod-hervey-reves-moyens-diriger.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Troisième partie, section 'Sur les visions du premier sommeil, que l'on a nommées hallucinations hypnagogiques' (printed p. 421 ff.)",
+  "Deuxième partie, c. printed pp. 99-100: the one kind of attention compatible with falling asleep, attending to 'visions naissantes'",
+  "Passages quoting Maury and Macario on hypnagogic images"
+ ],
+ "summary": "A lifelong dream diarist's practical book on observing and directing dreams. In the section on the visions of first sleep he describes what some people see as soon as the eyes close: a swarm of capricious images, or only small luminous wheels, little suns spinning rapidly, bubbles of varied colours rising and falling, and fine threads of gold, silver, purple and emerald crossing and coiling into small circles and lozenges like Byzantine arabesques. He distinguishes these from visions of definite objects, discusses how the forms turn into the dream proper, and says that the only attention compatible with falling asleep is attention carried over to these nascent visions, whose persistence or transmutation becomes the starting point of the dream.",
+ "why_relevant": "Early first-person description of sleep-threshold lights with a stated way of attending to them so that they develop into full dream scenes. Marginal for induction: he treats the lights as arising on their own.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "sleep_threshold",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 3,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1867",
+  "class": "published_record",
+  "basis": "Paris, Amyot, 1867 per archive.org metadata and the bibliographic note in the scan"
+ },
+ "author_identifiable": true,
+ "author_basis": "Marie-Jean-Léon Lecoq, marquis d'Hervey de Saint-Denys (1822-1892)",
+ "found_via": "own lead; archive.org title search",
+ "notes": "French OCR text; no English translation saved. An abridged English translation (Dreams and How to Guide Them, 1982) exists and is in copyright."
+}

@@ -1,0 +1,47 @@
+{
+ "id": "dao-taiping-shengjun-mizhi",
+ "stream": "taoist",
+ "title": "太平經聖君祕旨 (Taiping jing shengjun mizhi): the 'method of guarding the light of the One' (守一明法)",
+ "author": "Anonymous; transmitted to Shangxiang Qingtong jun (digest of Taiping jing material)",
+ "translator": null,
+ "year": "Tang-period compilation of Han-to-Six-Dynasties material (Kanripo catalogue: 唐)",
+ "edition_cited": "Zhengtong Daozang, DZ 1102 (Kanripo KR5e0004; base edition HFL, source noted as 三家本 1988)",
+ "tradition": "Early Daoism, Taiping (Great Peace) tradition; 'guarding the One' meditation",
+ "language": "Chinese (classical)",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://github.com/kanripo/KR5e0004",
+ "alt_urls": [],
+ "source_files": [
+  "sources/dao-taiping-shengjun-mizhi.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Near the start: '守一明之法未精之時暝目㝠㝠目中無有光守一復久自生光明昭然見四方' (before the practice is refined, with eyes shut there is no light in the eyes; with long practice light arises of itself)",
+  "'守一精明之時若火始生時謹守勿失始赤久久正白久久復表洞明絶遠': first red, with long practice pure white, then (this edition reads 表, not a colour word) 'penetratingly bright to the far distance'",
+  "Series of '守一明法' sentences grading the light by colour (青, 赤, 黄, 白, 黑) and the case where all is dark outside but the belly is lit within; the case of 'dark outside and inside, nothing seen' is called a disorder to be treated with medicines",
+  "Later: seclusion in a quiet room with thick walls; 100/200/300 days as small, middle and great stillness; '漸光始如螢火久似電光' (the light at first like a firefly, later like lightning)"
+ ],
+ "summary": "A short early manual wholly about a light that appears to the meditator who 'guards the One'. It says outright that before the practice matures the closed eyes are dark and hold no light, and that with continued guarding 'light arises of itself' and one sees clearly in the four directions. It gives a colour sequence for the developing light (it begins red like a newly lit fire, with long practice turns pure white, then penetratingly bright), grades of light by colour with what each indicates, the sign 'dark all around but the belly lit within', and a warning case where nothing at all is seen. Conditions: a quiet room with heavy walls, little food, no joy or anger, no clever effort; periods of 100, 200 and 300 days. The light is said to start like a firefly and become like lightning.",
+ "why_relevant": "Direct, early statement of the onset problem: what the practitioner who sees no light does, what first light looks like, how it changes with time, and what the absence of light means. Describes light with the eyes closed in a darkened, secluded room.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "concentration_nonvisual",
+  "sensory_restriction",
+  "darkness_exposure",
+  "fasting_or_austerity",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1445",
+  "class": "published_record",
+  "basis": "Kanripo file header gives DZID DZ1102 and SOURCE 正統道藏 (Zhengtong Daozang), 三家本 1988 reprint; the canon was printed in 1445 (year from general knowledge, not printed in the file). Kanripo catalogue dates the text to the Tang."
+ },
+ "author_basis": "",
+ "found_via": "own lead (Taiping jing 'shouyi ming fa'), located through the Kanripo catalogue on GitHub",
+ "notes": "Whole text is about 2,000 characters; unpunctuated. No public-domain English translation found; partial English renderings exist in in-copyright scholarship (e.g. Kohn, 'Guarding the One', in Taoist Meditation and Longevity Techniques, 1989; not opened in this run). The object the practitioner concentrates on is stated only as 'the One' and the union of essence, breath and spirit; the reading agent should say so rather than supply a technique. Anchors: see ANCHOR RULE in the source file. The parallel passage in the Taiping jing proper is, from my memory, usually quoted with a third colour (青, blue-green) where this edition has 表; not verified here."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "snt-kirpal-spiritual-elixir", "stream": "sant-mat",
+  "verdict": "keep",
+  "drop_reason": null, "drop_note": "",
+  "relevance": 5, "practicality": 5,
+  "text_read": "digest only",
+  "mode": "perceptual",
+  "mode_evidence": "Letters answer disciples' reports of seen darkness, blue patches, stars, sun, moon and golden light 'in your visual practice'; one writer reports 'varying experiences with your eyes open'. He says gaze 'penetratingly' and look into the middle of what you see; he forbids following sound but not seeing, and elsewhere forbids visualising.",
+  "eyes": "closed",
+  "onset_pathway": "both",
+  "onset_evidence": "To someone seeing darkness only: fix the inner gaze penetratingly into the darkness between and behind the eyebrows, with no awareness of the body or breath; you will see the Light of heaven within. Simran repeated mentally, slowly, at intervals, withdraws sensory currents to the eye focus. Light is 'always there'; it appears when attuned and goes at the slightest dispersion. Dry spells are 'a blessing in disguise'; he says to sit at the door and wait without clutching, and the light comes at the opportune moment by the Master's grace. Initiation gives the first sight for many. No time scale beyond 'practice, more practice'; early morning, up to two hours.",
+  "stimulus_independence": "not_applicable",
+  "techniques": ["gazing_fixed_point", "eye_position", "sound_or_mantra", "concentration_nonvisual", "devotion_or_transmission", "attention_to_spontaneous_phenomena", "posture_or_body_lock"],
+  "conditions": {"posture": "Unflinching, easy pose, relaxed, no tension in the body.", "gaze_or_eye_position": "Eyes closed; inner gaze into the middle of what is seen in the space between and behind the eyebrows; no strain on eyes or forehead.", "setting": "Early morning is best; avoid sleep.", "duration_and_schedule": "Regular daily; some sit about two hours; keep a diary.", "prerequisites": "Initiation and the five charged names; pure conduct.", "other": "No awareness of the breathing; repeat names mentally at intervals so the gaze is not disturbed."},
+  "phenomena": ["colour_fields", "blue", "gold_yellow", "white", "stars", "sun_disc", "moon_disc", "figures_or_forms", "sphere_pearl_bindu"],
+  "stages": [{"label": "stationary light, brighter, bursts", "description": "Light first appears stationary, then brighter, then bursts to give a way up. Stars, sun, moon are crossed the same way; then the radiant form of the Master."}],
+  "what_to_do_with_light": "Look intently into its middle (a big star, the sun, the moon) so it brightens and bursts; do not stay with scenes and figures; absorb in the Master's radiant form.",
+  "obstacles_and_fixes": ["Darkness only: keep the inner gaze into the darkness; do not strain.", "Light fading: attention slackened or mind drops to the body; hold the gaze constantly.", "Clutching: sit at the door and wait.", "Dry spells: renewed zeal and regular time.", "Sleep: avoid it during meditation."],
+  "cautions": ["Staying long with scenes, figures or colours delays progress.", "Colour does not indicate a plane; it reflects the aspirant's background.", "Do not follow the sound to find its source (for the sound practice).", "Do not rely on one's own effort to pierce the light."],
+  "safety_flags": ["transmission_required_by_tradition"],
+  "interpretation": "Light and Sound are the first manifestations of God as the Word; the lights are the Master's astral forms.",
+  "practice_summary": "Sit relaxed with the body still. Close the eyes and leave all thought of the body and the breath. Fix the inner gaze into the middle of what you see in the space between and behind the eyebrows, with no strain on the eyes or forehead. If you see only darkness, gaze penetratingly into that darkness. Repeat the charged names mentally, very slowly and at intervals, so the gaze is not disturbed. When light appears, look into its middle and it will grow brighter and burst, opening a way up. Do the same with stars (pick a big one), sun and moon. If the radiant form of the Master appears, absorb yourself in his face. Do not stay with scenes. Practise daily, early morning if possible, keep a diary.",
+  "key_passages": [
+    {"locator": "Meditation letters, source lines 5434-5472", "about": "onset", "anchor": "gaze penetratingly into the middle of the Light or whatever you see.", "paraphrase": "The way to break through the light is to gaze penetratingly into the middle of the light or whatever is seen, without relying on one's own effort.", "quote": "", "source_file": "sources/snt-kirpal-spiritual-elixir.txt"},
+    {"locator": "Meditation letters, source lines 6194-6255", "about": "onset", "anchor": "fix your inner gaze penetratingly into the darkness between and behind", "paraphrase": "To open inner vision, fix the inner gaze into the darkness between and behind the eyes with no awareness of the body; you will then see the Light of heaven.", "quote": "", "source_file": "sources/snt-kirpal-spiritual-elixir.txt"},
+    {"locator": "Meditation letters, source lines 6305-6379", "about": "stages", "anchor": "On the natural way everyone will first see Light. This will first", "paraphrase": "Light is first stationary, then brighter, then bursts; scenes and figures should not be stayed with; sun, moon or stars are crossed the same way.", "quote": "", "source_file": "sources/snt-kirpal-spiritual-elixir.txt"},
+    {"locator": "Meditation letters, source lines 6751-6789", "about": "development", "anchor": "The inner Light does not come or go. It is always there within.", "paraphrase": "The light appears when attuned and vanishes on slight dispersion; keeping the gaze constantly fixed keeps it.", "quote": "", "source_file": "sources/snt-kirpal-spiritual-elixir.txt"},
+    {"locator": "Meditation letters, source lines 5674-5713", "about": "method", "anchor": "In future, when you see stars just try to pick out a big star among", "paraphrase": "Pick out a big star and fix the inner gaze in its middle; it brightens and bursts. The same for sun and moon.", "quote": "", "source_file": "sources/snt-kirpal-spiritual-elixir.txt"}
+  ],
+  "cross_refs": ["snt-kirpal-teachings-meditation", "snt-kirpal-light-of-kirpal"], "new_leads": [],
+  "reader_confidence": "high", "confidence_note": "Digest only; letters are individual replies and some are summarised by the search agent as 'purple veil to gold' which I did not see."
+}

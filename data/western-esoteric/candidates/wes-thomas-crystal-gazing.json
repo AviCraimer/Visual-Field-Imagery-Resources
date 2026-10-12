@@ -1,0 +1,46 @@
+{
+ "id": "wes-thomas-crystal-gazing",
+ "stream": "western-esoteric",
+ "title": "Crystal Gazing: Its History and Practice, with a Discussion of the Evidence for Telepathic Scrying",
+ "author": "Northcote W. Thomas; introduction by Andrew Lang",
+ "translator": null,
+ "year": "1905",
+ "edition_cited": "London: Alexander Moring, The De La More Press, 1905 (Cornell scan)",
+ "tradition": "British psychical research on scrying (S.P.R. circle)",
+ "language": "English",
+ "source_type": "anthology_or_compilation",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/cu31924028955875",
+ "alt_urls": [],
+ "source_files": [
+  "sources/wes-thomas-crystal-gazing.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Introduction by Andrew Lang (pp. ix-xlvii): his sitters' reports; 'milky, then black, then pictures'; who can and cannot scry",
+  "Chapter III 'Crystal Visions' (p. 22 ff.): dark-funnel experiment that 'filled with light'; ball filling with mist or vanishing; Ibn Khaldun",
+  "Chapter IV 'The Speculum, and the Method of using it' (p. 32 ff.), esp. pp. 39-41: Lang's and Thomas's practical advice, Goodrich-Freer's advice",
+  "Chapter XII 'Experimentation' (p. 158)"
+ ],
+ "summary": "A survey of scrying by an anthropologist who says he has never seen anything himself, with a long introduction by Andrew Lang reporting what his own acquaintances saw. Lang says the usual sequence in successful first attempts was that the glass ball 'grew milky, then black; then the pictures appeared', and that some strong visualisers got the mist but never pictures. Chapter III describes a first experiment made by looking into a perfectly dark funnel with the head covered, which 'filled with light' before pictures came. Chapter IV collects practical advice: sit alone, back to the light, ball on a dark cloth, exclude reflections, gaze about five minutes (Lang) or ten minutes or until the eyes tire, in repeated sets some days apart (Thomas); Lang holds that if nothing comes in two or three trials it probably never will. Historical chapters quote older recipes (Trithemius, Hollenzwang, Egyptian ink-mirror).",
+ "why_relevant": "Gives concrete beginner procedure and the standard onset signs (clouding, darkening, the speculum vanishing) for light and imagery seen in the open-eye field, with explicit statements about who fails.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "scrying_surface",
+  "gazing_fixed_point",
+  "darkness_exposure"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1905",
+  "class": "published_record",
+  "basis": "title page of the scanned edition reads 1905; archive.org metadata date 1905"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; WebSearch warm-up query returned the archive.org item",
+ "notes": "Thomas and Lang are both non-scryers reporting others; first-person scryer testimony is in the Goodrich-Freer record. OCR is fair; some garbling."
+}

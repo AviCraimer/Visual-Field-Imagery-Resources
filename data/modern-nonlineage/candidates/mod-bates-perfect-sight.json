@@ -1,0 +1,49 @@
+{
+ "id": "mod-bates-perfect-sight",
+ "stream": "modern-nonlineage",
+ "title": "The Cure of Imperfect Sight by Treatment Without Glasses (Perfect Sight Without Glasses)",
+ "author": "William H. Bates",
+ "translator": null,
+ "year": "1920",
+ "edition_cited": "New York: Central Fixation Publishing Co., 1920; University of Toronto scan, archive.org cureofimperfects00bateuoft",
+ "tradition": "Bates method (early 20th-century eye training, non-lineage)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/cureofimperfects00bateuoft",
+ "alt_urls": [
+  "https://archive.org/details/cureofimperfects00bate"
+ ],
+ "source_files": [
+  "sources/mod-bates-perfect-sight.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Chapter XII 'Palming' (printed pp. 123 ff.): lights and colours seen when palming, ways to reach black",
+  "Chapter XIII 'Memory as an aid to vision'",
+  "Chapter XI 'The Use of Strong Lights' / chapter on the sun (c. printed pp. 119, 177-189): looking at the sun, sun-glass on the eye",
+  "Chapter on illusions of imperfect and of normal sight (floating specks, colour of the sun, twinkling stars)"
+ ],
+ "summary": "The inverse case. Bates teaches 'palming': closing the eyes and covering them with the palms to exclude all light, with the goal of seeing a perfect black. He reports that most patients instead see illusions of lights and colours, from imperfect black to kaleidoscopic appearances so vivid they seem actually seen, and treats these as a sign of strain to be removed. He gives troubleshooting for people who cannot get black (remembering a black object, shifting, swinging, noting that fatigue, hunger and worry increase the lights). Other chapters recommend exposing the eyes to strong light and looking at the sun, and discuss after-effects such as blind spots and coloured suns.",
+ "why_relevant": "A detailed public-domain account of closed-eye lights arising under sense closure, with a method and troubleshooting aimed at abolishing them: useful as a counter-instruction and as testimony about what conditions produce the lights. Also an early source for sun-gazing advice.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "eye_pressure_or_sense_closure",
+  "darkness_exposure",
+  "light_source_gazing",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1920",
+  "class": "published_record",
+  "basis": "archive.org metadata for cureofimperfects00bateuoft gives 1920; first edition"
+ },
+ "author_identifiable": true,
+ "author_basis": "William Horatio Bates (1860-1931), ophthalmologist",
+ "found_via": "seed lead; archive.org title search",
+ "notes": "Safety: the sun-gazing advice is medically dangerous (solar retinopathy); set sun_gazing. Palming is light covering, not pressure on the eyeball. Bates's physiological theory is rejected by ophthalmology; the observations about closed-eye lights are what matters here."
+}

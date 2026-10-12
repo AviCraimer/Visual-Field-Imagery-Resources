@@ -1,0 +1,37 @@
+{
+  "id": "wes-goodrich-freer-essays", "stream": "western-esoteric",
+  "verdict": "keep_marginal", "drop_reason": null, "drop_note": "",
+  "relevance": 2, "practicality": 3,
+  "text_read": "digest only; the 'How to Begin' passage is summarised by the search agent and only the exercises and attitude passages were confirmed in the digest",
+  "mode": "imaginal_crossing",
+  "mode_evidence": "She treats crystal pictures as externalised mental imagery: 'we shall find nothing in the crystal but what we ourselves put there', and every gazer she met was a strong visualiser. Her graduated exercises move from closed-eye visualisation to seeing the same picture in the crystal, which is a crossing of image into apparent outer space. No seen light as such is reported.",
+  "eyes": "both",
+  "onset_pathway": "induction",
+  "onset_evidence": "Gives a graduated course for someone who sees nothing in the crystal: look at a room object, shut the eyes and visualise it, then try to see it in the crystal, expecting success after half a dozen tries if one has any visualising gift. She says that for non-visualisers the attempt is a waste of time. No light-specific onset.",
+  "stimulus_independence": "unclear",
+  "techniques": ["scrying_surface", "visualization_crossing"],
+  "conditions": {"posture": "", "gaze_or_eye_position": "quiet gaze into a polished surface", "setting": "shady corner, guard against reflections (per search-agent summary, not confirmed in digest)", "duration_and_schedule": "repeat exercises again and again with increasing complexity", "prerequisites": "strong visualising ability", "other": "a flawless clean crystal if one wants to exclude reflection-seeded pictures"},
+  "phenomena": ["figures_or_forms"],
+  "stages": [
+    {"label": "graduated exercises (a) to (e)", "description": "Visualise a room object with eyes shut then see it in the crystal; a recent scene; a described scene; an imagined scene; finally look to the crystal directly without prior visualisation."}
+  ],
+  "what_to_do_with_light": "Not about light; the picture is examined for memory, fancy or possible telepathic content.",
+  "obstacles_and_fixes": ["Fatigue or preoccupation yield only fancy and memory pictures: put the crystal away", "Reflections can seed the picture: use a clean flawless crystal if that matters"],
+  "cautions": ["Most crystal pictures are memory or fancy rather than psychical", "Nonsense and commonplace pictures are as likely as significant ones"],
+  "safety_flags": [],
+  "interpretation": "The crystal is a convenient means of externalising images already in the mind, including unconsciously acquired knowledge.",
+  "practice_summary": "Take a clean crystal or polished surface and guard against reflections. First train visualisation: look carefully at part of the room, shut your eyes and visualise it, then try to see it in the crystal. Move through a recently witnessed scene, a described scene and an imagined scene, increasing detail each time. When these work, look straight into the crystal without prior visualisation. Expect it to come easily after about half a dozen tries if you visualise well. If you do not make mental pictures of what you remember or read, she judges the attempt a waste of time. Put the crystal away when tired.",
+  "key_passages": [
+    {"locator": "Essay III, exercise (a), source lines 6743-6826", "about": "method",
+     "anchor": "Shut  your  eyes  and  try  to  visualise  it.  Then  try  if  you  can  see  it  in  the  crystal.",
+     "paraphrase": "First visualise a room object with closed eyes, then try to see it in the crystal.", "quote": "", "source_file": "sources/wes-goodrich-freer-essays.txt"},
+    {"locator": "Essay III, source lines 5353-5389", "about": "onset",
+     "anchor": "If  such  questions  are  meaningless  to  you,  if  they  do  not  produce  an  immediate  and  ready  affirmative,",
+     "paraphrase": "Those who do not habitually picture what they think of will, in her experience, waste their time with the crystal.", "quote": "", "source_file": "sources/wes-goodrich-freer-essays.txt"},
+    {"locator": "Essay III, source lines 6357-6395", "about": "mode",
+     "anchor": "that  I  attach  absolutely  no  virtue  to  the  crystal  itself;",
+     "paraphrase": "She attaches no virtue to the crystal and treats it as a means of externalising images already in the mind.", "quote": "", "source_file": "sources/wes-goodrich-freer-essays.txt"}
+  ],
+  "cross_refs": ["wes-thomas-crystal-gazing", "wes-melville-crystal-gazing"], "new_leads": [],
+  "reader_confidence": "medium", "confidence_note": "Digest only; no seen-light content, kept marginally for the visualisation-to-perception crossing."
+}

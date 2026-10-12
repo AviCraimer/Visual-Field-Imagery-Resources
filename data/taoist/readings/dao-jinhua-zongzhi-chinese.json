@@ -1,0 +1,141 @@
+{
+ "id": "dao-jinhua-zongzhi-chinese",
+ "stream": "taoist",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 5,
+ "practicality": 5,
+ "text_read": "Full 13-chapter Part A of the wikisource text read in full (ch.1-12, incl. ch.5 回光差謬, ch.6 證驗, ch.8, ch.9, ch.10); DZJY recension not compared.",
+ "mode": "perceptual",
+ "mode_evidence": "Ch.6 sign: in stillness 'the light of the eyes surges, all before one is white, as if in cloud' (目光騰騰，滿前皆白，如在雲中), and on opening the eyes the body cannot be found; ch.3 'the light is only real after a hundred days' and ch.9 distinguishes mere 'eye-light' (目光) from true light, implying a seen phenomenon. But ch.10 makes the seen light secondary: grasped as light it becomes consciousness-light.",
+ "eyes": "closed",
+ "onset_pathway": "both",
+ "onset_evidence": "For someone who sees nothing: lower the lids 'like a curtain' to the point where the nose-tip is just visible, fix that once as a plumb-line and let go; rest attention level between the eyebrows and 'the light enters of itself' (光自然透入), no need to project it. Pair with listening to the breath until it is inaudible. 'Do not seek signs; signs come of themselves' (不求驗而驗自至). Time scales: 100 days of concentrated work before 'the light is real' and becomes spirit-fire; ch.7 'two or three months' of daily practice; a grain of true yang (黍珠) appears in the light after 100 days. Ch.10: before light is seen, that (not-seeing) is itself the effect; if one fixes on light as light it falls into consciousness; 'do not care whether there is light or not'. Ch.9: a true teacher's confirmation is needed; intellectual effort makes it heterodox.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "eye_position",
+  "concentration_nonvisual",
+  "breath_control",
+  "attention_to_spontaneous_phenomena",
+  "energy_work"
+ ],
+ "conditions": {
+  "posture": "upright seated (正身安坐)",
+  "gaze_or_eye_position": "lids half-lowered (垂簾) so the nose tip is just seen; then attention between the brows; later the two eyes 'shine inward' on the Kan palace (lower belly)",
+  "setting": "quiet sitting; also carried into daily activity as 返照",
+  "duration_and_schedule": "early morning one incense-stick or 1-2 hours; uninterrupted daily; 100 days foundation",
+  "prerequisites": "ethical everyday life (人倫日用); calm and intelligence",
+  "other": "if drowsy, get up and walk, then sit again"
+ },
+ "phenomena": [
+  "white",
+  "smoke_mist_cloud",
+  "all_pervading_light",
+  "moon_disc",
+  "sun_disc",
+  "sphere_pearl_bindu"
+ ],
+ "stages": [
+  {
+   "label": "金華乍吐 (flower first opens)",
+   "description": "continuous stillness, joy, as if drunk or bathed; warmth through the body"
+  },
+  {
+   "label": "金華正放 (flower fully open)",
+   "description": "bright moon in mid-sky, the whole earth felt as a realm of light"
+  },
+  {
+   "label": "金華大凝 (great congealing)",
+   "description": "body full and strong; further marvels"
+  },
+  {
+   "label": "現在證驗 present signs",
+   "description": "sounds as from a valley; eye-light surging, all white as in cloud, body not findable on opening the eyes (虛室生白); body light and rising"
+  },
+  {
+   "label": "百日後 黍珠",
+   "description": "after 100 days a point of true yang, a millet-pearl, arises within the light; wait quietly"
+  }
+ ],
+ "what_to_do_with_light": "Do not grasp it as light or apply intention (that is consciousness-light); keep turning it back; after 100 days wait quietly for the pearl; in ch.8 guide it with the eyes up to the crown and back down to the yellow court.",
+ "obstacles_and_fixes": [
+  "Drowsiness (昏沉): attend to fine breath, listen to its soundlessness; if sleepy, get up and walk",
+  "Scatter (散亂): knowing it is already its cure; use breath as handle",
+  "Eyes too open: scatter outward; too closed: sinking; half-lowered is the mean",
+  "Do not keep staring at the nose tip; set it like a mason's line and let go",
+  "Thoughts: investigate where a thought arises and ceases (止觀 alternation)"
+ ],
+ "cautions": [
+  "Ch.5: do not sit in blank emptiness (無記空)",
+  "do not force with will and over-seriousness; the true signal is between present and absent",
+  "do not fall into the realm of the skandhas: cold, sinking breath, 'dead wood and cold ash', ends as wood and stone",
+  "do not follow arising trains of images; that leads to the desire realm, rebirth as fox-spirit",
+  "Ch.10: light seized with intent is consciousness-light, not nature-light",
+  "Ch.12: no method of 'gathering' the medicine-light; it appears only after great stillness"
+ ],
+ "safety_flags": [
+  "tradition_warns_against_seeking",
+  "transmission_required_by_tradition"
+ ],
+ "interpretation": "The light is the original spirit/nature (性光), the 'golden flower', normally leaking out through the eyes; turning it back is concentration-insight (止觀), and its seen forms are confirmations, not the goal.",
+ "practice_summary": "Sit upright in a quiet place, ideally early morning, for an incense-stick or longer, every day without a break. Lower the eyelids like a curtain until the tip of the nose is just visible; use this once to set the gaze, then let it go. Rest attention lightly, level between the eyebrows, without pushing it inward; the text says the light enters of itself. Join this with the breath: listen to it until it is too fine to hear, and let it grow finer. When a thought arises, look into where it comes from and where it goes, then return to resting (止 and 觀 in turn). If drowsy, get up and walk. Avoid blank vacancy, effortful straining, cold heavy sinking, and drifting with image streams. Do not care whether there is light or not; if light appears and you fix on it as light, it becomes consciousness-light. Signs like whiteness filling the field 'as in a cloud' are confirmations. Expect about a hundred days of steady work before the light is 'real'.",
+ "key_passages": [
+  {
+   "locator": "第三章 回光守中, source lines 76",
+   "about": "method",
+   "anchor": "惟 垂 簾 得 中 恰 好 望 見 鼻 端 故 取 以 為 准",
+   "paraphrase": "Only half-lowered lids hit the mean, just seeing the nose tip; that is taken as the standard, then the light enters of itself without your projecting it.",
+   "quote": "惟垂簾得中，恰好望見鼻端，故取以為准。只是垂簾恰好，任彼光自然透入，不勞你注射與不注射。",
+   "source_file": "sources/dao-jinhua-zongzhi-chinese.txt"
+  },
+  {
+   "locator": "第三章, source line 80",
+   "about": "onset",
+   "anchor": "但 於 兩 眉 中 間 齊 平 處 繫 念 便 了",
+   "paraphrase": "Fix attention level between the brows; light is a lively thing and enters of itself.",
+   "quote": "但於兩眉中間，齊平處繫念便了。光是活潑潑的東西，繫念兩眉中間，光自然透入",
+   "source_file": "sources/dao-jinhua-zongzhi-chinese.txt"
+  },
+  {
+   "locator": "第三章, source line 63",
+   "about": "stages",
+   "anchor": "百 日 專 功 光 才 真 方 為 神 火",
+   "paraphrase": "After a hundred days of concentrated work the light becomes real and is spirit-fire; then a millet pearl of true yang appears in it.",
+   "quote": "百日專功，光才真，方為神火。百日後，光中自然一點真陽，忽生黍珠",
+   "source_file": "sources/dao-jinhua-zongzhi-chinese.txt"
+  },
+  {
+   "locator": "第六章 回光證驗, source line 130",
+   "about": "mode",
+   "anchor": "目 光 騰 騰 滿 前 皆 白 如 在 雲 中 開 眼 覓 身",
+   "paraphrase": "In stillness eye-light surges, all before one is white as in cloud; opening the eyes, one cannot find the body: the empty room produces white.",
+   "quote": "一則靜中，目光騰騰，滿前皆白，如在雲中，開眼覓身，無從覓視，此為虛室生白，內外通明，吉祥止止也",
+   "source_file": "sources/dao-jinhua-zongzhi-chinese.txt"
+  },
+  {
+   "locator": "第五章 回光差謬, source lines 113-118",
+   "about": "caution",
+   "anchor": "又 不 可 墮 於 蘊 界 所 謂 蘊 界 者 乃 五 陰 魔 用 事",
+   "paraphrase": "Errors: blank emptiness, forced will, falling into the skandha-realm of cold sinking, and following trains of arising images.",
+   "quote": "又不可墮於蘊界，所謂蘊界者，乃五陰魔用事。",
+   "source_file": "sources/dao-jinhua-zongzhi-chinese.txt"
+  },
+  {
+   "locator": "第十章 性光識光, source line 190",
+   "about": "caution",
+   "anchor": "初 未 見 光 時 此 為 效 驗 若 見 為 光 而 有 意 著 之 即 落 意 識 非 性 光 也",
+   "paraphrase": "Before light is seen, that is the sign; if seen as light and seized with intent, it falls into consciousness and is not nature-light. Do not care whether there is light or not.",
+   "quote": "初未見光時，此為效驗，若見為光，而有意著之，即落意識，非性光也。子不管他有光無光，只要無念生念。",
+   "source_file": "sources/dao-jinhua-zongzhi-chinese.txt"
+  }
+ ],
+ "cross_refs": [
+  "dao-huiming-jing-chinese"
+ ],
+ "new_leads": [
+  "DZJY recension (sources/dao-jinhua-zongzhi-chinese-dzjy.txt) not compared for variants"
+ ],
+ "reader_confidence": "high",
+ "confidence_note": "Full Chinese text read; wikisource transcription has some typos (曰 for 日 etc.)."
+}

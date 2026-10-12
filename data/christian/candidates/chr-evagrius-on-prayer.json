@@ -1,0 +1,42 @@
+{
+ "stream": "christian",
+ "translator": null,
+ "alt_urls": [],
+ "seen_via": null,
+ "locator_hints": [
+  "chs. ~66-74 and ~114-117 of On Prayer",
+  "appended Evagrius chapter on sapphire"
+ ],
+ "priority": 1,
+ "found_via": "gap pass 2",
+ "notes": "",
+ "author_identifiable": true,
+ "author_basis": "",
+ "id": "chr-evagrius-on-prayer",
+ "title": "On Prayer (153 chapters), printed under Neilos the Ascetic; with Evagrius chapter on the sapphire state of the mind",
+ "author": "Evagrius Ponticus",
+ "year": "late 4th c.; ed. 1893",
+ "tradition": "Egyptian desert monasticism",
+ "url": "https://archive.org/details/Philokalia1893GreekAthens",
+ "source_files": [
+  "sources/chr-evagrius-on-prayer.txt"
+ ],
+ "summary": "Evagrius tells the praying monk not to give the divine any shape nor let the mind be stamped with any form; demons may make a strange form appear suddenly, or act on the brain to alter 'the light around the mind' so that the vainglorious take it as divine; one who seeks immaterial knowledge may be deceived, 'holding smoke instead of light'. Do not desire to see angels or Christ sensibly. Elsewhere: when the mind puts on the new man it sees its own state in prayer like sapphire or sky colour, the 'place of God' seen on Sinai.",
+ "why_relevant": "Foundational source for both the mind's own light and the refusal of visible forms; includes a physiological (brain) account of false light.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "concentration_nonvisual"
+ ],
+ "language": "Greek",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1893",
+  "class": "published_record",
+  "basis": "Second Greek edition of the Philokalia, Athens 1893 (archive.org metadata and title page); text first printed Venice 1782"
+ },
+ "edition_cited": "Philokalia ton ieron neptikon, Athens 1893, vol. 1, djvu OCR from archive.org (item Philokalia1893GreekAthens)"
+}

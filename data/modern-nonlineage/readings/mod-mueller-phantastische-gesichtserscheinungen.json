@@ -1,0 +1,130 @@
+{
+ "id": "mod-mueller-phantastische-gesichtserscheinungen",
+ "stream": "modern-nonlineage",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 5,
+ "practicality": 4,
+ "text_read": "Repaired digest; then in full from source: §§34-41 and 48-49 of Ch. VI (lines 1105-1300, 1420-1475), Part II §§85-88 (hypnagogic and dream 'Hellsehen', lines 2253-2350), Ch. XII §§146-151 on willed luminous phantasms (lines 3705-3860).",
+ "mode": "perceptual",
+ "mode_evidence": "Müller insists the images are 'wirklich leuchtend', as surely luminous as a pressure phosphene, and sharply distinguishes the moment a merely imagined outline (not luminous, not moving) gives way to figures that suddenly stand luminous 'ohne alle Anregung durch die Vorstellung'. He sees them with closed eyes in waking, by day, in sober reflection.",
+ "eyes": "closed",
+ "onset_pathway": "both",
+ "onset_evidence": "Induction: sit, close the eyes, abstract from everything, in a dark place, calm, not just after eating or wine; fasting makes them 'wonderfully' vivid. He holds everyone has traces: whoever lacks them by day can notice them before sleep, and if not then, in dream. Limits: willing a specific image almost never works for him (half-days of practice in the dark; one whole evening trying for red yielded once a red drapery, unbidden); luminous images come only when the 'disposition' is present, sudden and against the will. Willed luminous imaging is extremely rare (Cardano, Goethe, an artist H.) and even then the image transforms on its own.",
+ "stimulus_independence": "yes",
+ "techniques": [
+  "darkness_exposure",
+  "eye_position",
+  "attention_to_spontaneous_phenomena",
+  "sleep_threshold",
+  "fasting_or_austerity",
+  "visualization_crossing"
+ ],
+ "conditions": {
+  "posture": "Seated or lying; Goethe: head bowed",
+  "gaze_or_eye_position": "Closed, fully rested eyes, eye muscles slack; looking into the darkness of the visual field; any eye movement dispels images",
+  "setting": "Dark place; any time of day, also before sleep",
+  "duration_and_schedule": "Often followed for half an hour; hours of daytime rest; half-days in willed attempts",
+  "prerequisites": "Good health, mental calm without passion; not just eaten; no wine; fasting helps",
+  "other": "Ward off all thought and judgement; only observe"
+ },
+ "phenomena": [
+  "sparks_or_points",
+  "smoke_mist_cloud",
+  "colour_fields",
+  "figures_or_forms",
+  "all_pervading_light",
+  "geometric_patterns"
+ ],
+ "stages": [
+  {
+   "label": "Lichtflecken, Nebel",
+   "description": "Dark field rich in light-spots, mists, shifting colours."
+  },
+  {
+   "label": "inneres mattes Tageslicht",
+   "description": "Often the darkness gradually brightens into a dull inner daylight; images follow immediately."
+  },
+  {
+   "label": "leuchtende Bilder",
+   "description": "Bounded images, faint then clearer, luminous, sometimes coloured, moving and transforming, often at the field's edges; unknown figures, animals, lit rooms."
+  },
+  {
+   "label": "Hellsehen des Traumes",
+   "description": "Whole field lit as by daylight; one forgets one's bed and the images become dream."
+  }
+ ],
+ "what_to_do_with_light": "Observe passively without reflection (reflection and eye movement dispel); hold them as long as possible; do not try to impose content; treat as products of the sense's own life, not objective.",
+ "obstacles_and_fixes": [
+  "Eye movement or reflection dispels: keep eyes and mind still.",
+  "Wine and recent eating prevent; fasting intensifies.",
+  "Willed imagery stays non-luminous: wait for the disposition; images come unbidden."
+ ],
+ "cautions": [
+  "Ecstatic and magical visions falsely ascribe objectivity to these images; superstition worships or fears them."
+ ],
+ "safety_flags": [
+  "fasting"
+ ],
+ "interpretation": "Luminous phantasms are the visual sense's own life (light and colour immanent in the 'Sehsinnsubstanz') excited by plastic imagination; the same images become dreams.",
+ "practice_summary": "In a dark place, when well, calm and neither fed nor having taken wine, sit or lie and close the eyes. Let them rest completely, with a feeling of slackness in the eye muscles, and sink into the stillness of the eye and the darkness of the field. Refuse all thoughts and judgements; only watch what appears. First come light-spots, mists and drifting colours; often the field slowly brightens to a dull inner daylight, then bounded luminous images appear, faint at first, then clear, moving and changing. Do not move the eyes or start reflecting, or they vanish. Follow them for up to half an hour; before sleep they pass into dream. Fasting strengthens them greatly. Do not expect to summon a chosen image: imagining it keeps it unlit; the luminous figure arrives suddenly, of its own. If nothing comes by day, watch at the edge of sleep.",
+ "key_passages": [
+  {
+   "locator": "Ch. VI §34, source lines 1115-1125",
+   "about": "method",
+   "anchor": "eigenen Geſchoͤpfen meines Auges. Wenn ich dieſe leuchtenden Bilder beobachten will, ſehe ich bei geſchloſſenen",
+   "quote": "Wenn ich dieſe leuchtenden Bilder beobachten will, ſehe ich bei geſchloſſenen vollkommen ausruhenden Augen in die Dunkelheit des Sehfeldes; mit einem Gefuͤhl der Abſpannung und groͤßten Ruhe in den Augenmuskeln verſenke ich mich ganz in die ſinnliche Ruhe des Auges oder in die Dunkelheit des Sehfeldes. Allen Gedanken, allem Urtheil wehre ich ab",
+   "paraphrase": "Closed, fully rested eyes looking into the dark field; slack eye muscles; sink into the eye's stillness; ward off thought and judgement; only observe.",
+   "source_file": "sources/mod-mueller-phantastische-gesichtserscheinungen.txt"
+  },
+  {
+   "locator": "Ch. VI §36, source lines 1162-1175",
+   "about": "onset",
+   "anchor": "Ich brauch mich oft nur hinzuſetzen, die Augen zu ſchlieſſen, von Allem",
+   "paraphrase": "By day he need only sit, close the eyes and abstract; in a dark place, calm, not after food or spirits, the images are certain.",
+   "quote": "",
+   "source_file": "sources/mod-mueller-phantastische-gesichtserscheinungen.txt"
+  },
+  {
+   "locator": "Ch. VI §37, source lines 1178-1185",
+   "about": "stages",
+   "anchor": "Art von innerem mattem Tageslicht. Gleich darauf erſcheinen dann auch die Bilder. Eben ſo merkwuͤrdig als",
+   "paraphrase": "The dark field often brightens gradually into a dull inner daylight before the images appear.",
+   "quote": "",
+   "source_file": "sources/mod-mueller-phantastische-gesichtserscheinungen.txt"
+  },
+  {
+   "locator": "Ch. VI §§39-40, source lines 1236-1265",
+   "about": "mode",
+   "anchor": "der Sympathie zwiſchen dem Phantaſtiſchen und dem Lichtnerven ein, urploͤtzlich ſtehen Geſtalten leuchtend da,",
+   "paraphrase": "What he imagines stays an unlit outline; suddenly luminous figures stand there unprompted, as surely luminous as a pressure phosphene; 'I do not see what I would like to see'.",
+   "quote": "",
+   "source_file": "sources/mod-mueller-phantastische-gesichtserscheinungen.txt"
+  },
+  {
+   "locator": "Ch. VI §41, source lines 1274-1280",
+   "about": "development",
+   "anchor": "und beſonders, wenn ich gefaſtet habe. Durch Faſten kann ich dieſe Phaenomene zu einer wunderbaren Lebendigkeit",
+   "paraphrase": "Easiest when well and unexcited, especially after fasting, which makes them wonderfully vivid; never after wine.",
+   "quote": "",
+   "source_file": "sources/mod-mueller-phantastische-gesichtserscheinungen.txt"
+  },
+  {
+   "locator": "Ch. XII §147-148, source lines 3741-3765",
+   "about": "onset",
+   "anchor": "ſo habe ich doch bei der groͤßten Anſtrengung faſt nie willkuͤhrlich ein beſtimmtes Phantasma von",
+   "paraphrase": "Despite half-days of willed practice in the dark he could almost never produce a chosen luminous image or fix a colour; one evening of trying for red yielded once, suddenly, a red drapery he had not imagined.",
+   "quote": "",
+   "source_file": "sources/mod-mueller-phantastische-gesichtserscheinungen.txt"
+  }
+ ],
+ "cross_refs": [],
+ "new_leads": [
+  "Goethe, Zur Morphologie II.2 (1824) p. 444: closed eyes, head bowed, imagined flower unfolding luminous like a kaleidoscope",
+  "Cardano, De varietate rerum VIII and De subtilitate XVIII: willed luminous imaging",
+  "Gruithuisen, Anthropologie §449"
+ ],
+ "reader_confidence": "high",
+ "confidence_note": "Relevant sections read in full in Fraktur OCR; minor OCR noise does not affect sense. Chapter VIII (narcotics) not read."
+}

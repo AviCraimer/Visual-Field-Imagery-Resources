@@ -1,0 +1,145 @@
+{
+ "id": "suf-ibn-ata-allah-miftah-al-falah",
+ "stream": "sufi",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 4,
+ "practicality": 4,
+ "text_read": "Saved Arabic OCR file (2391 lines). Read in full: lines 1-330 (preface, definition of dhikr, the two fasls on its layers, fire, sounds and signs, the fasl on nourishment and the three souls, Qur'an and hadith proofs, loud dhikr); lines 390-1009 (end of ikhlas, adab al-dhikr, general benefits, benefits of each divine Name, choice of formula, gradation of the wayfarer, the dhikr sitting, retreat, start of tawhid and ma'rifa); lines 1576-1618 and 1924-1945. Lines 330-390 and 1009-2391 (ethics of the path, long discussion of la ilaha illa'llah, Part II collection of occasional invocations) were searched by light and seeing vocabulary only; nothing practical on seen light was found there.",
+ "mode": "ambiguous",
+ "mode_evidence": "The strongest statement uses the plain verb 'you see' [ترى أبدا أنواراً صاعدة وأخرى نازلة] and sits in a list of concrete bodily signs (head and limbs gripped as if chained, needle-pricks in the tongue, sounds of trumpets, water, wind and fire first heard 'in the circle of the head'), with eyes shut and, in retreat, a cell with no light-hole. That reads as perceived. But the text never says whether eye or heart sees; elsewhere it speaks of fruits that 'show themselves to the heart' [يلوح للقلب], of the 'eye of your heart' [بعين قلبك], and of forms that 'take shape' [يتمثل] from the imaginal. No colours, shapes, locations or sizes of light are described.",
+ "eyes": "closed",
+ "onset_pathway": "both",
+ "onset_evidence": "Induction is by regime, not by a visual trick: a shaykh, graded formulas, a head-between-knees sitting with eyes closed in which 'lights come', and a dark cell with silent dhikr of the heart. The chapter on gradation opens: whoever keeps to the invocations, lights follow one another upon him and the veils over hidden things are drawn back. To the one who sees nothing: do not change formula until its fruit appears; fruits differ by person and by allotted provision [أرزاق], some get them awake, some in dreams; beware of haste. Prerequisites: repentance, training of character [رياضة] before retreat ('one whose opening comes before his training seldom amounts to a man'), lawful food (a clean interior makes the illumination stronger), correct creed. No time scale is given except that an incoming received in the silence after dhikr may build in a moment what thirty years of striving does not. The Name al-Nur is said to hasten opening for those in retreat, gradually and rarely completely. Light is a by-product and sign; attending to dhikr or heart is itself called a veil.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "sound_or_mantra",
+  "posture_or_body_lock",
+  "sensory_restriction",
+  "darkness_exposure",
+  "devotion_or_transmission",
+  "fasting_or_austerity",
+  "concentration_nonvisual",
+  "breath_control"
+ ],
+ "conditions": {
+  "posture": "Two sittings are given. Adab chapter: cross-legged [متربعاً], facing the qibla if alone, palms on the thighs. Gradation chapter: humble sitting with the head placed between the knees.",
+  "gaze_or_eye_position": "Eyes closed or lowered while keeping the attention fixed straight ahead (OCR damaged: 'رعض عينيه مع بقاء توجه / تصب عينيه', i.e. غض عينيه ... نصب عينيه); a disciple under a shaykh pictures the shaykh between his eyes [يخيل شيخه بين عينيه]. In the second sitting, eyes shut to sensible things.",
+  "setting": "Perfumed place, clean lawful clothing. For retreat: a cell of body height, prostration length and sitting width, with no hole admitting daylight, away from voices, solid door, in an inhabited house; nobody should know what you are doing.",
+  "duration_and_schedule": "Beginner: two set sessions, after the dawn prayer and after the sunset prayer; eleven repetitions of the full blessing-prayer after each obligatory prayer. In retreat: continuous, sleeping only when overcome, never lying down by choice. No number of days is stated.",
+  "prerequisites": "Repentance and restitution; a realised shaykh who chooses the formula; training of character and a period of ordinary seclusion [عزلة] until solitude is no longer felt as effort; lawful and light food, no animal food in retreat, gradual reduction of eating and of water; constant ablution; courage (not startled by a great cry or a falling wall).",
+  "other": "La ilaha illa'llah is said with full force, raising the phrase from above the navel, intending by 'la ilaha' to expel everything other than God from the heart and by 'illa'llah' to drive it into the pine-cone-shaped heart of flesh so that it spreads through the limbs. Opinions differ on whether to run the phrase together without gap (said to open the heart fastest) or to lengthen the 'la'. In retreat the formula is Allah Allah Allah (or Hu Hu), the tongue kept still, the heart saying it and the ear listening until 'the speaker' arises from the innermost."
+ },
+ "phenomena": [
+  "lights_rising_and_descending",
+  "fires_around_the_body",
+  "light_pouring_from_the_face",
+  "figures_or_forms",
+  "inner_sounds_trumpet_water_wind_fire",
+  "dream_signs"
+ ],
+ "stages": [
+  {
+   "label": "ذكر اللسان (dhikr of the tongue)",
+   "description": "Letters without presence. Persisted in with absorption it burns the 'surplus parts' of the body; sound is first heard in the circle of the head (trumpets and cymbals), then water, wind, blazing fire, mills, horses' hooves, leaves in wind."
+  },
+  {
+   "label": "ذكر القلب (dhikr of the heart)",
+   "description": "The heart joins the tongue, first by effort then by nature; the light of the heart burns passions and devils, limbs and breast fill with lights; when the tongue stops, the heart moves in the chest like a child in the womb, with a sound like the hum of bees."
+  },
+  {
+   "label": "ذكر السر (dhikr of the innermost), the hidden dhikr",
+   "description": "Absence from dhikr and from self [فناء]. Signs: the dhikr does not leave you when you leave it, it binds head and limbs, its fires and lights do not go out, you see lights rising and descending and clear fires around you, needle-pricks in the tongue, light flowing from the face."
+  },
+  {
+   "label": "تمثل (forms from the higher world)",
+   "description": "When absorption becomes habitual: angels and spirits of prophets and saints appear in beautiful forms and convey realities. Marked as belonging to the beginning; one rises above the imaginal to the unveiled Real in everything."
+  }
+ ],
+ "what_to_do_with_light": "Treat it as a sign and a fruit, not an object. Do not turn to look at the dhikr or the heart: that turning is 'a distracting veil'. Report whatever arises, waking or in dream, to the shaykh, who uses it to decide when to change formula. When the inner speaker arises in retreat, do not leave the state you were in. Expect to pass beyond forms.",
+ "obstacles_and_fixes": [
+  "Nothing appears: stay on the same formula; the fruit may come in dream instead of waking, and differs by person. Do not hurry on from the blessing-prayer on the Prophet before its fruit shows.",
+  "Heart full of sense-images: a thousand repetitions register nothing; the negation is there to empty the heart first. Start with istighfar if there is a heavy past, then the blessing-prayer on the Prophet, described as the polish of hearts and as light that removes the darkness of the veil.",
+  "Unlawful food: dhikr still cleans it out but the illuminating effect is weaker, as water used on a soiled thing cleans without brightening.",
+  "Struggling inside the retreat (hunger, thirst, sleeplessness, cold, inner chatter, loneliness): this breaks the gathered state and no incoming arrives; go back out to ordinary seclusion and do the struggling there first.",
+  "Weak or agitated temperament: give la ilaha illa'llah in a fixed small dose and increase gradually.",
+  "Overwhelming states: the shaykh switches the Name (for example al-Jabbar or al-Mutakabbir against excess expansion; al-Batin, al-Kabir or al-Muta'al when nearness or outward manifestation threatens derangement)."
+ ],
+ "cautions": [
+  "Too much of the strong dhikr before readiness, with a hot temperament, burns the practitioner and cuts him off.",
+  "Excess dryness of constitution in retreat produces imaginings and raving, as distinct from a true incoming.",
+  "Satanic incomings exist: they leave pain, agitation and confusion, where angelic ones leave coolness, pleasure and knowledge. Test by the sacred law.",
+  "Thoughts in the guise of worship, good works and love of wonders [حب الكرامات] stay with a person until he is sincere.",
+  "Most people perish through the self's deceptions in retreat; one who secludes himself but lets people seek him out is after status.",
+  "An opening that comes before character training rarely yields a sound person.",
+  "Thinking 'I have passed away' during absorption is itself an impurity."
+ ],
+ "safety_flags": [
+  "transmission_required_by_tradition",
+  "fasting",
+  "prolonged_darkness",
+  "sleep_deprivation"
+ ],
+ "interpretation": "Dhikr is a fire: where it finds fuel it burns, where it finds darkness it becomes light, where it finds light it is light upon light. The lights and fires are the visible side of that burning and of the heart's polishing, and a sign that the invocation has sunk from tongue to heart to innermost; blessings on the Prophet matter because lights poured on the prophets' spirits are reflected onto those bound to them.",
+ "practice_summary": "Under a shaykh, begin with istighfar if needed, then the blessing-prayer on the Prophet, in two daily sessions after dawn and sunset prayers. Sit perfumed and in ablution, either cross-legged facing the qibla with palms on thighs, or with head between the knees; close the eyes to sensible things and, if you have a shaykh, picture him between your eyes and draw on his resolve. Add la ilaha illa'llah, said forcefully, lifted from above the navel and driven into the physical heart, emptying the heart of everything else on each repetition. After stopping, stay silent and present for what arrives. Move on (to subhana'llah, then the single Name) only when the fruit of the current formula has shown, awake or in dream, and tell the shaykh everything. For retreat, first train character and get used to solitude; then enter a body-sized cell with no chink of daylight, eat lightly, sleep only when overcome, and repeat Allah Allah with the heart while the tongue is still and the ear listens.",
+ "key_passages": [
+  {
+   "locator": "Part I, second untitled fasl after the muqaddima (signs that dhikr has reached the sirr), file lines 105-111, PageV00P004",
+   "about": "mode",
+   "anchor": "ومن علاماته أنه لا تخمد نيراته ولا تذهب أنواره بل ترى آبدا",
+   "paraphrase": "Signs that the invocation has fallen into the innermost [السر]: the invoker is absent from both invocation and Invoked; if you leave the dhikr it does not leave you; it grips your head and all your limbs so that you are as if bound with chains and fetters; and its fires [نيران] do not die down nor its lights [أنوار] depart: you see continually lights rising and others descending, with clear fires blazing and burning around you. When the invoker falls silent the dhikr is like needles pricking the tongue, or as if the whole face were a tongue invoking by a light pouring from it. The verb is plain 'you see' [ترى] and the item sits in a list of bodily sensations; the text does not say whether eye or heart sees.",
+   "quote": "ومن علاماته شد الذكر رأسك وأعضاءك جميعها فتكون كالمشدود بالسلاسل والتيود ومن علاماته أنه لا تخمد نيراته ولا تذهب أنواره بل ترى آبدا اأنوارا ms04 صاعدة، وأخرى نازلة والنيران حواليك صافية تتاجج وتتقد واذا وتع الذكر إلى السر يكون الذكر عند سكوت الذاكر كأنه غرز الأبر فى لسانه أو آن رجهه كله لسان يذكر بنور فائض عنه",
+   "source_file": "sources/suf-ibn-ata-allah-miftah-al-falah.txt"
+  },
+  {
+   "locator": "Bab tadrij al-salik bi'l-adhkar (Gradation of the wayfarer through the invocations), 'hay'at al-julus lil-dhikr', file lines 822-825, PageV00P028",
+   "about": "method",
+   "anchor": "عن المحسوسات عيتيه فهذه الجلسة يجتمع القلب ويتصفى من الإكدار وتأتيه الأنوار",
+   "paraphrase": "The sitting for dhikr: sit before your Master as a lowly, humble, needy servant; put your head between your knees and shut your eyes to sensible things [يسد عن المحسوسات عينيه]. By this sitting the heart is gathered and cleared of turbidity, and lights, flashes [اللوائح, OCR 'اللرانع'] and secrets come to it. Then seek refuge, say the basmala, state the intention and number, and begin.",
+   "quote": "السنية ولنذكر الآن هيئة الجلوس للذكر فتقول من الأدب أن يجلس بين يدى سيده لوس تليل خاضع ويقعد تمرد منتقر متواضع وأن يجمل راسه يين ركبتيه وآن يسد عن المحسوسات عيتيه فهذه الجلسة يجتمع القلب ويتصفى من الإكدار وتأتيه الأنوار واللرانع والأسرار فإذا جلست هذه الجلسة تعوذ بالله من الشيطان الرجيم ثم سم الله ثم",
+   "source_file": "sources/suf-ibn-ata-allah-miftah-al-falah.txt"
+  },
+  {
+   "locator": "Same bab, first fasl (fruits and signs of each dhikr), file lines 793-803, PageV00P027",
+   "about": "onset",
+   "anchor": "المخصرصة بالأذكار قسمان قسم يلوح للقلب قى حال البقظة وقسم يرآه السالك فى",
+   "paraphrase": "Every dhikr has a fruit and a sign that the masters treat as decisive. The fruits are of two kinds: one that 'shows itself to the heart' [يلوح للقلب] in waking, and one the wayfarer sees in sleep. Some advance on a waking sign, some on a dream, some on both, which is the most complete. The fruits differ from person to person, according to each one's allotted provision [أرزاق], though they go back to fixed roots; nobody is moved from one dhikr to the next until the fruit proper to it has appeared on him. This is the text's answer to the person to whom nothing has appeared: stay with the same formula.",
+   "quote": "الى أن يظهر عليه ثمرته فلكل ذكر ثمرة وعلامة عند أتعة هذا الشأن معتبرة والشمرة المخصرصة بالأذكار قسمان قسم يلوح للقلب قى حال البقظة وقسم يرآه السالك فى النام والسالكون فى الأتيان بالثمرات على درجات ثلاث أعنى الشمرات التى توجب لهم الترقى من ذكر إلى ذكر آخر فسالك يرقى بعد ثمرة فى اليقظة تلوح وآخر بما فى التوم يظهر للروح واأخر بجمع بين اليفظة والمنام وذلك اكسل الأقسام والثمرات بالأمتحاص",
+   "source_file": "sources/suf-ibn-ata-allah-miftah-al-falah.txt"
+  },
+  {
+   "locator": "Bab fi dhikr al-khalwa (On retreat), the cell, file lines 917-924, PageV00P032",
+   "about": "method",
+   "anchor": "قدر جلستك ولا يكون فيه ثقب ينفذ نيه الضوء إلى الخلوة ويكون",
+   "paraphrase": "Enter after a full ablution, with clean clothes and the intention of drawing near to God. The cell is as high as your standing height, as long as your prostration and as wide as your sitting; no hole lets daylight [الضوء] through into it; it is far from voices, with a solid short door, in an inhabited house, and it is better that someone sleep near the door. Move little, pray only the obligatory and regular prayers, face the qibla, stay in ritual purity; when you must go out, cover your eyes and ears and guard against outside air, which scatters you for a long time.",
+   "quote": "الله تعالى راما هيثة بيت الخلوة ليكن أرتفاعه قدر قامتك وطوله قدر صبودك وعرضة قدر جلستك ولا يكون فيه ثقب ينفذ نيه الضوء إلى الخلوة ويكون بعيدا عن الأصوات ريابه وثيتا تصيرا فى دار معمررة بالناس والأحن آن يبيت أحد قريبا من",
+   "source_file": "sources/suf-ibn-ata-allah-miftah-al-falah.txt"
+  },
+  {
+   "locator": "Bab fi dhikr al-khalwa, file lines 943-950, PageV00P033",
+   "about": "caution",
+   "anchor": "بين الوارد الملكى والشيطانى أن الملكى يعقيه يرد ولذة ولا تجد له ألما",
+   "paraphrase": "Keep the constitution balanced: if dryness becomes excessive it leads to imaginings and raving [خيالات وهذيان]; only when it is the incoming [الوارد] itself that unbalances you is that the thing sought. The test between an angelic and a satanic incoming: the angelic is followed by coolness and pleasure, causes no pain, does not change your form, and leaves knowledge behind; the satanic is followed by disturbance in the limbs, pain and bewilderment, and leaves confusion.",
+   "quote": "والزم ما يحصل به أعتدال الزاج أذا أقرط يبسه أدى إلى خيالات وهذيان وإذا كان الوارد هو الذى يعطى الزنحراف قذلك هو المطلوب وأليس من الثياب ما يكون به بدتك [...] فى اكثر الأوقات قبل آن يتعلق يها حيوان يشفلك ولا تليث ساعة در طهارة، والفرق بين الوارد الملكى والشيطانى أن الملكى يعقيه يرد ولذة ولا تجد له ألما ولا تتفير لك صمرة ويترك علا والشيطانى يتبعه تهويش فس الأعضا، وألم وحيرة ويترك تخبيطا",
+   "source_file": "sources/suf-ibn-ata-allah-miftah-al-falah.txt"
+  },
+  {
+   "locator": "Part I, second untitled fasl, file lines 97-102, PageV00P004",
+   "about": "stages",
+   "anchor": "العالم جواهر الملائكة وأرواح الأنبياء والأولباء فى صورة جميلة تفاض عليه بواسطتها",
+   "paraphrase": "When absorption (which seldom lasts) becomes a settled habit, the invoker is raised to the higher world; the imprint of the malakut is stamped on him. The first things to take form for him [يتمثل] from that world are the substances of angels and the spirits of prophets and saints in beautiful form, through which some realities are poured on him. That belongs to the beginning, until his rank rises above the imaginal likeness [المثال; OCR 'الثال'] and he is met by the plain Real in everything. The sequence is: dhikr of the tongue, then of the heart with effort, then of the heart by nature, then the Invoked takes over and the dhikr is effaced.",
+   "quote": "دام نصار عادة راسخة وهينة ثايتة عرج به إلى العالم الأعلى وطالع الوجود الحقيتى الأصفى وانطبع له تقش الملكوت وتجلى له قدس اللاهوت وأول ما يتمثل له من ذلك العالم جواهر الملائكة وأرواح الأنبياء والأولباء فى صورة جميلة تفاض عليه بواسطتها بعض الحقائق وذلك فى البداية إلى أن تعلو درجته عن الثال ويكافع بتصريع الحق فى كل شىء فهذه ثمرة لباب الذكر وانما مبداها ذكر اللسان ثم ذكر القلب تكلفا ثم ذكره",
+   "source_file": "sources/suf-ibn-ata-allah-miftah-al-falah.txt"
+  }
+ ],
+ "cross_refs": [
+  "suf-ghazali-ihya-dhikr-seclusion-method"
+ ],
+ "new_leads": [
+  "The retreat chapter (cell dimensions, conditions, 'Allah Allah' with the heart, the speaker arising from the sirr) runs very close to Ibn 'Arabi's Risalat al-anwar (Journey to the Lord of Power), which goes on to list what is unveiled stage by stage; worth reading alongside. This is my recognition, not stated in the text.",
+  "The signs passage (sounds in the head, fires and lights rising and descending, needle-pricks) matches Najm al-Din Kubra's Fawa'ih al-jamal and al-Usul al-'ashara; the 'eight conditions' are given here as 'the way of al-Junayd'."
+ ],
+ "reader_confidence": "high",
+ "confidence_note": "Full reading of the practical first third; the remainder searched by vocabulary. OCR is noisy (letter confusions, dropped dots), so individual words in the quotes are garbled but the sense of every passage cited is clear, except the gaze clause at line 416-417, whose first half is damaged and reconstructed. The sources Ibn 'Ata' Allah is compiling from are not named by him at these points."
+}

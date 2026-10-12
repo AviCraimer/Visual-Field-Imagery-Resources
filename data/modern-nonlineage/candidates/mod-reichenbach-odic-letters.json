@@ -1,0 +1,48 @@
+{
+ "id": "mod-reichenbach-odic-letters",
+ "stream": "modern-nonlineage",
+ "title": "Odic-Magnetic Letters",
+ "author": "Karl (Baron) von Reichenbach",
+ "translator": "John S. Hittell",
+ "year": "1852 (German); English translation 1860",
+ "edition_cited": "New York: Calvin Blanchard, 1860 (Hittell translation); archive.org odic-magnetic-letters-baron-charles-von-reichenbach",
+ "tradition": "Reichenbach's 'Od' experiments with sensitives (19th-century experimental mesmerism, non-lineage)",
+ "language": "English",
+ "source_type": "ethnographic_report",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/odic-magnetic-letters-baron-charles-von-reichenbach",
+ "alt_urls": [
+  "https://archive.org/details/physicophysiolog1851reic"
+ ],
+ "source_files": [
+  "sources/mod-reichenbach-odic-letters.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Letter II, 'Experiments with Crystals' (printed pp. 25-27): the dark-room procedure and waiting times",
+  "Letter III, 'The Od of Light'",
+  "Letter VI, 'Man as a Producer of Od': hands and fingers luminous in the dark room",
+  "Letter XIV, 'Odic Light and its Spectrum'"
+ ],
+ "summary": "Reichenbach's popular letters report what 'sensitive' persons saw in total darkness and tell the reader how to repeat the trials. The darkness must be perfect, since the least stray light blinds the observer to the fainter phenomena. A highly sensitive subject saw a crystal pervaded with mild light and a waving bluish flame at its point almost at once; 'demi-sensitives' usually had to sit in the dark one to two hours, and some weak sensitives saw nothing in the third hour yet succeeded in the fourth. Later letters describe magnets, hands, fingertips, flowers and animals appearing luminous or flame-tipped in the dark room, with red and blue at opposite poles.",
+ "why_relevant": "A 19th-century open-eye darkness protocol with stated waiting times and an account of who sees quickly and who needs hours; bears directly on dark-retreat lights and on the claim that seeing depends on a constitutional 'sensitivity'.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "darkness_exposure",
+  "sensory_restriction",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 2,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1860",
+  "class": "published_record",
+  "basis": "title page of the saved scan: New York, Calvin Blanchard, 1860; copyright entry 1859"
+ },
+ "author_identifiable": true,
+ "author_basis": "Karl Ludwig von Reichenbach (1788-1869), chemist",
+ "found_via": "own lead (not in seeds); archive.org creator search",
+ "notes": "OCR is rough (c for e throughout); anchors must be copied from the file as it stands. The testimony is that of Reichenbach's subjects reported by him, not his own seeing: he says he himself was 'perfectly blind' in the dark room. The fuller treatise is the 1850-51 'Researches' (archive.org physicophysiolog1851reic), not saved."
+}

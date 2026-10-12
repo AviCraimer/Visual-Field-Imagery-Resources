@@ -1,0 +1,51 @@
+{
+ "id": "suf-ibn-arabi-risalat-al-anwar",
+ "stream": "sufi",
+ "title": "Risalat al-anwar fima yumnah sahib al-khalwa min al-asrar (Treatise of Lights: on the secrets granted to one who undertakes retreat)",
+ "author": "Muhyi al-Din Ibn 'Arabi (d. 638/1240)",
+ "translator": null,
+ "year": "602/1205-6 (Konya); edition 2000",
+ "edition_cited": "Arabic text, excerpt from the OCR of Majmu'at Rasa'il Ibn 'Arabi, vol. 1 (Beirut: Dar al-Mahajja al-Bayda', 2000), archive.org Majmua_Rasail_ibn_Arabi",
+ "tradition": "Akbari",
+ "language": "Arabic",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/Majmua_Rasail_ibn_Arabi",
+ "alt_urls": [],
+ "source_files": [
+  "sources/suf-ibn-arabi-risalat-al-anwar.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Line numbers refer to the saved excerpt (subtract nothing: header is 3 lines)",
+  "~l. 440-490: conditions before entering retreat: mastering the imagination, diet and balanced temperament ('if dryness is excessive it leads to imaginings'), telling angelic from satanic arrivals by their after-effect; the creed to hold on entering: 'laysa ka-mithlihi shay''; whatever form appears and says 'I am God', say 'subhan Allah'",
+  "~l. 540-560: the eye test: when you see the form of a person or an act, 'close your eyes; if the unveiling remains it is in your imagination; if it vanishes, the perception was attached to the place where you saw it'",
+  "~l. 550-570: from sensory unveiling to imaginal unveiling; the drinks offered (water, milk, honey; avoid wine)",
+  "~l. 660-700: the repeated formula 'fa-in lam taqif ma'a hadha rufi'a laka...' (if you do not stop with this, there is raised for you...): the flashes (lawa'ih), then 'nur mutatayir al-sharar' (a light scattering sparks) from which you seek cover: 'do not fear, keep to the dhikr'; then the light of the ascendants (tawali')",
+  "~l. 860: 'a light in which you see none but yourself'",
+  "Throughout: the instruction not to halt at any stage and to keep to dhikr"
+ ],
+ "summary": "A short letter of practical guidance for retreat. Ibn 'Arabi sets preconditions (discipline before seclusion, control of imagination, moderate diet because excess dryness breeds phantasms, a shaykh if possible), gives a rule for telling angelic from satanic visitations by the state they leave behind, and fixes the attitude to hold: God is like nothing, so whatever form appears claiming divinity is to be dismissed and the dhikr continued. He then lists in order what is 'raised' before the practitioner if he does not stop at each stage: first the sensory world seen through walls and darkness, with a test (close your eyes: if the vision stays it is in imagination, if it goes it was located perception), then imaginal forms and cups, then flashes, a light that throws off sparks and frightens, a light of ascendant stars, and many further unveilings. The repeated counsel is: do not stop with it, do not fear, keep invoking.",
+ "why_relevant": "States an explicit operational test for imaginal versus located perception with eyes closed, names lights among the phenomena of retreat, and gives the 'do not stop' counsel; seed lead confirmed.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "sound_or_mantra",
+  "sensory_restriction",
+  "darkness_exposure",
+  "fasting_or_austerity",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "2000",
+  "class": "published_record",
+  "basis": "13th-century work; the archive.org description of the item gives the printed edition as Beirut, 1st ed. 1421 AH = 2000 CE (the item itself was uploaded 2026-04-16)"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; archive.org search for Rasa'il Ibn 'Arabi, then text search for the title",
+ "notes": "OCR of Arabic print with the modern editor's numbered footnotes interleaved; several words are broken. Anchors must be copied as they stand. English: Rabia Terri Harris, Journey to the Lord of Power (Inner Traditions, 1981; in copyright, not saved; unauthorised scans on archive.org seen and not downloaded), which also translates part of 'Abd al-Karim al-Jili's commentary. The same volume of Rasa'il contains Ibn 'Arabi's Kitab al-Khalwa al-mutlaqa (file lines ~13700-14700 of the volume), not saved."
+}

@@ -1,0 +1,47 @@
+{
+ "id": "wes-besterman-crystal-gazing",
+ "stream": "western-esoteric",
+ "title": "Crystal-Gazing: A Study in the History, Distribution, Theory and Practice of Scrying",
+ "author": "Theodore Besterman",
+ "translator": null,
+ "year": "1924",
+ "edition_cited": "London: William Rider & Son, 1924 (HathiTrust/Google digitisation of the University of Michigan copy, mirrored on archive.org)",
+ "tradition": "British psychical research; compilation of scryers' reports worldwide",
+ "language": "English",
+ "source_type": "anthology_or_compilation",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/besterman-1924-crystal-gazing",
+ "alt_urls": [
+  "https://archive.org/details/bwb_T3-BNI-599"
+ ],
+ "source_files": [
+  "sources/wes-besterman-crystal-gazing.txt"
+ ],
+ "seen_via": "Passages by individual scryers are quoted by Besterman from S.P.R. Proceedings and other works; cite both when used",
+ "locator_hints": [
+  "Chapter I 'Scrying and its Methods': the range of specula (water, ink, nail, mirror, flame, darkness)",
+  "Chapter VIII 'The Procedure of Scrying', pp. 103-115 (file lines c. 7296-8125; 56-61% into file): Lang's procedure; 'almost universal agreement ... about the changes that seem to take place in the crystal before the visions appear'; Miss Angus, Mrs Verrall, Maxwell, Ibn Khaldun's 'fog-like curtain'; a scryer who first sees 'a very bright light' then mist; Miss Coad by firelight",
+  "Chapter IX 'The Mechanism of Scrying' and Chapter X 'Miscellaneous Phenomena' (after-images, size, colour, movement)",
+  "Chapters IV-VII: historical and ethnographic procedures"
+ ],
+ "summary": "A documented survey that is useful here mainly for Chapter VIII, where Besterman assembles named scryers' own descriptions of what happens before pictures appear and states that they agree except in detail. He quotes Lang's procedure (alone, back to the light, ball in the lap on dark cloth, about five minutes) and then reports: the ball seems to vanish (Miss Angus and others); a fog-like curtain forms between the eyes and the mirror, on which the shapes appear (Ibn Khaldun); one scryer first sees 'a very bright light' in the ball for a few seconds, then a cloudy thick surface which clears, the same light and mist recurring between pictures; pictures are not limited by the size of the speculum (Mrs Verrall, Maxwell). Other chapters catalogue methods across cultures and periods, with references to the S.P.R. Proceedings papers by Myers, Hyslop, Newbold and Goodrich-Freer.",
+ "why_relevant": "A convenient conduit to many first-person scryer reports on the onset phenomena (light, mist, disappearance of the speculum) and to the procedures that produced them.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "scrying_surface",
+  "gazing_fixed_point"
+ ],
+ "priority": 2,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1924",
+  "class": "published_record",
+  "basis": "archive.org metadata date 1924; HathiTrust page stamps in the text mark it 'Public Domain in the United States, Google-digitized'"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; archive.org title search",
+ "notes": "Scholarly in form, so it serves as a secondary conduit and anthology rather than a manual. Public domain in the United States (1924); Besterman died in 1976, so it may still be in copyright elsewhere. The saved text has HathiTrust watermark lines interleaved."
+}

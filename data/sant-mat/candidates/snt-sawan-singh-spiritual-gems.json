@@ -1,0 +1,57 @@
+{
+ "id": "snt-sawan-singh-spiritual-gems",
+ "stream": "sant-mat",
+ "title": "Spiritual Gems (letters to American and European disciples)",
+ "author": "Sawan Singh (Huzur Maharaj Baba Sawan Singh, 1858-1948)",
+ "translator": null,
+ "year": "letters 1919-1948; first RSSB book edition c. 1958; later reprints",
+ "edition_cited": "Radha Soami Satsang Beas edition as OCR'd in archive.org item SawanSinghSpiritualGems (edition year not printed in the OCR front matter; 437 pp. with glossary and index)",
+ "tradition": "Radha Soami Satsang Beas (Sant Mat, surat shabd yoga)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "in_copyright",
+ "access": "partial_saved",
+ "url": "https://archive.org/details/SawanSinghSpiritualGems",
+ "alt_urls": [
+  "https://archive.org/details/huzurmaharajsawansinghspiritualgems",
+  "https://archive.org/details/bwb_KU-749-842"
+ ],
+ "source_files": [
+  "sources/snt-sawan-singh-spiritual-gems.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Letters are numbered; excerpt file gives 'OCR lines a-b' plus the nearest preceding letter number. Printed page headers ('190 SPIRITUAL GEMS') survive in the OCR and can serve as page locators.",
+  "Printed p. 190 (OCR c. 8320): 'If you cannot see light within... fix your attention on the darkness and keep peeping into it'",
+  "OCR c. 9050: close the external eyes, peep into the darkness with the internal eye; three-fourths of the time to repetition, one-fourth to sound",
+  "Letter 42 (OCR c. 3462): stars and suns at hit-and-miss times are due to lack of concentration",
+  "Letters 49-50 (printed p. 80): locating the star, the star bursting, 'the cluster of stars does not disappear, it is the shaky mind'",
+  "OCR c. 3262-3280: numbness of limbs, then light and stars, the single large white star",
+  "Printed p. 300-301 (OCR c. 13010-13032): concentrate on 'the candlelight or darkness in the focus of the eyes' when one has not seen the Master",
+  "Printed p. 336-337 (OCR c. 14530-14545): numbered sequence; sparks and fleeting flashes replace darkness when concentration is almost complete",
+  "Index entries: Darkness 10, 105, 118; Flashes 80, 198"
+ ],
+ "summary": "Sawan Singh's replies to Western initiates between 1919 and 1948, many of them troubleshooting. To those who see nothing he says to keep the attention on the darkness in the focus of the eyes and 'peep' into it while repeating the five names: the darkness will change into light. He gives time splits (three-quarters repetition, one-quarter listening; lengthen one hour to two), says breathing is to be left alone and no force applied to the spine, and treats numbness of the limbs as the sign that withdrawal is working. He describes the expected sequence (sparks and fleeting flashes, sky and stars, one large white star to be fixed upon until it 'bursts', then sun and moon, then the Master's radiant form), explains intermittent stars as lack of concentration and a 'shaky mind', and warns against accepting anything offered by inner figures or telling others one's visions.",
+ "why_relevant": "Direct written troubleshooting for initiates who see darkness, flashes or stars; one of the clearest statements in the lineage of what to do when nothing is seen.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "sound_or_mantra",
+  "eye_position",
+  "darkness_exposure",
+  "attention_to_spontaneous_phenomena",
+  "devotion_or_transmission",
+  "concentration_nonvisual"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1965",
+  "class": "published_record",
+  "basis": "Letters written before the author's death in 1948 (foreword in saved text). The saved OCR prints no edition year; archive.org lending copy bwb_KU-749-842 of the same title is catalogued as 1965, and item huzurmaharajsawansinghspiritualgems is catalogued 1948. 1965 is given as the latest year a printed edition is attested in the archive metadata I saw; the first-edition year (c. 1958) is from memory, not verified."
+ },
+ "author_identifiable": true,
+ "author_basis": "Sawan Singh, second Beas master; book published by Radha Soami Satsang Beas",
+ "found_via": "seed lead; archive.org title search 'spiritual gems sawan'",
+ "notes": "In copyright (RSSB). Saved file is excerpts only: 81 context windows, about 13% of the OCR text, selected by keyword (flash, star, darkness, peep, sparks, candle, blue, sun and moon, etc.). Reading agent: paraphrase + anchor only. The 'candlelight' instruction (p. 300-301) is ambiguous between an imagined flame and darkness as support; record as the source words it."
+}

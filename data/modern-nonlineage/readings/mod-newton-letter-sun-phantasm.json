@@ -1,0 +1,32 @@
+{
+  "id": "mod-newton-letter-sun-phantasm", "stream": "modern-nonlineage",
+  "verdict": "keep",
+  "drop_reason": null, "drop_note": "",
+  "relevance": 4, "practicality": 3,
+  "text_read": "digest",
+  "mode": "perceptual",
+  "mode_evidence": "Newton sees a 'round bright spot of light like the sun' on clouds, books and bright objects, and with either eye; he calls it a spectrum or phantasm and attributes its return to the power of fancy acting on the sensorium. It reappears in a dark room and in bed at midnight with curtains drawn.",
+  "eyes": "both",
+  "onset_pathway": "induction",
+  "onset_evidence": "Induction by a stimulus first (brief sun glance in a mirror with one eye, then dark corner, winking, repeated three times); on the third round the fading afterimage returned vivid when he intended his fancy on it. After that no sun was needed: attending 'as when a man looks earnestly to see any thing which is difficult to be seen' brought it back, easier each time; within a few hours it was uncontrollable. So the pathway is stimulus then volitional attention, and the independence of the stimulus is explicit. No grace claim. Dangerous: eye damage.",
+  "stimulus_independence": "yes",
+  "techniques": ["afterimage_retention", "light_source_gazing", "darkness_exposure", "attention_to_spontaneous_phenomena"],
+  "conditions": {"posture": "", "gaze_or_eye_position": "right eye only at the sun's reflection, then eyes turned to a dark corner and winked", "setting": "dark corner of the chamber", "duration_and_schedule": "three repetitions the first time; within a few hours the effect pervaded all bright objects; recovery took three or four days dark, some months of recurrence on thinking of it", "prerequisites": "none stated", "other": ""},
+  "phenomena": ["sun_disc", "colour_fields", "body_or_objects_luminous"],
+  "stages": [{"label": "afterimage with circles of colours", "description": "decays by degrees and vanishes"}, {"label": "willed return", "description": "returns vivid when attention is intended upon it; vanishes when attention stops"}, {"label": "spread to bright objects and the other eye", "description": "round bright spot seen on clouds, book; left eye took the impression though never exposed"}],
+  "what_to_do_with_light": "intend the mind upon it to bring it back; for recovery, divert the imagination to other things and remain in the dark",
+  "obstacles_and_fixes": ["loss of use of eyes: shut in a darkened room three days, divert the imagination from the sun, avoid bright objects for some days longer"],
+  "cautions": ["'with the hazard of my eyes'; he durst neither read nor write; recurrence for months whenever he meditated on it"],
+  "safety_flags": ["sun_gazing", "prolonged_darkness"],
+  "interpretation": "A disposition of the sensorium to move the imagination strongly and to be easily moved by imagination and light; he calls the cause too hard a knot to untie.",
+  "practice_summary": "Newton looked very briefly at the sun's reflection in a mirror with one eye, then turned into a dark corner and winked, watching the impression and its colour rings fade. He did this three times. As the third image faded he directed his attention onto it as one strains to see something hard to see, and it came back as bright as at first, vanishing when he let go. Repeating the inward attention in the dark, with no further sun, made it return more easily each time, until a round bright spot of the sun appeared on any bright object, and the unexposed eye acquired it too. He lost use of his eyes; three or four days in a dark room, thinking of other things, restored them. He warns of the hazard to the eyes.",
+  "key_passages": [
+    {"locator": "Letter of 30 June 1691, source lines 14080-14219", "about": "method", "anchor": "looked  a  very  little  while  upon  the  sun  in  the", "paraphrase": "He looked briefly at the sun in a looking-glass with the right eye, then turned to a dark corner and winked to watch the impression and colour circles decay.", "quote": "I looked a very little while upon the sun in the looking-glass with my right eye, and then turned my eyes into a dark corner of my chamber, and winked", "source_file": "sources/mod-newton-letter-sun-phantasm.txt"},
+    {"locator": "Letter, source lines 14080-14219", "about": "onset", "anchor": "upon  them,  as  when  a  man  looks  earnestly  to", "paraphrase": "He intended his mind on the faded image like one looking earnestly at something hard to see, and it returned without the sun, more easily with repetition.", "quote": "", "source_file": "sources/mod-newton-letter-sun-phantasm.txt"},
+    {"locator": "Letter, source lines 14080-14219", "about": "development", "anchor": "the  oftener  I  made  it  return,  the  more  easily  I", "paraphrase": "Repetition made return easier until the spot was seen on any bright object.", "quote": "", "source_file": "sources/mod-newton-letter-sun-phantasm.txt"},
+    {"locator": "Letter, source lines 14080-14219", "about": "caution", "anchor": "my  eyes  to  such  a  pass,  that  I  could  look  upon", "paraphrase": "Within hours he could not look at any bright object without seeing the sun, and could not read or write.", "quote": "", "source_file": "sources/mod-newton-letter-sun-phantasm.txt"},
+    {"locator": "Letter, source lines 14080-14219", "about": "interpretation", "anchor": "seems  rather  to  consist  in  a  disposition  of  the", "paraphrase": "He locates the effect in a disposition of the sensorium to be moved by imagination and by light.", "quote": "", "source_file": "sources/mod-newton-letter-sun-phantasm.txt"}
+  ],
+  "cross_refs": ["Boyle, Experiments touching Colours"], "new_leads": [],
+  "reader_confidence": "high", "confidence_note": ""
+}

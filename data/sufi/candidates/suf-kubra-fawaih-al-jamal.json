@@ -1,0 +1,58 @@
+{
+ "id": "suf-kubra-fawaih-al-jamal",
+ "stream": "sufi",
+ "title": "Fawa'ih al-jamal wa-fawatih al-jalal (The Fragrances of Beauty and the Openings of Majesty)",
+ "author": "Najm al-Din Kubra (d. 618/1221)",
+ "translator": null,
+ "year": "c. 1200-1220; editions 1957 (Meier) and 1993 (Zaydan)",
+ "edition_cited": "Arabic text. Main file: OCR of Yusuf Zaydan's edition (Cairo, 1993), text body only, archive.org BBib-Alex-17147. Second file: OCR of Fritz Meier's edition (Wiesbaden, 1957), Arabic part, archive.org 20231018_20231018_1017",
+ "tradition": "Kubrawiyya, Khwarazm",
+ "language": "Arabic",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/BBib-Alex-17147",
+ "alt_urls": [
+  "https://archive.org/details/20231018_20231018_1017"
+ ],
+ "source_files": [
+  "sources/suf-kubra-fawaih-al-jamal.txt",
+  "sources/suf-kubra-fawaih-al-jamal.meier.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Line numbers refer to sources/suf-kubra-fawaih-al-jamal.txt (Zaydan OCR). Meier's section numbers are the standard reference; check them in the second file",
+  "~l. 120-165: the way of Junayd and its eight conditions: constant ablution, fasting, silence, seclusion (khalwa), dhikr of la ilaha illa'llah, binding the heart to the shaykh, rejecting stray thoughts, not objecting to God",
+  "~l. 165-200: the colour of the nafs like the sky (zurqa, blue)",
+  "~l. 380-420 (Meier sec. ~13): open space seen ahead with colours at the limit of sight; green = life of the heart, clear fire-colour = life of himma, yellow = weakness; green is the last colour, from which flashes and lightning shine",
+  "~l. 1227-1300: dhikr falling into the circle of the head, then descending; darkness, then fire, then green",
+  "~l. 1465-1515: the black circle of the commanding nafs; the circles of the face: two circles of light of the eyes, the circle of the light of the Real between the eyebrows, the circle of the spirit by the nose",
+  "~l. 1570-1600 and 1750-1760: sun, moon, stars seen within; the 'sun of the spirit'; the face overflowing with lights",
+  "~l. 1849: the sign checked by closing the eyelids and seeing points",
+  "~l. 2920-2970: the circle of the eye changes colour and size; leaving the cell at night",
+  "Autobiographical reports begin 'kuntu fi'l-khalwa dhakiran' (e.g. ~l. 588, 1234)"
+ ],
+ "summary": "The foundational Kubrawi treatise on what is seen in dhikr and retreat, written in numbered sections that mix instruction, interpretation and Kubra's own reports. It states the method as the 'way of Junayd' with eight standing conditions (ablution, fasting, silence, seclusion, the dhikr la ilaha illa'llah, heart bound to the shaykh, expelling thoughts, no objection to God), then describes what appears: darkness, then fire, then green; an open space with colours at the edge of vision, each colour read as a sign (green for the heart's life, clear red-fire for spiritual energy, yellow for weakness, blue for the nafs); flashes and lightning; circles of light at the eyes, between the eyebrows and by the nose; a black circle for the commanding soul; suns, moons and stars; the 'witness in heaven'. It distinguishes the fire of dhikr from the fire of Satan and gives tests.",
+ "why_relevant": "The primary source behind Corbin's 'photisms of colour': practical conditions for khalwa plus detailed phenomenology and diagnostic use of lights seen with eyes closed in a dark cell, with first-person reports.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "sound_or_mantra",
+  "sensory_restriction",
+  "darkness_exposure",
+  "fasting_or_austerity",
+  "devotion_or_transmission",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1957",
+  "class": "published_record",
+  "basis": "13th-century work; Meier's critical edition (Wiesbaden, 1957) is named in the archive.org title of the second file; the first file is Zaydan's 1993 edition per the archive.org title (Bibliotheca Alexandrina catalogue no. 17147). No date field in either item's metadata"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; archive.org search for the Arabic title",
+ "notes": "Both files are machine OCR of Arabic print and are noisy (Persian/Urdu letter forms, broken words). Anchors must be copied from the file exactly as garbled or chosen from clean runs. Zaydan's footnotes are interleaved in file 1 (lines beginning with a bracketed number). No complete English translation exists; long extracts in English are in Corbin, The Man of Light (see suf-corbin-man-of-light) and a French translation by Paul Ballanfat (Les eclosions de la beaute et les parfums de la majeste, 2001)."
+}

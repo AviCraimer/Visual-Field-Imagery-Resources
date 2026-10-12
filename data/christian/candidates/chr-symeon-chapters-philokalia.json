@@ -1,0 +1,42 @@
+{
+ "stream": "christian",
+ "translator": null,
+ "alt_urls": [],
+ "seen_via": null,
+ "locator_hints": [
+  "chapters on fear, pain, tears and light, ~source lines 740-810"
+ ],
+ "priority": 1,
+ "found_via": "gap pass 2",
+ "notes": "",
+ "author_identifiable": true,
+ "author_basis": "",
+ "id": "chr-symeon-chapters-philokalia",
+ "title": "Practical and Theological Chapters (Philokalia selection)",
+ "author": "Symeon the New Theologian",
+ "year": "c. 1000; ed. 1893",
+ "tradition": "Byzantine",
+ "url": "https://archive.org/details/Dobrotolyubie1793",
+ "source_files": [
+  "sources/chr-symeon-chapters-philokalia.txt"
+ ],
+ "summary": "Symeon's chapters describe a progression from fear of judgement and heart-pain to unceasing tears, then, for the perfected, the heart's spring becoming light: the one who has the light of the Spirit within, unable to bear seeing it, falls on his face crying out in terror, burns as by fire, and when wholly set alight becomes light. The 'Three Methods of Prayer' attributed to him could not be located in this OCR.",
+ "why_relevant": "First-person-styled description of the onset of seen light and its precondition (penthos, tears).",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "devotion_or_transmission",
+  "fasting_or_austerity"
+ ],
+ "language": "Greek",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1893",
+  "class": "published_record",
+  "basis": "Second Greek edition of the Philokalia, Athens 1893 (archive.org metadata and title page); text first printed Venice 1782"
+ },
+ "edition_cited": "Philokalia ton ieron neptikon, Athens 1893, djvu OCR from archive.org"
+}

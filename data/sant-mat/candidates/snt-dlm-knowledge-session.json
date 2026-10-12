@@ -1,0 +1,51 @@
+{
+ "id": "snt-dlm-knowledge-session",
+ "stream": "sant-mat",
+ "title": "The Knowledge Session (old Divine Light Mission session from the 'Mahatma's handbook'; current first-technique instructions; scriptural parallels)",
+ "author": "ex-premie.org (unsigned site pages; scripture commentary attributed on the page to Michael Dresbach)",
+ "translator": null,
+ "year": "undated web pages; describes 1970s DLM practice and the later video Knowledge session",
+ "edition_cited": "Three pages of ex-premie.org as read on 2026-10-11: papers/KSession.htm, pages/aspir5.htm, papers/medtech.htm",
+ "tradition": "Divine Light Mission / Elan Vital (Prem Rawat, 'Knowledge'); reported by former members",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "in_copyright",
+ "access": "reader_extract_saved",
+ "url": "https://ex-premie.org/papers/KSession.htm",
+ "alt_urls": [
+  "https://ex-premie.org/pages/aspir5.htm",
+  "https://ex-premie.org/papers/medtech.htm"
+ ],
+ "source_files": [
+  "sources/snt-dlm-knowledge-session.txt",
+  "sources/snt-dlm-knowledge-session-aspir5.txt",
+  "sources/snt-dlm-knowledge-session-medtech.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "KSession.htm, section on 'The Divine Light' under 'The old DLM's Knowledge Session': hand position, gentle pressure, gaze to centre of forehead, the 'baragon' arm-rest, third-eye-by-grace statement",
+  "aspir5.htm, heading 'First Meditation Technique': thumb and middle finger traced along the lid rims to the inner corners, index finger on the forehead, 'There's no need to press', 15 minutes; later section on session schedule (15 min each; 30 min each for a two-hour sitting; baragons banned)",
+  "medtech.htm, section 'The Light': Gheranda Samhita shambhavi mudra and a 'feather' touch of the eyeballs cited as antecedents"
+ ],
+ "summary": "Three pages by former members that set out the Divine Light Mission 'light technique' in its two forms. The 1970s form, attributed to the mahatmas' handbook: forefinger on the centre of the forehead, thumb and middle finger pressing each closed eyeball gently, gaze turned toward the centre of the forehead, arms propped on a T-shaped rest (baragon); after some time the initiate should begin to see the 'Divine Light', which the handbook says is seen only through the third eye opened by the Master's grace. The current form, shown by video: the same fingers rest at the inner corners of the lids only to keep the eyeballs still, with an explicit instruction not to press, fifteen minutes per technique, and the word 'light' dropped. A third page lists hatha-yoga texts (shambhavi mudra, yoni mudra) as sources. No results are claimed on these pages.",
+ "why_relevant": "The clearest available statement of a physical-induction method (eye pressure with upturned gaze) taught as the way to first light, and of its later softening to no pressure; needs the stimulus-independence question asked of it.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "eye_pressure_or_sense_closure",
+  "eye_position",
+  "devotion_or_transmission",
+  "posture_or_body_lock"
+ ],
+ "priority": 1,
+ "medium": "web_article",
+ "date_evidence": {
+  "date": "",
+  "class": "undated",
+  "basis": "No publication or revision date is shown on any of the three pages (the reader extract looked for dates and found only historical ones inside citations, e.g. 1992 and 1999 book dates on medtech.htm). The site carries dated material from 1997 onward (e.g. a 22 Mar 97 newsgroup post, a Journeys entry dated November 1, 1998), but that does not date these pages."
+ },
+ "author_identifiable": true,
+ "author_basis": "Unsigned pages of ex-premie.org, a volunteer site of former Divine Light Mission / Elan Vital members whose dated pages run from the late 1990s; attribution is to the site as an organisation, not to a named individual",
+ "found_via": "WebSearch restricted to ex-premie.org; links from KSession.htm",
+ "notes": "Safety: eye pressure (set flag eye_pressure). Reader extracts only, three separate files; anchors must come from the quoted phrases in them. The pages are hostile witnesses reporting the organisation's instructions; the 'Mahatma's handbook' itself was not seen. Whether pressure-induced light develops into stimulus-free light is not addressed here: see the testimony records (strasburg, read, ajw, rolling-stone)."
+}

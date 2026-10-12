@@ -1,0 +1,110 @@
+{
+ "id": "hin-thirty-minor-upanishads-aiyar",
+ "stream": "hindu-yoga-tantra",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 4,
+ "practicality": 3,
+ "text_read": "digest",
+ "mode": "perceptual",
+ "mode_evidence": "Mandalabrahmana describes colours 'seen' at set distances before the nose with eyes fully open, streaks of light at the corners of the eyes while looking at space, and a graded sight with closed, half-open and fully open eyes; Sambhavi occurs while 'the physical eyes are seeing externally without winking'.",
+ "eyes": "both",
+ "onset_pathway": "induction",
+ "onset_evidence": "Gives three lakshyas as procedures: close ears with forefingers, fix mind on the booming sound, blue light between the eyes and in the heart; look at external space at 4 to 12 digits before the nose and moving the eyes see streaks of light at the corners, after which vision steadies; or practise fully opened-eye gaze at the nose tip, first deep darkness at the palate root, then a sphere of light. No time scales; 'the great science concealed in all the tantras'; a guru's words referenced elsewhere.",
+ "stimulus_independence": "unclear",
+ "techniques": [
+  "gazing_fixed_point",
+  "eye_position",
+  "sound_or_mantra",
+  "eye_pressure_or_sense_closure",
+  "sky_or_space_gazing",
+  "breath_control",
+  "concentration_nonvisual"
+ ],
+ "conditions": {
+  "posture": "Neck and body erect, mouth closed.",
+  "gaze_or_eye_position": "Fully open eyes aimed at the nose tip (purnima); eyes moved while looking at space; ears closed with forefinger tips for the internal lakshya.",
+  "setting": "",
+  "duration_and_schedule": "",
+  "prerequisites": "Taraka yoga practised with introvision accompanied by manas.",
+  "other": "Prana and Apana united and kumbhaka for the western light."
+ },
+ "phenomena": [
+  "colour_fields",
+  "blue",
+  "red",
+  "gold_yellow",
+  "sphere_pearl_bindu",
+  "stars",
+  "moon_disc",
+  "sun_disc",
+  "lamp_or_flame",
+  "fireflies",
+  "smoke_mist_cloud",
+  "lightning_flashes",
+  "all_pervading_light",
+  "black_light"
+ ],
+ "stages": [
+  {
+   "label": "signs of Sambhavi (purva)",
+   "description": "Seen in order: a star, a dazzling diamond, the sphere of the full moon, the brightness of nine gems, the midday sun, a flame of fire."
+  },
+  {
+   "label": "uttara (western) light",
+   "description": "Lustres of crystal, smoke, bindu, nada, kala, star, firefly, lamp, eye, gold, and nine gems."
+  }
+ ],
+ "what_to_do_with_light": "Fix the gaze and let the light-sequence unfold; behold the endless sphere of light as Brahman; absorb mind in the bliss it gives.",
+ "obstacles_and_fixes": [],
+ "cautions": [],
+ "safety_flags": [
+  "breath_retention",
+  "transmission_required_by_tradition"
+ ],
+ "interpretation": "The taraka light is Brahman, the Sachchidananda; Brahma-tejas, the spiritual effulgence.",
+ "practice_summary": "The Mandalabrahmana Upanishad gives three targets. Internal: close the ears with the tips of the forefingers, fix the mind on the booming sound, and a blue light is seen between the eyes and in the heart. External: look into space before the nose and one sees at 4, 6, 8, 10 and 12 digits successively blue space, indigo-black, a red wave, then yellow tones; looking at space while moving the eyes, streaks of light show at the eye corners and vision becomes steady; a light 12 digits above the head brings the nectar state. Brahmana II says to practise with fully open eyes aimed at the nose tip: first a deep darkness at the palate root, then an endless sphere of light. Signs come in order: star, diamond, full moon, nine gems, midday sun, flame.",
+ "key_passages": [
+  {
+   "locator": "Mandalabrahmana Upanishad, Brahmana I, source lines 11560-11786",
+   "about": "method",
+   "anchor": "When the two ears are closed by the tips of the forefingers, a phatkara",
+   "paraphrase": "With ears closed by the forefingers a booming sound is heard; fixing the mind on it, a blue light is seen between the eyes and in the heart.",
+   "quote": "When the two ears are closed by the tips of the forefingers, a phatkara (or booming) sound is heard. When the mind is fixed on it, it sees a blue light between the eyes as also in the heart.",
+   "source_file": "sources/hin-thirty-minor-upanishads-aiyar.txt"
+  },
+  {
+   "locator": "Mandalabrahmana Upanishad, Brahmana I, source lines 11560-11786",
+   "about": "onset",
+   "anchor": "When one looks at the external space, moving",
+   "paraphrase": "Moving the eyes while looking at space, streaks of light appear at the eye corners, after which vision can be made steady.",
+   "quote": "When one looks at the external space, moving the eyes and sees streaks of light at the corners of his eyes, then his vision can be made steady.",
+   "source_file": "sources/hin-thirty-minor-upanishads-aiyar.txt"
+  },
+  {
+   "locator": "Mandalabrahmana Upanishad, Brahmana II, source lines 11560-11786",
+   "about": "mode",
+   "anchor": "That with half opened eyes is pratipat",
+   "paraphrase": "Three sights by eye aperture; the fully open-eyed purnima gaze aimed at the nose tip is to be used.",
+   "quote": "The sight of ama is the one (seen) with closed eyes. That with half opened eyes is pratipat; while that with fully opened eyes is purnima. Of these, the practice of purnima should be resorted to. Its lakshya (or aim) is the tip of the nose.",
+   "source_file": "sources/hin-thirty-minor-upanishads-aiyar.txt"
+  },
+  {
+   "locator": "Mandalabrahmana Upanishad, Brahmana II, source lines 11560-11786",
+   "about": "stages",
+   "anchor": "seen like a star; then a reflecting (or dazzling) diamond",
+   "paraphrase": "Signs of progress appear in order from star to diamond, full moon, nine gems, midday sun, flame.",
+   "quote": "first it is seen like a star; then a reflecting (or dazzling) diamond; then the sphere of full moon; then the sphere of the brightness of nine gems; then the sphere of the midday sun; then the sphere of the flame of agni (fire); all these are seen in order.",
+   "source_file": "sources/hin-thirty-minor-upanishads-aiyar.txt"
+  }
+ ],
+ "cross_refs": [
+  "hin-sivananda-kundalini-yoga"
+ ],
+ "new_leads": [
+  "Other Yoga Upanishads in the volume (Yogatattva, Dhyanabindu, Tejobindu) not read beyond the digest"
+ ],
+ "reader_confidence": "medium",
+ "confidence_note": "Digest only; quote lines are tidied OCR-sensitive text in anchors, validate checks anchors only. Several signs lists are brief."
+}

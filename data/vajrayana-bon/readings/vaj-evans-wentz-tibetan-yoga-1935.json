@@ -1,0 +1,123 @@
+{
+ "id": "vaj-evans-wentz-tibetan-yoga-1935",
+ "stream": "vajrayana-bon",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 5,
+ "practicality": 4,
+ "text_read": "Full text grepped for visualization, gaze, rainbow, mirror; read in full: Gen. Intro. X (pp. 44-45), Book II paras 31-36, Book III ch. I preliminary exercises 1-3, internal psychic-heat paras 66-67 with notes, and Book III ch. II paras 7-19 (Maya of the Visualizing and Perfected States). Saved file keeps only these excerpts.",
+ "mode": "imaginal_crossing",
+ "mode_evidence": "Illusory Body para. 9: by gazing fixedly at a painted Vajrasattva reflected in a mirror 'the figure will come to appear as if animated'; para. 10 then locates the visualized figure in physical space 'between the mirror and thyself'; para. 11 proceeds only 'should the visualization become substantial enough to touch' and then 'life-like'. The editor's note calls this 'the standard test applied to yogic visualizations'. The text does not use the words 'seen with the eyes', and the same book insists the visualized Vajra-Yogini is 'purely illusory, being without any reality apart from the mind', so the crossing is into apparent externality, read through an emptiness doctrine.",
+ "eyes": "open",
+ "onset_pathway": "induction",
+ "onset_evidence": "The mirror method is itself a bridge for someone who cannot yet hold a deity: begin with a painted image and its reflection, gaze until it seems animated, then hold the visualized form in the same place without relying on the picture, then extend. Each step is conditional on success of the previous ('should ... become substantial', 'should this ... similarly become life-like'). No time scale given. It is framed as preparation given to a disciple during the multi-day first initiation.",
+ "stimulus_independence": "yes",
+ "techniques": [
+  "visualization_crossing",
+  "scrying_surface",
+  "gazing_fixed_point",
+  "concentration_visual_object",
+  "sky_or_space_gazing"
+ ],
+ "conditions": {
+  "posture": "seven postures of Vairochana (for the Perfected State)",
+  "gaze_or_eye_position": "fixed gaze on the mirrored image; later fixed gaze on empty sky",
+  "setting": "picture attached to a stake so the seated yogin sees it in the mirror",
+  "duration_and_schedule": "not stated",
+  "prerequisites": "given during initiation; guru-led",
+  "other": "Psychic-heat visualization trains size: own body, house, hill, universe, then sesame seed 'with all the limbs and parts sharply defined'"
+ },
+ "phenomena": [
+  "figures_or_forms",
+  "smoke_mist_cloud",
+  "body_or_objects_luminous"
+ ],
+ "stages": [
+  {
+   "label": "mirrored form",
+   "description": "painted deity reflected in mirror, gazed at until it seems animated"
+  },
+  {
+   "label": "visualized between mirror and self",
+   "description": "the form held in the space in front"
+  },
+  {
+   "label": "substantial enough to touch / life-like",
+   "description": "test of success; then extend to other bodies"
+  },
+  {
+   "label": "all visible forms as the deity",
+   "description": "phenomena dawn as the deity's sport; 'The Illusory Visualization'"
+  },
+  {
+   "label": "Maya of the Perfected State",
+   "description": "gaze at empty sky; Five Signs (apparitional smoke etc.); vision of Buddha form against a cloudless sky like the moon in water"
+  }
+ ],
+ "what_to_do_with_light": "Stabilise and extend the life-like form, then recognise all appearances as the deity and as illusory; in the Perfected State, gaze into empty sky and let the signs arise.",
+ "obstacles_and_fixes": [
+  "If the deity cannot be held, use a painted image and its mirror reflection as the starting support",
+  "Train detail by shrinking the form to a sesame seed while keeping every part sharply defined"
+ ],
+ "cautions": [
+  "Visualized deities are not to be taken as having objective, individual existence, nor dismissed as 'merely mental' (Gen. Intro. X)",
+  "Vajra-Yogini's form is 'purely illusory', a preliminary to the psychic-heat practice"
+ ],
+ "safety_flags": [
+  "transmission_required_by_tradition"
+ ],
+ "interpretation": "The deity is mind-produced and empty, yet should become life-like and seemingly external; that apparent objectivity is itself the teaching on illusion.",
+ "practice_summary": "Have a painted image of Vajrasattva or another tutelary deity fixed on a stake so that, seated, you see it reflected in a mirror. Gaze at the reflection with fixed gaze and fixed mind until the figure seems animated. Then visualize the figure standing in the space between the mirror and yourself. When that visualized figure becomes so substantial it seems touchable, visualize your own body as the same deity, then any body you happen to see, and when that too becomes life-like, all visible forms. Phenomena then dawn as the deity's display. Complementary drills from the psychic-heat preliminaries: visualize yourself as Vajra-Yogini, red, transparent and radiant like an empty tent of red silk; expand the form to body size, house, hill, universe; then shrink it to a sesame seed and smaller with all parts sharply defined. Afterwards, gaze into cloudless sky without thought; the Five Signs and a Buddha form like the moon in water may appear.",
+ "key_passages": [
+  {
+   "locator": "Book III ch. II, Maya of the Visualizing State, paras 9-11 (pp. 211); saved file OCR lines 12637-12647",
+   "about": "mode",
+   "anchor": "By looking at that mirrored form with fixity of gaze and mind, and meditating upon it, the figure will come to appear as if animated",
+   "paraphrase": "Gazing at the mirrored painted deity makes it seem alive; then visualize it between mirror and self; if it becomes substantial enough to touch, extend to your own body, other bodies, all visible forms.",
+   "quote": "",
+   "source_file": "sources/vaj-evans-wentz-tibetan-yoga-1935.txt"
+  },
+  {
+   "locator": "Same, footnote to para. 11 (p. 211); OCR lines 12686-12690",
+   "about": "mode",
+   "anchor": "This is the standard test applied to yogic visualizations. If the yogin^s practising be successful, the visualization will appear to him substantial, or life-like",
+   "paraphrase": "Editor (Evans-Wentz, presumably from Dawa-Samdup) states that the success criterion for any yogic visualization is that it appears substantial or life-like; he adds Tibetan reports of visualizations becoming palpable.",
+   "quote": "",
+   "source_file": "sources/vaj-evans-wentz-tibetan-yoga-1935.txt"
+  },
+  {
+   "locator": "Same, footnote 1 to para. 8 (p. 211); OCR line ~12680",
+   "about": "method",
+   "anchor": "The picture is to be held, or preferably attached to a stake, in such manner that the yo^in as he sits meditating can see it reflected in the mirror",
+   "paraphrase": "Practical set-up for the mirror method.",
+   "quote": "",
+   "source_file": "sources/vaj-evans-wentz-tibetan-yoga-1935.txt"
+  },
+  {
+   "locator": "Book III ch. I, Preliminary Exercise 1, paras 15-16 (p. 175)",
+   "about": "method",
+   "anchor": "then to the size of a very greatly reduced sesamum seed, still having all the limbs and parts sharply defined",
+   "paraphrase": "Expand the self-visualization of Vajra-Yogini to universe size, then reduce it to a minute seed while keeping every detail sharp.",
+   "quote": "",
+   "source_file": "sources/vaj-evans-wentz-tibetan-yoga-1935.txt"
+  },
+  {
+   "locator": "Book III ch. II, Maya of the Perfected State, paras 16-19 (p. 212)",
+   "about": "development",
+   "anchor": "one should have a vision of the Form of the Buddha outlined against a cloudless sky, like unto the moon's reflected form seen in water",
+   "paraphrase": "After sky gazing and the Five Signs, a Buddha form is to be seen against the cloudless sky, like a reflection of the moon in water.",
+   "quote": "",
+   "source_file": "sources/vaj-evans-wentz-tibetan-yoga-1935.txt"
+  }
+ ],
+ "cross_refs": [
+  "vaj-bhattacharyya-iconography-1924",
+  "vaj-chakrasambhara-1919"
+ ],
+ "new_leads": [
+  "Gen. Intro. footnote on kasina: the circle 'will be seen even when the eyes are closed' (Theravada stream)"
+ ],
+ "reader_confidence": "high",
+ "confidence_note": "Read relevant chapters in OCR; quotes withheld because 1935 edition treated as in copyright. Which of the footnotes are Dawa-Samdup's and which Evans-Wentz's is not marked."
+}

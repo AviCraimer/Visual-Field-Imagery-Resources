@@ -1,0 +1,152 @@
+{
+ "id": "dao-zhengao-j9-10",
+ "stream": "taoist",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 4,
+ "practicality": 4,
+ "text_read": "Whole saved file read in the original classical Chinese: Part A in full (Zhen'gao juan 9 and juan 10 complete, main text and Tao Hongjing's bracketed commentary, about 1100 printed lines). Part B (character-spaced duplicate) used only to copy anchors. The other 18 juan are not in the file.",
+ "mode": "imaginal_crossing",
+ "mode_evidence": "The verb throughout is 存 (hold in mind), but several items say the practice is to end in seeing or feeling. Ingesting mist: with half-closed eyes (臨目) 'make the eyes see' (使目見) five-coloured vapours winding thickly over the face. Five-star method: 'the essential of visualising is that you should feel your eyes behold (當覺目睹) the five stars'. Inner viewing of the viscera: 'practised long, it of itself becomes distinct and clear (自得分明了了)'. One item is plainly perceptual and mechanical: at the end of the eye massage, press the four corners of the eyes eighteen times and 'feel, and make yourself see, the light distinctly (覺令見光分明)'. Against this, most sun-and-moon items stay at 存 with only promised results (keen sight, a glowing face), and one late oral formula asks only that the image be 'as if a semblance' (使精如彷彿).",
+ "eyes": "both",
+ "onset_pathway": "induction",
+ "onset_evidence": "Addresses the beginner directly. (1) The inner-viewing formula says outright that at first there is truly not even a semblance, and that only long practice brings one into the marvel; it also advises starting with one direction rather than all four. (2) It gives a physical induction: pressing the corners of the eyes (with breath held, in one version) until light is seen. (3) Time scales are stated: about one year for sharpened sight and hearing or being able to write at night; 'long practice' for seeing a thousand li and seeing spirits; five years for the body to have radiance in the sun-in-heart method; Jiwei fasted three years before he 'got it' and divine light shone on his body. Prerequisites: curing illness first (Wang Zhongfu inhaled the two luminaries forty years with no result until he treated his illness), sexual restraint, purification fasts, a metal-pledge oath for the Baoshen eye method. No statement that light comes only by grace; the stress is on diligence (懃) and concentrated sincerity (精心), though 'resonance' (感) with the spirits is the stated mechanism.",
+ "stimulus_independence": "unclear",
+ "techniques": [
+  "eye_pressure_or_sense_closure",
+  "visualization_crossing",
+  "breath_control",
+  "sound_or_mantra",
+  "light_source_gazing",
+  "sleep_threshold",
+  "energy_work",
+  "fasting_or_austerity",
+  "other"
+ ],
+ "conditions": {
+  "posture": "Lying or sitting 'as you please' for most methods; the inner-viewing method is done lying still with faint breath so that bystanders think you asleep; the night eye method is done lying facing east (sitting also allowed).",
+  "gaze_or_eye_position": "Eyes shut (閉目) for inner viewing; half-closed, lowered eyes (臨目) for the mist method, the sun-in-heart method and the three-vapour method (the last optionally while looking at the rising sun).",
+  "setting": "Bedchamber or quiet room (寢靜); done privately and unseen; bed raised three feet or more; room and clothing kept clean.",
+  "duration_and_schedule": "Dawn (平旦) for mist, three vapours and guarding the dark and white (from dawn until near noon); on waking in the night for eye massage and incantation; midnight on the 5th, 15th, 25th, 29th for the sun-in-heart method, or three times daily; eye-point pressing morning, noon and evening.",
+  "prerequisites": "Illness treated first; sexual abstinence; no meat of the six domestic animals or pungent vegetables (for guarding the dark and white); purification fast and abstention from grain (for the Mingtang sun and moon method); oath with gold rings for the Baoshen and Siming eye methods; secrecy.",
+  "other": "Nearly every method closes with saliva swallowing (咽液), teeth knocking (叩齒) and a whispered incantation (微祝). Tao Hongjing notes the detailed sequences are in his Dengzhen yinjue (登眞隱訣), not reproduced here."
+ },
+ "phenomena": [
+  "light_on_eye_pressure",
+  "colour_fields",
+  "smoke_mist_cloud",
+  "violet",
+  "blue",
+  "red",
+  "sun_disc",
+  "moon_disc",
+  "rays",
+  "lamp_or_flame",
+  "body_or_objects_luminous",
+  "figures_or_forms",
+  "inner_sounds_of_metal_jade_strings_flutes",
+  "distant_scenes"
+ ],
+ "stages": [
+  {
+   "label": "初爲之實無彷彿 (at first truly no semblance)",
+   "description": "Nothing is seen when inner viewing is first attempted; the instruction is to keep on, one direction at a time."
+  },
+  {
+   "label": "一年許耳目便精明 (after about a year)",
+   "description": "Eyes and ears become keen; the Baoshen massage says one can write at night after a year."
+  },
+  {
+   "label": "久爲之 (long practice)",
+   "description": "Sight 'penetrates a thousand li', spirits are seen (得見百靈, 羅映神靈), and sounds of metal, jade, strings and flutes are constantly heard in the ears."
+  },
+  {
+   "label": "神光映身 / 身有光彩 (light on the body)",
+   "description": "Sun and moon methods promise jade light on the face and golden sheen on the body, radiance of the body after five years, and report 'divine light shining on the body' for Jiwei after a three-year fast."
+  }
+ ],
+ "what_to_do_with_light": "Draw it in and swallow it: the five-coloured vapours, the rays of sun, moon and stars are taken into the mouth and swallowed with saliva; the three vapours are let turn to fire that burns round the body until the viscera are lit through; sun and moon are 'parked' in the Mingtang behind the brows, left and right, to merge with the pupils when not practising. The eye-pressure light is simply to be seen distinctly as a check on the 'eye spirits'.",
+ "obstacles_and_fixes": [
+  "Nothing appears at first: begin with one direction only, keep on; 'after a long time you really enter the marvel'.",
+  "Years of luminary practice without effect (Wang Zhongfu, forty years): the body was ill and the 'brain palace' depleted; treat illness and take medicines first, then practise.",
+  "Dim eyes and blocked ears come from within, from lust and from much worry: 'wash the heart, cut off thoughts, give up wandering lust' before the eye method.",
+  "Beginners start with zeal and then slacken, like a cart whose joints loosen: pursue the Way as a merchant pursues profit.",
+  "Fear at night or in the dark: visualise sun and moon returning into the Mingtang; evil influences vanish in a moment."
+ ],
+ "cautions": [
+  "Do not tell others what you see or hear, nor that you are practising; speaking of it invites trial by spirits and loss of merit.",
+  "Guarding the dark and white: sexual intercourse while practising 'is death'; also forbids meat and pungent foods.",
+  "Deafness in practitioners is blamed on practising the 'yellow and red' (sexual) qi without measure.",
+  "The Baoshen and Siming eye methods are transmitted only under an oath pledged with gold (and blue silk).",
+  "The order of teeth-knocking, incantation and swallowing must not be muddled."
+ ],
+ "safety_flags": [
+  "eye_pressure",
+  "breath_retention",
+  "sun_gazing",
+  "fasting",
+  "transmission_required_by_tradition"
+ ],
+ "interpretation": "The eyes and ears are 'the ladder to the Perfected and the gate to the numinous'; light seen is the radiance of the body's own eye spirits (眼神, 目童) fed by the essences of sun, moon, stars and coloured vapours, and its brightening is both a sign of rejuvenation and the means of seeing spirits.",
+ "practice_summary": "On waking in the night or at dawn, in a clean private room, lie or sit. Rub the palms hot and wipe the eyes; press the small hollows behind the eyebrows 27 times, rub the cheekbones under the eyes, rotate the ears 30 times, stroke the forehead upward from between the brows 27 times while holding in mind an infant with sun and moon shining as a pair, swallowing saliva throughout. Finish by pressing the four corners of the eyes 18 times until light is seen distinctly. A variant presses only the inner corners while holding the breath, releasing when breath must pass, then repeating. For inner viewing, lie still, eyes shut, breath faint, and send sight and hearing far off in one direction; expect nothing at first. At dawn, eyes shut, look within as if seeing the viscera, exhale 24 times with eyes half closed, making the eyes see five-coloured vapours coiling over the face; inhale them 50 times and swallow. Continue daily; results are counted in years.",
+ "key_passages": [
+  {
+   "locator": "Juan 9, item citing 紫度炎光内視中方, base-edition pp. 005a-005b (Part A lines 108-116)",
+   "about": "onset",
+   "anchor": "當 先 起 一 方 而 内 注 視 聽 初 爲 之 實 無 彷 彿 久 久 誠 自 入 妙",
+   "paraphrase": "Lie with eyes shut, body settled and breath faint, as if asleep so that bystanders do not notice; then look inward and listen afar to the four quarters, fixing ears and eyes beyond ten thousand li. Practised long, one of oneself sees things ten thousand li away, and with concentrated mind a million li; in the ears one constantly hears tones of metal and jade, strings and flutes. 'Four quarters' is a general expression: begin with one direction and fix inner sight and hearing there. When you first do it there is truly not even a semblance; after a long time you really do enter the marvel.",
+   "quote": "紫度炎光内視中方曰常欲閉目而卧安身微氣使如卧狀今傍人不覺也乃内視遠聽四方令我耳目注萬里之外久行之亦自見萬里之外事精心爲之乃見百萬里之外事也又耳中亦恒聞金玉之音絲竹之聲此妙法也四方者緫其言耳當先起一方而内注視聽初爲之實無彷彿久久誠自入妙",
+   "source_file": "sources/dao-zhengao-j9-10.txt"
+  },
+  {
+   "locator": "Juan 9, 清靈眞人說寳神經, close of the eye-massage sequence, base-edition p. 007b (Part A lines 158-159); the related breath-held version from 太上天關三經 is at p. 005b (lines 117-119)",
+   "about": "method",
+   "anchor": "以 手 按 目 四 眥 二 九 過 覺 令 見 光 分 明 是 檢 眼 神 之 道",
+   "paraphrase": "When the whole massage is done, press the four corners of the eyes with the hands eighteen times, feeling and making yourself see the light distinctly: this is the way of inspecting the eye spirits; done for a long time one comes to see the hundred numinous beings. Tao Hongjing's note says the exact measures are set out separately in his Dengzhen yinjue. The Tianguan version: press the two inner corners by the nose while holding the breath; when the breath must pass, stop, exhale and start again; kept up, 'the eyes can see through'. The syntax of 覺令見光 is terse; it could also be read 'until you notice light being seen'.",
+   "quote": "都畢以手按目四眥二九過覺令見光分明是檢眼神之道久爲之得見百靈",
+   "source_file": "sources/dao-zhengao-j9-10.txt"
+  },
+  {
+   "locator": "Juan 10, 服霧之法 (method of ingesting mist), base-edition pp. 001b-002a (Part A lines 574-586)",
+   "about": "mode",
+   "anchor": "臨 目 爲 之 使 目 見 五 色 之 氣 相 纏 繞 在 面 上 鬱 然",
+   "paraphrase": "At dawn in the quiet bedchamber, sitting or lying as you like, first shut the eyes and look within, vaguely, so that it is as if you saw the five viscera. Then breathe out through the mouth twenty-four times, doing this with eyes half closed, making the eyes see vapours of five colours winding about each other thickly over the face; take these five-coloured vapours into the mouth fifty times, swallow saliva sixty times, whisper the incantation, knock the teeth seven times, swallow seven times, then open the eyes. The wording moves from 'as if seeing' (使如見) for the viscera to 'make the eyes see' (使目見) for the vapours.",
+   "quote": "常以平旦於寢靜之中坐卧任己先閉目内視仿佛使如見五藏畢因口呼出氣二十四過臨目爲之使目見五色之氣相纏繞在面上鬱然因入口内此五色氣五十過畢咽液六十過",
+   "source_file": "sources/dao-zhengao-j9-10.txt"
+  },
+  {
+   "locator": "Juan 9, 雲林王夫人 on the Siming eye and ear method, base-edition pp. 011a-012a (Part A lines 237-254)",
+   "about": "method",
+   "anchor": "存 目 中 當 有 紫 青 絳 三 色 氣 出 目 前 此 是 内 按 三 素 雲",
+   "paraphrase": "Lust darkens the eyes and much worry shuts the ears; these two ills come from within. To see through and observe spirits, first wash the heart and cut off thoughts. Lying at night, shut the eyes tight, face east, and with the heel of the thumbs and palms rub from the eyes to the ear-gates so that the palms meet at the nape, twenty-seven times; hold in mind that purple, blue and crimson vapours come out of the eyes before them: this is 'pressing the three plain clouds inwardly to bathe the pupils'. Say the 48-character incantation silently, swallow fifty times, then open the eyes. May be done seated, in the hours of living breath. After about a year eyes and ears are keen; after long practice one sees through a thousand li and sees spirits.",
+   "quote": "夜卧先急閉目東向以手大指後掌各左右按拭目就耳門使兩掌俱交會於項中三九過存目中當有紫青絳三色氣出目前此是内按三素雲以灌合童子也",
+   "source_file": "sources/dao-zhengao-j9-10.txt"
+  },
+  {
+   "locator": "Juan 9, 東卿司命 on the 太上明堂玄眞上經 sun and moon method, base-edition pp. 018a-018b (Part A lines 388-405)",
+   "about": "testimony",
+   "anchor": "長 齋 三 年 始 誠 竭 單 思 乃 能 得 之 於 是 神 光 映 身",
+   "paraphrase": "Under a pure fast without grain, hold the sun (by day) and moon (by night) in the mouth, the size of a ring: sun red with purple light and nine rays, moon yellow with white light and ten rays; swallow the fluid of the rays, privately and without count. When not practising, let sun and moon go back to dwell in the Mingtang of the face, sun left and moon right, their breath joined with the pupils. Jiwei long ago fasted three years; only when his sincerity was exhausted in single thought did he get it, whereupon divine light shone on his body and he then received the scripture. He had no text, only this oral formula.",
+   "quote": "季偉昔長齋三年始誠竭單思乃能得之於是神光映身然後受書耳此玄眞之道要而不煩",
+   "source_file": "sources/dao-zhengao-j9-10.txt"
+  },
+  {
+   "locator": "Juan 10, 上清眞人馮延壽口訣, first item, base-edition pp. 018a-018b (Part A lines 939-951)",
+   "about": "caution",
+   "anchor": "恒 吸 引 二 景 餐 霞 之 法 四 十 餘 年 都 不 覺 益",
+   "paraphrase": "The study of life must begin with curing illness; without that, dietetics and breath practice do the body no good. The adept Wang Zhongfu practised inhaling the two luminaries and feeding on dawn-glow for over forty years and noticed no benefit at all, while his son did the same and ascended in eighteen. The Perfected of the Southern Peak told him the reason: grave illness, the brain palace depleted, fluids not flowing. He took medicine, kept practising, and ascended eighteen years later. Tao Hongjing marks this section as not from autograph revelation manuscripts but consistent with them.",
+   "quote": "昔有道士王仲甫者少乃有意好事神仙恒吸引二景餐霞之法四十餘年都不覺益其子亦服之足一十八年白日升天",
+   "source_file": "sources/dao-zhengao-j9-10.txt"
+  }
+ ],
+ "cross_refs": [],
+ "new_leads": [
+  "陶弘景《登眞隱訣》 (Dengzhen yinjue, DZ 421): Tao's own note says the detailed measures for the eye-pressure and other methods of this chapter are written out there.",
+  "《上清明堂玄眞經訣》 / 太上明堂玄眞上經 (DZ 424): the fuller sun-and-moon-in-the-mouth method summarised here; Tao says the main text is in the Mao biography.",
+  "《皇天上清金闕帝君靈書紫文上經》 (DZ 639): the 'Purple Texts' sun and moon ingestion that the Zhen'gao refers to as 寳書/紫文.",
+  "Thomas E. Smith, Declarations of the Perfected (Three Pines Press): English translation with notes; in copyright, not opened."
+ ],
+ "reader_confidence": "high",
+ "confidence_note": "Both juan read whole in the original, unpunctuated; punctuation and sense divisions in the paraphrases are mine. The phrase 覺令見光分明 is compressed and its exact force (see light on pressing, or see light clearly afterwards) cannot be settled from this text alone. Whether the penetrating sight promised after a year is self-luminous inner light or sharpened ordinary vision is not stated. Sun and moon methods in other juan of the Zhen'gao were not available."
+}

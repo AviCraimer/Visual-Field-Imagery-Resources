@@ -1,0 +1,45 @@
+{
+ "id": "wes-melville-crystal-gazing",
+ "stream": "western-esoteric",
+ "title": "Crystal-Gazing and the Wonders of Clairvoyance, embracing Practical Instructions in the Art, History, and Philosophy of this Ancient Science",
+ "author": "John Melville",
+ "translator": null,
+ "year": "1896; new and revised edition 1910",
+ "edition_cited": "New and revised edition, London: Nichols & Co., 1910 (archive.org scan, IndiaHistory collection)",
+ "tradition": "Victorian occult scrying manual (mesmeric and ceremonial sources)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/india.history.resource.117461",
+ "alt_urls": [],
+ "source_files": [
+  "sources/wes-melville-crystal-gazing.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Section of numbered rules on using the crystal, rule 3: crystal 'hazy or dull ... clouded or darkened ... exceeding bright' (c. 22% into file)",
+  "Table 'Appearances in the Crystal': meanings of white, black, coloured, ascending and descending clouds (c. 25-26%)",
+  "'Practical instructions' numbered (1)-(5): shaded room, black velvet or silk screen, gaze duration; (5) 'small pin points of light glittering therein, like tiny stars' (c. 38-41%)",
+  "Later part reprints a mesmeric scheme of degrees of clairvoyance (Kluge) (c. 49%)"
+ ],
+ "summary": "The most reprinted Victorian scrying manual. It states the onset signs plainly: the crystal first looks hazy or dull, then becomes clouded, darkened or 'black'; this clears and the crystal becomes very bright 'as if illuminated by an effulgence proceeding from its interior' (which he attributes to magnetism from the eyes), and the vision follows. Practical rules: a shaded, not dark, room, light as on a wet day; crystal on a stand or black velvet cushion, partly screened with black silk so no direct rays reach it; quiet, low voices, and patience over repeated sittings. Rule 5: when the crystal looks dull or cloudy 'with small pin points of light glittering therein, like tiny stars', vision is beginning and one should persevere. A table gives divinatory meanings for the colours and movements of the clouds. Also includes ceremonial preparations and material on mesmeric clairvoyance.",
+ "why_relevant": "Step-by-step beginner instruction with an explicit sequence of seen luminous phenomena (haze, darkening, star-like points, inner brightness) preceding scrying visions.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "scrying_surface",
+  "gazing_fixed_point"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1910",
+  "class": "published_record",
+  "basis": "archive.org metadata date 1910 and publisher Nichols and Co. for the scanned 'new and revised' edition; first edition 1896 per seed lead, not verified from this scan"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; archive.org title search",
+ "notes": "OCR is poor in tables. Much of the ceremonial matter is taken from Barrett's Magus / Trithemius. Sepharial and Atkinson repeat parts of this sequence; the reading agent should treat the three as partly dependent."
+}

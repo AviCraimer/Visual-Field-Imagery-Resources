@@ -1,0 +1,189 @@
+{
+ "id": "suf-kubra-fawaih-al-jamal",
+ "stream": "sufi",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 5,
+ "practicality": 4,
+ "text_read": "Whole of Kubra's text in the Zaydan OCR (sources/suf-kubra-fawaih-al-jamal.txt, lines 1-4747, read in full in Arabic, editor's footnotes skimmed). The Meier OCR was read for the passages where Zaydan's OCR is broken: Meier file lines 270-330 (sec. 1-6), 395-440 (sec. 8-10), 478-520 (sec. 13-15), 985-1075 (sec. 42-44), 1104-1168 (sec. 47-50), 1205-1225 (sec. 53), 1255-1325 (sec. 55-59), 1450-1560 (sec. 65-71), 2345-2462 (sec. 111-117), 2770-2787, 3190-3215. Meier's apparatus, indexes and front matter not read.",
+ "mode": "perceptual",
+ "mode_evidence": "Kubra opens with a closed-eye test: 'close your eyelids and look at what you see' [أطبق جفنيك وانظر ماذا ترى], and says the thing is to be seen 'in front of you while your eyelids are closed' [قدامك مع أنك مطبق جفنيك]. He gives the lights positions in the field (in front, above the head, at the right cheek, at the forehead, between the eyebrows, by the nose), says the cheek feels the heat of the red sun, and gives a second closed-eye check for the carnelian-red points at the forehead. He states the progression outright: a point first appears in trance [غيبة], then it appears when one is not absent but has the eyelids closed, then the stars appear in daylight with the eyelids not closed. He also separates this from imagery: vision is first by 'forms and imagination' [بالصور والخيال], and the colours appear only after the image-making faculties [المصورة والمخيلة] have tired of hunting and gone quiet. The organ is called inner sight [بصيرة], not the eye, and much of the higher material happens in trance or 'between waking and sleep'; a few reports are plain dream-visions.",
+ "eyes": "both",
+ "onset_pathway": "both",
+ "onset_evidence": "The text speaks directly to the person who sees nothing (Meier sec. 2-6). If you close your eyes and say 'I see nothing', that is a mistake: you do see, but the 'darkness of your own existence' [ظلام الوجود] is too close to your inner sight to be noticed. To find it and see it in front of you with closed eyes, 'reduce something of your existence, or put some of it at a distance'. The means is striving [مجاهدة], fixed in three ways: (1) reduce food gradually; (2) give up your own choice to a trustworthy shaykh; (3) the way of Junayd, eight standing conditions: constant ablution, constant fasting, constant silence, constant seclusion [خلوة], constant dhikr of la ilaha illa'llah, constant binding of the heart to the shaykh and taking the knowledge of visionary events [علم الواقعات] from him, constant rejection of stray thoughts, constant non-objection to God (the tail of this clause is broken in the OCR; it ends 'or seeking refuge from a fire', which the editor's note takes as not asking for paradise or refuge from hell). A later passage repeats the list as the polishing of the heart-mirror. What is seen first is darkness, then a black cloud, so 'seeing nothing' is counted as the first stage. Prerequisites: a shaykh; sound intention (his own first retreat failed for wrong motive and he was put out on the eleventh day); sitting, wakefulness and dhikr kept up. Time scales: forty days is the assumed retreat length but the cell is to be entered as one's grave with no end date; his head pains resolved in under a week; tongue-dhikr gives way to heart-dhikr 'after a long period'. On forcing: the power of dhikr shows 'in proportion to one's service of dhikr and perseverance in it', so effort counts; but it is hidden while 'existence' is strong and shows when existence weakens 'through sleep or trance', and success in his own case he ascribes to God's help for his sincerity.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "sound_or_mantra",
+  "sensory_restriction",
+  "fasting_or_austerity",
+  "devotion_or_transmission",
+  "concentration_nonvisual",
+  "sleep_threshold",
+  "sky_or_space_gazing",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "conditions": {
+  "posture": "Sitting kept up continuously [الجلوس]; in the middle stage one neither sleeps nor lies down. No detailed seat or hand position is given in this text.",
+  "gaze_or_eye_position": "No gaze-fixing instruction. Eyes closed is the baseline test at the start and again for the carnelian points ('he turns to look with eyelids closed'); later the lights are seen with eyes open, by day. Lights are located in front, above the crown, at the right cheek, forehead, between the eyebrows and eyes, and beside the nose; the eye-circles show when one turns to look right or left.",
+  "setting": "The retreat cell [خلوة], left only for a need; dhikr at night and before dawn; sometimes leaving the cell at night to walk in open country. This text does not itself say the cell is dark.",
+  "duration_and_schedule": "Continuous. Forty days is the conventional term, but his shaykh Ammar told him never to tell himself he will come out after forty: 'this is your grave until the resurrection'. Kubra's own first retreat ended on day 11.",
+  "prerequisites": "A shaykh to whom choice is surrendered and who interprets what is seen; purified intention; ablution, fasting, silence; gradual reduction of food.",
+  "other": "Dhikr formula la ilaha illa'llah, first with the tongue, then in the heart, then in the 'secret' [سر]. Reduced sleep: early on one does not choose to sleep but is overtaken. Kubra also reports nights spent looking at the sky until it 'entered' him and he saw its stars within, then nights looking at the earth."
+ },
+ "phenomena": [
+  "darkness",
+  "black_cloud",
+  "smoke_mist_cloud",
+  "white",
+  "red",
+  "blue",
+  "green",
+  "yellow",
+  "gold_yellow",
+  "colour_fields",
+  "lamp_or_flame",
+  "lightning_flashes",
+  "sparks_or_points",
+  "stars",
+  "moon_disc",
+  "sun_disc",
+  "sphere_pearl_bindu",
+  "geometric_patterns",
+  "figures_or_forms",
+  "all_pervading_light",
+  "body_or_objects_luminous",
+  "spring_of_light",
+  "inner_sounds"
+ ],
+ "stages": [
+  {
+   "label": "ظلام الوجود (darkness of existence)",
+   "description": "At first intense darkness. As it clears a little it takes the shape of a black cloud in front of you; red if it is 'Satan's throne'; when rights are kept and appetites spent it clears and turns white like a rain-cloud."
+  },
+  {
+   "label": "النفس (the soul)",
+   "description": "When the soul shows, its colour is the blue of the sky and it wells up like water from a spring."
+  },
+  {
+   "label": "المشاهدة الأدنى (the lower witnessing)",
+   "description": "Earth-contents seen in the unseen: deserts crossed, seas, rain, fires waded through, towns, wells; then a wide open space with clear air above and, at the limit of sight, colours: green, red, yellow, blue. Being at the bottom of a deep well, with green light at its floor, marks the end of created existence."
+  },
+  {
+   "label": "الاستغراق الأول / الثاني / الثالث (three absorptions of dhikr)",
+   "description": "First: dhikr is heard from every part of the body (trumpets, drums, then a bee-hum), falling first in the circle of the head with pain. Second: dhikr opens a round door at the crown and from above come darkness, then fire, then green; when it reaches the heart a spring pouring light is seen in front, and an opening is felt in the right side. Third: the fires do not die and the lights do not leave; lights are always seen rising and descending with clear fires all round."
+  },
+  {
+   "label": "علامات النفوس (signs of the three souls)",
+   "description": "Commanding soul: a large pitch-black circle rising in front, then like a cloud, then a crescent edge showing through, then a full crescent. Blaming soul: a red sun rising from the right cheek, its heat felt; sometimes by the ear, forehead or above the head. Soul at peace: a great spring-like circle pouring lights, or, in trance, a circle (the simile is unreadable in both OCRs) that rises to the face until the face disappears in it, so that the face itself is then the soul at peace."
+  },
+  {
+   "label": "دوائر الوجه (circles of the face)",
+   "description": "At the far end: two circles of light of the eyes, each with a point at the centre, appearing whichever way one turns; a circle of the light of the Real between eyebrows and eyes, with no centre point; the circle of the spirit beside the nose. In mid-journey the eye-circles serve as a gauge: showing means a good state, hidden means existence has the upper hand; they change colour and size."
+  },
+  {
+   "label": "المشاهدة العليا (the higher witnessing)",
+   "description": "Sun, moon, stars, zodiac and lunar mansions of subtler inner heavens. A point seen in trance grows into stars; then seen with closed eyes while present; then in daylight with eyes open."
+  },
+  {
+   "label": "شيخ الغيب / المقدم / ميزان الغيب (the person of light)",
+   "description": "When the circle of the face is clear it pours light from between the eyes and eyebrows; then a face of light is seen opposite one's own, a sun moving behind its thin veil; then a whole person of light. He may meet you early on as a black figure, then vanish."
+  },
+  {
+   "label": "لون العقيق (carnelian colour of the Great Intellect)",
+   "description": "After green, a black tablet at the forehead with red carnelian points that grow and shrink; checked by looking with the eyelids closed. 'At the ends, not the beginnings.'"
+  },
+  {
+   "label": "زجاج في زجاج (glass within glass)",
+   "description": "At night outside the cell solid things vanish and only glass in glass is seen, the limit of clarity; the sun of the spirit is then seen behind it."
+  }
+ ],
+ "what_to_do_with_light": "Read it as a gauge of one's state, not as a goal: steady green is settledness [تمكين], mixed and shifting colours are instability [تلوين], a murky colour is the darkness of existence; clear and bright means 'the scale has risen', dark or hidden means it has dropped. Tell the shaykh what is seen and take its meaning from him. Check each thing by what is tasted with it (ease and expansion against heaviness and constriction). Carry on with dhikr and do not rest in any station: there is always something higher. At the end the signs themselves are a veil to be thrown off.",
+ "obstacles_and_fixes": [
+  "Seeing nothing with closed eyes: you are seeing the darkness of your own existence; lessen it by striving (less food, surrender to a shaykh, the eight conditions).",
+  "Dark, smoky, slow fire with heaviness, tight chest and dhikr that will not come: this is Satan's fire; call inwardly 'O Helper of those who seek help, help me' [يا غياث المستغيثين أغثني] and do not engage or answer back.",
+  "Roaring sounds and severe pain in the head when dhikr enters the head: Kubra's shaykh told him to leave the cell and the dhikr lest he go mad or die; Kubra persisted in sincerity and it cleared within a week.",
+  "Terror and trembling in the well: take refuge in dhikr alone.",
+  "Retreat spoiled by motive (wanting to preach, books waiting outside): re-enter with purified intention, treating the cell as a grave and the clothes as a shroud.",
+  "Former company and old habits pulling one out of the cell: early on one's strength comes from the shaykh.",
+  "Being upset by any noise or sight during dhikr: his shaykh Abu'l-Najib warned against this; it shows one has made dhikr itself the object.",
+  "A thought of unknown source: ask the shaykh until one can taste the difference oneself; the satanic thought brings haste, no rest in the heart and a turn toward being seen.",
+  "The tongue's dhikr becoming a disturbance after long practice: stop the tongue and keep presence in the heart."
+ ],
+ "cautions": [
+  "Not every fire is the fire of dhikr; test by its clarity, upward speed and the state that comes with it.",
+  "Satan's promptings can take the form of worship, good works and love of powers and wonders.",
+  "Do not look at your own station of sincerity; that itself lets Satan in.",
+  "The soul does not die: like a snake's skin put in the sun it moves again.",
+  "The carnelian colour seen in trance 'shreds and shakes' the wayfarer; the weak cannot bear it.",
+  "Do not think the heaven you see is the last; and do not take the signs for the goal.",
+  "One pulled up by attraction alone [مجذوب], who has not walked the road, is not fit to guide.",
+  "Risk of madness or death in the stage of head-sounds is stated by his shaykh."
+ ],
+ "safety_flags": [
+  "fasting",
+  "sleep_deprivation",
+  "transmission_required_by_tradition"
+ ],
+ "interpretation": "The covering is not outside the person: it is the darkness of his own existence, made of the four elements; 'our way is the way of alchemy', drawing the luminous subtle substance [اللطيفة النورانية] out from under them. Like sees only like, so each light or heaven seen means that part of oneself has been purified; soul, Satan, angel, heaven, earth and Throne are 'not things outside you'. Lights rising are of the heart, lights descending are of the Throne.",
+ "practice_summary": "Close your eyes and look. If there is nothing, that nothing is the darkness of your own existence, too close to be noticed; the work is to thin it. Under a shaykh, enter a cell as if it were your grave and keep eight things without break: ablution, fasting, silence, seclusion, the dhikr la ilaha illa'llah, the heart tied to the shaykh, stray thoughts refused, no quarrel with God. Cut food gradually; sit, stay awake, repeat. Expect darkness, then a black cloud, then fire, then green; sounds and pain in the head as dhikr settles there; later a spring of light in front, coloured fields at the edge of sight, circles at the eyes and brow, suns and stars. Tell the shaykh what you see. Judge each appearance by what you feel with it: clear, fast, rising fire with ease is dhikr; smoky, slow fire with a tight chest is not. Steady green is a settled heart. First seen in trance, then with closed eyes, the lights end up visible by day with eyes open.",
+ "key_passages": [
+  {
+   "locator": "Meier sec. 2 (Meier file lines 277 and 307-311; Zaydan file lines 49-58, heading 'اختبار روحي')",
+   "about": "onset",
+   "anchor": "أطبق جفنيك وانظر ماذا تری » فان قلت لا آری حينئذ",
+   "paraphrase": "Close your eyelids and look at what you see. If you say 'I see nothing then', you are wrong: you do see, but the darkness of existence is so close to your inner sight that you do not find it. If you want to find it and see it in front of you with your eyelids closed, reduce something of your existence or put some of it at a distance; the way to reduce it is striving, which means spending effort to repel or kill what is other: existence, the soul and Satan. (Both OCRs are noisy here; the sense is secure from the two together.)",
+   "quote": "أطبق جفنيك وانظر ماذا تری » فان قلت لا آری حينئذ شیا فهو خطأ منك » بل تبصر ولكن ظلام الوجود لفرط قر به من بصيرتلكه لامجده فان أحبيت أن مجده وتبصره قدامك مع أنك مطبق جفنيك فنقص من وجودك شیث أو أبعڈ من وجودك شيئ ء وطريق تنقيصه والإبعاد منه قليلا احاهدة » وسنی الجاهدة بذل الجهد فى دفم الأغيار أو قتل الأغيار » والأغيار آلوجود والنفس والشيطان .",
+   "source_file": "sources/suf-kubra-fawaih-al-jamal.meier.txt"
+  },
+  {
+   "locator": "Meier sec. 6 (Meier file lines 322-324; Zaydan file lines 121-124 and 161-163)",
+   "about": "method",
+   "anchor": "دوام الوضوء » ودوام الصوم ء ودوام السکوت » ودوام الخلوة » ودوام الذ کر",
+   "paraphrase": "The third way is the way of Junayd, eight conditions: constant ablution, constant fasting, constant silence, constant seclusion, constant dhikr (la ilaha illa'llah), constant binding of the heart to the shaykh and drawing the knowledge of visionary events from him by letting his direction replace one's own, constant rejection of stray thoughts, and constant giving up of objection to God. The end of the last clause is broken in the OCR ('... or seeking refuge from a fire'); the editor reads it as not asking for paradise or refuge from hell.",
+   "quote": "",
+   "source_file": "sources/suf-kubra-fawaih-al-jamal.meier.txt"
+  },
+  {
+   "locator": "Second absorption, Meier sec. 49 (Zaydan file lines 1290-1299; Meier file lines 1142-1146)",
+   "about": "stages",
+   "anchor": "فينزل عليه من الفوق ظلمة » ثم ناز » ثم حضرة .. وهى ظلمة الوجود » ونار الذكر » وخحضرة القلب",
+   "paraphrase": "After the stage of sounds, dhikr opens a door at the crown of the head, a round opening like a circle, and from above there descends on him darkness, then fire, then green: the darkness of existence, the fire of dhikr, the green of the heart. The door opens at the top first because dhikr is a good word that rises.",
+   "quote": "وبعد هذا » يفخ الذكر بابًا من فود الرأس » قوارة\"شِبه الدائرة » فينزل عليه من الفوق ظلمة » ثم ناز » ثم حضرة .. وهى ظلمة الوجود » ونار الذكر » وخحضرة القلب .",
+   "source_file": "sources/suf-kubra-fawaih-al-jamal.txt"
+  },
+  {
+   "locator": "Meier sec. 13-15 (Zaydan file lines 384-419; Meier file lines 485-512)",
+   "about": "development",
+   "anchor": "الأحرال . فلو الخضرة علامة حياة القلب + ولون النار الصافية علامة",
+   "paraphrase": "When you see before you a wide open space with clear air above it and, at the limit of sight, colours such as green, red, yellow and blue, you are crossing that air toward those colours, and the colours are colours of states. Green is the sign of the heart's life; the colour of clear fire is the life of spiritual resolve [همة], which means power; a murky colour is the fire of hardship in the struggle with the soul; blue is the life of the soul; yellow is weakness. One colour holding means composure; colours mixing is instability; green holding steady is settledness. Green is the last colour to remain, and from it the flashes and lightnings shine; its clear part is the light of the Real, its murk the darkness of existence.",
+   "quote": "",
+   "source_file": "sources/suf-kubra-fawaih-al-jamal.txt"
+  },
+  {
+   "locator": "Chapter on the stars and suns seen in trance (Meier file lines 3203-3207; Zaydan file lines 3856-3860)",
+   "about": "mode",
+   "anchor": "وقد يبدو وهو غير غاب إلا أنه مطبق جفنيه » ثم بزداد فتبدو هذه الكوا كب للسيار فى ضوء النهار وهو غير مطبق جفنيه",
+   "paraphrase": "This has beginnings and ends. At first something like a point appears in trance, then it grows and becomes stars. It may appear when he is not absent but has his eyelids closed; then it increases and these stars appear to the wayfarer in the light of day with his eyelids not closed, and praise comes to his tongue unbidden.",
+   "quote": "فنی الابتداء يبدو شبه النقطة فى الغيبة » م يكبر فيكون كوا كب وقد يبدو وهو غير غاب إلا أنه مطبق جفنيه » ثم بزداد فتبدو هذه الكوا كب للسيار فى ضوء النهار وهو غير مطبق جفنيه فيجرى على لسانه : سبحان الله !",
+   "source_file": "sources/suf-kubra-fawaih-al-jamal.meier.txt"
+  },
+  {
+   "locator": "Meier sec. 8 (Zaydan file lines 237-248, heading 'نيران الذكر'; Meier file lines 395-402)",
+   "about": "caution",
+   "anchor": "يرى نارًا صاعدةٌ صافية » مثل ما يشاهد أحدنا النار فى الحطب اليابس ؛ فهى نيران الذكر",
+   "paraphrase": "The fires of dhikr are clear, fast-moving and rise upward; Satan's fire is murky, smoky, dark and slow. They are also told apart by state: if the wayfarer is under a great weight, tight in the chest, dhikr hard for him and his limbs as if crushed by stones while he sees a dark fire, it is Satan's; if he is light, dignified, open-chested and at rest and sees a clear rising fire, as one sees fire in dry wood, these are the fires of dhikr in the space of the chest.",
+   "quote": "",
+   "source_file": "sources/suf-kubra-fawaih-al-jamal.txt"
+  }
+ ],
+ "cross_refs": [
+  "suf-razi-mirsad-al-ibad"
+ ],
+ "new_leads": [
+  "Majd al-Din Baghdadi, Tuhfat al-barara, and his Persian letter to Sharaf al-Din Balkhi (cited in the editors' notes as parallel to passages here)",
+  "Ammar al-Bidlisi, Kubra's shaykh, whose retreat advice Kubra quotes; his own treatises were not seen in this run"
+ ],
+ "reader_confidence": "high",
+ "confidence_note": "Read in full in Arabic from two machine OCRs of different editions; both are noisy and several lines in each are unreadable, so every passage used here was checked in both files where possible. Meier section numbers are given where the OCR shows them clearly; sec. 49 is inferred from its neighbours. Anchors and quotes keep the OCR's errors (Persian letter forms, broken words). The darkness of the cell, often attributed to this text, is not stated in it."
+}

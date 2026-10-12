@@ -1,0 +1,29 @@
+{
+  "id": "snt-expremie-journey-strasburg", "stream": "sant-mat",
+  "verdict": "keep_marginal",
+  "drop_reason": null, "drop_note": "",
+  "relevance": 3, "practicality": 2,
+  "text_read": "digest only",
+  "mode": "perceptual",
+  "mode_evidence": "He speaks of the 'light' and a faint luminosity as things he saw, tied to eye pressure; no detailed description.",
+  "eyes": "closed",
+  "onset_pathway": "unclear",
+  "onset_evidence": "Receiving Knowledge in 1972 gave an explosive experience, which he attributes to pushing on the optic nerve. When the instruction changed to gentle stabilising, the light largely faded. No guidance for someone who sees nothing.",
+  "stimulus_independence": "no",
+  "techniques": ["eye_pressure_or_sense_closure", "devotion_or_transmission"],
+  "conditions": {"posture": "", "gaze_or_eye_position": "Eyes pushed on (1972), later only gently stabilised (1974).", "setting": "Frankfurt ashram, after two weeks of satsang.", "duration_and_schedule": "Daily, diligent practice for two years.", "prerequisites": "Initiation by a mahatma.", "other": ""},
+  "phenomena": ["all_pervading_light"],
+  "stages": [],
+  "what_to_do_with_light": "Not stated.",
+  "obstacles_and_fixes": ["Light faded when pressure was dropped; he concluded he had been 'looking at the wrong light'."],
+  "cautions": ["Techniques were inconsistent and ambiguous; explanations were refused as sullying the experience."],
+  "safety_flags": ["eye_pressure"],
+  "interpretation": "In hindsight he treats the strong light as an effect of pressure on the optic nerve, not a spiritual light.",
+  "practice_summary": "This is testimony, not instruction. As a teenager he received the technique and pushed on the closed eyes daily for two years, with an intense, explosive experience of light. In 1974 the instruction was changed to gently stabilising the eyes without pushing. After that the light mostly disappeared, leaving a faint luminosity. He concluded the earlier light came from pressure on the optic nerve. The page gives no further method, and he later practised only occasionally.",
+  "key_passages": [
+    {"locator": "Receiving K paragraph", "about": "testimony", "anchor": "Now, one should just only gently stabilize the eyes, not push.", "paraphrase": "The instruction changed from pushing to gently steadying the eyes.", "quote": "", "source_file": "sources/snt-expremie-journey-strasburg.txt"},
+    {"locator": "Receiving K paragraph", "about": "mode", "anchor": "The 'light' pretty much disappeared but there was still a faint luminosity, so to speak.", "paraphrase": "Without pressure the light largely vanished, leaving faint luminosity, which shows the strong light depended on the stimulus.", "quote": "", "source_file": "sources/snt-expremie-journey-strasburg.txt"}
+  ],
+  "cross_refs": ["snt-dlm-knowledge-session"], "new_leads": [],
+  "reader_confidence": "medium", "confidence_note": "reader_extract_saved: model summary of the page."
+}

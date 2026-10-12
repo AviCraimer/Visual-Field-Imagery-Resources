@@ -1,0 +1,53 @@
+{
+ "id": "snt-kirpal-teachings-meditation",
+ "stream": "sant-mat",
+ "title": "The Teachings of Kirpal Singh (5 books in one file; Book Three: Meditation)",
+ "author": "Kirpal Singh (1894-1974); compiled by Ruth Seader",
+ "translator": null,
+ "year": "1974-1976 (Book 1 1974, Books 2-3 1975, Books 4-5 1976); this edition 2017",
+ "edition_cited": "Ruhani Satsang, 2017 edition, as uploaded to archive.org by the publisher (item teachingsofkirpalsinghsetof5books)",
+ "tradition": "Ruhani Satsang (Kirpal Singh line of Sant Mat / surat shabd yoga)",
+ "language": "English",
+ "source_type": "anthology_or_compilation",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/teachingsofkirpalsinghsetof5books",
+ "alt_urls": [],
+ "source_files": [
+  "sources/snt-kirpal-teachings-meditation.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Book Three 'Meditation' runs from about file line 7700 to 12000; contents list at file lines 331-412 with printed page numbers",
+  "Ch. 12 Simran and ch. 13 Withdrawal (printed pp. 223-228; file c. 9440-9700): gaze fixed constantly 'into the middle of what you see before you', repetition at intervals",
+  "Ch. 15 Difficulties in Meditation (printed p. 231 ff.; file c. 9743-10180)",
+  "Ch. 16 How to Overcome Inaccuracies in Meditation (printed p. 241-243; file c. 10183-10300): 'look sweetly and serenely into the middle of the darkness in front of you'",
+  "Ch. 17 Dangers and Pitfalls (file c. 10307), ch. 18 Dry Spells (file c. 10410)",
+  "file c. 8933-8936: gaze fixed between and behind the eyebrows 'without any exertion or strain on the eyes or on the forehead'",
+  "file c. 7616-7630: the three restraints; the second restraint (sight) and fixing the inner gaze",
+  "Each extract ends with a superscript reference number keyed to a source list (letters, circulars, Sat Sandesh)"
+ ],
+ "summary": "Topical compilation of Kirpal Singh's letters, circulars and talks. Book Three (Meditation) is the most systematic statement of his light practice: sit in any posture that can be held longest without moving, stay wide awake, direct attention to the seat of the soul behind and between the eyebrows, and look 'sweetly and serenely' into the middle of the darkness in front, repeating the five charged names slowly and at intervals; the gaze is constant, the repetition intermittent. No strain on eyes or forehead, no attention to breath or body. Chapters on difficulties, 'inaccuracies', dangers and dry spells diagnose why nothing is seen (clutching, strain, divided attention, lapses recorded in the diary) and tell the disciple that the inner Master grants experience 'at the opportune moment'. Also covers looking into the middle of whatever light appears so that it 'bursts', and the radiant form.",
+ "why_relevant": "Step-by-step instruction plus dedicated troubleshooting chapters for a practice whose stated first result is seen inner light; addresses the person who sees only darkness.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "eye_position",
+  "darkness_exposure",
+  "sound_or_mantra",
+  "devotion_or_transmission",
+  "attention_to_spontaneous_phenomena",
+  "concentration_nonvisual"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1975",
+  "class": "published_record",
+  "basis": "Edition statement printed in the saved text: 'First Edition published in 1974 - Book 1, 1975 - Books 2-3, 1976 - Books 4-5; This Edition published in 2017 by Ruhani Satsang'. Book Three (Meditation) first appeared 1975; archive.org metadata date 1974."
+ },
+ "author_identifiable": true,
+ "author_basis": "Kirpal Singh; published by Ruhani Satsang (founded 1948/1951)",
+ "found_via": "archive.org title search 'teachings of kirpal singh'",
+ "notes": "Rights: the book prints Kirpal Singh's statement 'I have written books without any copyright—no rights reserved', and the publisher uploaded it under Public Domain Mark 1.0; treated as public_domain, so quotes are allowed. OCR renders F as E in headings ('LIEE', 'Eactors'): choose anchors from body text. The file holds all five books; only Book Three and parts of Book One (Initiation) concern seen light."
+}

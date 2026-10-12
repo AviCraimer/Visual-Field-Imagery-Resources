@@ -1,0 +1,44 @@
+{
+ "id": "chr-john-of-the-cross-ascent",
+ "stream": "christian",
+ "title": "The Ascent of Mount Carmel",
+ "author": "John of the Cross (1542-1591)",
+ "translator": "David Lewis; revised with introduction by Benedict Zimmerman",
+ "year": "written c. 1579-1585; this edition 1906",
+ "edition_cited": "London: Thomas Baker, 1906. archive.org scan ascentofmount00johnuoft",
+ "tradition": "Spanish Carmelite",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/ascentofmount00johnuoft",
+ "alt_urls": [],
+ "source_files": [
+  "sources/chr-john-of-the-cross-ascent.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Book II, ch. X: division of apprehensions (through exterior bodily senses; through interior bodily senses i.e. imagination; spiritual) (line 6373; printed pp. 101-102)",
+  "Book II, ch. XI: apprehensions through the outward senses, 'extraordinary lights and brightness'; 'we must fly from them, without examining whether they be good or evil' (lines 6437-6850; pp. 103 ff.)",
+  "Book II, chs XVI-XVII on imaginary visions (TOC lines 407-418)",
+  "Book II, chs XXIII-XXIV on spiritual visions, including seeing 'with the bodily eyes' and the comparison to lightning (lines 10719-11100)"
+ ],
+ "summary": "John's systematic treatise on the 'active night'. Book II, chapter X classifies supernatural apprehensions: those entering through the exterior bodily senses, those through the interior bodily sense (imagination), and purely spiritual ones. Chapter XI treats the first kind: spiritual persons sometimes see figures of saints or angels 'or certain extraordinary lights and brightness', hear words, smell perfumes. His instruction is flat: never rely on them or encourage them, 'fly from them, without examining whether they be good or evil', because the more exterior a thing is the less certain its origin and the more room for delusion; he lists the harms of accepting them. Later chapters apply the same rule to imaginative visions and describe spiritual visions as like a lightning flash that shows things in the dark.",
+ "why_relevant": "The strongest Western warning text on seen light and visions, with a precise classification by sense channel that maps onto the perceptual / imaginal distinction.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1906",
+  "class": "published_record",
+  "basis": "archive.org metadata: date 1906, London: Baker; marked public domain"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; archive.org title search",
+ "notes": "OCR has dropped letters in places (e.g. 'lot;s', 'throu2h'): choose anchors from clean lines. Chapter numbering in this edition can differ by one from Peers and Kavanaugh."
+}

@@ -1,0 +1,46 @@
+{
+ "id": "wes-atkinson-practical-psychomancy",
+ "stream": "western-esoteric",
+ "title": "Practical Psychomancy and Crystal Gazing: A Course of Lessons on the Psychic Phenomena of Distant Sensing, Clairvoyance, Psychometry, Crystal Gazing, etc.",
+ "author": "William Walker Atkinson",
+ "translator": null,
+ "year": "1908",
+ "edition_cited": "Project Gutenberg eBook #43954 (released 2013), from the Chicago: Advanced Thought Publishing Co. edition",
+ "tradition": "American New Thought occultism",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://www.gutenberg.org/ebooks/43954",
+ "alt_urls": [],
+ "source_files": [
+  "sources/wes-atkinson-practical-psychomancy.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Lesson on how to develop oneself: list of early signs incl. 'colored clouds floating before their eyes in the dark, before they sink to rest' (c. 13% into file)",
+  "Lesson on crystal gazing: visualise a familiar object, then try to reproduce it in the crystal; first signs 'cloudiness' or 'milky-mist' (c. 20%)",
+  "Lesson quoting a writer on scrying with a glass of water: look two or three minutes without tiring, 'winking as much as you please' (c. 43%)",
+  "Lessons on the aura (c. 26%)"
+ ],
+ "summary": "A popular course that compiles the period's advice. For crystal gazing Atkinson recommends first practising mental picturing of a familiar object and then trying to reproduce the picture in the crystal, claiming this 'will often gradually lead to actual seeing'. He gives the first sign of actual seeing as a cloudiness or milky mist in the crystal that slowly resolves into a form 'like the precipitation of a photograph' in a developing room. A quoted authority advises a plain glass of water in subdued light, looked at for two or three minutes without strain and with free blinking, thought fixed on what one wishes to see; 'if you have the faculty' the glass clouds with a milky mist. Among spontaneous early signs of psychic development he lists faces, landscapes or coloured clouds floating before the eyes in the dark before sleep.",
+ "why_relevant": "States an explicit bridge from deliberate visualisation to seen imagery in the crystal, and repeats the milky-mist onset sign; useful as evidence of how the instruction circulated.",
+ "expected_mode": "imaginal_crossing",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "scrying_surface",
+  "visualization_crossing",
+  "sleep_threshold"
+ ],
+ "priority": 3,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1908",
+  "class": "published_record",
+  "basis": "Project Gutenberg #43954 header and transcribed title page; warm-up WebSearch result listed the same Gutenberg text; print year 1908 as catalogued, not re-verified from a scan"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "warm-up WebSearch result (gutenberg.org); archive.org listing",
+ "notes": "Largely derivative: long unattributed or loosely attributed quotations (Leadbeater on the aura, Stead/Lang on scrying). Low priority unless the visualisation-to-seeing claim is wanted."
+}

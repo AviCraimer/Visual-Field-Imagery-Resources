@@ -1,0 +1,45 @@
+{
+ "id": "chr-hilton-scale-of-perfection",
+ "stream": "christian",
+ "title": "The Scale of Perfection",
+ "author": "Walter Hilton (d. 1396)",
+ "translator": "Edited and modernised from manuscript sources by Evelyn Underhill",
+ "year": "late 14th century; this edition 1923",
+ "edition_cited": "London: John M. Watkins, 1923. archive.org scan hiltonscaleofperfection",
+ "tradition": "English medieval contemplative (Augustinian canon)",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/hiltonscaleofperfection",
+ "alt_urls": [],
+ "source_files": [
+  "sources/chr-hilton-scale-of-perfection.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Book I, ch. 10 (visions and feelings 'in bodily appearing' are not contemplation) and ch. 11 'How thou shalt know when the showing to the bodily wits... are good or evil' (about lines 3560-3720; printed pp. 19-24)",
+  "Book II, ch. 24 (line 13505): the 'false light' of the world versus the true light; the 'good night' and 'lighty murkness'",
+  "Book II, ch. 26 (line 13964): 'beware of the midday fiend' that 'feigneth light', shown 'between two black rainy clouds' (lines 13972-14190)",
+  "Book I, ch. 26 on the fire of love not being bodily (confirm chapter number in file)"
+ ],
+ "summary": "A fourteenth-century guide written for an anchoress. Book I, chapters 10 and 11, deal directly with seen light: 'if it be so, that thou see any manner of light or brightness with thy bodily eye, or in imagining, other than every man may see', or hear sounds, or feel heat in the breast like fire, the reader is to watch what it does to the heart. If it draws her from prayer and makes her want only to keep it, it is suspect and to be refused; if after initial stirring it leaves her more able to pray, it may be received with thanks but not sought. Book II describes a deliberate entry into a 'lighty murkness' by withdrawing the mind from all bodily things, and warns of a counterfeit light shown 'between two black rainy clouds'.",
+ "why_relevant": "Explicit instruction on what to do when light is seen with the bodily eye or in imagination, with a test for telling good from bad; one of the clearest Western warnings and it distinguishes the two modes in so many words.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "attention_to_spontaneous_phenomena",
+  "concentration_nonvisual"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1923",
+  "class": "published_record",
+  "basis": "title page of the saved text: 'London, John M. Watkins ... 1923'"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "own lead; archive.org title search",
+ "notes": "Book I ch. 11 was read in the saved file. Book II chs 24 and 26 were located by search (line numbers given) and only the matching lines seen: in Book II the 'light' is largely figurative (knowledge, self-love), so the reading agent should tag those passages accordingly. Book I ch. 26 hint is from memory and unconfirmed."
+}

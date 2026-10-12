@@ -1,0 +1,52 @@
+{
+ "id": "hin-aurobindo-record-of-yoga",
+ "stream": "hindu-yoga-tantra",
+ "title": "Record of Yoga",
+ "author": "Sri Aurobindo",
+ "translator": null,
+ "year": "diary 1909-1927; first book publication 2001",
+ "edition_cited": "The Complete Works of Sri Aurobindo, vols. 10-11, Sri Aurobindo Ashram Publication Department, Pondicherry, 2001 ((c) Sri Aurobindo Ashram Trust 2001); text from the copy of the Ashram's freely distributed PDF mirrored at archive.org item the-record-of-yoga-sri-aurobindo",
+ "tradition": "Integral Yoga; Sri Aurobindo's private sadhana diary",
+ "language": "English",
+ "source_type": "practitioner_testimony",
+ "rights": "in_copyright",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/the-record-of-yoga-sri-aurobindo",
+ "alt_urls": [
+  "https://incarnateword.in/cwsa/10"
+ ],
+ "source_files": [
+  "sources/hin-aurobindo-record-of-yoga.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "'Diary Entries 1909-1912', section '17-25 June 1909' (printed pp. 33-36; file lines c. 1606-1800): 18 Friday, 'Tratak of Sun. Blue sukshma image of sun elliptical in shape', patterns, swords, sparks of lightning, 'Chaya Purusha, bust'; later entry (file lines c. 1773-1781) 'Tratak of Sun. After first gaze saw in chittakash most exquisite deep green colour', 'Tratak for minute', 'Closed eyes in chitta', 'Gazing into physical sky large patch of deep yellow floated before the eyes'; 25 Friday 'tratak on floating colours'",
+  "File lines c. 1879-1960: 'While doing tratak on the physical sun, I saw clearly with sthuladrishti the sun of the pranamay jagat'; 'Record of the Drishti' from January 28: sthapatya images on a window-frame, in tree leaves",
+  "Section '26 November-31 December 1912' (printed pp. 131-132; file lines c. 6262-6295): 'The pressure of the eye on the akasha for developing imperfect rupas is being abandoned'; rupas that used to vanish under tratak now persist; perfect images appear 'before the physical eye or, more usually, outside its range of vision, to the side, above the brows'",
+  "Throughout 1912-1920: running notes on rupadrishti and akasharupa (crude / dense / developed forms; chitra, sthapatya and akasha images; antardarshi = eyes closed waking, bahirdarshi = eyes open waking); search 'akasharupa', 'rupadrishti', 'bahirdarshi', 'antardarshi', 'tratak' (file lines c. 6900-6930, 10090-10510, 15520-15820, 23329, 27317 and many more)",
+  "The editors' glossary and the 'Sapta Chatusthaya' outline near the start of the volume explain the terms; search 'vishayadrishti', 'rupa-siddhi'"
+ ],
+ "summary": "Aurobindo's working diary is first-person testimony of a long, deliberate training of seen imagery. In June 1909 he records 'tratak of sun' for about a minute and what followed: an elliptical blue subtle image of the sun, patterns of red curves on yellow, sparks of lightning, a deep green in the 'chittakash', then with closed eyes a yellowish green with a blue patch, and on looking into the physical sky a large floating patch of deep yellow; next day he does 'tratak on floating colours'. From 1912 the diary tracks 'rupadrishti' as a faculty with graded materials and locations: images on a background such as a wall or window-frame, images in the open air ('akasharupa'), eyes closed and eyes open in the waking state, with repeated notes on vividness, stability and how long a form holds. He records dropping 'the pressure of the eye on the akasha' as a method, forms ceasing to vanish when stared at, and perfect images arising spontaneously at the edge of the visual field.",
+ "why_relevant": "A dated practitioner's log of sun-gazing afterimage work developing into stable open-eyed and closed-eyed seen imagery over years, with his own terminology for stages and for the eyes-open versus eyes-closed distinction.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "light_source_gazing",
+  "afterimage_retention",
+  "sky_or_space_gazing",
+  "gazing_fixed_point",
+  "attention_to_spontaneous_phenomena",
+  "scrying_surface"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "2001",
+  "class": "published_record",
+  "basis": "imprint in the file: '(c) Sri Aurobindo Ashram Trust 2001, Published by Sri Aurobindo Ashram Publication Department'; the Publisher's Note says the diary was kept between 1909 and 1927; author died 1950"
+ },
+ "author_identifiable": true,
+ "author_basis": "Sri Aurobindo (1872-1950); edited from manuscripts by the Sri Aurobindo Ashram Archives",
+ "found_via": "own lead; WebSearch on incarnateword.in found only an audio talk; full text found on archive.org title search 'record of yoga'",
+ "notes": "In copyright; the Ashram distributes the PDF free, so the full text is saved: locator + paraphrase + anchor only. Very long (two volumes, about 3 MB of text) and written in private Sanskrit shorthand; the reading agent should sample by the search terms above and not attempt the whole. Sun-gazing occurs (safety flag). Much of the later material concerns images with figurative content (rupa, lipi = seen writing), which is broader than 'light' but is perceptual in the user's sense. OCR marks line-end hyphenation with a not-sign."
+}

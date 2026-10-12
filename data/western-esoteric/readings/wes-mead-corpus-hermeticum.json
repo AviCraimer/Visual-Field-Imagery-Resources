@@ -1,0 +1,79 @@
+{
+ "stream": "western-esoteric",
+ "drop_reason": null,
+ "drop_note": "",
+ "cross_refs": [],
+ "new_leads": [],
+ "safety_flags": [],
+ "stages": [],
+ "obstacles_and_fixes": [],
+ "cautions": [
+  "We are not yet strong enough for the vision (CH X)."
+ ],
+ "phenomena": [
+  "all_pervading_light"
+ ],
+ "conditions": {
+  "posture": "",
+  "gaze_or_eye_position": "eyes closed ('closing of the eyes, true vision')",
+  "setting": "",
+  "duration_and_schedule": "",
+  "prerequisites": "purging the twelve 'tormentors' (vices)",
+  "other": "sleep-like suspension of bodily senses"
+ },
+ "id": "wes-mead-corpus-hermeticum",
+ "verdict": "keep_marginal",
+ "relevance": 3,
+ "practicality": 2,
+ "text_read": "CH I sections 1-5 and 27-32, CH X sections 4-6, CH XIII sections 3-10 read in full in Mead's English (Greek not consulted).",
+ "mode": "ambiguous",
+ "mode_evidence": "CH I: 'I see a Vision limitless, all things turned into Light' in a sleep-like suspension of bodily senses. CH X explicitly calls it 'the radiance that the mind alone can see', seen with 'my mind's eye', and contrasts it with sunlight on the physical eyes; so it is framed as noetic seeing, not visual-field light.",
+ "eyes": "closed",
+ "onset_pathway": "unclear",
+ "onset_evidence": "The only practical directions are sense-withdrawal: meditating until the body's senses are held back (CH I), stilling every sense and motion (CH X), 'withdraw into thyself... will, and it comes to pass; throw out of work the body's senses' (CH XIII). But CH XIII also says 'the way to do this is not taught' and rebirth comes to one 'taken pity on by God'; CH X says 'we are not yet strung to the Vision'. Mixed: will and withdrawal plus grace.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "sensory_restriction",
+  "concentration_nonvisual",
+  "sleep_threshold"
+ ],
+ "what_to_do_with_light": "Gaze in silence; the light draws the soul out of the body and transforms it.",
+ "interpretation": "The light is Mind (Nous), God; the soul is of Light and Life.",
+ "practice_summary": "The treatises describe rather than prescribe. Meditate on 'the things that are' until the body's senses fall still as in heavy sleep; still every sense and motion and keep silence, for 'gnosis of the Good is holy silence and a giving holiday to every sense'. Withdraw into yourself and will it. What is promised is a limitless light seen by the mind, not by the eyes, which does not dazzle but increases seeing, shines round the mind and draws the soul out of the body. The texts also say the way 'is not taught' and depends on divine mercy.",
+ "key_passages": [
+  {
+   "locator": "CH I.1-4, Mead pp. 3-4, source lines ~315-358",
+   "about": "testimony",
+   "anchor": "the senses of my body being held back just as men are who are weighed down with sleep",
+   "paraphrase": "While meditating, with thought raised high and bodily senses held back as in heavy sleep, Hermes is addressed by Poemandres and then sees a limitless vision in which all things became sweet, joyous light.",
+   "quote": "It chanced once on a time my mind was meditating on the things that are, my thought was raised to a great height, the senses of my body being held back, just as men are who are weighed down with sleep after a fill of food, or from fatigue of body. ... and straightway, in the twinkling of an eye, all things were opened to me, and I see a Vision limitless, all things turned into Light, sweet, joyous [Light].",
+   "source_file": "sources/wes-mead-corpus-hermeticum.txt"
+  },
+  {
+   "locator": "CH X.4, Mead pp. 143-144, source lines ~6090-6097",
+   "about": "mode",
+   "anchor": "like the sun's beam fire-like blaze on the eyes and make them close",
+   "paraphrase": "The vision of the Good does not blaze on the eyes like sunlight and make them close; it increases the eye's seeing, the radiance that the mind alone can see.",
+   "quote": "",
+   "source_file": "sources/wes-mead-corpus-hermeticum.txt"
+  },
+  {
+   "locator": "CH X.5-6, Mead pp. 144-145, source lines ~6114-6140",
+   "about": "method",
+   "anchor": "Staying his body's every sense and every motion he stayeth still",
+   "paraphrase": "Gnosis of the Good is holy silence and a holiday to every sense; the gazer perceives nothing else, stills every sense and motion, and the light shines round his mind and through his soul, drawing it out of the body.",
+   "quote": "",
+   "source_file": "sources/wes-mead-corpus-hermeticum.txt"
+  },
+  {
+   "locator": "CH XIII.7, Mead p. 225, source lines ~9593-9597",
+   "about": "onset",
+   "anchor": "Withdraw into thyself and it will come will and it comes to pass",
+   "paraphrase": "To Tat's fear he is incapable: withdraw into yourself and it will come; will, and it happens; put the body's senses out of work and your divinity will be born.",
+   "quote": "",
+   "source_file": "sources/wes-mead-corpus-hermeticum.txt"
+  }
+ ],
+ "reader_confidence": "medium",
+ "confidence_note": "Read in Mead's English, not the Greek; Mead's brackets and interpretive glosses are his."
+}

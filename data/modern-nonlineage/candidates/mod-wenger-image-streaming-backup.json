@@ -1,0 +1,51 @@
+{
+ "id": "mod-wenger-image-streaming-backup",
+ "stream": "modern-nonlineage",
+ "title": "Image-Streaming, with 'Back-Up Procedures: 24 ways to get pictures started' (Project Renaissance web pages)",
+ "author": "Win Wenger",
+ "translator": null,
+ "year": "1993-2011 (page copyright lines)",
+ "edition_cited": "winwenger.com pages imstream.htm, isbackup.htm, isbckup2.htm, archives/part3.htm, isgroup2.htm as preserved in the archive.org WARC of the site (crawl 2023-04-03)",
+ "tradition": "Project Renaissance (creativity and accelerated-learning method, non-lineage)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "in_copyright",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/winwenger.com.warc",
+ "alt_urls": [
+  "http://winwenger.com/isbackup.htm",
+  "http://winwenger.com/imstream.htm",
+  "https://archive.org/details/einsteinfactorpr00weng"
+ ],
+ "source_files": [
+  "sources/mod-wenger-image-streaming-backup.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "PAGE isbackup.htm: Back-Up Procedures page 1 (helper technique, after-image starters)",
+  "PAGE isbckup2.htm: Back-Up Procedures page 2 (further starters, 'blobs of color', eyes-closed methods)",
+  "PAGE imstream.htm: main instructions, describing aloud",
+  "PAGE archives/part3.htm: Winsights Part 3"
+ ],
+ "summary": "Wenger's Image-Streaming asks the practitioner to close the eyes and describe aloud, rapidly and in sensory detail, whatever is seen. The 'Back-Up Procedures' are written for people who at first get no pictures at all: he claims none of thousands has gone through them without success and says he himself once could not visualise. Starters include a partner watching for eye movements, staring at a light or bright window and then describing the after-image as it changes, describing blobs of colour behind closed lids, and other bridging tricks; the after-image is said to turn gradually into other imagery once the describing is kept up.",
+ "why_relevant": "Among the most explicit non-lineage instructions addressed to people who see nothing, using a physical afterimage as the bridge to self-sustaining imagery. Much of the later imagery is called 'mind's eye', so the reading agent must judge mode.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "afterimage_retention",
+  "light_source_gazing",
+  "attention_to_spontaneous_phenomena",
+  "other"
+ ],
+ "priority": 1,
+ "medium": "web_article",
+ "date_evidence": {
+  "date": "2011",
+  "class": "self_reported",
+  "basis": "copyright lines printed on the pages ('(c)1993, 1994, 1999-2011 Project Renaissance' on imstream.htm; '(c)1994-2004' on the back-up pages); server Last-Modified header 14 May 2014 recorded in the WARC; the WARC itself was made 2023-04-03 after the author's death in January 2021"
+ },
+ "author_identifiable": true,
+ "author_basis": "Win Wenger (d. January 2021), founder of Project Renaissance, author of The Einstein Factor (1996); pages are from his own site",
+ "found_via": "seed lead; archive.org creator search found the site WARC",
+ "notes": "The pages state they 'may be freely copied in whole, but not in part, including the copyright notice'. Text was extracted from the WARC by script and HTML tags stripped. The fuller book treatment is The Einstein Factor (1996), available on archive.org only for lending and not saved."
+}

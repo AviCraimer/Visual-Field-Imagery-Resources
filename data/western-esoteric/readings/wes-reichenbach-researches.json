@@ -1,0 +1,40 @@
+{
+  "id": "wes-reichenbach-researches", "stream": "western-esoteric",
+  "verdict": "keep_marginal", "drop_reason": null, "drop_note": "",
+  "relevance": 2, "practicality": 2,
+  "text_read": "digest only; the 'two hours in absolute darkness' passages named by the search agent were not in the digest and could not be confirmed",
+  "mode": "perceptual",
+  "mode_evidence": "Sensitive subjects in a darkened room report flames, vapour, rays and glows at magnet poles and crystals, seen with colour, some even through closed lids. The lights are tied to physical objects and are not reported to arise without them, but Reichenbach insists they are seen, not imagined, and compares many independent observers.",
+  "eyes": "both",
+  "onset_pathway": "induction",
+  "onset_evidence": "The only induction in the digest is dark adaptation: the subject enters a darkened room and stays 'till her eyes were accustomed to the darkness' before the light is seen. Subjects are usually highly sensitive, often ill. The search agent's summary says moderately sensitive persons need about two hours in total darkness; that was not seen in the digest. No claim about whether light can be forced.",
+  "stimulus_independence": "no",
+  "techniques": ["darkness_exposure", "light_source_gazing"],
+  "conditions": {"posture": "", "gaze_or_eye_position": "open eyes toward the object; some see the light with closed lids at a certain distance", "setting": "completely darkened room, eyes accustomed to the dark", "duration_and_schedule": "time to adapt to the dark (two hours per the search agent, unconfirmed)", "prerequisites": "'sensitive' constitution", "other": "a distance is needed: the flame vanishes when approached closely"},
+  "phenomena": ["lamp_or_flame", "smoke_mist_cloud", "colour_fields", "blue", "red", "white", "sparks_or_points", "rainbow"],
+  "stages": [
+    {"label": "dark-adapted perception", "description": "Greyish feebly luminous flames over the poles appear first, then increase in intensity and develop colours; blue on the north pole, reddish yellow on the south."}
+  ],
+  "what_to_do_with_light": "Observation only; he records colours, sizes and forms for comparison between observers.",
+  "obstacles_and_fixes": ["Flame is distinctly seen only at a certain distance: step back from the object"],
+  "cautions": ["Strong light from crystals became too intense to bear and was removed because of overexcitement"],
+  "safety_flags": ["prolonged_darkness"],
+  "interpretation": "A new imponderable 'odylic' force, shown as feeble light, emanating from magnets, crystals, metals and the human hand.",
+  "practice_summary": "This is a laboratory record, not a method. Reichenbach's subjects enter a room made as dark as possible and wait until the eyes are accustomed to the dark. Then a magnet or crystal is shown at a distance and they report a flame, vapour or glow over the poles, with colour. Flames show best at some distance and vanish when approached. Some also detect the light through closed lids, pointing to where it comes from but not seeing its form. Highly sensitive persons see quickly; the search agent says others need up to two hours in total darkness. Nothing here trains light that persists without the physical object.",
+  "key_passages": [
+    {"locator": "Part I, §55, source lines 4331-4463", "about": "method",
+     "anchor": "till  her  eyes  were  accustomed  to  the  darkness.",
+     "paraphrase": "The patient waits in the darkened room until her eyes are accustomed to it before the crystal is shown.", "quote": "", "source_file": "sources/wes-reichenbach-researches.txt"},
+    {"locator": "§206, source lines 8869-8906", "about": "testimony",
+     "anchor": "A  delicate  vaporous  flame  played  over  all,  undulating\nbackwards  and  forwards.",
+     "paraphrase": "Mile. Reichel saw metals in the dark with a delicate vaporous flame that moved with air, breath or the hand.", "quote": "", "source_file": "sources/wes-reichenbach-researches.txt"},
+    {"locator": "§600, source lines 22273-22310", "about": "mode",
+     "anchor": "It  can  be  seen,  for  example,  through\nthe  closed  eyelids.",
+     "paraphrase": "Several sensitives saw the odylic light with closed lids and could say where it came from.", "quote": "", "source_file": "sources/wes-reichenbach-researches.txt"},
+    {"locator": "§§ on electro-magnet flames, source lines 17442-17479", "about": "stages",
+     "anchor": "first  perceived\nthe  odylic  glow ;  then,  after  a  minute  or  two,  the  flames",
+     "paraphrase": "First the glow is perceived, then after a minute or two the flames appear, grey and faint at first, then brighter and coloured.", "quote": "", "source_file": "sources/wes-reichenbach-researches.txt"}
+  ],
+  "cross_refs": ["wes-randolph-seership", "wes-melville-crystal-gazing"], "new_leads": [],
+  "reader_confidence": "low", "confidence_note": "Digest only; light is stimulus-bound to physical objects and the dark-adaptation durations were not confirmed."
+}

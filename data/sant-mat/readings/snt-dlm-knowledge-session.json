@@ -1,0 +1,30 @@
+{
+  "id": "snt-dlm-knowledge-session", "stream": "sant-mat",
+  "verdict": "keep_marginal",
+  "drop_reason": null, "drop_note": "",
+  "relevance": 3, "practicality": 3,
+  "text_read": "digest only (three reader extracts)",
+  "mode": "perceptual",
+  "mode_evidence": "The handbook says the Divine Light is seen, but only through the third eye, not ordinary eyes; no description of what is actually seen.",
+  "eyes": "closed",
+  "onset_pathway": "induction",
+  "onset_evidence": "Old form: gentle eyeball pressure, relax, and 'after some time' light should appear. Current form drops pressure and the word light. The handbook says the light is revealed only through the third eye opened by the Master's grace, so it is not forced. No time scale beyond 15 minutes per sitting.",
+  "stimulus_independence": "unclear",
+  "techniques": ["eye_pressure_or_sense_closure", "eye_position", "devotion_or_transmission", "posture_or_body_lock"],
+  "conditions": {"posture": "Back straight, arms propped on a T-shaped rest (baragon, later banned) or elbow on armchair, chest or cushion.", "gaze_or_eye_position": "Eyes closed, gaze toward centre of forehead; forefinger on the third-eye point.", "setting": "Group Knowledge session with instructors correcting hand position.", "duration_and_schedule": "15 minutes per technique; about 30 each for a two-hour sitting; no timer.", "prerequisites": "Initiation by a Master or mahatma.", "other": "Thumb and middle finger on the closed eyes: gentle pressure (old), steadying only (current)."},
+  "phenomena": ["all_pervading_light"],
+  "stages": [],
+  "what_to_do_with_light": "Relax and follow whatever you feel.",
+  "obstacles_and_fixes": ["Fatigue: lower the hand, relax, start again.", "Sleep: choose a time and posture that avoid it."],
+  "cautions": ["Current form: no need to press; keep the fingers steady so the eyeballs do not move."],
+  "safety_flags": ["eye_pressure", "transmission_required_by_tradition"],
+  "interpretation": "The handbook calls it God's Divine Light, seen only through the third eye opened by a Perfect Master's grace.",
+  "practice_summary": "Sit with the back straight, arms supported. Close the eyes and keep them closed. Place the forefinger at the centre of the forehead. Rest the thumb and middle finger on the closed lids at the inner corners. In the 1970s form they pressed each eyeball gently; the current form says not to press, only to keep the eyeballs from moving. Turn the gaze inward toward the centre of the forehead and relax. After some time light is expected to appear; when it does, relax and follow what you feel. Practise about 15 minutes, with no timer, and if tired lower the hand and begin again. The source does not describe what is seen. It adds that the light is seen only through the third eye, opened by the Master's grace.",
+  "key_passages": [
+    {"locator": "KSession.htm, Divine Light section", "about": "onset", "anchor": "After some time, you should begin to see what Maharaji says is the 'Divine Light' of God.", "paraphrase": "Light is expected to appear after some time of gentle eye pressure and relaxation.", "quote": "", "source_file": "sources/snt-dlm-knowledge-session.txt"},
+    {"locator": "KSession.htm, Divine Light section", "about": "mode", "anchor": "eyes and is revealed only through the third eye, opened by a Perfect Master's grace", "paraphrase": "The light is not seen with ordinary eyes; it depends on the Master's grace opening the third eye.", "quote": "", "source_file": "sources/snt-dlm-knowledge-session.txt"},
+    {"locator": "aspir5.htm, First Meditation Technique", "about": "method", "anchor": "Don't press. Keep the fingers still so the eyeballs don't move.", "paraphrase": "The current version removes pressure and only steadies the eyeballs.", "quote": "", "source_file": "sources/snt-dlm-knowledge-session-aspir5.txt"}
+  ],
+  "cross_refs": [], "new_leads": ["Strasburg's journey on this page set reports the same change from pressing to steadying."],
+  "reader_confidence": "medium", "confidence_note": "reader_extract_saved: model summaries of web pages; no first-person reports of seen light."
+}

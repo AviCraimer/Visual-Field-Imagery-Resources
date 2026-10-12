@@ -1,0 +1,47 @@
+{
+ "id": "wes-sepharial-how-to-read-the-crystal",
+ "stream": "western-esoteric",
+ "title": "How to Read the Crystal; or, Crystal and Seer",
+ "author": "Sepharial (Walter Gorn Old)",
+ "translator": null,
+ "year": "c. 1922 (undated in the e-text)",
+ "edition_cited": "Project Gutenberg eBook #26622 (released 2008), transcribed from the London: W. Foulsham & Co. edition",
+ "tradition": "Theosophical-era British occultism; scrying manual",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://www.gutenberg.org/ebooks/26622",
+ "alt_urls": [
+  "https://archive.org/details/howtoreadthecrys26622gut"
+ ],
+ "source_files": [
+  "sources/wes-sepharial-how-to-read-the-crystal.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Chapters on the two temperaments of seer (positive/negative) and on kinds of vision (c. 25-28% into file)",
+  "'In the early stages of development the crystal will begin to cloud over ...' through the 'bright azure expanse' passage (c. 28-30%)",
+  "Chapter on obstacles: diet, health, alcohol (c. 31%)",
+  "Appended directions for use of the 'Sphere or Ovoid': trials of fifteen to twenty minutes; 'milky ... red, and its complementary green ... blackness' (c. 69%)"
+ ],
+ "summary": "A short manual by a professional astrologer and seer. It describes early development: the crystal clouds over, becoming dull and then suffused with milky clouds in which sparkle many little specks of light 'like gold dust in the sunlight'; the focus of the eyes wavers and the pupils dilate and contract; the crystal may vanish and return as the seer lapses back to ordinary consciousness. This may be the whole result of the first few or of many sittings. Later the clouds and 'dancing starlights' vanish suddenly and a bright azure expanse like a summer sky fills the field, with a sensation in the brain, and vision begins. Appended directions say sight can be developed in people who at first seem insensitive by frequent short trials of fifteen to twenty minutes, success being shown when the sphere stops reflecting and goes milky, then coloured (usually red and green), then black, which rolls away.",
+ "why_relevant": "Describes a staged sequence of seen light phenomena in open-eye scrying and says the faculty can be developed from nothing by short repeated sittings.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "scrying_surface",
+  "gazing_fixed_point"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1922",
+  "class": "published_record",
+  "basis": "Project Gutenberg text #26622 of the Foulsham edition; the e-text carries no print date. 1922 is the date usually catalogued for the Foulsham printing and was not verified from a title page; Sepharial died in 1929, so the text is pre-1930 in any case"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; archive.org search (Gutenberg mirror), text taken from gutenberg.org",
+ "notes": "Publication year uncertain (see date basis). Gutenberg treats the text as US public domain. The appended 'Sphere or Ovoid' directions read like a vendor's leaflet and repeat wording found in other manuals."
+}

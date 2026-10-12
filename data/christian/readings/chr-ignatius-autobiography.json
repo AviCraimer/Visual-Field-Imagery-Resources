@@ -1,0 +1,98 @@
+{
+ "id": "chr-ignatius-autobiography",
+ "stream": "christian",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 4,
+ "practicality": 2,
+ "text_read": "digest only",
+ "mode": "ambiguous",
+ "mode_evidence": "The Manresa shape appeared 'in the courtyard before him' on moonlit nights and he 'gazed at it' (outward, perceptual-sounding); the white rays and the white body of Christ are seen 'with the eyes of his soul'; the meat dish 'he appeared to see it with his eyes'. Ignatius himself does not settle where the seeing happens.",
+ "eyes": "both",
+ "onset_pathway": "development_only",
+ "onset_evidence": "No induction is taught. Visions arose during seven hours of daily prayer, scourging, fasting and vigils, and at night on retiring. A lamp-like illumination came while sitting gazing at a river with no image. The only use for a seer is discernment, not onset.",
+ "stimulus_independence": "yes",
+ "techniques": [
+  "fasting_or_austerity",
+  "sleep_threshold",
+  "devotion_or_transmission",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "conditions": {
+  "posture": "Prayer on bended knees seven hours a day.",
+  "gaze_or_eye_position": "Once sat and gazed at deep flowing water.",
+  "setting": "Hospital courtyard in moonlight; cell; church at Mass.",
+  "duration_and_schedule": "Months at Manresa; the white body seen perhaps twenty or forty times.",
+  "prerequisites": "Severe penance, fasting, vigils.",
+  "other": "Learned discernment of spirits from experience."
+ },
+ "phenomena": [
+  "white",
+  "figures_or_forms",
+  "sun_disc",
+  "all_pervading_light",
+  "lamp_or_flame"
+ ],
+ "stages": [
+  {
+   "label": "the beautiful shape",
+   "description": "Indistinct, symmetrical, serpent-like with glittering 'eyes that were not eyes', gave consolation; later seen gleaming with many eyes."
+  },
+  {
+   "label": "illumination at the river",
+   "description": "No vision, but a lasting new light of understanding."
+  }
+ ],
+ "what_to_do_with_light": "Test by effect and colour: the shape lost its colour near the cross, so he judged it of the devil and dispelled it with his staff. The white body and rays he accepted and trusted.",
+ "obstacles_and_fixes": [
+  "Doubted whether night illuminations were from the good spirit: shortened vigil and gave more time to sleep."
+ ],
+ "cautions": [
+  "A consoling, beautiful vision can be the devil's; discern by its effects and by what it does near holy signs."
+ ],
+ "safety_flags": [
+  "fasting",
+  "sleep_deprivation"
+ ],
+ "interpretation": "Visions are grace or diabolic according to discernment of effects; the river illumination is light of understanding.",
+ "practice_summary": "Ignatius gives testimony, not a method. At Manresa he prayed seven hours daily on his knees, fasted, scourged himself and kept vigils. On retiring, illuminations and consolations came, to the point that he cut sleep. In moonlight a beautiful indistinct shape appeared in the courtyard; the oftener he saw it the greater his joy. Later he saw white rays at the elevation of the Host and the humanity of Christ as a white body, many times, with the eyes of the soul. He treated them by discernment: he asked whether he was left joyful or sad, doubted vigils that took his sleep, and when the shape lost its colour near a cross, he judged it the devil's and drove it off with his staff. Seated by a river he received a deep illumination without any image.",
+ "key_passages": [
+  {
+   "locator": "Ch. II 'Spiritual Trials', source lines 941-1021",
+   "about": "testimony",
+   "anchor": "It  had  something\nof  the  form  of  a  serpent  with  glittering\neyes",
+   "paraphrase": "A recurring beautiful indistinct shape on moonlit nights at the hospital gave increasing consolation and left sadness when it went.",
+   "quote": "",
+   "source_file": "sources/chr-ignatius-autobiography.txt"
+  },
+  {
+   "locator": "Ch. III 'Heavenly Favors', source lines 1336-1458",
+   "about": "mode",
+   "anchor": "he  beheld,  with  the  eyes  of  his\nsoul,  white  rays  descending  from  above.",
+   "paraphrase": "White rays seen at the elevation, marked as seen with the eyes of the soul, as was the white body of Christ.",
+   "quote": "",
+   "source_file": "sources/chr-ignatius-autobiography.txt"
+  },
+  {
+   "locator": "Ch. III, source lines 1336-1458",
+   "about": "caution",
+   "anchor": "He  understood\nfrom  this  that  the  appari\ntion  was  the  work  of  the  devil",
+   "paraphrase": "The shape lost colour near a cross, so he judged it diabolical and dispelled it with his staff.",
+   "quote": "",
+   "source_file": "sources/chr-ignatius-autobiography.txt"
+  },
+  {
+   "locator": "Ch. III, source lines 1230-1329",
+   "about": "onset",
+   "anchor": "it  often\nhappened  that\nwonderful  illuminations  and  great  spiritual\nconsolations  came  to  him",
+   "paraphrase": "At night on retiring after long prayer, illuminations came, so that he cut his sleep.",
+   "quote": "",
+   "source_file": "sources/chr-ignatius-autobiography.txt"
+  }
+ ],
+ "cross_refs": [],
+ "new_leads": [],
+ "reader_confidence": "medium",
+ "confidence_note": "Digest only; anchors cross line breaks."
+}

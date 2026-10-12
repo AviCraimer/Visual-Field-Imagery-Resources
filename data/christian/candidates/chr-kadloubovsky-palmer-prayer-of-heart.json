@@ -1,0 +1,38 @@
+{
+ "stream": "christian",
+ "translator": null,
+ "alt_urls": [],
+ "seen_via": null,
+ "locator_hints": [],
+ "priority": 1,
+ "found_via": "gap pass 2",
+ "notes": "Covered in substance by chr-gregory-sinai-philokalia, chr-xanthopoulos-century, chr-nikephoros-on-watchfulness, chr-symeon-chapters-philokalia (Greek).",
+ "author_identifiable": true,
+ "author_basis": "",
+ "id": "chr-kadloubovsky-palmer-prayer-of-heart",
+ "title": "Writings from the Philokalia on Prayer of the Heart",
+ "author": "various; trans. E. Kadloubovsky and G. E. H. Palmer",
+ "year": "1951",
+ "edition_cited": "Faber and Faber, London 1951",
+ "tradition": "Byzantine hesychasm (from Theophan's Russian Dobrotolyubie)",
+ "language": "English",
+ "source_type": "anthology_or_compilation",
+ "url": "https://archive.org/advancedsearch.php?q=philokalia",
+ "date_evidence": {
+  "date": "1951",
+  "class": "published_record",
+  "basis": "Faber 1951 first edition, library catalogue records found by web search"
+ },
+ "summary": "The standard English selection of hesychast method texts (Nikephoros, Gregory of Sinai, Xanthopoulos, Symeon's Three Methods, etc.), made from Theophan's Russian. In copyright; no authorised free copy. The Greek originals of most of its method texts are catalogued here from the public-domain 1893 Greek edition.",
+ "why_relevant": "The user may want the English text matching the Greek records.",
+ "expected_techniques": [
+  "breath_control",
+  "sound_or_mantra"
+ ],
+ "rights": "in_copyright",
+ "access": "citation_only",
+ "source_files": [],
+ "medium": "book_or_classical_text",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "development_only"
+}

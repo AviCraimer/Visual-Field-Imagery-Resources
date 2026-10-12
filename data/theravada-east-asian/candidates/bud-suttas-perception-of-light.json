@@ -1,0 +1,51 @@
+{
+ "id": "bud-suttas-perception-of-light",
+ "stream": "theravada-east-asian",
+ "title": "Discourses on the perception of light (aloka-sanna): AN 4.41, AN 7.61, SN 51.20, SN 51.11, AN 6.29, AN 8.64, AN 1.51-60",
+ "author": "Pali Canon (Anguttara and Samyutta Nikayas)",
+ "translator": "Bhikkhu Sujato",
+ "year": "canonical; translation c. 2018",
+ "edition_cited": "SuttaCentral bilara-data, branch 'published', translation/en/sujato/sutta/",
+ "tradition": "Early Buddhism / Pali Canon",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://suttacentral.net/an4.41/en/sujato",
+ "alt_urls": [
+  "https://suttacentral.net/an7.61/en/sujato",
+  "https://suttacentral.net/sn51.20/en/sujato",
+  "https://suttacentral.net/an6.29/en/sujato",
+  "https://suttacentral.net/an8.64/en/sujato"
+ ],
+ "source_files": [
+  "sources/bud-suttas-perception-of-light.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "AN 4.41 seg. 3.1-3.5: perception of light, 'as by day, so by night', as the samadhi development leading to knowledge and vision",
+  "AN 7.61 seg. 7.1-7.3: perception of light as the sixth of the remedies for drowsiness given to Moggallana",
+  "SN 51.20 seg. 10.1-10.3: definition of the 'mind full of radiance' as having properly grasped the perception of light and of day",
+  "AN 6.29 seg. 5.1-5.2: perception of light as a topic of recollection",
+  "AN 8.64: the Buddha's stepwise progress from perceiving light without forms to seeing forms and knowing the deities",
+  "AN 1.51-60: 'This mind is radiant'"
+ ],
+ "summary": "A compilation of the short canonical passages on aloka-sanna. AN 4.41 names attention to the perception of light, with day and night treated alike and the heart 'open and unenveloped', as the form of concentration that leads to knowledge and vision. AN 7.61 gives it to the drowsy Moggallana as one of a series of remedies. SN 51.20 and 51.11 place it within the bases of psychic power and define the radiant mind as having 'properly grasped' the perception of light and of day. AN 6.29 lists it among recollections. AN 8.64 is a first-person account in which the Buddha first 'perceived light but did not see forms' and by stages came to see forms and converse with deities. The texts give the instruction in a single formula and do not say how the light is first obtained.",
+ "why_relevant": "The canonical basis for deliberately cultivating a perception of light day and night; needed to show how little procedural detail the suttas themselves give, against the commentarial and modern elaborations.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "concentration_visual_object",
+  "other"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "2018",
+  "class": "published_record",
+  "basis": "Canonical Pali discourses. Translations are SuttaCentral publications scpub4 and scpub5 (Bhikkhu Sujato), released on SuttaCentral in 2018; the year is from my knowledge of the release, as the repository's _publication.json leaves first_published empty. The Pali originals are ancient in any case."
+ },
+ "author_basis": "",
+ "found_via": "seed lead; fetched from GitHub suttacentral/bilara-data",
+ "notes": "Seed lead cited AN 7.58 for the drowsiness discourse; in SuttaCentral's numbering it is AN 7.61 (AN 7.58 in the PTS numbering). Whether aloka-sanna denotes a seen light or a mental brightness is contested and the suttas do not settle it; flagged ambiguous."
+}

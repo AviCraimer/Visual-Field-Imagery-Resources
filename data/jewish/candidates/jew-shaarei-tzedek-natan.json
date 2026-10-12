@@ -1,0 +1,39 @@
+{
+ "stream": "jewish",
+ "translator": null,
+ "alt_urls": [],
+ "seen_via": null,
+ "locator_hints": [],
+ "priority": 1,
+ "found_via": "gap pass 2",
+ "notes": "Summary from prior knowledge of the text, not verified in this run.",
+ "author_identifiable": true,
+ "author_basis": "",
+ "id": "jew-shaarei-tzedek-natan",
+ "title": "Sha'arei Tzedek (anonymous Abulafian treatise, attributed to Natan ben Sa'adyah Har'ar)",
+ "author": "attrib. Natan ben Sa'adyah Har'ar",
+ "year": "c. 1295",
+ "edition_cited": "Hebrew ed. Y. E. Porush, Jerusalem 1989; autobiographical part printed by G. Scholem (1926) and translated in Scholem, Major Trends (1941), Lecture 4",
+ "tradition": "Ecstatic (prophetic) Kabbalah, Abulafia school",
+ "language": "Hebrew",
+ "source_type": "classical_text",
+ "rights": "unknown",
+ "access": "citation_only",
+ "url": "",
+ "source_files": [],
+ "summary": "Disciple of Abulafia's first-person account of letter-combination practice at night, after which he saw a light around him, and the light grew and moved with him; one of the clearest early reports of light seen during letter permutation. Not available here: the Sefaria 'Sha'arei Tzedek' is Gikatilla's unrelated work on the sefirot, and no Hebrew text of the Abulafian treatise was found on archive.org. The account is best known in Scholem's English rendering (in copyright).",
+ "why_relevant": "First-person report of seen light induced by letter combination, from the school whose method the library already catalogues (jew-abulafia-*).",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "letter_or_symbol_contemplation",
+  "sound_or_mantra",
+  "breath_control"
+ ],
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1989",
+  "class": "published_record",
+  "basis": "Porush edition, Jerusalem 1989 (from knowledge of the scholarship, not seen); work c. 1295"
+ }
+}

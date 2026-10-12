@@ -1,0 +1,101 @@
+{
+ "id": "hin-hume-thirteen-upanishads",
+ "stream": "hindu-yoga-tantra",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 4,
+ "practicality": 3,
+ "text_read": "Svetasvatara Upanishad 2.6-2.17 read in full (file lines 22464-22560); rest of the volume not read.",
+ "mode": "ambiguous",
+ "mode_evidence": "The nine forms are 'preliminary appearances' (purvarupani) of yoga; the text does not say how they are seen, but they are listed as phenomena arising in practice, not objects to imagine. Hume's footnotes add no gloss.",
+ "eyes": "unspecified",
+ "onset_pathway": "induction",
+ "onset_evidence": "Gives the practice whose preliminary signs are the lights: steady posture with head, chest and neck erect; senses with mind drawn into the heart; breath repressed and then breathed through the nostrils 'with diminished breath'; mind restrained like a chariot of vicious horses; in a clean, level, sheltered, quiet place by water. No time scale, no guru requirement, nothing said to one who sees nothing.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "breath_control",
+  "posture_or_body_lock",
+  "concentration_nonvisual",
+  "sensory_restriction"
+ ],
+ "conditions": {
+  "posture": "Body steady, head, chest and neck erect",
+  "gaze_or_eye_position": "",
+  "setting": "Clean level spot free from pebbles, fire and gravel; sound of water; hidden retreat sheltered from wind; not offensive to the eye",
+  "duration_and_schedule": "",
+  "prerequisites": "",
+  "other": "Senses with the mind made to enter the heart"
+ },
+ "phenomena": [
+  "smoke_mist_cloud",
+  "sun_disc",
+  "lamp_or_flame",
+  "fireflies",
+  "lightning_flashes",
+  "moon_disc",
+  "white"
+ ],
+ "stages": [
+  {
+   "label": "preliminary forms (2.11)",
+   "description": "Fog, smoke, sun, fire, wind, fireflies, lightning, crystal, moon: forerunners of the manifestation of Brahman in yoga"
+  },
+  {
+   "label": "first stage (2.13)",
+   "description": "Lightness, health, steadiness, clear countenance, pleasant voice, sweet odour, scanty excretions"
+  },
+  {
+   "label": "vision (2.14-15)",
+   "description": "The self, used as a lamp, beholds the nature of Brahman"
+  }
+ ],
+ "what_to_do_with_light": "Treat the forms as preliminary signs on the way to the manifestation of Brahman; nothing about dwelling on them.",
+ "obstacles_and_fixes": [],
+ "cautions": [],
+ "safety_flags": [
+  "breath_retention"
+ ],
+ "interpretation": "The appearances are forerunners (purvarupa) that produce or precede the manifestation of Brahman in yoga.",
+ "practice_summary": "Choose a clean, level, quiet place sheltered from wind, near the sound of water. Sit with head, chest and neck in a line, body still. Draw the senses with the mind into the heart. Repress the breath, then breathe through the nostrils with diminished breath, and hold the mind back as one reins vicious horses. Fog, smoke, sun, fire, wind, fireflies, lightning, crystal and moon appear as the preliminary forms that precede the manifestation of Brahman; bodily lightness and health mark the first stage; finally the self, as a lamp, beholds Brahman.",
+ "key_passages": [
+  {
+   "locator": "Svetasvatara 2.11, file lines 22504-22508",
+   "about": "stages",
+   "anchor": "These are the preliminary appearances,",
+   "paraphrase": "The nine forms are preliminary appearances leading to the manifestation of Brahman.",
+   "quote": "Fog, smoke, sun, fire, wind, / Fire-flies, lightning, a crystal, a moon — / These are the preliminary appearances, / Which produce the manifestation of Brahma in Yoga.",
+   "source_file": "sources/hin-hume-thirteen-upanishads.txt"
+  },
+  {
+   "locator": "Svetasvatara 2.8-2.9, file lines 22480-22490",
+   "about": "method",
+   "anchor": "And causing the senses with the mind to enter into the heait,",
+   "paraphrase": "Erect posture, senses drawn into the heart, breath repressed and diminished, mind reined in.",
+   "quote": "Holding his body steady with the three [upper parts] erect, / And causing the senses with the mind to enter into the heart, ... Having repressed his breathings here in the body, and having his movements checked, / One should breathe through his nostrils with diminished breath.",
+   "source_file": "sources/hin-hume-thirteen-upanishads.txt"
+  },
+  {
+   "locator": "Svetasvatara 2.10, file lines 22492-22497",
+   "about": "method",
+   "anchor": "Favorable to thought, not offensive to the eye,",
+   "paraphrase": "Setting: clean, level, quiet, sheltered.",
+   "quote": "",
+   "source_file": "sources/hin-hume-thirteen-upanishads.txt"
+  },
+  {
+   "locator": "Svetasvatara 2.15, file lines 22545-22548",
+   "about": "interpretation",
+   "anchor": "A practiser of Yoga beholds here the nature of Brahma,",
+   "paraphrase": "The self as lamp beholds Brahman.",
+   "quote": "",
+   "source_file": "sources/hin-hume-thirteen-upanishads.txt"
+  }
+ ],
+ "cross_refs": [
+  "hin-thirty-minor-upanishads-aiyar"
+ ],
+ "new_leads": [],
+ "reader_confidence": "high",
+ "confidence_note": "Hume 1921 (2nd ed. 1931); quotes lightly corrected for OCR ('Fire-Mies' = Fire-flies). Mode is undetermined by the text itself."
+}

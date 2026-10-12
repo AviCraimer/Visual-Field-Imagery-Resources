@@ -1,0 +1,46 @@
+{
+ "stream": "christian",
+ "translator": null,
+ "alt_urls": [],
+ "seen_via": null,
+ "locator_hints": [
+  "breath method chapters ~source lines 2010-2180",
+  "light of the mind ~4400-4415",
+  "'Peri energeias theias kai enantias' and 'Peri photismou alethinou kai pseudous' ~5150-5240",
+  "catena on formless prayer with Diadochos and Evagrius sapphire ~5320-5500"
+ ],
+ "priority": 1,
+ "found_via": "gap pass 2",
+ "notes": "",
+ "author_identifiable": true,
+ "author_basis": "",
+ "id": "chr-xanthopoulos-century",
+ "title": "Method and exact rule for those who choose the hesychast life (Century in 100 chapters)",
+ "author": "Kallistos and Ignatios Xanthopoulos",
+ "year": "late 14th c.; ed. 1893",
+ "tradition": "Byzantine hesychasm",
+ "url": "https://archive.org/details/Dobrotolyubie1793",
+ "source_files": [
+  "sources/chr-xanthopoulos-century.txt"
+ ],
+ "summary": "Systematic hesychast manual: Jesus Prayer with breath led through the nostrils into the heart, sitting, rule of life. It says those who practise the Name in the depth of the heart 'can at times see the light of the mind'; it forbids seeking God's appearance; if light is seen unsought, neither accept nor reject it but refer it to God and ask an experienced, illumined teacher; it gives Paul of Latros's criterion: demonic light is fiery and smoky like sensible fire, divine light pure, sanctifying, filling with joy and gentleness; and gathers Diadochos, Evagrius (sapphire / sky-coloured state of mind) and Isaac on formless prayer.",
+ "why_relevant": "Gives the late-Byzantine operating rules for seen light: when it comes, how to discern it, what to do.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "breath_control",
+  "sound_or_mantra",
+  "posture_or_body_lock"
+ ],
+ "language": "Greek",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1893",
+  "class": "published_record",
+  "basis": "Second Greek edition of the Philokalia, Athens 1893 (archive.org metadata and title page); text first printed Venice 1782"
+ },
+ "edition_cited": "Philokalia ton ieron neptikon, Athens 1893, djvu OCR from archive.org"
+}

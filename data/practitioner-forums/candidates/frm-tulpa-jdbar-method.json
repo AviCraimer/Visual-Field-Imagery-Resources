@@ -1,0 +1,44 @@
+{
+ "id": "frm-tulpa-jdbar-method",
+ "stream": "practitioner-forums",
+ "title": "JDBar's Tulpa Method",
+ "author": "JDBar",
+ "translator": null,
+ "year": "undated in text (posted on tulpa.info as topic 1438; archived April 2020)",
+ "edition_cited": "Google Doc re-archived as PDF in archive.org item 'tulpamancy'; OCR text used",
+ "tradition": "Tulpa community (secular, internet-based)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "unknown",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/tulpamancy",
+ "alt_urls": [
+  "https://community.tulpa.info/topic/1438-jds-tulpa-method/"
+ ],
+ "source_files": [
+  "sources/frm-tulpa-jdbar-method.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Phase 1: Form and Voice (open-eyed visualization from the start)",
+  "Phase 3: Imposition"
+ ],
+ "summary": "A short, blunt guide by a practitioner who says he made tulpas before knowing the community existed. Its distinctive advice: do all visualization with eyes open from the first day, because that makes imposition easier. In Phase 3 he argues that the signal from the eyes and the mind's-eye image are both compiled by the brain into one construct of space, so the lever is spatial: learn to feel exactly where the figure is relative to you, then add the visual image at that depth and distance so the brain accepts it as physical. He reports the end state in the first person: sitting in class and being irritated that the figure on his desk blocked his view of the chalkboard.",
+ "why_relevant": "A first-person claim of full occluding open-eye perception reached by training, with a specific method (open-eye visualization plus spatial location) aimed at someone starting from nothing.",
+ "expected_mode": "imaginal_crossing",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "visualization_crossing"
+ ],
+ "priority": 2,
+ "medium": "web_article",
+ "date_evidence": {
+  "date": "2020-04-14",
+  "class": "platform_timestamp",
+  "basis": "archive.org stamps the item 'tulpamancy' addeddate 2020-04-14 (re-archived Google Doc); the text prints no date. A web search shows the same guide as tulpa.info community topic 1438 ('JD's Tulpa Method'), whose post date I could not open."
+ },
+ "author_identifiable": false,
+ "author_basis": "Forum pseudonym only.",
+ "found_via": "archive.org advancedsearch 'tulpa guide'; also surfaced by WebSearch on tulpa.info",
+ "notes": ""
+}

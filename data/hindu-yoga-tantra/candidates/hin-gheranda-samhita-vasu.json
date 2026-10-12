@@ -1,0 +1,54 @@
+{
+ "id": "hin-gheranda-samhita-vasu",
+ "stream": "hindu-yoga-tantra",
+ "title": "The Gheranda Samhita",
+ "author": "Anonymous (c. 17th-18th c.)",
+ "translator": "Rai Bahadur Srisa Chandra Vasu",
+ "year": "c. 1700 text; translation 1895, reprinted 1914",
+ "edition_cited": "In: The Yoga Sastra (Sacred Books of the Hindus vol. XV), Allahabad: Sudhindranatha Vasu, Panini Office, 1914; OCR of archive.org scan india.history.resource.88861 (Gheranda Samhita occupies roughly lines 8100-12300 of the saved file)",
+ "tradition": "Hatha yoga (ghatastha yoga)",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/india.history.resource.88861",
+ "alt_urls": [
+  "https://archive.org/details/in.ernet.dli.2015.36514",
+  "https://archive.org/details/Gheranda_Samhita"
+ ],
+ "source_files": [
+  "sources/hin-vasu-yoga-sastra-sbh15.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Lesson 1, verses 53-54: 'TRATAKA OR GAZING' (file line c. 8766): gaze at a small object until tears flow; 'Sambhavi Siddhis are obtained ... clairvoyance is induced'",
+  "Lesson 3, verses 37-42: Yoni-mudra with the six-opening closure (file line c. 9676)",
+  "Lesson 3, verses 64-67: Sambhavi-mudra (file line c. 9846)",
+  "Lesson 3, verses 68 ff.: the five dharanas on the elements, each with a colour and a duration of five ghatikas",
+  "Lesson 6, verses 15-17: 'JYOTIR DHYANA' (file line c. 11160): flame at muladhara; light of Om between the eyebrows",
+  "Lesson 6, verses 18-21: Sukshma dhyana by Sambhavi, 'gazing fixedly at space without winking'",
+  "Lesson 7: samadhi through Sambhavi, Bhramari and Yoni mudra (file line c. 11271-11335)"
+ ],
+ "summary": "Gheranda's seven-limbed manual gives several light-related practices in terse verses. Trataka (1.53-54): unblinking gaze at a small object till tears come; the result named is 'Sambhavi siddhis', cure of eye disease and clairvoyance. Yoni-mudra (3.37-42): seated in siddhasana, close ears with thumbs, eyes with index fingers, nostrils with middle fingers, lips with the rest, draw breath by kaki-mudra and raise kundalini through the chakras; here the text speaks of contemplation and bliss, not explicitly of seen light. Jyotir or tejo dhyana (6.15-17): contemplate the jiva as a lamp-flame at the muladhara, or the flame-like light of Om between the eyebrows, ranked a hundred times above contemplation of form. Sukshma dhyana (6.18-21) is attained by Sambhavi mudra, gazing at space without blinking. The elemental dharanas assign colours to be held for fixed periods.",
+ "why_relevant": "Classical step-level instructions for trataka, the six-gate closure, between-the-brows light contemplation and open-eyed space gazing; mode needs judging, since jyotir dhyana is worded as contemplation of a flame that 'is there'.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "gazing_fixed_point",
+  "eye_pressure_or_sense_closure",
+  "sky_or_space_gazing",
+  "visualization_crossing",
+  "eye_position"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1914",
+  "class": "published_record",
+  "basis": "title page of the scanned volume prints 'Printed by Apurva Krishna Bose at the Indian Press, 1914'; archive.org metadata for india.history.resource.88861 gives date 1915"
+ },
+ "author_identifiable": true,
+ "author_basis": "Classical Sanskrit text; translator S. C. Vasu (1861-1918)",
+ "found_via": "seed lead; archive.org title search 'gheranda samhita'",
+ "notes": "OCR is fair in the English and garbage in the Devanagari lines; choose anchors from clean English lines. The volume's long 'Introduction to Yoga Philosophy' by Vasu (lines c. 600-3700) may also contain remarks on lights and should be skimmed (search 'light', 'Jyotis' near line 11062)."
+}

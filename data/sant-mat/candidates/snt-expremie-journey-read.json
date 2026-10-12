@@ -1,0 +1,46 @@
+{
+ "id": "snt-expremie-journey-read",
+ "stream": "sant-mat",
+ "title": "Journeys: Michael A. Read",
+ "author": "Michael A. Read",
+ "translator": null,
+ "year": "2000 (recounting 1973 onward)",
+ "edition_cited": "ex-premie.org 'Journeys' page as read on 2026-10-11",
+ "tradition": "Divine Light Mission (Prem Rawat, 'Knowledge'); former member",
+ "language": "English",
+ "source_type": "practitioner_testimony",
+ "rights": "in_copyright",
+ "access": "reader_extract_saved",
+ "url": "https://ex-premie.org/pages/journs/read.htm",
+ "alt_urls": [],
+ "source_files": [
+  "sources/snt-expremie-journey-read.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Portland, 1973, before initiation: 'The room filled with light' during a mahatma's talk",
+  "New York street experience before India: 'a huge beam of light went through my head like a lighthouse beacon'",
+  "Knowledge session at Prem Nagar, India: 'Nothing and I mean nothing happened. No Light. No Music...'",
+  "Closing section (February 2000): 'I still see light coming out of myself and other people'; never used the eye-pressing technique"
+ ],
+ "summary": "A former member's account with an unusual pattern. Before initiation he twice saw light unprompted: a beam of light through his head on a New York street with a sense of all-round vision, and a room that filled with light while a mahatma spoke in Portland in 1973, which is what drew him in. At the Knowledge session itself, at Prem Nagar in India, nothing happened: no light, sound, word or nectar, though a neighbour was overwhelmed. He stayed about five years. Writing in 2000 he says he still meditates, though not with the Knowledge techniques, still sees light coming from himself and other people with eyes open, and never used the technique of pressing the eyeballs because he 'didn't need to'. He gives no method for the light he does see.",
+ "why_relevant": "First-person report of the taught induction failing for someone who sees light spontaneously, including open-eye light around people; bears on the claim that the technique or the grace produces the light.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "eye_pressure_or_sense_closure",
+  "attention_to_spontaneous_phenomena",
+  "devotion_or_transmission"
+ ],
+ "priority": 2,
+ "medium": "web_article",
+ "date_evidence": {
+  "date": "2000-02-28",
+  "class": "self_reported",
+  "basis": "'Date: February 28, 2000' printed at the head of the Journeys entry; in-text reference to finding the site just before Christmas 1999."
+ },
+ "author_identifiable": true,
+ "author_basis": "Signed with full name on a long-running ex-member site; a private individual",
+ "found_via": "WebSearch restricted to ex-premie.org",
+ "notes": "Reader extract. The spontaneous episodes have no practice context and would be out of scope alone; the record is kept for the failed-induction report and the open-eye light, and may be judged keep_marginal."
+}

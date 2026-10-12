@@ -1,0 +1,96 @@
+{
+ "stream": "christian",
+ "drop_reason": null,
+ "drop_note": "",
+ "cross_refs": [
+  "chr-gregory-sinai-philokalia",
+  "chr-evagrius-on-prayer",
+  "chr-diadochos-hundred-chapters"
+ ],
+ "new_leads": [],
+ "safety_flags": [
+  "breath_retention",
+  "tradition_warns_against_seeking",
+  "transmission_required_by_tradition"
+ ],
+ "stages": [],
+ "obstacles_and_fixes": [
+  "Turning aside into imaginings: keep the bare words of the prayer constantly in mind."
+ ],
+ "cautions": [
+  "Do not seek God's manifestation, lest you receive darkness pretending to be light.",
+  "Light of the opposing power is fiery and smoky, like sensible fire; a purified soul finds it distasteful.",
+  "Pray formlessly or you become a fantasist instead of a hesychast."
+ ],
+ "phenomena": [
+  "sapphire_or_sky_blue",
+  "blue",
+  "lamp_or_flame",
+  "smoke_mist_cloud",
+  "all_pervading_light"
+ ],
+ "conditions": {
+  "posture": "seated, with breath led in through the nose",
+  "gaze_or_eye_position": "not specified in passages read",
+  "setting": "cell, stillness",
+  "duration_and_schedule": "continual, over long periods",
+  "prerequisites": "teacher, obedience, purity",
+  "other": ""
+ },
+ "id": "chr-xanthopoulos-century",
+ "verdict": "keep",
+ "relevance": 5,
+ "practicality": 4,
+ "text_read": "Greek 1893 text: breath-method chapters (grep εἰσπνοῆς ῥινὸς), the 'light of the mind' chapter, the chapters on divine and contrary energy, true and false illumination, fitting and unfitting imagination, read in full.",
+ "mode": "ambiguous",
+ "mode_evidence": "'The light of the mind' is said to be 'seen' (ὁρᾷν), and false light is described in sensory terms (fiery, smoky, like sensible fire), so a seen light is in view; but the text never says eyes open/closed and the divine light is defined by absence of all images.",
+ "eyes": "unspecified",
+ "onset_pathway": "development_only",
+ "onset_evidence": "The light is a by-product of long, unbroken practice of the Name in the depth of the heart ('they can at times see the light of the mind'); the practitioner must not seek God's appearance. No steps for someone who sees nothing; the breath method aims at prayer, not at light. Discernment requires a teacher who has himself experienced illumination.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "breath_control",
+  "sound_or_mantra",
+  "posture_or_body_lock",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "what_to_do_with_light": "If light appears unsought: neither accept nor reject; flee to God in hope; ask an illumined, undeluded teacher; if none, better not to accept it and to count oneself unworthy.",
+ "interpretation": "The mind's own light, seen when purified, is a work of grace; Evagrius's sapphire 'state of the mind' is cited as the place of God.",
+ "practice_summary": "Sit and pray 'Lord Jesus' constantly in the depth of the heart, with the breath drawn gently through the nostrils into the heart, holding to the bare words so the mind does not wander into images. Do not look for any appearance of God. Those who persist in this can at times see 'the light of the mind'. If light comes unsought, neither embrace it nor curse it: entrust it to God and consult a teacher who has himself been illumined. As a test, the false light is fiery and smoky, like ordinary fire, and leaves distaste; the true is pure and fills the soul with joy, cheerfulness and gentleness. Without a teacher, decline it humbly.",
+ "key_passages": [
+  {
+   "locator": "chapter on the light of the mind, source lines ~4405-4412",
+   "about": "onset",
+   "anchor": "οὗτοι δύνανται ха τὸ φῶς τοῦ νοῦ ὁρᾷν",
+   "paraphrase": "Those who meditate unceasingly on the glorious Name in the depth of the heart can at times see the light of the mind.",
+   "quote": "",
+   "source_file": "sources/chr-xanthopoulos-century.txt"
+  },
+  {
+   "locator": "'Περὶ ἐνεργείας θείας, καὶ ἐναντίας', source lines ~5170-5185",
+   "about": "caution",
+   "anchor": "Ὅταν δὲ ὁ νοῦς αὐτοῦ μὴ ζητοῦντος φῶς ὁρᾷ μὴ παραδεχέσθω τοῦτο",
+   "paraphrase": "When the mind sees light without seeking it, let him neither accept it nor annul it (citing Mark the Ascetic), but flee to God and ask one who has grace to teach and discern.",
+   "quote": "",
+   "source_file": "sources/chr-xanthopoulos-century.txt"
+  },
+  {
+   "locator": "'Περὶ φωτισμοῦ ἀληθινοῦ, καὶ ψευδοῦς', source lines ~5210-5232",
+   "about": "development",
+   "anchor": "δυνάμεως φῶς πυροειδές ἐστι χαὶ χαπνῶδες καὶ τοῦ αἰσθητοῦ πυρὸς ὅμοιον",
+   "paraphrase": "Paul of Latros: the light of the opposing power is fiery and smoky like sensible fire and a purified soul loathes it; the light of the good is most gracious and pure, sanctifies, fills the soul with light, joy and cheerfulness, and makes it gentle.",
+   "quote": "",
+   "source_file": "sources/chr-xanthopoulos-century.txt"
+  },
+  {
+   "locator": "catena on formless prayer, source lines ~5470-5495",
+   "about": "mode",
+   "anchor": "εἴ τις βούλοιτο ἰδεῖν τὴν τοῦ νοῦ χατάστασιν στερησάτω",
+   "paraphrase": "Citing 'Neilos' (Evagrius): whoever wishes to see the state of the mind should strip himself of all thoughts and will then see it like sapphire or sky colour; Isaac: the mind clothed in grace sees its own purity like the heavenly colour; pray purely, without images, or become a fantasist.",
+   "quote": "",
+   "source_file": "sources/chr-xanthopoulos-century.txt"
+  }
+ ],
+ "reader_confidence": "high",
+ "confidence_note": "Read in Greek; OCR noisy but sense clear."
+}

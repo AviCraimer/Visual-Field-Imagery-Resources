@@ -1,0 +1,48 @@
+{
+ "id": "wes-randolph-seership",
+ "stream": "western-esoteric",
+ "title": "Seership! The Magnetic Mirror: A Practical Guide for Those Who Aspire to Clairvoyance-Absolute",
+ "author": "Paschal Beverly Randolph",
+ "translator": null,
+ "year": "1870",
+ "edition_cited": "Boston: Randolph & Co., 1870 (Library of Congress, Houdini Collection scan)",
+ "tradition": "American Rosicrucian / mesmeric clairvoyance",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/seershipmagnetic00rand",
+ "alt_urls": [],
+ "source_files": [
+  "sources/wes-randolph-seership.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Part 'Interior Vision', numbered and lettered rules on developing clairvoyance (c. 4-12% into file); rule G on 'flashes, sparks, white clouds, rolling balls of light vapor' (c. 6%)",
+  "pp. 10-11: tests of susceptibility (speck on the wall six minutes; rapid forcible breathing ninety seconds; horse-shoe magnet), dark chamber, 'sparks, flashes, streaks ... phosphor clouds' (c. 9%)",
+  "Mirror section from c. 31% onward: history, Lane's Egyptian ink-mirror account (c. 45%), incense and 'glory-clouds' (c. 61%)",
+  "'whoever can see even a single cloud pass across the mirror's face' and a correspondent's report (c. 79%)",
+  "Rules for mirrors, grades of glasses (c. 85% to end)"
+ ],
+ "summary": "Randolph's manual on clairvoyance and the black 'magnetic' mirror. He treats seeing 'spectral sparks or flashes' as a beginning that needs training by system and rule. Tests and methods: look steadily at a speck on the wall for six minutes; breathe rapidly and forcibly for ninety seconds; a horse-shoe magnet operation lying down; always in a quite dark room, which he says is twenty times more productive than a lit one (moonlight or starlight next best). If after a few minutes sparks, flashes, streaks of light or 'phosphor clouds' float before the face, the person can become clairvoyant by continuance and repetition. In mirror work the first sign is clouds passing over the glass; he holds that anyone who sees a single cloud can develop further, but admits some try long without success. Gives rules for the care and use of mirrors.",
+ "why_relevant": "Practical induction tests (fixed gazing, hyperventilation, darkness) with a stated criterion of first light phenomena and a developmental claim, plus mirror-scrying onset signs.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "darkness_exposure",
+  "gazing_fixed_point",
+  "breath_control",
+  "scrying_surface"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1870",
+  "class": "published_record",
+  "basis": "archive.org / Library of Congress metadata date 1870 for the scanned copy"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "own lead; archive.org search creator Randolph title seership",
+ "notes": "Rapid forced breathing 'to coma' is a safety point. Randolph elsewhere advocated hashish; a quick keyword check did not look for it in this text, so the reading agent should confirm the methods cited here are drug-free. Much of the mirror lore is commercial (he sold mirrors)."
+}

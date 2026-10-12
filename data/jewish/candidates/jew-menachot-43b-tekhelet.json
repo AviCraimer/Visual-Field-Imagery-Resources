@@ -1,0 +1,41 @@
+{
+ "stream": "jewish",
+ "translator": null,
+ "alt_urls": [],
+ "seen_via": null,
+ "locator_hints": [
+  "segment [12], R. Meir: tekhelet resembles sea, sea sky, sky the Throne"
+ ],
+ "priority": 1,
+ "found_via": "gap pass 2",
+ "notes": "",
+ "author_identifiable": true,
+ "author_basis": "",
+ "id": "jew-menachot-43b-tekhelet",
+ "title": "Babylonian Talmud, Menachot 43b (R. Meir on tekhelet)",
+ "author": "Babylonian Talmud (baraita of R. Meir)",
+ "year": "c. 500 CE",
+ "edition_cited": "Vilna text via Sefaria",
+ "tradition": "Rabbinic",
+ "language": "Hebrew/Aramaic",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://www.sefaria.org/Menachot.43b",
+ "source_files": [
+  "sources/jew-menachot-43b-tekhelet.txt"
+ ],
+ "summary": "R. Meir: tekhelet was chosen because it resembles the sea, the sea the sky, and the sky the Throne of Glory (Exod. 24:10 'sapphire brickwork', Ezek. 1:26). Later Jewish mystics read this as a gazing chain from blue thread to the Throne. The Talmud itself gives only the associative chain, no instruction to gaze for vision and no report of seen light.",
+ "why_relevant": "Seed lead: the textual root of tekhelet/sapphire contemplation, paralleling Evagrius's sapphire state of mind.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "concentration_visual_object"
+ ],
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "0500",
+  "class": "published_record",
+  "basis": "Babylonian Talmud; Sefaria Vilna edition"
+ }
+}

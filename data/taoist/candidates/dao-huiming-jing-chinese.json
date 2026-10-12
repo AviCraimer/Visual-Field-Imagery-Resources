@@ -1,0 +1,47 @@
+{
+ "id": "dao-huiming-jing-chinese",
+ "stream": "taoist",
+ "title": "慧命經 (Huiming jing; Hui Ming Ching, 'Book of Consciousness and Life'), Chinese text",
+ "author": "Liu Huayang 柳華陽",
+ "translator": null,
+ "year": "1794",
+ "edition_cited": "Punctuated transcription on zh.wikisource (no print edition named there)",
+ "tradition": "Wu-Liu school (伍柳派) of Longmen neidan, written in Buddhist vocabulary",
+ "language": "Chinese (classical)",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://zh.wikisource.org/wiki/慧命經",
+ "alt_urls": [],
+ "source_files": [
+  "sources/dao-huiming-jing-chinese.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "集說慧命經第九, comment on '火化以後，收取舍利': when the relic is complete '虛室生白', the dantian like boiling water, genital retraction",
+  "集說慧命經第九, comment on '六種震動' and '眉間常放白毫光': 'golden light in the eyes'; 'often, in a dark room, one sees white light'; counting of appearances; 'from the dantian to the eyes all is dazzling empty white, bright as moonlight'",
+  "Comment on '從白毫光出': at the time of leaving concentration 'white light or golden light is emitted'; a teacher must be sought",
+  "Passage on turning 'yin demons' into 'yang light' by long refining"
+ ],
+ "summary": "Liu Huayang's 1794 manual reads Buddhist phrases as stages of inner alchemy and names the light signs at each. When the 'relic' (the inner medicine) is ripe, he says, the empty room brings forth white, the lower belly is hot as boiling water and the genitals retract; among the 'six kinds of quaking' the eyes show golden light; the practitioner 'often, in a dark room, sees white light', and the number of times it appears is the cue for gathering; before the medicine leaves the furnace a white radiance like moonlight runs from the lower belly up to the eyes. A later sign, white or golden light at the time of leaving concentration, is treated as a point where a teacher's instruction is required. The preparatory method is breath-and-attention work at the lower dantian, not looking for light.",
+ "why_relevant": "Stage-by-stage statement of when light is seen in Wu-Liu inner alchemy, eyes closed in a dark room, with the light used as a timing signal for the next step. The light is a by-product sign, not a target, which bears on the onset question.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "energy_work",
+  "breath_control",
+  "concentration_nonvisual",
+  "darkness_exposure",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1794",
+  "class": "published_record",
+  "basis": "Wikisource header gives author 柳華陽 and period 清; the year 1794 is the date of the author's preface as I recall it from the Wilhelm/Baynes volume, not checked against the text in this run. The work was partly translated in Wilhelm's 1929 volume, so it predates 1929 in any case."
+ },
+ "author_basis": "",
+ "found_via": "seed lead (Hui Ming Ching)",
+ "notes": "Partial English in Wilhelm/Baynes (later editions) and full English in Eva Wong, Cultivating the Energy of Life (1998), both in copyright. Anchors: see ANCHOR RULE in the source file."
+}

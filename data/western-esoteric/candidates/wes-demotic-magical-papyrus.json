@@ -1,0 +1,50 @@
+{
+ "id": "wes-demotic-magical-papyrus",
+ "stream": "western-esoteric",
+ "title": "The Demotic Magical Papyrus of London and Leiden, vol. I (translation): lamp and vessel divinations",
+ "author": "Anonymous (Egyptian demotic handbook, 3rd century CE)",
+ "translator": "F. Ll. Griffith and Herbert Thompson",
+ "year": "papyrus c. 3rd century CE; translation 1904",
+ "edition_cited": "London: H. Grevel & Co., 1904 (Cornell scan), vol. I: transliteration, translation and notes",
+ "tradition": "Graeco-Egyptian ritual papyri (PDM xiv)",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/cu31924026874523",
+ "alt_urls": [],
+ "source_files": [
+  "sources/wes-demotic-magical-papyrus.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Col. I-II: vessel inquiry with a boy; Col. II lines 1-6: 'Open your eyes'; what to do if he does not see the light (c. 12-14% into file)",
+  "Col. III line 14 ff.: boy gazing into oil with eyes closed while invocation is spoken into his head (c. 18%)",
+  "Col. V-VIII: lamp divinations; Col. VI lines 4-7: eyes closed, then opened toward the lamp, 'shadow of the god about the lamp', done at midday in a place without light (c. 27-33%)",
+  "Col. X lines 20-22: solo vessel inquiry, eye ointment, eyes closed then opened, 4th to 15th of the lunar month (c. 41%)",
+  "Col. XVI-XVIII: 'Do you see the light?' ... 'I see the light in the flame of the lamp'; formula when 'the light has not come forth'; solo version 'you open your eyes ... and you see the light' (c. 58-62%)",
+  "Col. XXIX: inquiry of the sun (not checked)"
+ ],
+ "summary": "A working magician's handbook in which the commonest operation is divination by lamp or by a bowl of oil, usually through a boy medium but with repeated notes that the operator can do it alone. The pattern: a clean dark room or cell, a new lamp with clean wick and oil (or a vessel of oil), incense, the seer's eyes closed while an invocation is recited seven times 'down into his head', then eyes opened toward the lamp or oil. The first thing asked is whether he sees 'the light'; if he does, formulas bid the light grow and come in, and then the god or his shadow is seen about the lamp. If he does not see the light he is made to close his eyes again and a further formula ('O darkness, remove thyself') is recited, or he addresses the lamp himself. Several rites prescribe an eye ointment.",
+ "why_relevant": "Explicit ritual procedure in which a seen light at the lamp or in the oil is the checked first sign, with fallback steps for the seer who sees nothing, and solo variants.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "light_source_gazing",
+  "scrying_surface",
+  "darkness_exposure",
+  "sound_or_mantra",
+  "devotion_or_transmission"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1904",
+  "class": "published_record",
+  "basis": "archive.org metadata date 1904 for the Cornell copy of vol. I (Griffith and Thompson)"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "own lead (public-domain counterpart to the seed lead on PGM lamp divination); archive.org title search",
+ "notes": "Translation is interleaved with philological footnotes, so passages are broken up in the OCR. Some eye ointments contain plant and animal ingredients whose effect is unknown; the reading agent should note this rather than assume a drug effect. The Greek lamp spells (PGM VII etc.) are available in English only in Betz 1986 (in copyright; not saved)."
+}

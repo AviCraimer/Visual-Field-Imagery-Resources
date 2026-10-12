@@ -1,0 +1,97 @@
+{
+ "id": "bud-bodhicitta-sastra-t1665",
+ "stream": "theravada-east-asian",
+ "verdict": "keep_marginal",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 3,
+ "practicality": 2,
+ "text_read": "Whole text grepped for 月輪 and 見; samadhi section 573c10-c28 and A-syllable section 574a27-b13 read in full in Chinese.",
+ "mode": "imaginal_crossing",
+ "mode_evidence": "The disc is first 'contemplated' (觀白月輪) within the heart; the text then says that by this contemplation one 'illuminates and sees' (照見) the original mind, and 'I see my own mind shaped like a moon-disc' (我見自心形如月輪). The A-syllable gloss grades 'barely seeing' (纔見) versus 'constantly seeing' (常見). Whether this 見 is visual or noetic is not specified, so the crossing is claimed only by vocabulary.",
+ "eyes": "unspecified",
+ "onset_pathway": "development_only",
+ "onset_evidence": "Starts from deliberate visualisation; no advice for one who cannot see it; prerequisite is the three secrets (body mudra, speech mantra, mind samadhi) of esoteric practice, i.e. initiation. Thresholds: a first glimpse counts as seeing ultimate truth; constant seeing marks the first bhumi.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "visualization_crossing",
+  "letter_or_symbol_contemplation",
+  "devotion_or_transmission"
+ ],
+ "conditions": {
+  "posture": "",
+  "gaze_or_eye_position": "",
+  "setting": "",
+  "duration_and_schedule": "",
+  "prerequisites": "Three secrets (三密) of esoteric yoga; vajra-bound mudra (金剛縛) in the A verse",
+  "other": "Eight-petalled white lotus one cubit across; white-light A syllable"
+ },
+ "phenomena": [
+  "moon_disc",
+  "white",
+  "all_pervading_light",
+  "letter"
+ ],
+ "stages": [
+  {
+   "label": "纔見 (barely seen)",
+   "description": "First glimpse of the round bright pure consciousness: 'seeing ultimate truth'"
+  },
+  {
+   "label": "常見 (constantly seen)",
+   "description": "Stable seeing: entry into the first bodhisattva ground"
+  },
+  {
+   "label": "廓周法界",
+   "description": "Gradual expansion to fill the dharmadhatu and space, contracting and extending at will"
+  }
+ ],
+ "what_to_do_with_light": "Stabilise, then expand to fill space and contract at will (卷舒自在).",
+ "obstacles_and_fixes": [],
+ "cautions": [],
+ "safety_flags": [
+  "transmission_required_by_tradition"
+ ],
+ "interpretation": "The moon-disc is the form of one's own mind as bodhicitta, pure and luminous like the full moon.",
+ "practice_summary": "Within the heart contemplate a white moon-disc; by this, see the original mind as clear and pure, like the light of the full moon filling space without distinctions. Recognise: 'I see my own mind shaped like a moon-disc.' In the A-syllable form, with the vajra-bound mudra, contemplate an eight-petalled white lotus a cubit across with a shining white A upon it, and settle on the round bright pure consciousness. A first glimpse is counted as seeing ultimate truth; constant seeing marks the first ground; then enlarge it gradually until it fills the dharmadhatu, extending and contracting it freely.",
+ "key_passages": [
+  {
+   "locator": "T32.573c13-c16",
+   "about": "mode",
+   "anchor": "祕密瑜伽，令修行者於內心中觀白月",
+   "paraphrase": "The practitioner contemplates a white moon-disc in the heart and thereby sees the original mind as pure, like full-moon light filling space.",
+   "quote": "諸佛大悲，以善巧智說此甚深祕密瑜伽，令修行者於內心中觀白月輪。由作此觀，照見本心湛然清淨，猶如滿月光遍虛空無所分別",
+   "source_file": "sources/bud-bodhicitta-sastra-t1665.txt"
+  },
+  {
+   "locator": "T32.573c19-c20",
+   "about": "mode",
+   "anchor": "為一切有情悉含普賢之心，我見自心形",
+   "paraphrase": "'I see my own mind shaped like a moon-disc.'",
+   "quote": "",
+   "source_file": "sources/bud-bodhicitta-sastra-t1665.txt"
+  },
+  {
+   "locator": "T32.574b06",
+   "about": "method",
+   "anchor": "「八葉白蓮一肘門，炳現阿字素光色，",
+   "paraphrase": "Eight-petalled white lotus a cubit across, the A syllable shining white upon it.",
+   "quote": "八葉白蓮一肘門，炳現阿字素光色，禪智俱入金剛縛，召入如來寂靜智。",
+   "source_file": "sources/bud-bodhicitta-sastra-t1665.txt"
+  },
+  {
+   "locator": "T32.574b08-b11",
+   "about": "stages",
+   "anchor": "淨識。若纔見者，則名見真勝義諦。若常見",
+   "paraphrase": "Glimpsing = seeing ultimate truth; constant seeing = first ground; then expand to fill the dharmadhatu.",
+   "quote": "當觀圓明淨識。若纔見者，則名見真勝義諦。若常見者，則入菩薩初地。若轉漸增長，則廓周法界、量等虛空、卷舒自在",
+   "source_file": "sources/bud-bodhicitta-sastra-t1665.txt"
+  }
+ ],
+ "cross_refs": [],
+ "new_leads": [
+  "Kakuban, Ajikan texts (Kogyo Daishi zenshu); Kukai's Himitsu mandara jujushinron"
+ ],
+ "reader_confidence": "high",
+ "confidence_note": "Text read in full for the relevant sections; mode judgment limited because 見 may be noetic."
+}

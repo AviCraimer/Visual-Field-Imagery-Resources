@@ -1,0 +1,131 @@
+{
+ "id": "dao-huiming-jing-chinese",
+ "stream": "taoist",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 4,
+ "practicality": 3,
+ "text_read": "Full source read for the commentary on the 集說慧命經第九 (source lines 107-420) and selected parts of 正道修煉直論第十, 正道工夫直論第十一, 禪機論第十二 (lines 512-660, 895-910, 1090-1118); 決疑 sections only via grep.",
+ "mode": "perceptual",
+ "mode_evidence": "Signs are stated as seen: 'golden light in the eyes' (眼有金光) among the six quakings; 'often in a dark room one sees white light' (常於暗實之中，或見白光); before the relic leaves the furnace 'from dantian to the eyes all is empty white dazzling, bright as moonlight'; at leaving concentration white or golden light, snowflakes, a golden disc like a cart wheel. Liu also says light appearing without the bodily signs is 'born of imagination', not relic-light.",
+ "eyes": "closed",
+ "onset_pathway": "development_only",
+ "onset_evidence": "The light is not a target of induction: the entry method is to gather spirit into the lower dantian (凝神返照龍宮) with breath as 'wind' blowing the 'fire' of intent, refining sexual essence; the seen white/golden light is a sign that the relic (舍利) is complete, used as a timing cue for gathering. Time scale for first stirring: 'youth not more than a month, middle age three to five months'; relic gathering in 5-7 days of continuous fixed gaze on it. Repeatedly insists a true teacher is needed, especially at the light of leaving concentration. Light without genital retraction (馬陰藏) is imagination.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "energy_work",
+  "breath_control",
+  "concentration_nonvisual",
+  "devotion_or_transmission"
+ ],
+ "conditions": {
+  "posture": "sitting; 'walking, standing, sitting, lying' not leaving this place",
+  "gaze_or_eye_position": "spirit-light 'turned back' (迴光返照) into the dantian / 'northern sea'; during gathering the eyes fix on the relic (專視)",
+  "setting": "not necessarily seclusion; mocks withdrawal to mountains",
+  "duration_and_schedule": "day and night without break; 7-day gathering",
+  "prerequisites": "male practitioner, retention of essence; true transmission",
+  "other": "counts of breath cycles (36/24) for the 'dharma wheel' orbit"
+ },
+ "phenomena": [
+  "white",
+  "gold_yellow",
+  "moon_disc",
+  "sun_disc",
+  "sparks_or_points",
+  "all_pervading_light"
+ ],
+ "stages": [
+  {
+   "label": "真種產 true seed",
+   "description": "warm blissful stirring in stillness"
+  },
+  {
+   "label": "舍利成 relic complete",
+   "description": "虛室生白, dantian hot as boiling water, genitals retract"
+  },
+  {
+   "label": "六種震動",
+   "description": "golden light in the eyes, wind in ears, etc.; white light seen in a dark room, counted"
+  },
+  {
+   "label": "出爐",
+   "description": "from dantian to eyes all empty-white dazzling like moonlight"
+  },
+  {
+   "label": "出定",
+   "description": "white or golden light, snowflakes filling space; then a golden disc like a cart wheel appears in space, to be drawn into the dharma body"
+  }
+ ],
+ "what_to_do_with_light": "Use the white light's appearances as the cue to gather the relic; at leaving concentration gather the light back in (收光) or it disperses; do not recognise buddhas or bodhisattvas appearing; wait for the golden wheel and absorb it.",
+ "obstacles_and_fixes": [
+  "Residual 'leak shadows' (霞影) stir desire: refine with breath-wind until the yin demon becomes yang light (陰魔化為陽光)",
+  "Too much martial fire at relic completion scatters it: switch to the civil fire of spirit-light turned back"
+ ],
+ "cautions": [
+  "Light without the bodily signs is imagination, not relic-light",
+  "Visions of buddhas/bodhisattvas on leaving concentration are demonic transformations; do not converse with them",
+  "Teacher required to gather the light at leaving concentration; mocks dry Chan sitting"
+ ],
+ "safety_flags": [
+  "transmission_required_by_tradition"
+ ],
+ "interpretation": "The seen light is the outward sign of refined vital essence (慧命, 舍利) uniting with nature; nature-light (性光) alone, cultivated by mind without life, is yin spirit and incomplete.",
+ "practice_summary": "This is a manual of internal alchemy, not a light practice. Gather spirit and turn its light back into the lower belly (the 'dragon palace'), holding intent and breath together there, forgetting and illuminating at once, neither forcing nor neglecting. Use the breath as wind to 'blow' the fire of intent; at sexual arousal, settle it with mind and breath until it retracts. When warmth and stirring arise, circulate them along the 'dharma wheel' with counted breaths. Light appears as a sign: when the relic is complete, the 'empty room gives birth to white', the belly is hot, the genitals retract; golden light in the eyes and white light seen in the dark tell when to gather; fix the gaze on it continuously for up to seven days. Treat light without those bodily signs as imagination. Later, on leaving deep concentration, white or golden light and 'snow' appear: do not engage visions; draw the golden disc back in, ideally under a teacher.",
+ "key_passages": [
+  {
+   "locator": "集說慧命經第九, comment on 火化以後收取舍利, source line 282",
+   "about": "stages",
+   "anchor": "其 舍 利 成 之 時 虛 室 生 白 而 丹 田 如 湯 煎",
+   "paraphrase": "When the relic is complete the empty room produces white, the dantian is like boiling water and the genitals retract.",
+   "quote": "其舍利成之時，虛室生白，而丹田如湯煎，龜縮不舉",
+   "source_file": "sources/dao-huiming-jing-chinese.txt"
+  },
+  {
+   "locator": "集說慧命經第九, comment on 眉間常放白毫光, source line 318",
+   "about": "mode",
+   "anchor": "常 於 暗 實 之 中 或 見 白 光",
+   "paraphrase": "Often in a dark room one sees white light; its appearances are the gathering cue; before the relic leaves the furnace all is white and dazzling from dantian to eyes like moonlight; light without the bodily sign is imagination.",
+   "quote": "此乃舍利已成之時，常於暗實之中，或見白光……且舍利將出爐，自丹田至目，一路皆虛白晃耀，如月華之明，若未明前之功法，外腎不縮，如馬陰藏之形，或有光者，乃屬想妄而生，非舍利之光也。",
+   "source_file": "sources/dao-huiming-jing-chinese.txt"
+  },
+  {
+   "locator": "集說慧命經第九, source line 314",
+   "about": "testimony",
+   "anchor": "眼 有 金 光 耳 有 風 聲 鼻 有 氣 搐",
+   "paraphrase": "Six quakings: golden light in the eyes, wind sound in ears, twitching in nose, eagle cry behind the head, body leaping, fire-pearl racing in dantian.",
+   "quote": "眼有金光，耳有風聲，鼻有氣搐，腦後有鷲鳴，身有踴動，丹田有火珠馳",
+   "source_file": "sources/dao-huiming-jing-chinese.txt"
+  },
+  {
+   "locator": "集說慧命經第九, source line 190",
+   "about": "method",
+   "anchor": "當 凝 神 之 時 內 念 不 出 外 念 不 入 空 空 蕩 蕩",
+   "paraphrase": "In gathering spirit, no thought out or in, empty and unattached, light turned back nearby; forgetting and illumination are one.",
+   "quote": "當凝神之時，內念不出，外念不入，空空蕩蕩，不著不滯，回光近照",
+   "source_file": "sources/dao-huiming-jing-chinese.txt"
+  },
+  {
+   "locator": "集說慧命經第九, comment on 從白毫光出, source line 410",
+   "about": "caution",
+   "anchor": "或 放 白 光 或 放 金 光 本 性 有 所 見 即 當 求 師 用 收 光 之 法",
+   "paraphrase": "At leaving concentration white or golden light is emitted; seek a teacher for the method of gathering the light, or it scatters.",
+   "quote": "出之時，或放白光，或放金光，本性有所見，即當求師用收光之法。如若不收其光，則馳散矣。",
+   "source_file": "sources/dao-huiming-jing-chinese.txt"
+  },
+  {
+   "locator": "正道修煉直論第十, source line 518",
+   "about": "development",
+   "anchor": "將 此 陰 魔 化 為 陽 光",
+   "paraphrase": "Long refining with breath turns the yin demon of desire into yang light.",
+   "quote": "務要綿綿久久煆煉，將此陰魔化為陽光",
+   "source_file": "sources/dao-huiming-jing-chinese.txt"
+  }
+ ],
+ "cross_refs": [
+  "dao-jinhua-zongzhi-chinese"
+ ],
+ "new_leads": [],
+ "reader_confidence": "high",
+ "confidence_note": "Relevant chapters read in the original; 決疑 Q&A only partly checked."
+}

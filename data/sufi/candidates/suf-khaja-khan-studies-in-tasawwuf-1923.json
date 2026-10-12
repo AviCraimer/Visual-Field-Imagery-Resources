@@ -1,0 +1,47 @@
+{
+ "id": "suf-khaja-khan-studies-in-tasawwuf-1923",
+ "stream": "sufi",
+ "title": "Studies in Tasawwuf",
+ "author": "Khan Sahib Khaja Khan",
+ "translator": null,
+ "year": "1923",
+ "edition_cited": "Madras: Hogarth Press, 1923; Digital Library of India scan, archive.org in.ernet.dli.2015.234407 (OCR text)",
+ "tradition": "South Indian Sufism (Qadiri/Chishti/Naqshbandi survey by a practising Sufi author)",
+ "language": "English",
+ "source_type": "anthology_or_compilation",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/in.ernet.dli.2015.234407",
+ "alt_urls": [],
+ "source_files": [
+  "sources/suf-khaja-khan-studies-in-tasawwuf-1923.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Ch. VII 'Fana and Baqa', printed pp. 99-102 (OCR lines ~4610-4730): photisms after mujahada; the 'sphere of colours' called Satanic; retinal after-impressions after the eyes are closed; Abu Sa'id's three kinds of illumination; Abraham's star, moon, sun in the heart; Sirhindi's lata'if colours",
+  "Ch. 'The Sufi's Ascent', printed pp. 136-139 (lines ~6160-6320): eyes shut, lips closed, attention on breath with the negation and affirmation; Naqshbandi rule 'Nazar bar qadam' glossed as protection against the disturbance of colours; Chishti chilla; 'Nasira and Mahmuda' gazing at nose tip then mid-forehead",
+  "Glossary entries on Dhikr and Muraqaba (lines ~9860, ~10489)"
+ ],
+ "summary": "An Indian Sufi author's English exposition of doctrine and method. Two short stretches bear on seen light. In the chapter on fana' and baqa' he says that after mujahada the traveller meets photisms; the first sphere is one of colours, which he calls Satanic and partly explains as hypnagogic illusion or the after-impression of light on the retina once the eyes are closed, distinguishing these from 'true photisms' reflected from the 'alam-i mithal; he lists flashes, sheet-lightning and lamp-like light after Abu Sa'id, and gives the Mujaddidi colours of the lata'if, ending in colourlessness. In the chapter on the ascent he sketches the practices of the orders: breath-linked silent dhikr with eyes shut, the forty-day chilla with short rations and sleeplessness, and the Chishti gaze at the nose tip and mid-forehead.",
+ "why_relevant": "Brief but explicit insider statement distinguishing retinal and hypnagogic colour from 'true' photisms, with pointers to the Indian orders' gaze and breath practices; mostly doctrine otherwise.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "sound_or_mantra",
+  "breath_control",
+  "eye_position",
+  "fasting_or_austerity",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 3,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1923",
+  "class": "published_record",
+  "basis": "archive.org metadata date 1923; title field 'Studies In Tasawwuf(1923)'"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "own lead; archive.org search title:(studies in tasawwuf)",
+ "notes": "Thin on instruction; the relevant pages are few. OCR noisy with diacritics."
+}

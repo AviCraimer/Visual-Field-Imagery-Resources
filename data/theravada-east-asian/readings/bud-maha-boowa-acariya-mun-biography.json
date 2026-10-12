@@ -1,0 +1,102 @@
+{
+ "id": "bud-maha-boowa-acariya-mun-biography",
+ "stream": "theravada-east-asian",
+ "verdict": "keep_marginal",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 3,
+ "practicality": 2,
+ "text_read": "Chapter 1 'The Early Years' read around the relevant passages: buddho practice and dream nimitta (source lines 720-860), section 'The Sign' in full (lines 860-970), Maha Boowa's later commentary on Mun's outward-going citta (lines 1420-1475); grep for nimitta, sign, disk, light, vision, mental image, eyes, converge. Endnotes 11-12 (on 'converge' and 'mental image') are not in the saved excerpt.",
+ "mode": "ambiguous",
+ "mode_evidence": "The corpse arose 'spontaneously' when the citta 'converged' into calm; the translator calls it a vision and 'mental image' (with a note number whose text is not saved). It was 'laid out before him' and the disk 'appeared suspended before him', i.e. located in front; but the scenes that followed are participatory (he walks, climbs, eats), dream-like rather than a visual-field percept. Eyes are not mentioned for this episode. Maha Boowa frames it as the citta 'focusing outward', 'perceiving all manner of unusual phenomena'. No parikamma/uggaha/patibhaga vocabulary; the Thai 'nimitta' is used for a dream omen.",
+ "eyes": "unspecified",
+ "onset_pathway": "development_only",
+ "onset_evidence": "Not an induction: the image arose spontaneously when the mind converged through constant repetition of 'buddho'. Mun then deliberately kept the corpse image as his object in all postures until it turned into a disk; that is, a spontaneously given image was willed into continuity. Nothing for someone who sees nothing.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "sound_or_mantra",
+  "concentration_nonvisual",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "conditions": {
+  "posture": "Sitting, walking meditation and daily activities alike.",
+  "gaze_or_eye_position": "",
+  "setting": "Wat Liap, early in his training, without a teacher.",
+  "duration_and_schedule": "Three months following the disk.",
+  "prerequisites": "",
+  "other": ""
+ },
+ "phenomena": [
+  "figures_or_forms",
+  "lamp_or_flame"
+ ],
+ "stages": [
+  {
+   "label": "vision / mental image of a corpse",
+   "description": "Arises spontaneously on convergence; bloated corpse torn by vultures and dogs, 'laid out before him'."
+  },
+  {
+   "label": "translucent disk",
+   "description": "After sustained contemplation the corpse image becomes a translucent disk 'suspended before him'."
+  },
+  {
+   "label": "endless images",
+   "description": "Focusing on the disk makes it change ad infinitum: mountain range, monastery, hermit's cave, a hanging lantern casting a luminescent glow on the mountain."
+  }
+ ],
+ "what_to_do_with_light": "Refuse: Mun abandoned the disk, turned attention inward to body contemplation and found samadhi stabilised.",
+ "obstacles_and_fixes": [
+  "Chasing the disk left him oversensitive to sights and sounds and unbalanced; fix: keep the citta inside the body by body contemplation, even refusing to let it converge until it was anchored there."
+ ],
+ "cautions": [
+  "Three months wasted chasing the disk and its illusions; without a wise teacher such misjudgments can harm or delay the meditator.",
+  "An outward-focused citta perceives phenomena whose reality he could not then judge."
+ ],
+ "safety_flags": [
+  "tradition_warns_against_seeking"
+ ],
+ "interpretation": "The disk and its scenes are products of the citta turning outward from calm; not the path.",
+ "practice_summary": "This is a cautionary report, not a method. Mun repeated 'buddho' until his mind converged; a corpse image arose by itself in front of him; he held it as his object in every posture until it became a translucent disk, which on close attention unfolded endless scenes. After three months of this he was more reactive, not calmer, so he stopped following outward images and investigated his own body part by part, walking and sitting, until the mind converged easily and stayed anchored. Maha Boowa's lesson: do not pursue such signs without a teacher; bring the mind back into the body.",
+ "key_passages": [
+  {
+   "locator": "Ch. 1, 'The Sign', source lines 866-868",
+   "about": "mode",
+   "anchor": "The mental image12 was of a dead body laid out before him",
+   "paraphrase": "On convergence a vision arose spontaneously; the translator calls it a 'mental image' of a corpse laid out before him.",
+   "quote": "",
+   "source_file": "sources/bud-maha-boowa-acariya-mun-biography.txt"
+  },
+  {
+   "locator": "Ch. 1, 'The Sign', source lines 873-880",
+   "about": "testimony",
+   "anchor": "the image of the corpse changed into a translucent disk that appeared suspended before him",
+   "paraphrase": "Held deliberately in every posture, the corpse image became a translucent disk suspended in front of him, which changed without pause the more he focused.",
+   "quote": "",
+   "source_file": "sources/bud-maha-boowa-acariya-mun-biography.txt"
+  },
+  {
+   "locator": "Ch. 1, 'The Sign', source lines 916-922",
+   "about": "caution",
+   "anchor": "Perhaps the practice of directing his attention outwards towards external",
+   "paraphrase": "Mun concluded that directing attention outward to such phenomena was the wrong method and turned to his own body.",
+   "quote": "",
+   "source_file": "sources/bud-maha-boowa-acariya-mun-biography.txt"
+  },
+  {
+   "locator": "Ch. 1, later commentary, source lines 1430-1434",
+   "about": "interpretation",
+   "anchor": "his citta tended to focus outward then, perceiving all manner of unusual phenomena",
+   "paraphrase": "Maha Boowa: in early samadhi Mun's citta focused outward and perceived unusual phenomena, including the corpse and disk; he could not then tell whether they were real or imaginary.",
+   "quote": "",
+   "source_file": "sources/bud-maha-boowa-acariya-mun-biography.txt"
+  }
+ ],
+ "cross_refs": [
+  "bud-thanissaro-with-each-and-every-breath"
+ ],
+ "new_leads": [
+  "Endnotes 11-12 to Chapter 1 (on 'converge' and 'mental image') in the full archive.org file"
+ ],
+ "reader_confidence": "high",
+ "confidence_note": "Relevant passages read in full; endnotes on 'mental image' not saved."
+}

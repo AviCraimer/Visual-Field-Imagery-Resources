@@ -1,0 +1,44 @@
+{
+ "stream": "western-esoteric",
+ "translator": "G. R. S. Mead",
+ "alt_urls": [],
+ "seen_via": null,
+ "locator_hints": [
+  "CH I.1-4 and I.30 (source ~315-360, ~980-1000)",
+  "CH X.4-6 (~6085-6145)",
+  "CH XIII.3-7, 10 (~9500-9720)"
+ ],
+ "priority": 1,
+ "found_via": "gap pass 2",
+ "notes": "",
+ "author_identifiable": true,
+ "author_basis": "",
+ "id": "wes-mead-corpus-hermeticum",
+ "title": "Corpus Hermeticum I (Poemandres), X (The Key), XIII (Secret Sermon on the Mountain), in Thrice-Greatest Hermes vol. II",
+ "author": "Hermetic authors; trans. G. R. S. Mead",
+ "year": "2nd-3rd c. CE; trans. 1906",
+ "edition_cited": "Theosophical Publishing Society, London 1906, vol. II",
+ "tradition": "Graeco-Egyptian Hermetism",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/thricegreatesthe02hermuoft",
+ "source_files": [
+  "sources/wes-mead-corpus-hermeticum.txt"
+ ],
+ "summary": "Three Hermetic treatises with light-vision under sense-withdrawal. CH I: while meditating, with bodily senses held back as in heavy sleep, Hermes sees 'a Vision limitless, all things turned into Light'; at the end 'closing of the eyes' is 'true vision'. CH X: the vision of the Good does not dazzle like sunlight but increases the eye's seeing, a radiance 'the mind alone can see'; the gazer stills every sense and motion, and it shines round his mind and draws the soul out of the body. CH XIII: 'Withdraw into thyself... throw out of work the body's senses' and rebirth comes; the reborn knows himself made of Light and Life.",
+ "why_relevant": "The western root text for sense-withdrawal leading to a vision of light; tests whether a practice is stated.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "sensory_restriction",
+  "concentration_nonvisual"
+ ],
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1906",
+  "class": "published_record",
+  "basis": "archive.org metadata and title page, 1906"
+ }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "jew-abulafia-sefer-ha-cheshek",
+  "stream": "jewish",
+  "title": "Sefer ha-Cheshek (Book of Desire)",
+  "author": "Abraham Abulafia",
+  "translator": "Sefaria Community Translation (fragmentary)",
+  "year": "c. 1260-1291 (Sefaria's range)",
+  "edition_cited": "Sefaria 'Sefer HaCheshek': Hebrew transcription (source hebrew.grimoar.cz, licence 'unknown'); English CC0 community translation for 24 of 249 paragraphs",
+  "tradition": "Prophetic (ecstatic) Kabbalah, Abulafia",
+  "language": "Hebrew with fragmentary English",
+  "source_type": "classical_text",
+  "rights": "public_domain",
+  "access": "fulltext_saved",
+  "url": "https://www.sefaria.org/Sefer_HaCheshek",
+  "alt_urls": [],
+  "source_files": [
+    "sources/jew-abulafia-sefer-ha-cheshek.txt"
+  ],
+  "seen_via": null,
+  "locator_hints": [
+    "Part I, Siman II, paragraphs 4-9: turn your face toward the Name and think of it as a person standing before you who answers; if you are clean and whole 'the Glory will be revealed to you and appear before you in a form'",
+    "Part I, Siman I: the permutation tables",
+    "Part I, Siman I paragraph 10: verse ending 've-tir'eh or emet ayin be-ayin' (you will see true light eye to eye)"
+  ],
+  "summary": "A practice manual built on rotating the letters of the Name through tables of combinations. After the tables (Part I, Siman I) the second siman instructs the practitioner, once the recitation is done, to face the Name and treat it as a person standing in front of him waiting to be addressed, speaking and receiving answers; if he is pure and has kept every condition, 'the Glory will be revealed to you and will appear before you in a form whose power you can recognise, or it will bring you speech that you understand to be from Him and not from yourself'. The author adds that new arrangements and secrets will come out of the turning of the Name. The text concerns a form or speech appearing, with light named only in a verse; whether the appearing is perceptual needs close reading of the Hebrew.",
+  "why_relevant": "Primary Abulafian instructions with a stated visual result (the Glory appearing in a form before the practitioner) and a criterion for telling it from one's own imagination. Light as such is marginal here.",
+  "expected_mode": "ambiguous",
+  "expected_onset_pathway": "induction",
+  "expected_techniques": [
+    "letter_or_symbol_contemplation",
+    "sound_or_mantra",
+    "visualization_crossing"
+  ],
+  "priority": 3,
+  "medium": "book_or_classical_text",
+  "date_evidence": {
+    "date": "1291",
+    "class": "published_record",
+    "basis": "Sefaria index record: composition range 1260-1291, author Abraham Abulafia; digital Hebrew transcription with no printed-edition year stated. The date given is the end of Sefaria's range."
+  },
+  "author_identifiable": true,
+  "author_basis": "",
+  "found_via": "seed lead; Sefaria index listing",
+  "notes": "Sefaria's English is fragmentary and partly unreliable (e.g. renders a Hebrew word as 'in Safed'); use the Hebrew. The famous passage about the letters appearing as great mountains and the body trembling is in Chayei ha-Olam ha-Ba, not found on Sefaria."
+}

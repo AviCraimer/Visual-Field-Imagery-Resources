@@ -1,0 +1,88 @@
+{
+ "id": "chr-hilton-scale-of-perfection",
+ "stream": "christian",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 3,
+ "practicality": 3,
+ "text_read": "digest only",
+ "mode": "ambiguous",
+ "mode_evidence": "Distinguishes bodily-eye lights (suspect, Book I ch. 11) from ghostly light seen by the inner eye (Book II); the latter is explicitly not bodily and not imagined: 'not as some ween' a bodily light. Glimmering through the eyelid is used as an analogy.",
+ "eyes": "unspecified",
+ "onset_pathway": "induction",
+ "onset_evidence": "To someone who sees no light: abide in the 'lightsome darkness', withdraw thought from earthly things by desire for Jesus with a blind thinking on Him, and the light springs 'privily by little and by little'. Do not turn back to the world; wait. The image of entering a dark house from the sun gives the time scale: stand still and sight returns gradually. Light is also called a grace he did not work for.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "concentration_nonvisual",
+  "devotion_or_transmission",
+  "sensory_restriction"
+ ],
+ "conditions": {
+  "posture": "",
+  "gaze_or_eye_position": "",
+  "setting": "Withdrawal from noise and fleshly affections.",
+  "duration_and_schedule": "Often assay to be at home in the murkness; for a short time, repeated.",
+  "prerequisites": "Meekness, self-knowledge, purified conscience; amendment of life.",
+  "other": "Constant prayer and thought of Jesus with desire."
+ },
+ "phenomena": [
+  "light_in_the_room",
+  "lightning_flashes",
+  "all_pervading_light"
+ ],
+ "stages": [
+  {
+   "label": "night / lightsome darkness",
+   "description": "Thought withdrawn from earthly things; painful at first, later restful, a 'rich nought'."
+  },
+  {
+   "label": "small sudden lightings",
+   "description": "Glimpses of Jerusalem through crannies; then fuller light of grace."
+  }
+ ],
+ "what_to_do_with_light": "Test it by its effect on the heart: accept if it increases prayer and humility, refuse if it draws away from prayer or breeds pride; do not seek bodily lights.",
+ "obstacles_and_fixes": [
+  "Night is painful at first for the unpractised: keep desiring, do not return to the world.",
+  "Light that comes with presumption and disdain is the midday fiend's: judge by pride, backbiting and unobedience."
+ ],
+ "cautions": [
+  "Bodily lights may be good or evil; test by the stirring of the heart.",
+  "The false sun shows only between two black rainy clouds, presumption and disdain."
+ ],
+ "safety_flags": [
+  "tradition_warns_against_seeking"
+ ],
+ "interpretation": "The true light is the love of Jesus felt through grace, ghostly knowing; God is light as truth, not bodily light.",
+ "practice_summary": "Hilton gives a practice that leads towards light by dwelling in a murk. Forsake worldly love and withdraw thought and affection from creatures by a longing for the love of Jesus, holding a blind thinking on Him. This is the night: at first it may be painful and seem blind, as when one comes from the sun into a dark house, but if you stand still and keep praying and desiring, sight grows. Keep assaying to be at home there. Light will spring privily, first as small sudden lightings, later fuller. Do not turn back to the world if it is dark. Test any light, whether bodily or imaginal, by its effect: if it draws you from prayer or makes you proud, refuse it.",
+ "key_passages": [
+  {
+   "locator": "Book I ch. 11, source lines 3598-3639",
+   "about": "caution",
+   "anchor": "IF it be so, that thou see any manner of light",
+   "paraphrase": "If you see light with the bodily eye or in imagining, other than ordinary light, watch what it does to your heart before trusting it.",
+   "quote": "",
+   "source_file": "sources/chr-hilton-scale-of-perfection.txt"
+  },
+  {
+   "locator": "Book II ch. 24-25, source lines 13841-13919",
+   "about": "onset",
+   "anchor": "the true light of ghostly knowing shall spring to thee",
+   "paraphrase": "Keep dwelling in the murkness and light will spring, not all at once but little by little; small sudden lightings are glimpsed first.",
+   "quote": "",
+   "source_file": "sources/chr-hilton-scale-of-perfection.txt"
+  },
+  {
+   "locator": "Book II ch. 26, source lines 13957-14215",
+   "about": "caution",
+   "anchor": "The feigned sun showeth him not but atwixt two",
+   "paraphrase": "False light shows only between the black clouds of presumption and disdain; the true sun appears when the firmament is clear.",
+   "quote": "",
+   "source_file": "sources/chr-hilton-scale-of-perfection.txt"
+  }
+ ],
+ "cross_refs": [],
+ "new_leads": [],
+ "reader_confidence": "medium",
+ "confidence_note": "Digest only."
+}

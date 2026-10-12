@@ -1,0 +1,50 @@
+{
+ "id": "mod-mueller-phantastische-gesichtserscheinungen",
+ "stream": "modern-nonlineage",
+ "title": "Ueber die phantastischen Gesichtserscheinungen: eine physiologische Untersuchung",
+ "author": "Johannes Müller",
+ "translator": null,
+ "year": "1826",
+ "edition_cited": "Coblenz, 1826 (publisher's name illegible in the OCR); archive.org ueberdiephantast00ml (Fraktur OCR, long s preserved)",
+ "tradition": "Early 19th-century physiological self-observation (non-lineage)",
+ "language": "German",
+ "source_type": "practitioner_testimony",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/ueberdiephantast00ml",
+ "alt_urls": [
+  "https://archive.org/details/bub_gb_Uic_AAAAcAAJ"
+ ],
+ "source_files": [
+  "sources/mod-mueller-phantastische-gesichtserscheinungen.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Section 'Die phantastischen Gesichtserscheinungen', paragraphs 34 ff. (how he observes the luminous images; what dispels them; the sequence from light-spots and mists to bounded images)",
+  "Chapter XII, 'Das willkührliche Einbilden leuchtender Phantasmen' (printed p. 80 ff.): whether luminous images can be produced at will; Goethe's report against his own",
+  "Chapter VIII on external means, including narcotics (out of scope)",
+  "Chapter XI on phantasms in daylight"
+ ],
+ "summary": "The physiologist's first-person study of luminous images seen with closed eyes. He says he rarely fails to see manifold luminous images in the dark visual field before sleep, has known them since youth, and through repeated self-observation learned to promote and hold them. His procedure: with closed, completely rested eyes he looks into the darkness of the visual field, lets the eye muscles go slack, sinks into the stillness of the eye, and wards off all thought and judgment, only observing. At first the field is rich in light-spots, mists and shifting colours; soon bounded images of objects appear, faint and then clearer, really luminous and sometimes coloured, moving and transforming. The slightest eye movement, or reflection, dispels them. A later chapter asks whether such luminous phantasms can be imagined at will.",
+ "why_relevant": "An exact method, a stage sequence and a list of what destroys the phenomenon, from a careful observer writing from his own practice; it also treats the crossing from voluntary imagination to seen luminous image as a question in its own right.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "sleep_threshold",
+  "darkness_exposure",
+  "attention_to_spontaneous_phenomena",
+  "visualization_crossing",
+  "eye_position"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1826",
+  "class": "published_record",
+  "basis": "title page 'Coblenz ... 1826' and preface dated 'Bonn im September, 1826' in the saved scan"
+ },
+ "author_identifiable": true,
+ "author_basis": "Johannes Müller (1801-1858), physiologist",
+ "found_via": "own lead (not in seeds); archive.org title search",
+ "notes": "German in Fraktur OCR with long s (ſ) and umlauts written as combining e; anchors must be copied exactly from the file. I know of no complete English translation in the public domain. Whether he gives advice for someone who sees nothing is for the reading agent to determine; he reports the faculty as habitual from youth."
+}

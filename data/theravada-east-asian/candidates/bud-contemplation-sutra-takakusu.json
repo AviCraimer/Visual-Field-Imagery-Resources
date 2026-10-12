@@ -1,0 +1,50 @@
+{
+ "id": "bud-contemplation-sutra-takakusu",
+ "stream": "theravada-east-asian",
+ "title": "The Amitayur-dhyana-sutra (Guan Wuliangshou jing; Sutra of the Meditation on Buddha Amitayus), in Buddhist Mahayana Texts, Sacred Books of the East vol. XLIX",
+ "author": "Anonymous (Chinese translation attributed to Kalayasas, c. 424-442 CE)",
+ "translator": "Junjiro Takakusu",
+ "year": "5th century CE; English 1894",
+ "edition_cited": "Oxford: Clarendon Press, 1894, SBE vol. 49, Part II pp. 159-201 (archive.org scan buddhistmahynate0049unse)",
+ "tradition": "East Asian Pure Land Buddhism",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/buddhistmahynate0049unse",
+ "alt_urls": [
+  "https://archive.org/details/buddhistmahayana0049vari"
+ ],
+ "source_files": [
+  "sources/bud-contemplation-sutra-takakusu.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "The sutra occupies file lines c. 21150-23020 (Part II pp. 159-201); the rest of the file is the other texts of SBE 49",
+  "Part II section 9 (p. 169-170; file line c. 21557): the First Meditation, gazing west at the setting sun 'like a suspended drum' until the image stays 'clear and fixed, whether thine eyes be shut or open'",
+  "Section 10 (p. 170): Second Meditation, water, then ice, then lapis lazuli ground",
+  "Section 11 (p. 171): keeping the perception 'whether thine eyes be shut or open', at all times except sleep; 'dimly seen' vs seen in samadhi",
+  "Sections 12-17: trees, lakes, the lotus throne, the image of the Buddha, with rays and colours",
+  "Takakusu's introduction, file line c. 12221 ff."
+ ],
+ "summary": "The Pure Land visualisation sutra in its first English translation. The Buddha instructs Queen Vaidehi in a graded series of meditations. The first begins from physical sight: sit facing west, fix the mind and gaze at the setting sun 'when it is about to set and looks like a suspended drum', then let that image 'remain clear and fixed, whether thine eyes be shut or open'. The second proceeds the same way from clear water to ice to an imagined ground of shining lapis lazuli with jewels each sending out rays of many colours; the meditator is to make each element as clear as possible, hold it eyes shut or open at all times except sleep, and is told that this is to have 'dimly seen' the land, while one who obtains samadhi sees it 'clearly and distinctly'. Further meditations build jewel trees, lakes, the lotus seat and the radiant body of Amitayus.",
+ "why_relevant": "A canonical instruction that starts from gazing at a light source and requires the retained image to be present with eyes open or closed, then extends by imagination into a luminous scene explicitly graded from dimly seen to clearly seen.",
+ "expected_mode": "imaginal_crossing",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "light_source_gazing",
+  "afterimage_retention",
+  "visualization_crossing",
+  "concentration_visual_object"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1894",
+  "class": "published_record",
+  "basis": "archive.org metadata for buddhistmahynate0049unse: date 1894; Sacred Books of the East vol. XLIX, Oxford, Clarendon Press"
+ },
+ "author_basis": "",
+ "found_via": "seed lead; archive.org title search 'buddhist mahayana texts'",
+ "notes": "Whole volume saved (public domain); OCR is fair, with some misread section numbers ('§ rr' for § 11). The sutra itself gives no durations or troubleshooting; Shandao's commentary, which does, was not found in an open English text. Safety: the first meditation involves looking at the setting sun."
+}

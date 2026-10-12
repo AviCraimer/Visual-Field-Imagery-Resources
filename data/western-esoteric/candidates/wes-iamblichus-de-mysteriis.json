@@ -1,0 +1,52 @@
+{
+ "id": "wes-iamblichus-de-mysteriis",
+ "stream": "western-esoteric",
+ "title": "On the Mysteries (De Mysteriis), Book III ch. 14 on photagogia, with Book II chs. 3-9 on the lights of divine epiphanies",
+ "author": "Iamblichus",
+ "translator": "Thomas Taylor (1821; 1895 reprint) and Alexander Wilder (1911)",
+ "year": "c. 300 CE; translations 1821 and 1911",
+ "edition_cited": "Taylor: Iamblichus on the Mysteries, 2nd ed., London: Dobell/Reeves & Turner 1895 (Google scan); Wilder: Theurgia or The Egyptian Mysteries, New York: Metaphysical Publishing Co. 1911",
+ "tradition": "Late-antique Neoplatonic theurgy",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/theurgiaoregypti00iamb_0",
+ "alt_urls": [
+  "https://archive.org/details/iamblichusonmys00taylgoog"
+ ],
+ "source_files": [
+  "sources/wes-iamblichus-de-mysteriis.wilder.txt",
+  "sources/wes-iamblichus-de-mysteriis.taylor.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Book III ch. 14 (Taylor: 'CHAP. XIV', c. 41% into file; Wilder: section quoting Porphyry on 'taking darkness as accessory', c. 47% into file, 'Bringing of Light')",
+  "Porphyry's Letter to Anebo, quoted at the head of both translations, lists the same methods",
+  "Book II chs. 3-9 (Wilder heading 'Other phenomena at the rites', c. 33%): grades of light and fire at epiphanies of gods, archangels, angels, daemons",
+  "Book III ch. 6 (Taylor c. 34%): fire and 'ineffable species of light' acceding to the possessed"
+ ],
+ "summary": "Porphyry asks about diviners who, remaining conscious, are inspired 'according to the phantastic part': some taking darkness as a co-operator, some potions, some chants and compositions, some working through water, some on a wall, some in the open air, some with sun or moon. Iamblichus answers that all these are one kind, the 'bringing of light' (photagogia): a divine light illuminates the soul's aether-like luminous vehicle and so moves the imagination. He lists the means: darkness, sunlight or moonlight, the open air, chants, conducting the light through water, or making it shine on a place in a wall prepared with sacred characters and fixed so it is not diffused. He insists the seer stays awake and attentive, and that the light comes from the gods' will, not the operator's technique. Book II grades the luminosity seen at epiphanies.",
+ "why_relevant": "The principal late-antique statement of techniques (darkness, water, wall, sky, sun and moon) for obtaining seen light and luminous apparitions, with a theory of why technique alone is not the cause.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "darkness_exposure",
+  "scrying_surface",
+  "sky_or_space_gazing",
+  "light_source_gazing",
+  "sound_or_mantra",
+  "devotion_or_transmission"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1911",
+  "class": "published_record",
+  "basis": "Wilder translation: archive.org metadata date 1911 (Metaphysical Publishing Co.); Taylor translation scan is the 1895 reprint of the 1821 text"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; archive.org search creator Iamblichus",
+ "notes": "Seed lead confirmed: III.14 is the passage. Instructions are a list of means, not step-by-step. Wilder's rendering is loose; Taylor's is literal but archaic. The modern Clarke/Dillon/Hershbell translation (2003) is in copyright and not saved. Both saved files are OCR."
+}

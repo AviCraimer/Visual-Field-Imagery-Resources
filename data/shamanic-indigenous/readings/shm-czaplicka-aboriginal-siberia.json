@@ -1,0 +1,66 @@
+{
+ "stream": "shamanic-indigenous",
+ "drop_reason": null,
+ "drop_note": "",
+ "cross_refs": [],
+ "new_leads": [
+  "M. A. Castrén, Nordische Reisen und Forschungen (1853-62), p. 191: Samoyed shaman training"
+ ],
+ "safety_flags": [
+  "transmission_required_by_tradition"
+ ],
+ "stages": [],
+ "obstacles_and_fixes": [],
+ "cautions": [],
+ "phenomena": [
+  "white",
+  "figures_or_forms"
+ ],
+ "conditions": {
+  "posture": "",
+  "gaze_or_eye_position": "blindfolded",
+  "setting": "initiation by two shamans",
+  "duration_and_schedule": "single session described",
+  "prerequisites": "prior teaching about the spirit world; shamanic family",
+  "other": "blows to occiput and shoulders"
+ },
+ "id": "shm-czaplicka-aboriginal-siberia",
+ "verdict": "keep_marginal",
+ "relevance": 3,
+ "practicality": 2,
+ "text_read": "Search of whole book for light, bright, luminous, dazzled; pp. 174 and 189-190 read in full.",
+ "mode": "perceptual",
+ "mode_evidence": "'His eyes were dazzled as with too much light', while blindfolded, then 'he saw demons dancing on his arms and feet': phrased as visual experience under the blindfold.",
+ "eyes": "closed",
+ "onset_pathway": "induction",
+ "onset_evidence": "A teaching procedure applied to a novice: blindfold, blows on the back of the head and shoulders until dazzling light appears, then spirit-visions. Prerequisite: prior instruction in the Samoyed spirit world (Czaplicka stresses this). Whether the light persists without the blows is not said, so stimulus-independence is unclear; the visions that followed suggest development beyond the stimulus.",
+ "stimulus_independence": "unclear",
+ "techniques": [
+  "eye_pressure_or_sense_closure",
+  "sensory_restriction",
+  "devotion_or_transmission"
+ ],
+ "what_to_do_with_light": "Not stated; the light gives way to visions of spirits.",
+ "interpretation": "Part of shamanic education: dazzling light opens sight of spirits.",
+ "practice_summary": "Reported, not recommended: in one Samoyed initiation two shamans blindfolded the novice and struck him on the back of the head and on the shoulders until his eyes were dazzled 'as with too much light'; he then saw demons dancing on his limbs. Czaplicka notes he had been taught beforehand about the spirit world. Separately, Chukchee hold that shamans' eyes are 'very bright' and see spirits in the dark. Head blows are dangerous; this is catalogued as a historical induction, not a practice to follow.",
+ "key_passages": [
+  {
+   "locator": "p. 190, source lines ~10712-10717",
+   "about": "onset",
+   "anchor": "till his eyes were dazzled as with too much light and he saw demons dancing on his arms and feet",
+   "paraphrase": "Two shamans blindfolded the novice and beat him on the back of the head and the shoulders till his eyes were dazzled as with too much light and he saw demons dancing on his arms and feet; he had been taught about the spirit world beforehand.",
+   "quote": "Two tadibey (shamans) blindfolded him with a handkerchief, and then beat him, one on the back of the head and the other on the shoulders, till his eyes were dazzled as with too much light, and he saw demons dancing on his arms and feet. It must be remembered, of course, that he had been taught beforehand about the Samoyed world of spirits.",
+   "source_file": "sources/shm-czaplicka-aboriginal-siberia.txt"
+  },
+  {
+   "locator": "p. 174, source lines ~9881-9883",
+   "about": "interpretation",
+   "anchor": "the eyes of the sliaman are very bright",
+   "paraphrase": "Chukchee explain shamans' ability to see spirits even in the dark by saying their eyes are very bright.",
+   "quote": "",
+   "source_file": "sources/shm-czaplicka-aboriginal-siberia.txt"
+  }
+ ],
+ "reader_confidence": "medium",
+ "confidence_note": "Two short passages in a large compilation; primary sources (Castrén, Bogoras) not read."
+}

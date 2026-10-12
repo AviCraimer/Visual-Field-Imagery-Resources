@@ -1,0 +1,52 @@
+{
+ "id": "suf-ibn-ata-allah-miftah-al-falah",
+ "stream": "sufi",
+ "title": "Miftah al-falah wa-misbah al-arwah (The Key to Salvation and the Lamp of Souls)",
+ "author": "Ibn 'Ata' Allah al-Iskandari (d. 709/1309)",
+ "translator": null,
+ "year": "c. 1300; OpenITI transcription dated 2022",
+ "edition_cited": "Arabic text, OpenITI corpus file 0709IbnCataAllahSikandari.MiftahFilah.Kraken220414225529-ara1 (machine OCR of a printed edition, converted 2022-04-14), GitHub OpenITI/0725AH",
+ "tradition": "Shadhiliyya, Egypt",
+ "language": "Arabic",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://github.com/OpenITI/0725AH/tree/master/data/0709IbnCataAllahSikandari/0709IbnCataAllahSikandari.MiftahFilah",
+ "alt_urls": [
+  "https://raw.githubusercontent.com/OpenITI/0725AH/master/data/0709IbnCataAllahSikandari/0709IbnCataAllahSikandari.MiftahFilah/0709IbnCataAllahSikandari.MiftahFilah.Kraken220414225529-ara1"
+ ],
+ "source_files": [
+  "sources/suf-ibn-ata-allah-miftah-al-falah.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "File line ~66-72: 'al-dhikr nar la tubqi wa-la tadhar': dhikr as fire that burns the body's surplus; where there is darkness it becomes light",
+  "File line ~95-112: stages tongue > heart > innermost (sirr); signs that dhikr has reached the sirr, incl. 'tara abadan anwaran sa'ida wa-ukhra nazila wa'l-niran hawalayka safiya' (you always see lights rising and others descending, and clear fires blazing around you)",
+  "File line ~745: whoever keeps to the invocations, lights follow one another upon him",
+  "File line ~818-826: posture for dhikr: head between the knees, eyes closed to sensible things; 'in this sitting the heart is gathered ... and lights come to it'",
+  "File line ~837: tell your shaykh what befalls you and what you see",
+  "Chapter on khalwa and its conditions; chapter on gradation of the Names (search 'الخلوة')"
+ ],
+ "summary": "The first full Arabic monograph on dhikr, by the third Shadhili master. It gives manners and method (purity, a dark or dim place, sitting with the head between the knees and the eyes closed, the sequence from spoken to heart to innermost invocation, choice of formula under a shaykh, retreat) and describes results in terms that include seen phenomena: dhikr is a fire that burns impurities and turns darkness to light; among the signs that the invocation has descended to the innermost is that its fires do not go out nor its lights depart, 'you always see lights ascending and others descending' with clear fires blazing around; visions of angels and prophets in beautiful forms come 'in the beginning' until one rises above the imaginal. The practitioner is told to report to the shaykh whatever he sees. Parts follow Kubra closely.",
+ "why_relevant": "A dhikr manual with posture, eye closure and sequence, and stated visual signs of progress; shows the Kubrawi phenomenology absorbed into a mainstream Shadhili handbook. Seed lead confirmed.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "sound_or_mantra",
+  "posture_or_body_lock",
+  "sensory_restriction",
+  "devotion_or_transmission",
+  "breath_control"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "2022",
+  "class": "published_record",
+  "basis": "14th-century work; the saved file's own header states 'converted with Kraken ... Date: 2022-04-14' (OpenITI corpus release). The underlying printed edition is not named in the file"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; OpenITI GitHub repository listing",
+ "notes": "OCR is noisy (frequent single-letter misreadings). Lines begin with OpenITI markup '~~' and page markers 'PageV00P0nn'; 'msNN' are manuscript-page milestones. English: Mary Ann Koury Danner, The Key to Salvation: A Sufi Manual of Invocation (Islamic Texts Society, 1996; in copyright, not saved)."
+}

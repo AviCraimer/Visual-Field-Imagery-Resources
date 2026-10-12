@@ -1,0 +1,49 @@
+{
+ "id": "snt-faqir-chand-unknowing-sage",
+ "stream": "sant-mat",
+ "title": "The Unknowing Sage: The Life and Work of Baba Faqir Chand",
+ "author": "Faqir Chand (1886-1981); edited with introduction by David Christopher Lane",
+ "translator": "Bhagat Ram Kamal (autobiography, from Urdu)",
+ "year": "1981; fifth edition 2014",
+ "edition_cited": "MSAC Philosophy Group (Mt. San Antonio College), fifth edition 2014, ISBN 978-1-56543-199-7; archive.org item the-unknowing-sage",
+ "tradition": "Radhasoami (Shiv Brat Lal line; Manavta Mandir, Hoshiarpur): dissenting testimony",
+ "language": "English",
+ "source_type": "practitioner_testimony",
+ "rights": "in_copyright",
+ "access": "partial_saved",
+ "url": "https://archive.org/details/the-unknowing-sage",
+ "alt_urls": [],
+ "source_files": [
+  "sources/snt-faqir-chand-unknowing-sage.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Excerpt file gives OCR line ranges. Lane's introduction (OCR c. 140-190): the devotee projects the sacred figure onto 'the middle of the light'",
+  "OCR c. 660-680: letter to Lane dated March 8, 1978 giving the sequence: repeat the name without moving the tongue, meditate on the guru's image, 'Then comes light and sound. Try to know what is that who sees light'",
+  "Section 'Three' of the teachings, printed p. 49 (OCR c. 2600-2660): colours of light depend on the nature of the individual (red, green, sun, moon, stars); 'I see this White Light in small as well as in vast regions'; the seer of the light is other than the light",
+  "OCR c. 2760-2800 and 2900: bells, conch, light; those who take light and sound as ultimate; 'how long do I remain in that state?'",
+  "OCR c. 2846: cinema-projector analogy",
+  "OCR c. 3075: ascending to light and sound and searching for the one who sees"
+ ],
+ "summary": "Faqir Chand practised surat shabd yoga for some seventy years under Shiv Brat Lal's direction and reports its results in the first person: light of varied colours, a white light in small and vast regions, bells and conch, the radiant form of the guru. His dissent is about status, not occurrence. Disciples reported his radiant form appearing to them in meditation and in crises when he knew nothing of it; he concluded that forms seen within are the meditator's own projections, that the colour of the light follows the individual's nature, and that the light itself is not the goal: the instruction is to find out who sees it. A 1978 letter gives his method in four steps (silent repetition, concentration on the guru's image to still mental vibration, light and sound arising, enquiry into the seer). Lane's introduction frames this as a critique of Radhasoami visionary claims.",
+ "why_relevant": "The lineage's most important internal dissent on the meaning of seen light and inner forms, from a long-term practitioner who reports seeing them; gives a short method and an explicit warning against taking the light as final.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "sound_or_mantra",
+  "visualization_crossing",
+  "devotion_or_transmission",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1981",
+  "class": "published_record",
+  "basis": "Publication history printed in the saved text: 'first published in the United States in 1981 ... Fifth Edition: 2014', copyright 2014 MSAC Philosophy Group; Faqir Chand died in 1981 and the quoted letter is dated March 8, 1978."
+ },
+ "author_identifiable": true,
+ "author_basis": "Faqir Chand (Manavta Mandir); editor David C. Lane, professor at Mt. San Antonio College, publishing on Radhasoami since the 1970s",
+ "found_via": "seed lead; archive.org search 'faqir chand' / 'unknowing sage'",
+ "notes": "In copyright (MSAC 2014; the publisher distributes free PDFs through neuralsurfer.com, not verified in this run). Saved file is excerpts only: 22 windows, about 10% of the OCR text. OCR sometimes prints 'Fagir' for 'Faqir'. Lane's own voice (introduction, notes) and Faqir's (autobiography, discourses) must be kept apart. Other Faqir Chand titles on archive.org (Jeevan Mukti, Truth Always Wins, Faqir Sandesh) were not opened."
+}

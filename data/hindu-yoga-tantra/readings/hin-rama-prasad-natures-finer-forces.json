@@ -1,0 +1,31 @@
+{
+  "id": "hin-rama-prasad-natures-finer-forces", "stream": "hindu-yoga-tantra",
+  "verdict": "keep",
+  "drop_reason": null, "drop_note": "",
+  "relevance": 4, "practicality": 3,
+  "text_read": "digest; plus grep for 'neck of'",
+  "mode": "perceptual",
+  "mode_evidence": "Rama Prasad says he sees bright sheets of green and white 'in the room, in the heavens, on the table before me, on the wall in front', i.e. in the open-eyed visual field; the shadow method ends in looking up into the sky and seeing a figure; the Shiva Svarodaya says tattvas 'rise before the eyes' when senses are closed.",
+  "eyes": "both",
+  "onset_pathway": "both",
+  "onset_evidence": "Author says the power 'can be made to show itself by a sustained attempt to look into space, or anything else, as the moon, a star, a jewel' after pranayama and trained attention centred on the eyes. Shadow-figure method gives a concrete trial for the beginner (gaze at the neck of the shadow during 108 repetitions of a mantra, then look up). Sense-closure verse gives a second induction. Time scales for the shadow method (six months, two years) were in the digest hints but not confirmed in the digest text.",
+  "stimulus_independence": "yes",
+  "techniques": ["gazing_fixed_point", "sky_or_space_gazing", "afterimage_retention", "eye_pressure_or_sense_closure", "breath_control", "sound_or_mantra", "light_source_gazing"],
+  "conditions": {"posture": "Standing, back to the sun, in a lonely place (shadow method).", "gaze_or_eye_position": "Gaze at the neck of own shadow, then look up into the sky; or sustained looking into space at moon, star or jewel.", "setting": "Alone, sunlit.", "duration_and_schedule": "As long as 108 calm repetitions of 'Om kram parabrahmane namah'.", "prerequisites": "Pranayama and trained attention.", "other": "Fingers close ears, nostrils, mouth and eyes (verse 328)."},
+  "phenomena": ["colour_fields", "green", "white", "red", "figures_or_forms", "light_in_the_room", "sun_disc", "stars"],
+  "stages": [{"label": "sensuous lucidity", "description": "Attention trained on the eyes sees the physiological and atmospheric colours of Prana; green washed by white forecasts rain, green streaked with red delays it."}],
+  "what_to_do_with_light": "Read it as a colour-sign of prana and tattvic conditions; the shadow figure is read for omens of life and death.",
+  "obstacles_and_fixes": [],
+  "cautions": [],
+  "safety_flags": ["breath_retention"],
+  "interpretation": "The colours are tattvic vibrations of Prana (red Agni, blue Vayu, white Apas, yellow Prithivi, dark Akasha) seen when the senses are made lucid.",
+  "practice_summary": "Rama Prasad first prescribes pranayama and training of attention, centred on the eyes, after which one sees the colours of Prana; he reports sheets of green, white and red appearing in the room, the sky, on a table or wall. He says the power shows itself by sustained looking into space or at the moon, a star or a jewel. The translated Shivagama adds two methods: stop ears, nostrils, mouth and eyes with the fingers and the tattvas begin to rise before the eyes; or stand alone with the back to the sun, look at the neck of your shadow for as long as you can calmly repeat a mantra 108 times, then look up into the sky where a figure appears. The colours and missing limbs of the figure are read as omens.",
+  "key_passages": [
+    {"locator": "Essay 'Yoga - the Soul', source lines 6963-7001", "about": "testimony", "anchor": "Bright sheets of the green washed into coolness and purity by the white", "paraphrase": "Author sees sheets of green washed by white anywhere about him, and uses them to forecast rain.", "quote": "I can see the various colours of the seasons. I can see rain coming an hour, two hours, and sometimes even two days before an actual shower. Bright sheets of the green washed into coolness and purity by the white make their appearance anywhere about me.", "source_file": "sources/hin-rama-prasad-natures-finer-forces.txt"},
+    {"locator": "Essay 'Yoga - the Soul', source lines 6963-7001", "about": "onset", "anchor": "The power can be made to show itself by a sustained attempt to", "paraphrase": "Look steadily into space, or at the moon, a star, a jewel, to bring the power out.", "quote": "The power can be made to show itself by a sustained attempt to look into space, or anything else, as the moon, a star, a jewel and so on.", "source_file": "sources/hin-rama-prasad-natures-finer-forces.txt"},
+    {"locator": "Shiva Svarodaya vv. 306-307, source lines 9759-9772", "about": "method", "anchor": "back towards the sun let a man look with attention at", "paraphrase": "Stand with back to the sun, gaze at the neck of the shadow, for 108 mantra repetitions, then look up into the sky.", "quote": "Going to a lonely place and standing with the back towards the sun let a man look with attention at the neck of the shade he throws on the ground. Let him see this for as long a time as he can calmly repeat the words: 'Om kram parabrahmane namah' for one hundred and eight times. Then let him look up into the sky.", "source_file": "sources/hin-rama-prasad-natures-finer-forces.txt"},
+    {"locator": "Shiva Svarodaya v. 328, source lines 9850-9889", "about": "method", "anchor": "stopped by the fingers, the Tattvas begin to take their", "paraphrase": "With mouth, nose, eyes and ears stopped by the fingers, the tattvas begin to rise before the eyes.", "quote": "When the mouth, nose, eyes, and ears are stopped by the fingers, the Tattvas begin to take their rise before the eyes.", "source_file": "sources/hin-rama-prasad-natures-finer-forces.txt"}
+  ],
+  "cross_refs": ["hin-shiva-samhita-vasu"], "new_leads": [],
+  "reader_confidence": "medium", "confidence_note": "Digest plus one grep. Six-month and two-year time scales mentioned by the search agent were not seen in the digest text."
+}

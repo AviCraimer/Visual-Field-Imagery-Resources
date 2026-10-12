@@ -1,0 +1,48 @@
+{
+ "id": "dao-zhengao-j9-10",
+ "stream": "taoist",
+ "title": "真誥 (Zhen'gao, Declarations of the Perfected), juan 9-10: inner viewing, eye methods, 'ingesting mist', light of sun and moon",
+ "author": "Yang Xi (revelations, 364-370) and others; compiled and annotated by Tao Hongjing 陶弘景",
+ "translator": null,
+ "year": "revelations 4th century; compiled c. 499",
+ "edition_cited": "Zhengtong Daozang DZ 1016 (Kanripo KR5d0036; base edition HFL), juan 9 and 10 only",
+ "tradition": "Shangqing (Highest Clarity) Daoism",
+ "language": "Chinese (classical)",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "partial_saved",
+ "url": "https://github.com/kanripo/KR5d0036",
+ "alt_urls": [],
+ "source_files": [
+  "sources/dao-zhengao-j9-10.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Juan 9, item citing 紫度炎光内視中方: lie with eyes shut, 'look within and listen afar' toward the four directions; 'with long practice one of oneself sees things ten thousand li away'; '初爲之實無彷彿久久誠自入妙' (when you first do it there is truly not even a semblance; after a long time you really enter the marvel)",
+  "Juan 9, item citing 太上天關三經: press with the hands the inner corners of the eyes by the nose while holding the breath; 'the eyes will be able to see through' (eye pressure)",
+  "Juan 9: massage and incantation methods at the points 華庭 / 天眞 between and below the brows 'for penetrating sight'; 'after about a year ears and eyes are keen; after long practice one sees through a thousand li'",
+  "Juan 10, opening: the method of ingesting mist (服霧之法): at dawn, eyes shut, look within 'as if seeing the five viscera', breathe out 24 times with half-closed eyes 'making the eyes see vapours of five colours winding about the face', then swallow them",
+  "Juan 10, following item (守玄白): visualise black, white and yellow vapours becoming fire around the body until 'the five viscera are lit through'"
+ ],
+ "summary": "Two chapters of practical instructions from the fourth-century Shangqing revelations, with Tao Hongjing's notes on sources. They contain several short methods relevant to seen light. An 'inner viewing' exercise is done lying down with eyes closed, directing sight and hearing to a great distance; the text admits that at first there is 'truly not even a semblance' and that only long practice brings real seeing, with inner sounds as well. An eye method presses the inner corners of the eyes during breath-holding to gain penetrating vision. The 'ingesting mist' method has the practitioner, with eyes half closed, cause the eyes to see five-coloured vapours coiling before the face and then swallow them. Another visualises three coloured vapours turning to fire until the viscera are 'lit through'.",
+ "why_relevant": "Early instructions in which a deliberately imagined light is said to become seen ('making the eyes see'), with a plain statement about the initial period when nothing appears; also an eye-pressure method. These are the primary texts behind the 'Shangqing absorption' item in the stream scope.",
+ "expected_mode": "imaginal_crossing",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "visualization_crossing",
+  "eye_pressure_or_sense_closure",
+  "breath_control",
+  "sleep_threshold",
+  "sound_or_mantra"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1445",
+  "class": "published_record",
+  "basis": "Kanripo file header gives the Zhengtong Daozang (正統道藏, 三家本 1988 reprint) as source; the canon was printed in 1445 (year from general knowledge, not printed in the file)."
+ },
+ "author_basis": "",
+ "found_via": "seed lead (Zhen'gao), Kanripo catalogue on GitHub",
+ "notes": "Only juan 9 and 10 were downloaded; other chapters also contain sun and moon methods. English: Thomas E. Smith, Declarations of the Perfected (Three Pines Press, parts published 2013 and 2020), in copyright, not opened. Whether 'see' here means perceptual seeing is for the reading agent to judge from the wording 使目見. Anchors: see ANCHOR RULE in the source file."
+}

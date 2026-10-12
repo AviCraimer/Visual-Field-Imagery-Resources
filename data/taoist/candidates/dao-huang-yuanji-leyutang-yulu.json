@@ -1,0 +1,46 @@
+{
+ "id": "dao-huang-yuanji-leyutang-yulu",
+ "stream": "taoist",
+ "title": "樂育堂語錄 (Leyutang yulu): talks on the Mysterious Pass, gathering the spirit-light, and how to meet the light signs",
+ "author": "Huang Yuanji 黃元吉 (recorded by disciples)",
+ "translator": null,
+ "year": "mid 19th century (talks given in Sichuan, Daoguang-Xianfeng era)",
+ "edition_cited": "Punctuated transcription on zh.wikisource, juan 1 to 5 and 別集 (no print edition named)",
+ "tradition": "Late-Qing neidan ('Middle school' affinities), lay teaching hall",
+ "language": "Chinese (late classical, colloquial in places)",
+ "source_type": "teacher_manual",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://zh.wikisource.org/wiki/樂育堂語錄",
+ "alt_urls": [],
+ "source_files": [
+  "sources/dao-huang-yuanji-leyutang-yulu.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Part 5, talk numbered 二十五 or thereabouts (just before a talk headed 二十六): '及至真氣衝衝，猶有多般景象。古人謂虛室生白，自腹至眉端，一路白光晃發，久之眼有金光 ...' with the advice to feel neither joy nor fear and let it subside",
+  "Part 3, talk 四 on the Mysterious Pass: apart from the one point of movement, 'even the empty room bringing forth white is an illusory scene'",
+  "Part 5, early talks: 'gather all the spirit-light of eyes, ears, mouth and nose, do not use it outside, collect it into the dantian'",
+  "Search the text for 神光 (over thirty occurrences), 回光, 垂簾 for the method passages"
+ ],
+ "summary": "Oral teachings of a nineteenth-century lay master, valued in China for plain speech about practice. The repeated instruction is to withdraw the 'spirit-light' of the senses, above all of the eyes, and settle it in the lower field until the 'Mysterious Pass' opens of itself. Huang tells students in advance what they will see when the energy grows strong, so that they are not frightened: the empty room brings forth white, a white radiance flashing from the belly up to the brows, later golden light in the eyes, sounds, and heat in the lower field. His advice is to remain at ease, give rise to neither delight nor fear, and let the scene fade by itself. Elsewhere he says that, apart from the moment the Pass stirs, even the white light is an illusory scene.",
+ "why_relevant": "A teacher's direct advice on how to relate to light when it comes, with a described phenomenology and a stated method of gathering eye-light inward; also a qualified dissent about the value of the white light.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "eye_position",
+  "concentration_nonvisual",
+  "energy_work",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 3,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1874",
+  "class": "published_record",
+  "basis": "The Wikisource pages name no edition. I recall the first printing of the Leyutang yulu as Tongzhi 13 (1874), with Republican-era reprints; this was not verified in this run. The work is a Qing text."
+ },
+ "author_basis": "",
+ "found_via": "own lead, zh.wikisource",
+ "notes": "Long (about 150,000 characters); only a few passages were sampled by the search agent, so the summary generalises from those and from prior knowledge of the book. No English translation known to me. Anchors: see ANCHOR RULE in the source file."
+}

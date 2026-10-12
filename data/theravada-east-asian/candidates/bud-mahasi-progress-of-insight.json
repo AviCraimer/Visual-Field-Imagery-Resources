@@ -1,0 +1,47 @@
+{
+ "id": "bud-mahasi-progress-of-insight",
+ "stream": "theravada-east-asian",
+ "title": "The Progress of Insight (Visuddhinana-katha): A Modern Pali Treatise on Buddhist Satipatthana Meditation",
+ "author": "Mahasi Sayadaw (U Sobhana Mahathera)",
+ "translator": "Nyanaponika Thera",
+ "year": "Burmese original 1940s; Pali 1950; English 1965",
+ "edition_cited": "Kandy, 1965, bilingual English-Pali edition (archive.org OCR)",
+ "tradition": "Burmese Theravada, Mahasi vipassana",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "in_copyright",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/the-progress-of-insight-1965-pali-english-bilingual-version-mahasi-sayadaw.pdf",
+ "alt_urls": [
+  "https://www.accesstoinsight.org/lib/authors/mahasi/progress.html"
+ ],
+ "source_files": [
+  "sources/bud-mahasi-progress-of-insight.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Ch. IV.4, 'Knowledge of Arising and Passing Away: The Ten Corruptions of Insight' (file line c. 823): 'a brilliant light will appear to him. To one it will appear like the light of a lamp...'",
+  "Same section, a page later (line c. 984): the subtle attachment that enjoys the insight 'graced with the brilliant light'; mistaking it for path and fruition",
+  "Ch. V, 'Purification by Knowledge and Vision of What is Path and Not-Path' (line c. 1017): the decision 'The Brilliant Light and the other things experienced by me, are not the Path'",
+  "Ch. VI opening (line c. 1032): going on 'after noticing these manifestations ... or after leaving them unheeded'",
+  "Translator's foreword (line c. 100-125): why the treatise was withheld from beginners"
+ ],
+ "summary": "Mahasi Sayadaw's stage-by-stage account of insight practice. At the early stage of knowledge of arising and passing away, when noticing keeps exclusively to the present process, 'a brilliant light will appear' to the meditator: like a lamp, a flash of lightning, or the radiance of the moon or sun, lasting a moment for some and longer for others. It comes with rapture, tranquillity, happiness and effortless mindfulness, and with a subtle attachment that enjoys them. The meditator who takes the light as a sign of path and fruition, or merely delights in it, is said to be caught in a corruption of insight. The remedy is a decision, reached alone or on a teacher's instruction, that the light is not the path, and a return to noticing, either noticing the light itself or leaving it unheeded. No method for producing the light is given; it is a by-product to be passed through.",
+ "why_relevant": "The standard modern Theravada statement of what to do when brilliant light appears in insight practice: a development-and-warning text with clear descriptions of the light.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "concentration_nonvisual",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1965",
+  "class": "published_record",
+  "basis": "archive.org metadata for the item: date 1965, described as the 1965 bilingual English-Pali edition; translator's foreword in the text refers to the 1954 Pali printing"
+ },
+ "author_basis": "",
+ "found_via": "seed lead; archive.org search 'progress of insight mahasi'",
+ "notes": "OCR is poor on some pages (stray symbols, a few garbled lines around the corruptions passage); anchors should be taken from the cleaner lines. The translator's bracket '(the mental vision of) a brilliant light' is relevant to the mode question. The same translation is on accesstoinsight.org in clean HTML (not fetched). In copyright, distributed freely by BPS and Access to Insight."
+}

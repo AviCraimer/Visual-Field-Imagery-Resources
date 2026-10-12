@@ -1,0 +1,51 @@
+{
+ "id": "hin-yogananda-autobiography-1946",
+ "stream": "hindu-yoga-tantra",
+ "title": "Autobiography of a Yogi",
+ "author": "Paramhansa Yogananda",
+ "translator": null,
+ "year": "1946",
+ "edition_cited": "First edition text (New York: Philosophical Library, 1946) as transcribed by Project Gutenberg, eBook #7452",
+ "tradition": "Kriya Yoga (Lahiri Mahasaya, Sri Yukteswar lineage)",
+ "language": "English",
+ "source_type": "practitioner_testimony",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://www.gutenberg.org/ebooks/7452",
+ "alt_urls": [],
+ "source_files": [
+  "sources/hin-yogananda-autobiography-1946.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Chapter 1 (file lines c. 605-620): childhood vision, 'What is behind the darkness of closed eyes?' and 'An immense flash of light at once manifested to my inward gaze'",
+  "Chapter 4 (file lines c. 1838-1850, footnote FN4-7 at c. 1905): Lahiri Mahasaya touches blind Ramu between the eyebrows, tells him to hold the mind there and chant for seven days",
+  "Chapter 15, footnote FN15-5 (file lines c. 6930-6938): 'During deep meditation, the single or spiritual eye becomes visible within the central part of the forehead'",
+  "Chapter 31 (file lines c. 11580-11590): Lahiri Mahasaya 'touched my forehead. Masses of whirling light appeared; the radiance gradually formed itself into the opal-blue spiritual eye, ringed in gold and centered with a white pentagonal star' and the instruction to penetrate through the star",
+  "Chapter 14 'An Experience in Cosmic Consciousness' (file lines c. 6155-6480): Sri Yukteswar's touch over the heart and the open-eyed luminous vision",
+  "Chapter 26 'The Science of Kriya Yoga' (c. 9887 ff.) and chapter 39/40 footnotes on kutastha (c. 15208-15220)",
+  "Chapter 30 (c. 11140-11152): 'the divine eye in the forehead (east)'"
+ ],
+ "summary": "The 1946 first edition, public domain, is the lineage's most detailed openly published testimony on the 'spiritual eye'. Yogananda describes its form as seen at the forehead in deep meditation: a field of whirling light that settles into an opal-blue disc ringed in gold with a white five-pointed star at the centre, through which the meditator is told to pass. The book gives no technique for producing it; the Kriya method itself is withheld as initiatory. What it does report repeatedly is onset by a guru's touch: Lahiri Mahasaya touching a disciple's forehead and the light appearing at once, the instruction to a blind disciple to hold attention between the eyebrows with a chanted name for seven days, and Sri Yukteswar's touch producing an open-eyed vision in which the surroundings turn luminous. A childhood episode records a spontaneous flash of light and miniature figures on a 'screen of radiance' behind closed eyes.",
+ "why_relevant": "First-person and reported testimony about a specific, stable seen light (the tri-coloured spiritual eye) with the conditions of onset, which here are concentration at the brow point and transmission by touch.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "devotion_or_transmission",
+  "eye_position",
+  "concentration_nonvisual",
+  "sound_or_mantra",
+  "breath_control"
+ ],
+ "priority": 2,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1946",
+  "class": "published_record",
+  "basis": "Project Gutenberg eBook #7452 (released 2005) transcribes the 1946 Philosophical Library first edition, which Gutenberg distributes as public domain in the US"
+ },
+ "author_identifiable": true,
+ "author_basis": "Paramhansa Yogananda (1893-1952)",
+ "found_via": "seed lead; Project Gutenberg #7452",
+ "notes": "Later SRF editions revise the text; cite this edition only. Practical instructions for seeing the spiritual eye (gaze lifted to the brow point; 'jyoti mudra', the Kriya form of the six-gate closure) are in SRF lessons and Kriyananda's books, which are in copyright and were not obtainable: see the citation_only records. Many 'lights' in the book are narrative miracle reports; the reading agent should separate those from meditation testimony."
+}

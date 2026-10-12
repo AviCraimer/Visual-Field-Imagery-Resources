@@ -1,0 +1,31 @@
+{
+  "id": "snt-kirpal-teachings-meditation", "stream": "sant-mat",
+  "verdict": "keep",
+  "drop_reason": null, "drop_note": "",
+  "relevance": 5, "practicality": 5,
+  "text_read": "digest only",
+  "mode": "perceptual",
+  "mode_evidence": "He says the references to light are 'not figurative' but literal, inner transcendent light seen by fixing the inner gaze; says do not visualise results.",
+  "eyes": "closed",
+  "onset_pathway": "both",
+  "onset_evidence": "For someone who sees nothing: sit in the position held longest, stay wide awake, direct attention to the seat of the soul between and behind the eyebrows, look sweetly and serenely into the middle of the darkness in front, repeat the five names slowly and at intervals. Withdrawal happens by 'effortless effort', not by watching. The stairs image: you have more light the nearer the roof. Light cannot be forced: sit at the door and wait; do not clutch; the Master grants it at the opportune moment. Time factor, patience and perseverance are necessary. The light is given at initiation.",
+  "stimulus_independence": "not_applicable",
+  "techniques": ["gazing_fixed_point", "eye_position", "sound_or_mantra", "concentration_nonvisual", "devotion_or_transmission", "posture_or_body_lock"],
+  "conditions": {"posture": "Any comfortable position in which one can sit longest without moving; wide awake.", "gaze_or_eye_position": "Steady gaze fixed in between and behind the two eyebrows, without exertion or strain on eyes or forehead.", "setting": "Quiet solitude helps; night hours praised.", "duration_and_schedule": "Fixed hours daily; sit extended hours; diary kept.", "prerequisites": "Initiation, pure life, diary and self-introspection.", "other": "Do not be conscious of breathing; numbness or stiffness is to be eliminated by not watching withdrawal."},
+  "phenomena": ["lamp_or_flame", "all_pervading_light", "stars", "sun_disc", "moon_disc", "figures_or_forms", "colour_fields"],
+  "stages": [{"label": "stars, sun, moon, then Guru Dev", "description": "The spirit crosses stars, sun and moon at the border of the subtle region, where the luminous Radiant Form of the Master meets it."}],
+  "what_to_do_with_light": "Look into the middle of what is seen; fix the inner gaze on your own light; when the Radiant Form appears, stay with it.",
+  "obstacles_and_fixes": ["Aware of breathing: look sweetly within, oblivious of body and breath.", "Numbness or stiffness: do not watch the withdrawal; keep the gaze fixed.", "Nothing seen: you stand in your own way; eliminate yourself and wait at the door.", "Mind will not still: simran not constant enough.", "Light darkened by impure life: keep life pure and regular."],
+  "cautions": ["No clutching tendency; do not presuppose or visualise results.", "Pranic practices cannot go beyond the astral heaven.", "Impure living lets the curtain of darkness obscure the light again."],
+  "safety_flags": ["transmission_required_by_tradition"],
+  "interpretation": "The light and sound are the primal manifestations of God as Shabd; the light patterns correspond to five planes (the five fires in the head).",
+  "practice_summary": "Choose the posture you can hold longest without moving, and stay wide awake. Close the eyes. Direct attention to the seat of the soul behind and between the eyebrows and look sweetly and serenely into the middle of the darkness in front of you, with no strain on the eyes or forehead. Repeat the five charged names mentally, slowly, at intervals; the gaze stays constant while the repetition is intermittent. Do not watch the breath, the body or the withdrawal. If you see something, look into its middle. Do not visualise or expect. If nothing comes, sit at the door and wait, do not clutch, keep regular hours, keep a diary and keep life clean. Light is said to come at the opportune moment.",
+  "key_passages": [
+    {"locator": "Book Three, ch. 16, source lines 10264-10304", "about": "method", "anchor": "that you are to look sweetly and serenely into the middle of the", "paraphrase": "Look sweetly and serenely into the middle of the darkness in front of you while repeating the five names slowly and at intervals.", "quote": "", "source_file": "sources/snt-kirpal-teachings-meditation.txt"},
+    {"locator": "Ch. 13 Withdrawal, source lines 9540-9579", "about": "onset", "anchor": "may see into the middle of what you see in front of", "paraphrase": "When withdrawn completely or partially, you may see into the middle of what is before you, and the inner vision will open once the intellect is stilled.", "quote": "", "source_file": "sources/snt-kirpal-teachings-meditation.txt"},
+    {"locator": "Self-introspection, three restraints, source lines 7612-7653", "about": "mode", "anchor": "When you fix your inner gaze just midway between and behind", "paraphrase": "Fixing the inner gaze midway between and behind the eyebrows, you see your own light inside, which is already there.", "quote": "", "source_file": "sources/snt-kirpal-teachings-meditation.txt"},
+    {"locator": "Ch. 15, source lines 8921-8961", "about": "caution", "anchor": "without any exertion or strain on the eyes or on the", "paraphrase": "Hold the steady gaze with no exertion or strain; be passive, do not visualise results, they come of their own accord.", "quote": "", "source_file": "sources/snt-kirpal-teachings-meditation.txt"}
+  ],
+  "cross_refs": ["snt-kirpal-spiritual-elixir"], "new_leads": [],
+  "reader_confidence": "high", "confidence_note": "Digest only; much overlaps with Spiritual Elixir letters."
+}

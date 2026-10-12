@@ -1,0 +1,218 @@
+# DIGEST of dao-taiping-shengjun-mizhi
+
+Title: 太平經聖君祕旨 (Taiping jing shengjun mizhi): the 'method of guarding the light of the One' (守一明法)
+Author: Anonymous; transmitted to Shangxiang Qingtong jun (digest of Taiping jing material)  Year: Tang-period compilation of Han-to-Six-Dynasties material (Kanripo catalogue: 唐)  Edition: Zhengtong Daozang, DZ 1102 (Kanripo KR5e0004; base edition HFL, source noted as 三家本 1988)
+Rights: public_domain  Access: fulltext_saved  Source type: classical_text
+Search agent's locator hints: ["Near the start: '守一明之法未精之時暝目㝠㝠目中無有光守一復久自生光明昭然見四方' (before the practice is refined, with eyes shut there is no light in the eyes; with long practice light arises of itself)", "'守一精明之時若火始生時謹守勿失始赤久久正白久久復表洞明絶遠': first red, with long practice pure white, then (this edition reads 表, not a colour word) 'penetratingly bright to the far distance'", "Series of '守一明法' sentences grading the light by colour (青, 赤, 黄, 白, 黑) and the case where all is dark outside but the belly is lit within; the case of 'dark outside and inside, nothing seen' is called a disorder to be treated with medicines", "Later: seclusion in a quiet room with thick walls; 100/200/300 days as small, middle and great stillness; '漸光始如螢火久似電光' (the light at first like a firefly, later like lightning)"]
+Search agent's summary (unverified): A short early manual wholly about a light that appears to the meditator who 'guards the One'. It says outright that before the practice matures the closed eyes are dark and hold no light, and that with continued guarding 'light arises of itself' and one sees clearly in the four directions. It gives a colour sequence for the developing light (it begins red like a newly lit fire, with long practice turns pure white, then penetratingly bright), grades of light by colour with what each indicates, the sign 'dark all around but the belly lit within', and a warning case where nothing at all is seen. Conditions: a quiet room with heavy walls, little food, no joy or anger, no clever effort; periods of 100, 200 and 300 days. The light is said to start like a firefly and become like lightning.
+
+Below: the passages of the saved text densest in light-and-seeing vocabulary, in document order. The text is the source's own. Gaps between windows are omitted text; the full file is at the path shown.
+
+
+===== FILE sources/dao-taiping-shengjun-mizhi.txt (14527 bytes) =====
+[whole file, 205 lines]
+太平經聖君祕旨 (Taiping jing shengjun mizhi, 'Secret Directions of the Holy Lord on the Scripture of Great Peace'), DZ 1102, one juan. Tang-period digest of Taiping jing material on 'guarding the One' (守一).
+Source URL: https://github.com/kanripo/KR5e0004 (raw files, branch master). Kanripo header: #+DATE: 2015-08-29
+02:06:41.484307 #+TITLE: 太平經聖君秘旨 #+PROPERTY: DZID  DZ1102 #+PROPERTY: SOURCE  正統道藏，三家本，1988，24—599 一卷 太平部
+#+PROPERTY: BASEEDITION HFL #+PROPERTY: WITNESS HFL #+PROPERTY: ID KR5e0004
+Unpunctuated transcription; the mark ¶ ends each printed line; <pb:...> are page markers of the base edition.
+Rights: public domain (pre-modern text).
+Retrieved: 2026-10-11
+ANCHOR RULE FOR THIS FILE: Part A is the readable text. Part B repeats the same text with every Chinese
+character separated by a space and all punctuation and line breaks removed, so that the validator's anchor
+check can match. Write each anchor as 8 to 25 consecutive characters separated by single spaces, punctuation
+omitted (it will match Part B); put the natural, unspaced passage in 'quote' (the source is public domain).
+
+=== PART A: TEXT ===
+
+----- Kanripo file KR5e0004_000.txt -----
+<pb:KR5e0004_HFL_000-001a>¶
+太平經聖君秘㫖¶
+　　　　傳上相青童君¶
+聖君曰三氣共一一爲精一爲神一爲氣此¶
+三者共一位本天地人之氣根神者受之於¶
+天精者受之於地氣者受之中和相與共爲¶
+一故神者乘氣而行精者居其中三者相助¶
+爲理欲壽者當愛氣尊神重精夫人本生混¶
+沌之氣氣生精精生神神生明本於隂陽之¶
+氣氣轉爲精精轉爲神神轉爲明欲壽者當¶
+守氣而合神精不去其形念此三合以爲一¶
+<pb:KR5e0004_HFL_000-001b>¶
+久即彬彬自見身中形漸輕精益明光益精¶
+心中大安欣然若喜太平氣應矣脩其内反¶
+應於外内以致壽外以致理非用筋力自然¶
+而致太平矣¶
+守一明之法未精之時暝目㝠㝠目中無有¶
+光¶
+守一復久自生光明昭然見四方隨明而遠¶
+行盡見身形容羣神將集故能形化爲神¶
+守一明法長壽之根萬神可御出光明之門¶
+守一精明之時若火始生時謹守勿失始赤¶
+<pb:KR5e0004_HFL_000-002a>¶
+久久正白久久復表洞明絶遠還以理一內¶
+無不明百疾除守之不懈度世超騰矣¶
+守一明法若日出之明日中之明¶
+守一明法明有正青青而清明者少陽之明¶
+也¶
+守一明法明正赤若火光光者度世¶
+守一明法明正黄而青者中和之光其道良¶
+藥¶
+守一明法正白如清水此少隂之明也¶
+守一明法明有正黑清若闚水者太隂之光¶
+<pb:KR5e0004_HFL_000-002b>¶
+守一明法四方皆闇腹中洞照此太和之明¶
+也大順之道¶
+守一明法有外闇内闇無所屬無所覩此人¶
+邪亂急以方藥助之尋上七首内自求之¶
+第一元氣無爲者念身無一也但思身洞白¶
+若委氣無形成則無不爲無不知也¶
+第二爲虛無自然守形身中照白上下若玉¶
+無瑕元氣無爲象也¶
+第三數度都積精思還自視數從髮下至足¶
+五指分別形容內外莫畢備之常以此爲思¶
+<pb:KR5e0004_HFL_000-003a>¶
+名次虛無¶
+第四思念五藏之神出入見其行遊可以語¶
+言能知吉凶次數度也¶
+第五大道神者人神出乃與五行四時相類¶
+青黃白黑俱同藏神出入往來五行四時神¶
+吏爲使可降百邪也¶
+第六爲次喜者以剸擊地道神使好巧而入¶
+半邪也¶
+第七爲社謀者天地四時社稷山川祭祀神¶
+令人通此涉邪妄也滅而不取¶
+<pb:KR5e0004_HFL_000-003b>¶
+第八爲洋神者其神洋洋其道無可繫屬使¶
+人妄言半類真半類邪也¶
+第九家先者統隂非真所應皆鬼神而已¶
+夫守一道得古今守一者復以類聚之上賢¶
+守一度世中賢守之爲帝王良輔善吏下材¶
+行之不知喜怒天下無怨¶
+守一者守之有餘善乃洞洽六方八遠恩與¶
+天地同計¶
+守一之法老而更少髮白更黑齒落更生守¶
+之一月增壽一年兩月增壽二年以次而增¶
+<pb:KR5e0004_HFL_000-004a>¶
+之¶
+守一之法始思居閑處宜重墻厚壁不聞喧¶
+譁之音¶
+守一之法光通六外身乃無害可終其世子¶
+得長久¶
+守一勿失事且自畢急除衆憂一復何求¶
+守一不窮士子欲無憂不可相欺垂拱¶
+守一是爲久遊身常自謹患禍去之¶
+守一之法神藥自來¶
+守一之法凡害不害人各有一不相須虎狼¶
+<pb:KR5e0004_HFL_000-004b>¶
+不視蛟龍不升有毒之物皆逃形子欲長無¶
+憂與一相求百神千鬼不得相尤守而常專¶
+災害不遷¶
+守一之法不言其根謹閉其門不敢泄漏謹¶
+守其神外闇内明一乃可成¶
+守一之法將與神遊萬神自來昭昭可儔¶
+夫欲守一喜怒爲疾不喜不怒一乃可覩¶
+守一之法内有五守外有六候十一之神同¶
+一門户¶
+守一之法當念本無形凑液相合一乃從生¶
+<pb:KR5e0004_HFL_000-005a>¶
+去老反稚可得長生子若守一無使多知守¶
+一不退無一不知所求皆得端坐致之子欲¶
+大樂與一相知去榮辭顯一乃相宜子欲養¶
+老守一爲早平床坐卧與一相保不食而飽¶
+不德衰老¶
+守一之法皆從漸起守之積久其一百日至¶
+守一之法無致巧意一乃自效¶
+夫欲守一乃與神通安卧無爲反求腹中卧¶
+在山西反知山東¶
+守一之法乃萬神本根根深神靜死之無門¶
+<pb:KR5e0004_HFL_000-005b>¶
+守一之法老小異度各因其性一乃相遇¶
+守一之法安貧樂賤常内自求一乃相見知¶
+非貴賤¶
+守一之法少食爲根真神好潔糞穢氣昏¶
+守一之法宻思其要周而復始無端無徼面¶
+目有光明精神洞曉¶
+守一之法百日爲小靜二百日爲中靜三百¶
+日爲大靜内使常樂三尸已落¶
+守一之法有三百六十六數數有一精精有¶
+一神守一功成此神可覩¶
+<pb:KR5e0004_HFL_000-006a>¶
+守一之法有内五政遊心於外内則失政守¶
+一不善内逆外謹與一爲怨¶
+守一之法常有六司命神共議人過失¶
+守一之法乃諸神主人善之根除禍之法致¶
+福之門守一者乃神器之主從一神積至萬¶
+神同一器則得道矣¶
+守一之法内若大逆不正五宫乖錯六府失¶
+守羣神恐㤥俱出白於明堂必先見於面目¶
+顔色天地共知之羣神將逝形當死矣¶
+守一之法爲善效驗可覩今日爲善清靜神¶
+<pb:KR5e0004_HFL_000-006b>¶
+明漸光始如螢火久似電光¶
+守一之法外則行仁施惠爲功不望其報忠¶
+孝亦同¶
+守一之法有百福亦有百禍所守不專外事¶
+多端百神爭競勝負相連¶
+守一之法内常專神愛之如赤子百禍如何¶
+敢干¶
+守一之法與天地神明同出隂入陽無事不¶
+通也¶
+守一之法先知天意生化萬物不言而理功¶
+<pb:KR5e0004_HFL_000-007a>¶
+成不宰道生久視¶
+守一之法可以知萬端萬端者不能知一夫¶
+守一者可以度世可以消灾可以事君可以¶
+不死可以理家可以事神明可以不窮困可¶
+以理病可以長生可以久視元氣之首萬物¶
+樞機天不守一失其清地不守一失其寧日¶
+不守一失其明月不守一失其精星不守一¶
+失其行山不守一不免崩水不守一塵土生¶
+神不守一不生成人不守一不活生一之爲¶
+本萬事皆行子知一萬事畢矣¶
+<pb:KR5e0004_HFL_000-007b>¶
+¶
+¶
+太平經聖君秘㫖¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+
+=== PART B: CHARACTER-SPACED COPY FOR ANCHOR MATCHING ===
+
+太 平 經 聖 君 秘 㫖 傳 上 相 青 童 君 聖 君 曰 三 氣 共 一 一 爲 精 一 爲 神 一 爲 氣 此 三 者 共 一 位 本 天 地 人 之 氣 根 神 者 受 之 於 天 精 者 受 之 於 地 氣
+者 受 之 中 和 相 與 共 爲 一 故 神 者 乘 氣 而 行 精 者 居 其 中 三 者 相 助 爲 理 欲 壽 者 當 愛 氣 尊 神 重 精 夫 人 本 生 混 沌 之 氣 氣 生 精 精 生 神 神 生 明
+本 於 隂 陽 之 氣 氣 轉 爲 精 精 轉 爲 神 神 轉 爲 明 欲 壽 者 當 守 氣 而 合 神 精 不 去 其 形 念 此 三 合 以 爲 一 久 即 彬 彬 自 見 身 中 形 漸 輕 精 益 明 光 益
+精 心 中 大 安 欣 然 若 喜 太 平 氣 應 矣 脩 其 内 反 應 於 外 内 以 致 壽 外 以 致 理 非 用 筋 力 自 然 而 致 太 平 矣 守 一 明 之 法 未 精 之 時 暝 目 㝠 㝠 目 中
+無 有 光 守 一 復 久 自 生 光 明 昭 然 見 四 方 隨 明 而 遠 行 盡 見 身 形 容 羣 神 將 集 故 能 形 化 爲 神 守 一 明 法 長 壽 之 根 萬 神 可 御 出 光 明 之 門 守 一
+精 明 之 時 若 火 始 生 時 謹 守 勿 失 始 赤 久 久 正 白 久 久 復 表 洞 明 絶 遠 還 以 理 一 內 無 不 明 百 疾 除 守 之 不 懈 度 世 超 騰 矣 守 一 明 法 若 日 出 之
+明 日 中 之 明 守 一 明 法 明 有 正 青 青 而 清 明 者 少 陽 之 明 也 守 一 明 法 明 正 赤 若 火 光 光 者 度 世 守 一 明 法 明 正 黄 而 青 者 中 和 之 光 其 道 良 藥
+守 一 明 法 正 白 如 清 水 此 少 隂 之 明 也 守 一 明 法 明 有 正 黑 清 若 闚 水 者 太 隂 之 光 守 一 明 法 四 方 皆 闇 腹 中 洞 照 此 太 和 之 明 也 大 順 之 道 守
+一 明 法 有 外 闇 内 闇 無 所 屬 無 所 覩 此 人 邪 亂 急 以 方 藥 助 之 尋 上 七 首 内 自 求 之 第 一 元 氣 無 爲 者 念 身 無 一 也 但 思 身 洞 白 若 委 氣 無 形 成
+則 無 不 爲 無 不 知 也 第 二 爲 虛 無 自 然 守 形 身 中 照 白 上 下 若 玉 無 瑕 元 氣 無 爲 象 也 第 三 數 度 都 積 精 思 還 自 視 數 從 髮 下 至 足 五 指 分 別 形
+容 內 外 莫 畢 備 之 常 以 此 爲 思 名 次 虛 無 第 四 思 念 五 藏 之 神 出 入 見 其 行 遊 可 以 語 言 能 知 吉 凶 次 數 度 也 第 五 大 道 神 者 人 神 出 乃 與 五 行
+四 時 相 類 青 黃 白 黑 俱 同 藏 神 出 入 往 來 五 行 四 時 神 吏 爲 使 可 降 百 邪 也 第 六 爲 次 喜 者 以 剸 擊 地 道 神 使 好 巧 而 入 半 邪 也 第 七 爲 社 謀 者
+天 地 四 時 社 稷 山 川 祭 祀 神 令 人 通 此 涉 邪 妄 也 滅 而 不 取 第 八 爲 洋 神 者 其 神 洋 洋 其 道 無 可 繫 屬 使 人 妄 言 半 類 真 半 類 邪 也 第 九 家 先 者
+統 隂 非 真 所 應 皆 鬼 神 而 已 夫 守 一 道 得 古 今 守 一 者 復 以 類 聚 之 上 賢 守 一 度 世 中 賢 守 之 爲 帝 王 良 輔 善 吏 下 材 行 之 不 知 喜 怒 天 下 無 怨
+守 一 者 守 之 有 餘 善 乃 洞 洽 六 方 八 遠 恩 與 天 地 同 計 守 一 之 法 老 而 更 少 髮 白 更 黑 齒 落 更 生 守 之 一 月 增 壽 一 年 兩 月 增 壽 二 年 以 次 而 增
+之 守 一 之 法 始 思 居 閑 處 宜 重 墻 厚 壁 不 聞 喧 譁 之 音 守 一 之 法 光 通 六 外 身 乃 無 害 可 終 其 世 子 得 長 久 守 一 勿 失 事 且 自 畢 急 除 衆 憂 一 復
+何 求 守 一 不 窮 士 子 欲 無 憂 不 可 相 欺 垂 拱 守 一 是 爲 久 遊 身 常 自 謹 患 禍 去 之 守 一 之 法 神 藥 自 來 守 一 之 法 凡 害 不 害 人 各 有 一 不 相 須 虎
+狼 不 視 蛟 龍 不 升 有 毒 之 物 皆 逃 形 子 欲 長 無 憂 與 一 相 求 百 神 千 鬼 不 得 相 尤 守 而 常 專 災 害 不 遷 守 一 之 法 不 言 其 根 謹 閉 其 門 不 敢 泄 漏
+謹 守 其 神 外 闇 内 明 一 乃 可 成 守 一 之 法 將 與 神 遊 萬 神 自 來 昭 昭 可 儔 夫 欲 守 一 喜 怒 爲 疾 不 喜 不 怒 一 乃 可 覩 守 一 之 法 内 有 五 守 外 有 六
+候 十 一 之 神 同 一 門 户 守 一 之 法 當 念 本 無 形 凑 液 相 合 一 乃 從 生 去 老 反 稚 可 得 長 生 子 若 守 一 無 使 多 知 守 一 不 退 無 一 不 知 所 求 皆 得 端
+坐 致 之 子 欲 大 樂 與 一 相 知 去 榮 辭 顯 一 乃 相 宜 子 欲 養 老 守 一 爲 早 平 床 坐 卧 與 一 相 保 不 食 而 飽 不 德 衰 老 守 一 之 法 皆 從 漸 起 守 之 積 久
+其 一 百 日 至 守 一 之 法 無 致 巧 意 一 乃 自 效 夫 欲 守 一 乃 與 神 通 安 卧 無 爲 反 求 腹 中 卧 在 山 西 反 知 山 東 守 一 之 法 乃 萬 神 本 根 根 深 神 靜 死
+之 無 門 守 一 之 法 老 小 異 度 各 因 其 性 一 乃 相 遇 守 一 之 法 安 貧 樂 賤 常 内 自 求 一 乃 相 見 知 非 貴 賤 守 一 之 法 少 食 爲 根 真 神 好 潔 糞 穢 氣 昏
+守 一 之 法 宻 思 其 要 周 而 復 始 無 端 無 徼 面 目 有 光 明 精 神 洞 曉 守 一 之 法 百 日 爲 小 靜 二 百 日 爲 中 靜 三 百 日 爲 大 靜 内 使 常 樂 三 尸 已 落 守
+一 之 法 有 三 百 六 十 六 數 數 有 一 精 精 有 一 神 守 一 功 成 此 神 可 覩 守 一 之 法 有 内 五 政 遊 心 於 外 内 則 失 政 守 一 不 善 内 逆 外 謹 與 一 爲 怨 守
+一 之 法 常 有 六 司 命 神 共 議 人 過 失 守 一 之 法 乃 諸 神 主 人 善 之 根 除 禍 之 法 致 福 之 門 守 一 者 乃 神 器 之 主 從 一 神 積 至 萬 神 同 一 器 則 得 道
+矣 守 一 之 法 内 若 大 逆 不 正 五 宫 乖 錯 六 府 失 守 羣 神 恐 㤥 俱 出 白 於 明 堂 必 先 見 於 面 目 顔 色 天 地 共 知 之 羣 神 將 逝 形 當 死 矣 守 一 之 法 爲
+善 效 驗 可 覩 今 日 爲 善 清 靜 神 明 漸 光 始 如 螢 火 久 似 電 光 守 一 之 法 外 則 行 仁 施 惠 爲 功 不 望 其 報 忠 孝 亦 同 守 一 之 法 有 百 福 亦 有 百 禍 所
+守 不 專 外 事 多 端 百 神 爭 競 勝 負 相 連 守 一 之 法 内 常 專 神 愛 之 如 赤 子 百 禍 如 何 敢 干 守 一 之 法 與 天 地 神 明 同 出 隂 入 陽 無 事 不 通 也 守 一
+之 法 先 知 天 意 生 化 萬 物 不 言 而 理 功 成 不 宰 道 生 久 視 守 一 之 法 可 以 知 萬 端 萬 端 者 不 能 知 一 夫 守 一 者 可 以 度 世 可 以 消 灾 可 以 事 君 可
+以 不 死 可 以 理 家 可 以 事 神 明 可 以 不 窮 困 可 以 理 病 可 以 長 生 可 以 久 視 元 氣 之 首 萬 物 樞 機 天 不 守 一 失 其 清 地 不 守 一 失 其 寧 日 不 守 一
+失 其 明 月 不 守 一 失 其 精 星 不 守 一 失 其 行 山 不 守 一 不 免 崩 水 不 守 一 塵 土 生 神 不 守 一 不 生 成 人 不 守 一 不 活 生 一 之 爲 本 萬 事 皆 行 子 知
+一 萬 事 畢 矣 太 平 經 聖 君 秘 㫖

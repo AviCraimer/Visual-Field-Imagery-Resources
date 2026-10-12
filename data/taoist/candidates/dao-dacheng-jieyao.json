@@ -1,0 +1,47 @@
+{
+ "id": "dao-dacheng-jieyao",
+ "stream": "taoist",
+ "title": "大成捷要 (Dacheng jieyao): 'yang light appears three times' and other light signs by stage",
+ "author": "Anonymous (Wu-Liu / Longmen manuscript manual; sections attributed to Qiu Chuji, Liu Huayang and others)",
+ "translator": null,
+ "year": "late Qing manuscript; first lithographed with preface dated December 1929",
+ "edition_cited": "Simplified-character transcription on zh.wikisource, with the 1929 preface by 勿矜子姚至果",
+ "tradition": "Wu-Liu school of Longmen neidan",
+ "language": "Chinese (modern transcription of late-classical prose, simplified characters)",
+ "source_type": "teacher_manual",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://zh.wikisource.org/wiki/大成捷要",
+ "alt_urls": [],
+ "source_files": [
+  "sources/dao-dacheng-jieyao.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Section '道身证验说' (九灵老人曰): list of verifications, e.g. seeing a needle through a wall at night, red haze over the crown, lightning flashing in the eyes, viewing the organs 'as if lit by a candle', body like a crystal pagoda",
+  "Section on stopping the fire (止火口诀): three conditions; 'third, the yang light appears a second time, lightning between the two eyebrows'",
+  "Passage beginning '丹放毫光': a light that appears before genital retraction 'is not the sprout of the great medicine; mostly it arises from deluded thinking'; the true light 'like lightning in cloud, like the empty room bringing forth white, first before the brows, later rising from the lower field to the eyes'",
+  "Section '阳光三现天机' (华阳禅师曰): what to do between the second and third appearance (stop the circulation, 'contain the light', wait); the moon-bright light at the third",
+  "Late sections on the 'great medicine' crossing the passes: ignore every vision; 'a ray of golden (or white) light, big as a cartwheel, appears before the face'; and later 'moonlight constantly bright at the yintang'"
+ ],
+ "summary": "A practical Wu-Liu manual that sets out, in procedural order, the lights a practitioner should expect and what each requires. Its distinctive teaching is 'the yang light appears three times': a flash like lightning between the eyebrows marks the first; with genital retraction the second flash is the signal to stop the microcosmic-orbit firing; the practitioner then sits holding the light in stillness until the third, moon-bright appearance, when the 'great medicine' is gathered. It warns that light seen before the bodily signs are present is a product of deluded thought and not a true sign, and that later visions (immortals, buddhas, summonses) must all be ignored. Other passages describe a wheel-sized golden or white light in front of the face, lasting brightness at the point between the brows, and luminous inner viewing of the organs.",
+ "why_relevant": "The most explicit procedural account found of neidan light signs: where the light is seen, its form, how many times, what bodily signs must accompany it, what to do at each appearance, and how false light is told from true.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "energy_work",
+  "breath_control",
+  "concentration_nonvisual",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1929",
+  "class": "published_record",
+  "basis": "Publisher's preface in the saved text is dated 民国十八年十二月 (December 1929) and says the manuscript was copied at Songshan and printed by lithograph; no other edition statement on the page."
+ },
+ "author_basis": "",
+ "found_via": "own lead; found while fetching Wu-Liu school texts from zh.wikisource",
+ "notes": "Rights: anonymous manuscript manual first printed 1929, so on the edge of the BRIEF's 'before 1929' rule; hosted on Wikisource as free text; I have treated it as public domain and the reading agent may wish to keep quotes short. Attributions of sections to Qiu Chuji, Bodhidharma etc. are the manual's own and are not historical. The practice assumes celibacy and the full Wu-Liu 'hundred days' course; light is a timing sign, never a target. Anchors: see ANCHOR RULE in the source file."
+}

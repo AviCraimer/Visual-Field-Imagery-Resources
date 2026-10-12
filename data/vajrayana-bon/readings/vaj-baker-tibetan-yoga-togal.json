@@ -1,0 +1,35 @@
+{
+  "id": "vaj-baker-tibetan-yoga-togal", "stream": "vajrayana-bon",
+  "verdict": "keep",
+  "drop_reason": null, "drop_note": "",
+  "relevance": 5, "practicality": 3,
+  "text_read": "digest of section 6 'Togal: Yoga of Active Perception' and surrounding notes; posture details at source lines 2183-2223 read as digest",
+  "mode": "perceptual",
+  "mode_evidence": "Baker presents the visions as extending perception outward into a field of self-manifesting visions, based initially on entoptic phosphenes, floaters and blood cells within the eye; they are said to project into the field of vision. Dudjom Lingpa describes strands that appear to move, pearls and lattices as seen. Baker explicitly contrasts this with inward sense withdrawal and says the visions are neither wholly subjective nor wholly objective.",
+  "eyes": "both",
+  "onset_pathway": "both",
+  "onset_evidence": "Induction: three postures (lion, elephant, sage) each paired with a gaze (rolled upward, soft-focus sideways, lowered), with slow breath and threefold motionlessness; Pema Lingpa says the first vision arises by turning attention to naturally occurring phenomena in the watery lamp of the eye, and that visions arise only while the posture key points are held, like a snake's limbs showing when squeezed. For someone seeing nothing this gives the posture, gaze, darkness and light conditions, but no time scale, no preliminary requirements and no troubleshooting. Development: the sequence of four visions follows.",
+  "stimulus_independence": "unclear",
+  "techniques": ["posture_or_body_lock", "eye_position", "gazing_fixed_point", "sky_or_space_gazing", "breath_control", "darkness_exposure", "attention_to_spontaneous_phenomena", "energy_work"],
+  "conditions": {"posture": "lion (eyes rolled up), recumbent elephant (soft-focus sideways), squatting sage (lowered gaze); threefold motionlessness of body, eyes and consciousness", "gaze_or_eye_position": "reverted, lowered and indirect gazes; eyes rolled upward in lion posture; half-closed in sage posture", "setting": "environments of total darkness and expansive light", "duration_and_schedule": "not given in the digest", "prerequisites": "preparatory harmonising of the winds through Trulkhor and Korde Rushen; instruction", "other": "breath through slightly parted lips and teeth; exhalation and inhalation ideally suspended naturally"},
+  "phenomena": ["sparks_or_points", "chains_or_strings", "geometric_patterns", "sphere_pearl_bindu", "rainbow", "gold_yellow", "figures_or_forms", "all_pervading_light"],
+  "stages": [
+    {"label": "first appearances", "description": "Hair-width vajra strands, radiant like gold, moving to and fro; then strung pearls circling bindus; vision of lattices and half-lattices transparent like crystal."},
+    {"label": "four visions", "description": "Direct Perception of the Ultimate Nature, Increasing Experience, Perfection of Intrinsic Awareness, Dissolution into the Ultimate Nature."},
+    {"label": "later forms", "description": "Shape-shifting phosphenes become male and female Buddhas within rainbow spheres, then four spheres around a central orb that dilates through steady foveal gaze."}
+  ],
+  "what_to_do_with_light": "Stabilise and let it expand: hold the posture and gaze so the strands become stable, clear lattices and divine forms; the central circle dilates under steady foveal gaze. Treat the early entoptic events as the starting material.",
+  "obstacles_and_fixes": ["Visions fail if the posture key points are not held; keep posture and gaze steady.", "Early appearances are mobile and unstable; they stabilise with familiarity."],
+  "cautions": ["Baker notes early Togal texts used a datura decoction in the eyes (out of scope here).", "Practice is described as relying on instruction within the lineage."],
+  "safety_flags": ["prolonged_darkness"],
+  "interpretation": "The visions are the innate luminosity of the heart projected outward through the channels of light and the watery lamp of the eye; Baker also reads the first ones as floaters and blood cells seen in retinal capillaries.",
+  "practice_summary": "Take one of three postures, each with its own gaze: lion, with eyes rolled inward and upward; recumbent elephant, with a soft sideways gaze; or squatting sage, with a lowered gaze through half-closed eyes. Hold body, eyes and awareness motionless, breathe slowly through slightly parted lips, and let the abdomen draw in slightly. Practise in darkness or open light. Attend to the naturally occurring phenomena in the eye: fine moving golden strands, then strings of pearls, then lattices. Keep the posture, since the visions arise only while the key points are held. With familiarity the forms stabilise and enlarge into spheres, and a central circle widens under steady gaze.",
+  "key_passages": [
+    {"locator": "Section 6, p. 370, source lines 2035-2158", "about": "mode", "anchor": "field of self-manifesting visions, based initially on entoptic phosphenes and", "paraphrase": "Togal reverses sense withdrawal and extends perception outward into self-manifesting visions that start from phosphenes within the eye.", "quote": "", "source_file": "sources/vaj-baker-tibetan-yoga-togal.txt"},
+    {"locator": "Section 6, p. 371, source lines 2035-2158", "about": "stages", "anchor": "At the beginning stage, the lights of awareness, called vajra-strands, no broader than a", "paraphrase": "Dudjom Lingpa: the first lights are hair-width strands, gold-sheened and moving to and fro, becoming strung pearls and then lattices.", "quote": "", "source_file": "sources/vaj-baker-tibetan-yoga-togal.txt"},
+    {"locator": "Section 6, p. 375, source lines 2252-2429", "about": "onset", "anchor": "that, as the visions are physiologically based, they only arise by maintaining the", "paraphrase": "Pema Lingpa: because the visions are physiological they arise only while the posture key points are held.", "quote": "", "source_file": "sources/vaj-baker-tibetan-yoga-togal.txt"},
+    {"locator": "Section 6, note 108, source lines 2183-2223", "about": "method", "anchor": "the crucial method is to apply reverted, lowered, and indirect gazes.", "paraphrase": "The Continuity of Sound says the method is reverted, lowered and indirect gazes, matched to the three postures.", "quote": "", "source_file": "sources/vaj-baker-tibetan-yoga-togal.txt"}
+  ],
+  "cross_refs": ["Kalacakra sense-withdrawal signs (vaj-sekoddesa-summary-of-empowerment-84000)"], "new_leads": ["Jigme Lingpa, Supreme Mastery of Wisdom Awareness", "Dudjom Lingpa, Vajra Essence (Wallace 2004)", "Pema Lingpa, Secret Key to Channels and Winds (Baker 2012, 2017)"],
+  "reader_confidence": "medium", "confidence_note": "Secondary scholarly conduit read in digest; no duration, gaze-point or preliminaries beyond the quoted texts. Gaze and posture details beyond source lines 2183-2223 not seen."
+}

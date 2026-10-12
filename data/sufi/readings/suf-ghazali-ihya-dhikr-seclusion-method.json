@@ -1,0 +1,31 @@
+{
+  "id": "suf-ghazali-ihya-dhikr-seclusion-method", "stream": "sufi",
+  "verdict": "keep",
+  "drop_reason": null, "drop_note": "",
+  "relevance": 4, "practicality": 4,
+  "text_read": "digest; plus targeted sed of source lines 9689-9740 (the dhikr passage the digest omitted)",
+  "mode": "ambiguous",
+  "mode_evidence": "The light 'shines out in his heart' like a lightning flash, with no statement whether it is seen with the eye; Ghazali elsewhere has the Sufi 'while awake' see angels and prophets' souls and hear them. His account of mirror-gazers says forms appear on a cloudlike curtain between gazer and surface, which he calls soul apprehension 'not really apprehension by vision' while formed 'as though according to sense'. So he marks the vision as sense-like but not ocular.",
+  "eyes": "unspecified",
+  "onset_pathway": "both",
+  "onset_evidence": "Induction: sever worldly ties, sit alone in a corner with only obligatory duties, repeat 'Allah, Allah' until the tongue stops, then until the word's letters and shape leave the heart and only the meaning remains. Up to there it depends on the will; then one can only wait for God to open. Light cannot be forced: 'to bring the mercy of God does not stand in his will or choice'. Elsewhere, light is 'cast into the breast' suddenly and should be watched for. No time scale beyond persistence.",
+  "stimulus_independence": "not_applicable",
+  "techniques": ["sound_or_mantra", "concentration_nonvisual", "sensory_restriction", "devotion_or_transmission", "scrying_surface"],
+  "conditions": {"posture": "Sit alone in a corner.", "gaze_or_eye_position": "", "setting": "Solitude; seclusion, minimal duties, no Qur'an recitation or study during the practice.", "duration_and_schedule": "Continuous repetition until the tongue's motion ceases and the word's form drops away.", "prerequisites": "Cutting ties to family, wealth, knowledge, rank; a heart indifferent to existence or non-existence of things.", "other": "Nothing but God must enter the mind."},
+  "phenomena": ["lightning_flashes", "all_pervading_light", "figures_or_forms", "smoke_mist_cloud"],
+  "stages": [{"label": "tongue stops", "description": "Word seems to flow from the tongue, then motion ceases."}, {"label": "word's form removed", "description": "Letters and shape leave the heart, only the meaning cleaves to it."}, {"label": "light of the real", "description": "Unstable at first like lightning, returns, sometimes abides long or short, sometimes similar appearances follow one another."}],
+  "what_to_do_with_light": "Wait and watch for it; do not reach for it. Keep to the dhikr and ward off whisperings. Divine openings are to be met when they come.",
+  "obstacles_and_fixes": ["Satan's whisperings: continued will and persistence ward them off.", "Hallucination from hunger, solitude and expectation (reported by a sceptical Isfahan philosopher in Macdonald's chapter on jinn)."],
+  "cautions": ["Light comes from God's mercy, not from will or proof.", "Seen forms of angels or devils are usually symbols, constructions of the imagination, not their real forms.", "Scryers who gaze at mirrors or water are the weaker kind of the diviner type."],
+  "safety_flags": ["sleep_deprivation", "fasting"],
+  "interpretation": "The light is God's casting into the breast, the key to knowledge, a gift of the divine bounty reaching those who are prepared; forms seen are images (mithal) that link sense to the unseen.",
+  "practice_summary": "Cut all anxieties about family, wealth, rank and knowledge until existence and non-existence of things are equal to you. Sit alone in a corner, doing only the obligatory duties, no Qur'an reading or study, and let nothing but God enter the mind. Say 'Allah, Allah' continuously, keeping the thought on it, until the tongue's motion stops and the word seems to flow of itself. Persist until the letters and shape of the word leave the heart and only the meaning remains. Everything up to here is yours to do. Then wait, with no further effort, for what God opens. The light of the real may flash like lightning, return, sometimes stay, sometimes briefly. Keep going; do not dwell on any one appearance.",
+  "key_passages": [
+    {"locator": "Lecture IX, source lines 9689-9725", "about": "onset", "anchor": "he  may  be  sure  that  the  light  of  the  real  will  shine", "paraphrase": "If the seeker follows the course of dhikr in solitude he may be sure the light of the real will shine in his heart, at first like lightning.", "quote": "", "source_file": "sources/suf-macdonald-religious-attitude-1909.txt"},
+    {"locator": "Lecture IX, source lines 9689-9725", "about": "method", "anchor": "let  him  not\ncease  saying", "paraphrase": "Say Allah, Allah without ceasing until the tongue stops and the word's form leaves the heart.", "quote": "", "source_file": "sources/suf-macdonald-religious-attitude-1909.txt"},
+    {"locator": "Intercourse with the Unseen, source lines 3960-4020", "about": "mode", "anchor": "simply  continue  gazing  at  the  surface  of  the  mirror", "paraphrase": "Scryers gaze until the mirror vanishes, and a cloudlike curtain appears on which forms show themselves; Ghazali says this is soul-apprehension, not ocular.", "quote": "", "source_file": "sources/suf-macdonald-religious-attitude-1909.txt"},
+    {"locator": "Lecture VII, source lines 6894-6931", "about": "interpretation", "anchor": "That  light  is  the  key  of  the", "paraphrase": "Certainty returned by a light God cast into the breast, not by proof; the opening is light, and unveiling is to be sought from it and watched for.", "quote": "", "source_file": "sources/suf-macdonald-religious-attitude-1909.txt"}
+  ],
+  "cross_refs": ["suf-tawakkul-beg-initiation-by-mulla-shah"], "new_leads": [],
+  "reader_confidence": "medium", "confidence_note": "Translated through Macdonald (1909); the main dhikr passage was read by a targeted sed, not in the digest windows."
+}

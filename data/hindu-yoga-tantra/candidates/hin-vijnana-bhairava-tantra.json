@@ -1,0 +1,39 @@
+{
+ "id": "hin-vijnana-bhairava-tantra",
+ "stream": "hindu-yoga-tantra",
+ "title": "Vijñānabhairava",
+ "author": "Anonymous (Trika tantra, attributed to the Rudrayāmala)",
+ "translator": null,
+ "year": "c. 7th to 9th century",
+ "edition_cited": "GRETIL e-text (data entry Marino Faliero, 1998), lightly corrected, IAST; supplied by the user",
+ "tradition": "Kashmir Śaiva (Trika)",
+ "language": "Sanskrit",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "",
+ "alt_urls": [],
+ "source_files": [
+  "sources/hin-vijnana-bhairava-tantra.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "vv. 32, 34, 36-37, 76, 84, 87-88, 113, 120"
+ ],
+ "summary": "Bhairava's 112 dhāraṇās. Several concern seen light and the visual field: closing the eyes and other openings with the hands until a bindu is seen (36); a fiery tilaka-like bindu (37); peacock-feather-coloured circles (32); fixing the gaze on space variegated by the brilliance of sun or lamp (76); unwavering gaze into clear sky (84); contemplating the darkness of a moonless night, or the black form before the closed eyes (87-88); simply holding the eyes motionless (113).",
+ "why_relevant": "Classical Śaiva source of short gaze, darkness and eye-closure methods, one of which names a seen bindu.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1998",
+  "class": "published_record",
+  "basis": "GRETIL e-text header (data entry 1998); the text itself is first-millennium"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "user",
+ "notes": "Read directly by the orchestrator in Sanskrit, 11 Oct."
+}

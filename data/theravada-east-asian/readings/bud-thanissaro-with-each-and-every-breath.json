@@ -1,0 +1,42 @@
+{
+  "id": "bud-thanissaro-with-each-and-every-breath", "stream": "theravada-east-asian",
+  "verdict": "keep_marginal",
+  "drop_reason": null, "drop_note": "",
+  "relevance": 2, "practicality": 3,
+  "text_read": "Whole saved excerpt (copyright page and Part Two section 'Visions & Other Uncanny Phenomena', source lines 1-104).",
+  "mode": "ambiguous",
+  "mode_evidence": "A light 'may appear to the mind', listed with a high-pitched sound 'in your ears' and smells, tastes, touches; called 'signs' that the mind is settling. No Pali terms, no parikamma/uggaha/patibhaga scheme, nothing on eyes, 'in front' or visualising. Visions of persons or places are distinguished as arising when the mind is quiet but not established in its object.",
+  "eyes": "unspecified",
+  "onset_pathway": "development_only",
+  "onset_evidence": "Nothing to induce light; the light arises of itself as a by-product of settling on the breath. Rule of thumb: 'leave them be'; you are not missing anything important by not engaging; engage only under a skilled teacher's personal supervision.",
+  "stimulus_independence": "not_applicable",
+  "techniques": ["concentration_nonvisual", "breath_control", "attention_to_spontaneous_phenomena"],
+  "conditions": {"posture": "", "gaze_or_eye_position": "", "setting": "", "duration_and_schedule": "", "prerequisites": "Supervision by a teacher skilled with such phenomena before engaging them.", "other": ""},
+  "phenomena": ["figures_or_forms"],
+  "stages": [
+    {"label": "signs", "description": "Light, high-pitched sound or other unusual sensation when the mind settles: road signs, not the road."},
+    {"label": "visions", "description": "Self, another person or place, when the mind is quiet but not established in its object."}
+  ],
+  "what_to_do_with_light": "Ignore: do not leave the breath; treat it as a road sign and stay on the road.",
+  "obstacles_and_fixes": ["Visions: breathe deeply into the heart three or four times; if of a person, first spread goodwill.", "Sense of having left the body: recall the four properties (breath energy, warmth, coolness, solidity).", "External presence: fill the body with awareness and breath energy, then spread goodwill."],
+  "cautions": ["Not everything that arises in a still mind is trustworthy; true information is especially dangerous because it leads you to trust false information.", "Visions can breed conceit."],
+  "safety_flags": ["tradition_warns_against_seeking"],
+  "interpretation": "Light is a sign of settling concentration, without value as an object.",
+  "practice_summary": "Stay with the breath. If, as the mind settles, a light appears, or a high sound, smell, taste or touch, do not leave the breath to follow it; it only shows that you are settling, like a road sign on the way into a city. If a vision of a person or place comes, re-establish mindfulness with three or four deep breaths into the heart (for a person, spread goodwill first). Do not engage these phenomena unless a teacher skilled in them is supervising you personally.",
+  "key_passages": [
+    {"locator": "Part Two, 'Visions & Other Uncanny Phenomena', 'Signs', source lines 68-74", "about": "mode",
+     "anchor": "Sometimes when the mind settles down, a light may appear to the mind",
+     "paraphrase": "A light, a high-pitched sound or other unusual sensation may appear when the mind settles; do not leave the breath; they are signs like road signs.",
+     "quote": "", "source_file": "sources/bud-thanissaro-with-each-and-every-breath.txt"},
+    {"locator": "Same section, opening, source lines 60-65", "about": "caution",
+     "anchor": "the general rule of thumb with regard to these things is to leave them be",
+     "paraphrase": "Leave such phenomena alone; engage only under the personal supervision of a skilled teacher; a book can only teach how to pull out of them.",
+     "quote": "", "source_file": "sources/bud-thanissaro-with-each-and-every-breath.txt"},
+    {"locator": "Same section, 'Visions', source lines 77-83", "about": "method",
+     "anchor": "reestablish mindfulness by breathing deeply into the heart three or four times",
+     "paraphrase": "Visions come when the mind is quiet but not established in its object; deep breaths into the heart dispel them.",
+     "quote": "", "source_file": "sources/bud-thanissaro-with-each-and-every-breath.txt"}
+  ],
+  "cross_refs": ["bud-ajaan-lee-keeping-the-breath-in-mind"], "new_leads": [],
+  "reader_confidence": "high", "confidence_note": "Only this short section was saved; the rest of the book (including Part Four on jhana) was not read."
+}

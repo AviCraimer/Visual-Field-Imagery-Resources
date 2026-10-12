@@ -1,0 +1,49 @@
+{
+ "id": "vaj-sekoddesa-summary-of-empowerment-84000",
+ "stream": "vajrayana-bon",
+ "title": "Summary of Empowerment (Sekoddeśa; Tib. dbang mdor bstan pa), Toh 361",
+ "author": "Indian Buddhist tantra, held to be a section of the lost Kālacakra root tantra (Paramādibuddha); introduction draws on Nāropa's Sekoddeśaṭīkā",
+ "translator": "Vienna Buddhist Translation Studies Group (Klaus-Dieter Mathes et al.) for 84000: Translating the Words of the Buddha",
+ "year": "c. 11th century text; English first published 2020",
+ "edition_cited": "84000 online edition, first published 2020-04-14; file read is v 1.2.22 (2025), CC BY-NC-ND",
+ "tradition": "Kālacakra (six-limbed yoga)",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "in_copyright",
+ "access": "fulltext_saved",
+ "url": "https://read.84000.co/translation/toh361.html",
+ "alt_urls": [
+  "https://github.com/84000/data-tei/blob/master/translations/kangyur/translations/077-002_toh361-summary_of_empowerment.xml"
+ ],
+ "source_files": [
+  "sources/vaj-sekoddesa-summary-of-empowerment-84000.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Translators' introduction, section 'Sixfold Yoga': list of the four night signs and six day signs with Sanskrit and Tibetan terms; Nāropa's gloss",
+  "The Translation, verses 24-34: withdrawal and absorption; the ten signs; 'With eyes neither closed nor open'; the reflection seen in the cloudless sky; the simile of the virgin seeing an image in a divination mirror",
+  "verses 35-76: wind control and death signs; verses 77-92: the last three limbs"
+ ],
+ "summary": "The root verse text for the Kālacakra six-limbed yoga, in a free scholarly translation with introduction. The introduction explains that in the first limb, withdrawal, the senses are turned from outer objects to 'reflections of emptiness', which appear as signs: at night smoke, mirage, firefly and lamp; by day flame, moon, sun, darkness, digit of the moon and great drop. The verses state that the signs are seen with eyes neither closed nor open, in the sky, as something neither imagined nor an outer object, and compare the seeing to a girl seeing an image appear in a divination mirror. The second limb applies five mental factors to the signs once they have appeared. The remaining limbs concern winds, drops and bliss. The verses are terse; method is mostly left to commentary.",
+ "why_relevant": "Primary source for the sequence of perceived signs in Kālacakra withdrawal yoga, with the eye instruction and the explicit statement that the appearances are seen and are not constructed images; freely published by the translators.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "sky_or_space_gazing",
+  "darkness_exposure",
+  "eye_position",
+  "breath_control",
+  "concentration_nonvisual"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "2020-04-14",
+  "class": "published_record",
+  "basis": "84000 TEI header: publicationStmt date 2020-04-14 and change-log entry of the same date 'First published version'; the file fetched is a later minor revision, v 1.2.22 dated 2025"
+ },
+ "author_identifiable": true,
+ "author_basis": "84000 (non-profit translation organisation active since 2010); named translator team led by Klaus-Dieter Mathes, University of Vienna",
+ "found_via": "own lead: file listing of the 84000/data-tei GitHub repository (Kālacakra section)",
+ "notes": "RESTRICTION NOTICE recorded from the publication: 'Readers are reminded that according to Vajrayāna Buddhist tradition there are restrictions and commitments concerning tantra. Practitioners who are not sure if they should read this translation are advised to consult the authorities of their lineage.' The text is nonetheless published openly by 84000. Summary kept to the level of the translators' own public summary and introduction. Later sections concern sexual yoga and are outside this library's question. The 'darkness' day-sign is elsewhere rendered Rāhu or 'black'. Saved file is the TEI stripped to text; verse numbers are in braces."
+}

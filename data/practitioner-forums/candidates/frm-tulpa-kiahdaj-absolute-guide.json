@@ -1,0 +1,42 @@
+{
+ "id": "frm-tulpa-kiahdaj-absolute-guide",
+ "stream": "practitioner-forums",
+ "title": "Kiahdaj's Absolute Guide to Tulpas",
+ "author": "Kiahdaj",
+ "translator": null,
+ "year": "undated in text (archived April 2020)",
+ "edition_cited": "Google Doc re-archived as PDF in archive.org item 'tulpamancy'; OCR text used",
+ "tradition": "Tulpa community (secular, internet-based)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "unknown",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/tulpamancy",
+ "alt_urls": [],
+ "source_files": [
+  "sources/frm-tulpa-kiahdaj-absolute-guide.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Section headed 'Imposition' and its sub-heading 'The process:' (near the end, before 'Possession:')"
+ ],
+ "summary": "A long general tulpa guide. Its imposition section is brief on method but useful as community consensus: imposition is described as the lengthiest part of the whole process and a luxury that many never complete; the author advises not starting visual imposition until the form is known so well that no detail varies; says prior open-eye visualizing helps; gives the baseline method as staring at a wall and picturing the figure overlapping the environment; notes that some find it easier in a dark room; and then defers to two forum guides by name (Marv and M's Starting Imposition Guide; q2's Method of a Huggable Tulpa) without reproducing them. It also debunks a claim that trained imposition can physically block the hand.",
+ "why_relevant": "Thin on steps, but records the community's own estimate of difficulty, prerequisites and the two guides it treated as standard; a pointer source.",
+ "expected_mode": "imaginal_crossing",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "visualization_crossing",
+  "darkness_exposure"
+ ],
+ "priority": 3,
+ "medium": "web_article",
+ "date_evidence": {
+  "date": "2020-04-14",
+  "class": "platform_timestamp",
+  "basis": "archive.org stamps the item 'tulpamancy' addeddate 2020-04-14 (re-archived Google Doc); the text prints no date (searched for year strings). The guide refers to 'the IRC' and to the tulpa.info guide section, which suggests the early-to-mid 2010s, but that is not evidence."
+ },
+ "author_identifiable": false,
+ "author_basis": "Forum pseudonym only.",
+ "found_via": "archive.org advancedsearch 'tulpa guide'",
+ "notes": ""
+}

@@ -1,0 +1,31 @@
+{
+  "id": "mod-wenger-image-streaming-backup", "stream": "modern-nonlineage",
+  "verdict": "keep_marginal",
+  "drop_reason": null, "drop_note": "",
+  "relevance": 3, "practicality": 5,
+  "text_read": "digest",
+  "mode": "ambiguous",
+  "mode_evidence": "Wenger's target is imagery in the 'mind's eye' described aloud; he even says to describe it 'as if you were still looking at it' and allows made-up detail to start the flow. But his starters (afterimage, phosphenes, strobe, light flicks, blobs of colour) are seen light, and he claims afterimages sustained by describing lasted long minutes, in one case 4 hours.",
+  "eyes": "closed",
+  "onset_pathway": "induction",
+  "onset_evidence": "Built for people who see nothing: 24 back-up procedures, each tried 10 to 20 minutes; claims no one has gone through them without getting pictures. Entry via helper partner who watches breath pauses and eye movements under lids and asks 'What was in your awareness just then?'; via afterimage; via reporting blobs of colour then looking beyond them as through a screen; via phosphenes from rubbing closed eyes. Time scale: minutes to hours per session. No grace claim; he says the ability is natural.",
+  "stimulus_independence": "unclear",
+  "techniques": ["afterimage_retention", "light_source_gazing", "eye_pressure_or_sense_closure", "flicker_or_device", "attention_to_spontaneous_phenomena", "visualization_crossing", "sleep_threshold", "sound_or_mantra"],
+  "conditions": {"posture": "", "gaze_or_eye_position": "eyes closed throughout; look beyond colour as beyond a screen", "setting": "dark room for flicker starters; a listener or tape recorder", "duration_and_schedule": "10 to 30 minutes per session; 10 to 20 minutes per starter before switching", "prerequisites": "a live listener or recorder to describe to; strobe only if not epileptic", "other": "describe rapidly in sensory detail, present tense, without judging"},
+  "phenomena": ["colour_fields", "geometric_patterns", "sparks_or_points", "figures_or_forms", "light_in_the_room"],
+  "stages": [{"label": "afterimage or blobs of colour", "description": "described continuously as it changes colour and shape"}, {"label": "other image", "description": "a face, eye, landscape or vase appears; switch to describing it"}],
+  "what_to_do_with_light": "describe it aloud continuously and richly; when something else appears switch to that; look beyond the colour",
+  "obstacles_and_fixes": ["no pictures: move through the back-up procedures", "afterimage fades: recharge on a 20 to 40 watt light and resume", "drowsiness: use a live partner", "feeling of forcing or making up: allowed at the start"],
+  "cautions": ["do not stare at anything near sun brightness", "strobe contraindicated with epilepsy"],
+  "safety_flags": ["flicker_seizure_risk"],
+  "interpretation": "Images are messages from subtler faculties, often symbolic; the afterimage is mainly a bridge, not the goal.",
+  "practice_summary": "Close the eyes and describe aloud, to a listener or tape recorder, whatever appears, rapidly and in sensory detail, in present tense. If nothing comes, stare half a minute at a modest light (20 to 40 watts) or a contrasty window, close the eyes and describe the afterimage as it changes, recharging when it fades. Or report any blobs, lines or patterns however trivial, and after some minutes look beyond them as through a screen. Or rub the closed eyes gently and describe the phosphenes. Flick lights on and off with eyes closed, or use a strobe at 4 to 12 beats per second if not epileptic. Sessions run 10 to 30 minutes. Keep the description flowing; new images arrive as you describe, and a partner can spot eye movements under the lids.",
+  "key_passages": [
+    {"locator": "Back-Up Procedures 1, no. 2 After-Image, source lines 159-219", "about": "method", "anchor": "Unreinforced after-images last only a few seconds. Reinforced by attention and description, your after-image", "paraphrase": "Afterimages normally last seconds but, reinforced by attention and description, can last minutes; he claims one lasted 4 hours.", "quote": "", "source_file": "sources/mod-wenger-image-streaming-backup.txt"},
+    {"locator": "Back-Up Procedures 1, no. 3 Worth Describing, source lines 159-219", "about": "onset", "anchor": "Deliberately look beyond the color as beyond a colored screen, just a few feet further distant, and see", "paraphrase": "If reporting blobs of colour leads nowhere in 10 to 20 minutes, look beyond the colour as through a screen.", "quote": "", "source_file": "sources/mod-wenger-image-streaming-backup.txt"},
+    {"locator": "Back-Up Procedures 1, no. 4, source lines 159-219", "about": "method", "anchor": "Phosphenes — gently rub your own closed eyes like a sleepy child, and describe the light and-color blips", "paraphrase": "Gentle eye rubbing yields light-and-colour blips to describe.", "quote": "", "source_file": "sources/mod-wenger-image-streaming-backup.txt"},
+    {"locator": "Helper Technique, source lines 159-219", "about": "mode", "anchor": "Normally, it's preferred that you simply close eyes and begin noticing — and describing — whatever images", "paraphrase": "Primary mode is noticing and describing images; imagery is said to run all the time and the helper technique brings it to awareness.", "quote": "", "source_file": "sources/mod-wenger-image-streaming-backup.txt"}
+  ],
+  "cross_refs": [], "new_leads": ["Wenger, A Method for Personal Growth and Development (more prompting procedures)"],
+  "reader_confidence": "medium", "confidence_note": "Read in digest; most of the technique is mind's-eye imagery rather than seen light, so marginal."
+}

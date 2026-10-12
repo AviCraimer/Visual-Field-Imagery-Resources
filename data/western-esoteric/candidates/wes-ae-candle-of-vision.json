@@ -1,0 +1,48 @@
+{
+ "id": "wes-ae-candle-of-vision",
+ "stream": "western-esoteric",
+ "title": "The Candle of Vision",
+ "author": "AE (George William Russell)",
+ "translator": null,
+ "year": "1918",
+ "edition_cited": "London: Macmillan, 1918 (Cornell University Library scan)",
+ "tradition": "Irish Theosophical mysticism (Dublin Hermetic / Theosophical Society circle)",
+ "language": "English",
+ "source_type": "practitioner_testimony",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/cu31924013218957",
+ "alt_urls": [
+  "https://archive.org/details/cihm_66306"
+ ],
+ "source_files": [
+  "sources/wes-ae-candle-of-vision.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Chapter 'Meditation' (c. 11-15% into file): the concentration exercise, 'five minutes of this effort', the upheaval it causes, initial 'stupor', 'the dark caverns of the brain begin to grow luminous'",
+  "Chapter 'The Many-Coloured Land', opening (c. 16%): 'a growing luminousness in my brain ... Normally we close our eyes on a cloudy gloom'",
+  "Chapters 'The Memory of Earth', 'Imagination', 'Dreams', 'The Architecture of Dream': his analysis of whether the pictures are memory, imagination or perception",
+  "'Retrospect' and 'The Earth Breath': lying on the hillside with shut eyes"
+ ],
+ "summary": "A poet-painter's first-person account of how his visions began and his attempt to analyse them. In 'Meditation' he gives the method: alone, choose a mental object, 'an abstraction of form', and hold the mind fixed on it without an instant's wavering, as a daily ritual; five minutes of it is harder than a ploughman's labour, and persistence stirs up violent passions. He then describes 'fiery brooding' on the infinite Self. At first there is only stupor, like stepping from day into a cavern; after weeks or months 'the dark caverns of the brain begin to grow luminous'. He attributes to this practice 'a growing luminousness in my brain as if I had unsealed in the body a fountain of interior light', contrasting the ordinary cloudy gloom behind closed eyes with the lit, coloured field in which figures and landscapes then appeared, typically lying with shut eyes on a hillside. Later chapters argue the pictures are seen, not composed.",
+ "why_relevant": "Named practitioner's testimony tying a specific non-visual concentration practice to the onset, after weeks or months, of a luminous closed-eye field and perceived imagery.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "concentration_visual_object",
+  "concentration_nonvisual",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1918",
+  "class": "published_record",
+  "basis": "archive.org metadata date 1918 (London, Macmillan) for the Cornell copy; a 1920 reprint's copyright page reads 'First Edition October 1918'"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; archive.org title search (the seed's Gutenberg pointer could not be confirmed through Gutenberg's search page)",
+ "notes": "AE reports childhood and adolescent spontaneous visions too, so the causal claim for the practice is his own interpretation. The 'mental object' is held in the mind; whether it becomes seen is not stated in the passages skimmed."
+}

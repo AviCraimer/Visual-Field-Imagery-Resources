@@ -1,0 +1,42 @@
+{
+ "stream": "christian",
+ "translator": null,
+ "alt_urls": [],
+ "seen_via": null,
+ "locator_hints": [
+  "ch. on not accepting light/fiery form/voice ~source lines 970-990",
+  "ch. on the mind seeing its own light ~1075-1090"
+ ],
+ "priority": 1,
+ "found_via": "gap pass 2",
+ "notes": "",
+ "author_identifiable": true,
+ "author_basis": "",
+ "id": "chr-diadochos-hundred-chapters",
+ "title": "One Hundred Gnostic Chapters (Kephalaia gnostika)",
+ "author": "Diadochos of Photiki",
+ "year": "5th c.; ed. 1893",
+ "tradition": "Early Byzantine ascetic",
+ "url": "https://archive.org/details/Philokalia1893GreekAthens",
+ "source_files": [
+  "sources/chr-diadochos-hundred-chapters.txt"
+ ],
+ "summary": "Diadochos affirms that when the mind begins to be frequently energised by the divine light it becomes wholly transparent and sees its own light abundantly, once the soul masters the passions; but anything appearing to it with shape, as light or as fire, is the enemy's work (Satan as angel of light), and if a struggler sees light, a fiery form or hears a voice he must not accept it. One must not take up the ascetic life in hope of such sights.",
+ "why_relevant": "Classic double statement: the mind's own (formless) light is real; formed lights are to be refused.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "sound_or_mantra"
+ ],
+ "language": "Greek",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1893",
+  "class": "published_record",
+  "basis": "Second Greek edition of the Philokalia, Athens 1893 (archive.org metadata and title page); text first printed Venice 1782"
+ },
+ "edition_cited": "Philokalia ton ieron neptikon, Athens 1893, vol. 1, djvu OCR from archive.org (item Philokalia1893GreekAthens)"
+}

@@ -1,0 +1,46 @@
+{
+ "id": "chr-poulain-graces-of-interior-prayer",
+ "stream": "christian",
+ "title": "The Graces of Interior Prayer (Des grâces d'oraison): A Treatise on Mystical Theology",
+ "author": "Augustin Poulain, S.J.",
+ "translator": "Leonora L. Yorke Smith (from the 6th French edition)",
+ "year": "French 1901; English 1910",
+ "edition_cited": "London: Kegan Paul, Trench, Trübner, 1910. archive.org scan gracesofinterior0000poul",
+ "tradition": "Roman Catholic mystical theology (Jesuit director's manual)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/gracesofinterior0000poul",
+ "alt_urls": [],
+ "source_files": [
+  "sources/chr-poulain-graces-of-interior-prayer.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Part IV, ch. XX 'On revelations and visions (of created things): descriptive part' (from about line 19183; printed p. 299 ff.): exterior, imaginative and intellectual visions; section 3 on the imaginative vision; extracts",
+  "ch. XXI 'Illusions to be avoided' (line 20365)",
+  "ch. XXII 'Course to be followed in our judgments' (line 21998)",
+  "ch. XXIII 'Rules of conduct': seven rules for the director, seven for the person; extracts on warding off revelations at the outset (lines 23754-24890)",
+  "Search 'luminous', 'globe of fire', 'bodily eyes' for quoted cases"
+ ],
+ "summary": "A systematic director's manual on the states of mystical prayer, written from confessional experience and from the mystics' own texts, with long 'Extracts' after each chapter. Part IV (chapters XX to XXIII) covers visions: the threefold division into exterior (bodily, seen with the eyes), imaginative and intellectual; descriptive detail on how imaginative visions present themselves; causes of error and of wholly false visions; inquiries a director should make; and rules of conduct, including the advice to do one's utmost to ward off revelations, at least at first, and never to regulate conduct by them. It collects passages from Teresa, John of the Cross, Ignatius and many lesser-known visionaries. It does not teach a method for producing light or visions and treats desiring them as dangerous.",
+ "why_relevant": "The Western tradition's working rules for what to do when lights or visions appear, with the corporeal / imaginative / intellectual classification stated carefully and illustrated from primary testimony.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "attention_to_spontaneous_phenomena",
+  "devotion_or_transmission"
+ ],
+ "priority": 2,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1910",
+  "class": "published_record",
+  "basis": "archive.org metadata year 1910 for this scan; English first edition 1910"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "own lead; archive.org title search",
+ "notes": "Acts partly as an anthology: primary passages it quotes from other authors should be catalogued under seen_via if used. OCR is uneven in the front matter, adequate in the body."
+}

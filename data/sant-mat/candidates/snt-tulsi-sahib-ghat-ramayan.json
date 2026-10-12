@@ -1,0 +1,44 @@
+{
+ "id": "snt-tulsi-sahib-ghat-ramayan",
+ "stream": "sant-mat",
+ "title": "Ghat Ramayan, Part 1 (Ghat Ramayan Bhag 1)",
+ "author": "Tulsi Sahib of Hathras (c. 1763-1843)",
+ "translator": null,
+ "year": "composed early 19th c.; this edition 1916",
+ "edition_cited": "Belvedere Steam Printing Works, Allahabad, 1916 (archive.org in.ernet.dli.2015.483643; Hindi OCR, legible)",
+ "tradition": "Sant Mat (Tulsi Sahib, precursor of Radhasoami)",
+ "language": "Hindi (Braj/sadhukkari)",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/in.ernet.dli.2015.483643",
+ "alt_urls": [],
+ "source_files": [
+  "sources/snt-tulsi-sahib-ghat-ramayan.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Section 'भक्ति का वरनन', file lines c. 3675-3730: surat fixed at the til, star, lightning, five colours, jyoti like a lamp, inner moon, stars, midday sun"
+ ],
+ "summary": "Tulsi Sahib's verse treatise. In the section on bhakti he gives a seen-light sequence for surat-shabd practice: attach the surat moment by moment, without a blink's break, to the sesame-seed point (til) at the black lotus; dwelling in the til window, a single star appears at the sky-door and the unstruck sound is heard; lightning flashes; as the surat moves toward the door the light grows; white and black, then five colours (black, red, white, yellow, green); then tej and jyoti like a lamp seen through a temple door; the jyoti bursts and a full moon appears within, then many stars, then a light like the midday sun, in which the whole cosmos is seen inside.",
+ "why_relevant": "The classical Sant Mat source of the til-star-moon-sun sequence later taught by Radhasoami and Kirpal Singh.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "gazing_fixed_point",
+  "concentration_nonvisual",
+  "sound_or_mantra",
+  "devotion_or_transmission"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1916",
+  "class": "published_record",
+  "basis": "archive.org metadata dc.date.citation 1916; DLI scan"
+ },
+ "author_identifiable": true,
+ "author_basis": "Tulsi Sahib of Hathras",
+ "found_via": "gap pass 2",
+ "notes": "OCR has many dropped matras; anchors are copied with OCR errors intact."
+}

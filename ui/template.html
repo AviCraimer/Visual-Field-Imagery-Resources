@@ -1,0 +1,441 @@
+<title>Visual Field Imagery Library</title>
+<style>
+/* Layout: one reading column with a sticky tab bar; cards in two columns on wide screens. Dark ground is eigengrau, the colour seen in darkness. */
+:root{--bg:#f3f4f8;--surface:#fbfbfd;--ink:#1c1e2b;--mute:#5f6478;--line:#d9dbe6;--accent:#3a3fa0;--accent-bg:#e3e5f7;--warn:#a3341f;--warn-bg:#f8e3dd;--ok:#3d6b47;--ok-bg:#e1eddf;--chip:#e9ebf3}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#16161d;--surface:#1e1e28;--ink:#e6e4ee;--mute:#9a99ac;--line:#30303f;--accent:#e9c46a;--accent-bg:#3a3320;--warn:#f0907c;--warn-bg:#3f221b;--ok:#92c79b;--ok-bg:#1f3324;--chip:#272733;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#16161d;--surface:#1e1e28;--ink:#e6e4ee;--mute:#9a99ac;--line:#30303f;--accent:#e9c46a;--accent-bg:#3a3320;--warn:#f0907c;--warn-bg:#3f221b;--ok:#92c79b;--ok-bg:#1f3324;--chip:#272733;color-scheme:dark}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.55 Georgia,"Iowan Old Style","Palatino Linotype",serif;overflow-x:hidden}
+button,input,select{font:inherit;color:inherit}
+.sans,button,input,.tab,.chip,.badge,.lbl{font-family:system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent)}
+.wrap{max-width:1040px;margin:0 auto;padding:0 16px}
+header{border-bottom:1px solid var(--line);background:var(--bg);position:sticky;top:env(safe-area-inset-top,0px);z-index:5}
+.top{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:10px 0 4px}
+h1{font-size:1.15rem;margin:0;font-weight:600;letter-spacing:.01em}
+.tabs{display:flex;gap:2px;overflow-x:auto;padding-bottom:0}
+.tab{background:none;border:0;border-bottom:2px solid transparent;padding:8px 12px;font-size:.9rem;color:var(--mute);cursor:pointer;white-space:nowrap}
+.tab[aria-selected=true]{color:var(--ink);border-bottom-color:var(--accent)}
+.ibtn{background:none;border:1px solid var(--line);border-radius:6px;padding:4px 10px;cursor:pointer;font-size:.8rem;color:var(--mute)}
+main{padding:16px 0 80px}
+.bar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px}
+input[type=search]{flex:1 1 220px;min-width:0;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--surface);font-size:16px}
+.btn{border:1px solid var(--line);background:var(--surface);border-radius:8px;padding:9px 12px;cursor:pointer;font-size:.88rem;font-family:system-ui,sans-serif}
+.btn.on{background:var(--accent-bg);border-color:var(--accent);color:var(--accent)}
+.count{color:var(--mute);font-size:.88rem;margin:6px 0 12px;font-family:system-ui,sans-serif}
+.panel{border:1px solid var(--line);border-radius:10px;background:var(--surface);padding:6px 12px;margin-bottom:12px}
+.panel details{border-bottom:1px solid var(--line);padding:6px 0}
+.panel details:last-child{border:0}
+.panel summary{cursor:pointer;font:600 .85rem system-ui,sans-serif;padding:4px 0}
+.chips{display:flex;flex-wrap:wrap;gap:6px;padding:6px 0 4px}
+.chip{border:1px solid var(--line);background:var(--chip);border-radius:99px;padding:3px 10px;font-size:.8rem;cursor:pointer}
+.chip.on{background:var(--accent);border-color:var(--accent);color:var(--bg)}
+.chip small{opacity:.7}
+.cards{display:grid;gap:12px;grid-template-columns:1fr}
+@media(min-width:760px){.cards{grid-template-columns:1fr 1fr}}
+.card{border:1px solid var(--line);background:var(--surface);border-radius:10px;padding:14px;cursor:pointer;display:flex;flex-direction:column;gap:6px;min-width:0}
+.card:hover,.card:focus-visible{border-color:var(--accent);outline:none}
+.card h3{margin:0;font-size:1.02rem;line-height:1.3;overflow-wrap:anywhere}
+.meta{color:var(--mute);font-size:.85rem;overflow-wrap:anywhere}
+.glance{display:grid;grid-template-columns:auto 1fr;gap:2px 10px;font:.82rem system-ui,sans-serif;margin-top:4px}
+.glance b{color:var(--mute);font-weight:500}
+.badges{display:flex;gap:6px;flex-wrap:wrap}
+.badge{font-size:.72rem;border-radius:4px;padding:1px 7px;background:var(--chip);color:var(--mute)}
+.badge.tier{background:var(--accent-bg);color:var(--accent);font-weight:600}
+.badge.warn{background:var(--warn-bg);color:var(--warn)}
+.badge.ok{background:var(--ok-bg);color:var(--ok)}
+.star{background:none;border:0;cursor:pointer;font-size:1.25rem;color:var(--mute);padding:0 4px;line-height:1}
+.star.on{color:var(--accent)}
+.detail{max-width:760px}
+.detail h2{margin:.3em 0 .1em;font-size:1.55rem;line-height:1.25;overflow-wrap:anywhere}
+.detail h4{margin:1.5em 0 .3em;font:600 .78rem system-ui,sans-serif;text-transform:uppercase;letter-spacing:.07em;color:var(--mute)}
+.detail p,.detail li{overflow-wrap:anywhere}
+.kv{display:grid;grid-template-columns:max-content 1fr;gap:3px 12px;font-size:.92rem}
+.kv dt{color:var(--mute);font-family:system-ui,sans-serif;font-size:.82rem;padding-top:2px}
+.kv dd{margin:0;overflow-wrap:anywhere}
+.kv dd{margin-bottom:6px}@media(max-width:520px){.kv{grid-template-columns:1fr}.kv dt{padding-top:6px}}
+.passage{border-left:3px solid var(--line);padding:2px 0 2px 12px;margin:12px 0}
+.passage .loc{font:.78rem system-ui,sans-serif;color:var(--mute)}
+.passage blockquote{margin:6px 0;font-style:italic}
+.note{background:var(--accent-bg);border-radius:8px;padding:8px 12px;font-size:.92rem}
+.warnbox{background:var(--warn-bg);color:var(--ink);border-radius:8px;padding:8px 12px;font-size:.92rem;border-left:3px solid var(--warn)}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:8px 0}
+table.mx{border-collapse:collapse;font:.8rem system-ui,sans-serif;min-width:100%}
+.mxw{overflow-x:auto;border:1px solid var(--line);border-radius:10px;background:var(--surface)}
+.mx th,.mx td{border:1px solid var(--line);padding:6px 8px;text-align:center}
+.mx th{font-weight:500;color:var(--mute);vertical-align:bottom}
+.mx th.rh{text-align:left;position:sticky;left:0;background:var(--surface);min-width:130px;max-width:170px;color:var(--ink)}
+.mx td.c{cursor:pointer}
+.mx td.c:hover{outline:2px solid var(--accent);outline-offset:-2px}
+.mx td.z{color:var(--line);cursor:default}
+.mx th.vh{writing-mode:vertical-rl;transform:rotate(180deg);height:150px;padding:6px 4px;text-align:left}
+.prose{max-width:720px}
+.prose h1,.prose h2,.prose h3{line-height:1.25}
+.prose h1{font-size:1.5rem}.prose h2{font-size:1.25rem;margin-top:1.6em}.prose h3{font-size:1.07rem}
+.prose blockquote{border-left:3px solid var(--line);margin:1em 0;padding-left:14px;color:var(--mute)}
+.prose code{font-size:.88em;background:var(--chip);padding:0 4px;border-radius:3px}
+.prose p,.prose li{overflow-wrap:anywhere}
+.unres{background:var(--warn-bg);color:var(--warn);border-radius:3px;padding:0 4px;font:.8em system-ui,sans-serif;text-decoration:line-through dotted}
+.empty{border:1px dashed var(--line);border-radius:10px;padding:24px;text-align:center;color:var(--mute)}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin:8px 0 16px}
+.stat{border:1px solid var(--line);background:var(--surface);border-radius:10px;padding:10px 12px}
+.stat b{display:block;font:600 1.5rem Georgia,serif}
+.stat span{font:.78rem system-ui,sans-serif;color:var(--mute)}
+.bars div{display:grid;grid-template-columns:minmax(90px,38%) 1fr 2.5em;gap:8px;align-items:center;font:.82rem system-ui,sans-serif;margin:3px 0}
+.bars i{display:block;height:8px;background:var(--accent);border-radius:4px;opacity:.75}
+ul.plain{padding-left:1.1em}
+.toast{position:fixed;bottom:16px;left:50%;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:8px 14px;border-radius:8px;font:.85rem system-ui,sans-serif;z-index:20}
+</style>
+<header><div class="wrap">
+ <div class="top"><h1>Visual Field Imagery Library</h1><button class="ibtn" id="theme" aria-label="Toggle colour theme">Theme</button></div>
+ <div class="tabs" role="tablist" id="tabs"></div>
+</div></header>
+<main><div class="wrap" id="app"></div></main>
+<script>
+const DATA = /*__DATA__*/null;
+</script>
+<script>
+"use strict";
+const $ = (s, r) => (r || document).querySelector(s);
+const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const LS = {get(k){try{return localStorage.getItem(k)}catch(e){return null}}, set(k,v){try{localStorage.setItem(k,v)}catch(e){}}};
+
+const ALL = DATA.items || [];
+const BYID = Object.fromEntries(ALL.map(i => [i.id, i]));
+const KEPT = ALL.filter(i => i.status === "keep" || i.status === "keep_marginal");
+const STREAMS = Object.fromEntries((DATA.streams || []).map(s => [s.id, s.name]));
+const FAMS = Object.fromEntries((DATA.families || []).map(f => [f.id, f]));
+const HASFAM = (DATA.families || []).length > 0;
+
+const pretty = s => { s = String(s || "").replace(/_/g, " "); return s.charAt(0).toUpperCase() + s.slice(1); };
+const L = {
+  mode: {perceptual:"VFI (visual field)", imaginal_crossing:"MEI crossing to VFI", ambiguous:"Unclear (VFI or MEI)"},
+  eyes: {closed:"Closed", open:"Open", both:"Both", unspecified:"Unspecified"},
+  onset: {induction:"Induces first light", development_only:"Develops existing light", both:"Both", unclear:"Unclear"},
+  source_type: {classical_text:"Classical text", teacher_manual:"Teacher manual", practitioner_testimony:"Practitioner testimony", ethnographic_report:"Ethnographic report", anthology_or_compilation:"Anthology or compilation", secondary_conduit:"Secondary conduit"},
+  rights: {public_domain:"Public domain", in_copyright:"In copyright", unknown:"Rights unknown"},
+  access: {fulltext_saved:"Full text saved", partial_saved:"Partial text saved", reader_extract_saved:"Reader extract saved", citation_only:"Citation only"},
+  date_class: {published_record:"Published record", platform_timestamp:"Platform timestamp", self_reported:"Self-reported", post_2022:"Post-2022", undated:"Undated"},
+  screen: {pass:"Passed", pass_flagged:"Passed with flag", fail:"Failed", pending:"Pending"},
+  safety: {transmission_required_by_tradition:"Transmission required by tradition", tradition_warns_against_seeking:"Tradition warns against seeking"},
+  status: {keep:"Kept", keep_marginal:"Kept, marginal", unread:"Not yet read", screened_out:"Screened out", drop:"Dropped", merged:"Merged"},
+  stim: {yes:"Yes", no:"No", unclear:"Unclear", not_applicable:"Not applicable"},
+  conf: {high:"High", medium:"Medium", low:"Low"}
+};
+const lab = (k, v) => (L[k] && L[k][v]) || pretty(v);
+const techLab = t => pretty(t);
+const famLab = id => (FAMS[id] && FAMS[id].name) || pretty(id);
+const rd = i => i.reading || {};
+const cu = i => i.curation || {};
+const yearOf = i => { const m = String((i.date_evidence && i.date_evidence.date) || "").match(/\d{4}/); return m ? +m[0] : null; };
+const dateOK = i => { const y = yearOf(i), c = i.date_evidence && i.date_evidence.class; return y != null && y < 2023 && (c === "published_record" || c === "platform_timestamp"); };
+
+/* ---------- facets ---------- */
+const FACETS = [
+  {k:"stream", name:"Tradition", get:i=>[i.stream], lab:v=>STREAMS[v]||pretty(v)},
+  ...(HASFAM ? [{k:"family", name:"Technique family", get:i=>cu(i).families||[], lab:famLab}] : []),
+  {k:"tech", name:"Technique", get:i=>rd(i).techniques||[], lab:techLab},
+  {k:"onset", name:"Onset pathway", get:i=>[rd(i).onset_pathway], lab:v=>lab("onset",v)},
+  {k:"mode", name:"Mode", get:i=>[rd(i).mode], lab:v=>lab("mode",v)},
+  {k:"eyes", name:"Eyes", get:i=>[rd(i).eyes], lab:v=>lab("eyes",v)},
+  {k:"tier", name:"Tier", get:i=>[cu(i).tier||"none"], lab:v=>v==="none"?"Not yet tiered":"Tier "+v},
+  {k:"stype", name:"Source type", get:i=>[i.source_type], lab:v=>lab("source_type",v)},
+  {k:"safety", name:"Safety flags", get:i=>{const s=rd(i).safety_flags||[];return s.length?s:["none"]}, lab:v=>v==="none"?"No flags":pretty(v)},
+  {k:"rights", name:"Rights", get:i=>[i.rights], lab:v=>lab("rights",v)},
+  {k:"dclass", name:"Date evidence", get:i=>[(i.date_evidence||{}).class||"undated"], lab:v=>lab("date_class",v)},
+];
+const FACETBY = Object.fromEntries(FACETS.map(f => [f.k, f]));
+const facetVals = f => {
+  const m = new Map();
+  KEPT.forEach(i => f.get(i).forEach(v => { if (v != null) m.set(v, (m.get(v) || 0) + 1); }));
+  return [...m.entries()].sort((a, b) => b[1] - a[1]);
+};
+
+/* ---------- state & hash ---------- */
+let S = {v:"lib", q:"", f:{}, pre:false, star:false, card:null};
+let stars = new Set();
+try { stars = new Set(JSON.parse(LS.get("il_stars") || "[]")); } catch (e) {}
+const saveStars = () => LS.set("il_stars", JSON.stringify([...stars]));
+const openFacets = new Set();
+let filtersOpen = false;
+
+function toHash() {
+  const p = new URLSearchParams();
+  if (S.v !== "lib") p.set("v", S.v);
+  if (S.q) p.set("q", S.q);
+  if (S.pre) p.set("pre", "1");
+  if (S.star) p.set("star", "1");
+  Object.entries(S.f).forEach(([k, a]) => { if (a.length) p.set("f_" + k, a.join("|")); });
+  if (S.card) p.set("card", S.card);
+  return p.toString();
+}
+function fromHash() {
+  const p = new URLSearchParams(location.hash.replace(/^#/, ""));
+  S = {v:p.get("v") || "lib", q:p.get("q") || "", f:{}, pre:p.get("pre") === "1", star:p.get("star") === "1", card:p.get("card")};
+  for (const [k, v] of p) if (k.startsWith("f_") && FACETBY[k.slice(2)]) S.f[k.slice(2)] = v.split("|").filter(Boolean);
+  if (!["lib","cmp","rep","cov"].includes(S.v)) S.v = "lib";
+}
+let hashFromUs = false;
+function push(replace) {
+  const h = "#" + toHash();
+  hashFromUs = true;
+  if (replace) history.replaceState(null, "", h); else location.hash = h;
+  setTimeout(() => hashFromUs = false, 0);
+  LS.set("il_view", JSON.stringify({v:S.v, q:S.q, f:S.f, pre:S.pre}));
+  render();
+}
+
+/* ---------- filtering ---------- */
+function haystack(i) {
+  const r = rd(i);
+  return [i.title, i.author, i.translator, i.tradition, i.summary, r.practice_summary, r.interpretation, r.what_to_do_with_light, cu(i).librarian_note,
+    ...(r.key_passages || []).map(p => [p.paraphrase, p.quote, p.anchor, p.locator].join(" "))].join(" ").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+}
+const HAY = new Map(KEPT.map(i => [i.id, haystack(i)]));
+function matches(i, skip) {
+  for (const [k, a] of Object.entries(S.f)) {
+    if (!a.length || k === skip) continue;
+    const vals = FACETBY[k].get(i);
+    if (!a.some(x => vals.includes(x))) return false;
+  }
+  if (S.pre && !dateOK(i)) return false;
+  if (S.star && !stars.has(i.id)) return false;
+  if (S.q) { const h = HAY.get(i.id); if (!S.q.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").split(/\s+/).filter(Boolean).every(t => h.includes(t))) return false; }
+  return true;
+}
+const TIERORD = {A:0, B:1, C:2};
+const results = () => KEPT.filter(i => matches(i)).sort((a, b) => (TIERORD[cu(a).tier] ?? 3) - (TIERORD[cu(b).tier] ?? 3) || a.title.localeCompare(b.title));
+
+/* ---------- markdown ---------- */
+function citeHTML(inner) {
+  const parts = inner.split(/\s*[;,]\s*/);
+  if (!parts.some(p => /^[a-z]{2,4}-[a-z0-9][a-z0-9-]*/.test(p.trim()))) return null;
+  return "[" + parts.map(p => {
+    p = p.trim();
+    const m = p.match(/^([a-z]{2,4}-[a-z0-9][a-z0-9-]*)(.*)$/);
+    if (!m) return esc(p);
+    const id = m[1], rest = esc(m[2]);
+    if (BYID[id]) return `<a href="#card=${encodeURIComponent(id)}" title="${esc(BYID[id].title)}">${esc(id)}</a>${rest}`;
+    return `<span class="unres" title="No source with this id exists in the library">${esc(id)} (unresolved)</span>${rest}`;
+  }).join(", ") + "]";
+}
+function inline(s) {
+  s = esc(s);
+  s = s.replace(/\[([^\]]+)\](?!\()/g, (all, inner) => citeHTML(inner.replace(/&amp;/g, "&")) || all);
+  s = s.replace(/\[([^\]]+)\]\((https?:[^)\s]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
+  s = s.replace(/`([^`]+)`/g, "<code>$1</code>").replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>").replace(/(^|[\s(])\*([^*\s][^*]*)\*/g, "$1<em>$2</em>");
+  return s;
+}
+function md(src) {
+  const lines = src.replace(/\r/g, "").split("\n"); let out = [], i = 0;
+  while (i < lines.length) {
+    const ln = lines[i];
+    let m;
+    if (!ln.trim()) { i++; continue; }
+    if ((m = ln.match(/^(#{1,6})\s+(.*)$/))) { out.push(`<h${m[1].length}>${inline(m[2])}</h${m[1].length}>`); i++; continue; }
+    if (/^\s*([-*_])\1{2,}\s*$/.test(ln)) { out.push("<hr>"); i++; continue; }
+    if (/^>/.test(ln)) { let b = []; while (i < lines.length && /^>/.test(lines[i])) b.push(lines[i++].replace(/^>\s?/, "")); out.push(`<blockquote>${md(b.join("\n"))}</blockquote>`); continue; }
+    if (/^\s*([-*]|\d+\.)\s+/.test(ln)) {
+      const ord = /^\s*\d+\./.test(ln); let items = [];
+      while (i < lines.length && /^\s*([-*]|\d+\.)\s+/.test(lines[i])) { let t = lines[i++].replace(/^\s*([-*]|\d+\.)\s+/, ""); while (i < lines.length && lines[i].trim() && /^\s{2,}\S/.test(lines[i]) && !/^\s*([-*]|\d+\.)\s+/.test(lines[i])) t += " " + lines[i++].trim(); items.push(`<li>${inline(t)}</li>`); }
+      out.push(`<${ord?"ol":"ul"}>${items.join("")}</${ord?"ol":"ul"}>`); continue;
+    }
+    if (/^\|/.test(ln) && /^\|?\s*:?-+/.test(lines[i+1] || "")) {
+      const cells = r => r.replace(/^\||\|$/g, "").split("|").map(c => c.trim());
+      const head = cells(ln); i += 2; let rows = [];
+      while (i < lines.length && /^\|/.test(lines[i])) rows.push(cells(lines[i++]));
+      out.push(`<div class="mxw"><table class="mx"><tr>${head.map(h=>`<th>${inline(h)}</th>`).join("")}</tr>${rows.map(r=>`<tr>${r.map(c=>`<td style="text-align:left">${inline(c)}</td>`).join("")}</tr>`).join("")}</table></div>`); continue;
+    }
+    let p = [];
+    while (i < lines.length && lines[i].trim() && !/^(#{1,6}\s|>|\s*([-*]|\d+\.)\s+|\|)/.test(lines[i])) p.push(lines[i++]);
+    out.push(`<p>${inline(p.join(" "))}</p>`);
+  }
+  return out.join("\n");
+}
+
+/* ---------- views ---------- */
+const TABS = [["lib","Library"],["cmp","Compare"],["rep","Report"],["cov","Coverage"]];
+function renderTabs() {
+  $("#tabs").innerHTML = TABS.map(([k, n]) => `<button class="tab" role="tab" data-v="${k}" aria-selected="${S.v===k&&!S.card}">${n}</button>`).join("");
+}
+function cardHTML(i) {
+  const r = rd(i), c = cu(i);
+  const flagged = i.screen && i.screen.decision === "pass_flagged";
+  return `<article class="card" tabindex="0" data-id="${esc(i.id)}">
+   <div style="display:flex;justify-content:space-between;gap:6px"><h3>${esc(i.title)}</h3><button class="star ${stars.has(i.id)?"on":""}" data-star="${esc(i.id)}" aria-label="Star this source">${stars.has(i.id)?"★":"☆"}</button></div>
+   <div class="meta">${esc(i.author || "Unknown author")}${yearOf(i)?" · "+yearOf(i):""}</div>
+   <div class="meta">${esc(STREAMS[i.stream] || i.stream)}</div>
+   <div class="badges">${c.tier?`<span class="badge tier">Tier ${esc(c.tier)}</span>`:""}${i.status==="keep_marginal"?'<span class="badge">Marginal</span>':""}${flagged?'<span class="badge warn">Date flagged</span>':""}${(r.safety_flags||[]).length?'<span class="badge warn">Safety notes</span>':""}</div>
+   <div class="glance"><b>Mode</b><span>${esc(lab("mode", r.mode))}</span><b>Eyes</b><span>${esc(lab("eyes", r.eyes))}</span><b>Onset</b><span>${esc(lab("onset", r.onset_pathway))}</span></div>
+  </article>`;
+}
+function filterPanel() {
+  return FACETS.map(f => {
+    const vals = facetVals(f), sel = S.f[f.k] || [];
+    return `<details data-f="${f.k}" ${openFacets.has(f.k)||sel.length?"open":""}><summary>${f.name}${sel.length?` (${sel.length})`:""}</summary><div class="chips">${vals.map(([v, n]) => `<button class="chip ${sel.includes(v)?"on":""}" data-f="${f.k}" data-v="${esc(v)}">${esc(f.lab(v))} <small>${n}</small></button>`).join("")}</div></details>`;
+  }).join("");
+}
+const PRESET = ["induction","both"];
+const presetOn = () => (S.f.onset || []).slice().sort().join() === PRESET.slice().sort().join();
+function nActive() { return Object.values(S.f).filter(a => a.length).length + (S.pre?1:0) + (S.star?1:0); }
+
+function renderLib() {
+  const app = $("#app");
+  app.innerHTML = `<div class="bar"><input type="search" id="q" placeholder="Search titles, authors, summaries, passages" value="${esc(S.q)}" aria-label="Search">
+   <button class="btn ${presetOn()?"on":""}" id="preset">Methods claimed to induce first light</button></div>
+   <div class="bar"><button class="btn ${S.pre?"on":""}" id="pre">Dated before 2023 only</button><button class="btn ${S.star?"on":""}" id="starf">★ Starred (${stars.size})</button>
+   <button class="btn" id="ftoggle">Filters${nActive()?` (${nActive()})`:""}</button>${nActive()||S.q?'<button class="btn" id="clear">Clear all</button>':""}</div>
+   <div class="panel" id="panel" ${filtersOpen?"":"hidden"}>${filterPanel()}</div>
+   <div class="count" id="count"></div><div class="cards" id="cards"></div>`;
+  listOnly();
+}
+function listOnly() {
+  const r = results();
+  $("#count").textContent = `${r.length} of ${KEPT.length} read sources` + (ALL.length - KEPT.length ? ` (${ALL.length - KEPT.length} more not read or set aside, see Coverage)` : "");
+  $("#cards").innerHTML = r.length ? r.map(cardHTML).join("") : "";
+  if (!r.length) $("#cards").innerHTML = `<div class="empty" style="grid-column:1/-1">No sources match these filters. <br><br><button class="btn" id="clear2">Clear all filters</button></div>`;
+}
+
+function stat(n, t) { return `<div class="stat"><b>${n}</b><span>${t}</span></div>`; }
+function list(a, fn) { return a && a.length ? `<ul class="plain">${a.map(x => `<li>${fn ? fn(x) : esc(x)}</li>`).join("")}</ul>` : ""; }
+function sect(t, body) { return body ? `<h4>${t}</h4>${body}` : ""; }
+function citationText(i) {
+  const r = rd(i);
+  let t = `${i.author || "Unknown"}${i.translator ? " (tr. " + i.translator + ")" : ""}. ${i.title}. ${i.edition_cited || i.year || ""}. ${i.url || ""}\n`;
+  (r.key_passages || []).forEach(p => { t += `- ${p.locator}${p.anchor ? ' ("' + p.anchor + '")' : ""}\n`; });
+  return t.trim();
+}
+function renderCard(i) {
+  const r = rd(i), c = cu(i), de = i.date_evidence || {}, sc = i.screen || {};
+  const fl = sc.decision === "pass_flagged";
+  const xr = (r.cross_refs || []).map(x => { const id = typeof x === "string" ? x : (x.id || x.target); const note = typeof x === "object" ? (x.note || x.relation || "") : ""; return BYID[id] ? `<a href="#card=${encodeURIComponent(id)}">${esc(BYID[id].title)}</a>${note?" – "+esc(note):""}` : `<span class="unres">${esc(id)} (unresolved)</span>`; });
+  const cond = r.conditions ? Object.entries(r.conditions).filter(([, v]) => v).map(([k, v]) => `<dt>${esc(pretty(k))}</dt><dd>${esc(v)}</dd>`).join("") : "";
+  $("#app").innerHTML = `<div class="detail">
+   <div class="row"><button class="btn" id="back">← Back</button><button class="btn" id="copycite">Copy citation and locators</button><button class="star ${stars.has(i.id)?"on":""}" data-star="${esc(i.id)}" aria-label="Star this source">${stars.has(i.id)?"★":"☆"}</button></div>
+   <div class="badges">${c.tier?`<span class="badge tier">Tier ${esc(c.tier)}</span>`:""}<span class="badge">${esc(lab("status", i.status))}</span>${fl?'<span class="badge warn">Provenance flagged</span>':""}<span class="badge">${esc(lab("source_type", i.source_type))}</span></div>
+   <h2>${esc(i.title)}</h2>
+   <div class="meta">${esc(i.author || "Unknown author")}${i.translator?", translated by "+esc(i.translator):""} · ${esc(i.year || "")}</div>
+   <div class="meta">${esc(STREAMS[i.stream] || i.stream)}${i.tradition?" · "+esc(i.tradition):""}</div>
+   ${i.status === "unread" || !i.reading ? `<div class="note" style="margin-top:12px">This source has not been read yet. Only catalogue information is available.</div>` : ""}
+   ${c.librarian_note ? `<div class="note" style="margin-top:12px"><strong>Librarian's note.</strong> ${esc(c.librarian_note)}</div>` : ""}
+   ${(c.families||[]).length ? `<div class="badges" style="margin-top:8px">${c.families.map(f=>`<span class="badge">${esc(famLab(f))}</span>`).join("")}</div>`:""}
+   ${i.reading ? `<h4>At a glance</h4><dl class="kv"><dt>Mode</dt><dd>${esc(lab("mode", r.mode))}${r.mode_evidence?`<br><span class="meta">${esc(r.mode_evidence)}</span>`:""}</dd>
+    <dt>Eyes</dt><dd>${esc(lab("eyes", r.eyes))}</dd>
+    <dt>Onset pathway</dt><dd>${esc(lab("onset", r.onset_pathway))}${r.onset_evidence?`<br><span class="meta">${esc(r.onset_evidence)}</span>`:""}</dd>
+    <dt>Stimulus independent</dt><dd>${esc(lab("stim", r.stimulus_independence))}</dd>
+    <dt>Techniques</dt><dd>${(r.techniques||[]).map(techLab).map(esc).join(", ") || "None recorded"}</dd>
+    <dt>Phenomena</dt><dd>${(r.phenomena||[]).map(pretty).map(esc).join(", ") || "None recorded"}</dd>
+    <dt>Reader confidence</dt><dd>${esc(lab("conf", r.reader_confidence))}${r.confidence_note?`<br><span class="meta">${esc(r.confidence_note)}</span>`:""}${r.text_read?`<br><span class="meta">Text read: ${esc(r.text_read)}</span>`:""}</dd></dl>` : ""}
+   ${sect("Summary", i.summary ? `<p>${esc(i.summary)}</p>` : "")}
+   ${sect("Practice", r.practice_summary ? `<p>${esc(r.practice_summary)}</p>` : "")}
+   ${sect("Conditions", cond ? `<dl class="kv">${cond}</dl>` : "")}
+   ${sect("Stages", (r.stages||[]).length ? `<ol>${r.stages.map(s=>`<li><strong>${esc(s.label)}.</strong> ${esc(s.description)}</li>`).join("")}</ol>` : "")}
+   ${sect("What to do with the light", r.what_to_do_with_light ? `<p>${esc(r.what_to_do_with_light)}</p>` : "")}
+   ${sect("Obstacles and fixes", list(r.obstacles_and_fixes))}
+   ${(r.cautions||[]).length || (r.safety_flags||[]).length ? `<h4>Cautions and safety</h4><div class="warnbox">${(r.safety_flags||[]).length?`<p style="margin:0 0 6px"><strong>Flags:</strong> ${r.safety_flags.map(f=>esc(lab("safety",f))).join(", ")}</p>`:""}${list(r.cautions)}</div>`:""}
+   ${sect("Interpretation", r.interpretation ? `<p>${esc(r.interpretation)}</p>` : "")}
+   ${sect("Key passages", (r.key_passages||[]).map(p=>`<div class="passage"><div class="loc">${esc(p.locator)}${p.about?" · "+esc(pretty(p.about)):""} · anchor ${p.anchor_verified?'<span class="badge ok">verified</span>':'<span class="badge warn">not verified</span>'}</div><div>${esc(p.paraphrase)}</div>${p.quote?`<blockquote>“${esc(p.quote)}”</blockquote>`:""}${p.anchor?`<div class="meta">Anchor phrase: “${esc(p.anchor)}”</div>`:""}</div>`).join(""))}
+   ${sect("Cross-references", list(xr, x=>x))}
+   ${sect("Source and provenance", `<dl class="kv"><dt>Edition</dt><dd>${esc(i.edition_cited||i.year||"")}</dd><dt>Rights</dt><dd>${esc(lab("rights", i.rights))}</dd><dt>Access</dt><dd>${esc(lab("access", i.access))}</dd>
+     <dt>Screen</dt><dd>${esc(lab("screen", sc.decision))}${sc.reason?" ("+esc(pretty(sc.reason))+")":""}</dd>
+     <dt>Date evidence</dt><dd>${esc(de.date||"")} ${de.class?"("+esc(lab("date_class", de.class))+")":""}${de.basis?`<br><span class="meta">${esc(de.basis)}</span>`:""}</dd>
+     <dt>Link</dt><dd>${i.url?`<a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.url)}</a>`:"None"}</dd></dl>`)}
+  </div>`;
+  window.scrollTo(0, 0);
+}
+
+function renderCompare() {
+  const cols = (DATA.streams || []).filter(s => KEPT.some(i => i.stream === s.id));
+  const rowsDef = HASFAM ? DATA.families.map(f => ({id:f.id, name:f.name, k:"family", has:i=>(cu(i).families||[]).includes(f.id)}))
+    : (DATA.vocab.techniques || []).filter(t => KEPT.some(i => (rd(i).techniques||[]).includes(t))).map(t => ({id:t, name:techLab(t), k:"tech", has:i=>(rd(i).techniques||[]).includes(t)}));
+  let max = 1; const cell = (r, c) => KEPT.filter(i => i.stream === c.id && r.has(i)).length;
+  rowsDef.forEach(r => cols.forEach(c => max = Math.max(max, cell(r, c))));
+  $("#app").innerHTML = `<h2 style="margin-top:0">${HASFAM ? "Technique families by tradition" : "Techniques by tradition"}</h2>
+   <p class="meta">${HASFAM ? "" : "Technique families have not been defined yet, so individual techniques are shown. "}Counts are read sources. Tap a count to see those sources.</p>
+   <div class="mxw"><table class="mx"><tr><th class="rh"></th>${cols.map(c=>`<th class="vh">${esc(c.name)}</th>`).join("")}<th class="vh">All</th></tr>
+   ${rowsDef.map(r=>{const tot=KEPT.filter(r.has).length;return `<tr><th class="rh">${esc(r.name)}</th>${cols.map(c=>{const n=cell(r,c);return n?`<td class="c" data-k="${r.k}" data-r="${esc(r.id)}" data-c="${esc(c.id)}" style="background:color-mix(in srgb,var(--accent) ${Math.round(15+60*n/max)}%,transparent)">${n}</td>`:`<td class="z">·</td>`}).join("")}<td class="c" data-k="${r.k}" data-r="${esc(r.id)}"><strong>${tot}</strong></td></tr>`}).join("")}</table></div>`;
+}
+
+function renderReport() {
+  $("#app").innerHTML = DATA.report ? `<div class="prose">${md(DATA.report)}</div>` : `<div class="empty">The report has not been written yet.<br>Citations will link to source cards once it appears.</div>`;
+}
+
+function bars(map, nameFn) {
+  const e = Object.entries(map).sort((a, b) => b[1] - a[1]), mx = Math.max(1, ...e.map(x => x[1]));
+  return `<div class="bars">${e.map(([k, n]) => `<div><span>${esc(nameFn(k))}</span><i style="width:${Math.round(100*n/mx)}%"></i><span>${n}</span></div>`).join("")}</div>`;
+}
+const tally = (arr, fn) => { const m = {}; arr.forEach(i => (fn(i)).forEach(v => { if (v != null) m[v] = (m[v]||0)+1; })); return m; };
+function renderCoverage() {
+  const unread = ALL.filter(i => i.status === "unread"), out = ALL.filter(i => i.status === "screened_out" || i.status === "drop");
+  const byS = {}; (DATA.streams||[]).forEach(s => byS[s.id] = {k:0,u:0}); ALL.forEach(i => { const b = byS[i.stream] || (byS[i.stream] = {k:0,u:0}); if (KEPT.includes(i)) b.k++; else if (i.status === "unread") b.u++; });
+  const ug = {}; unread.forEach(i => (ug[i.stream] = ug[i.stream] || []).push(i));
+  $("#app").innerHTML = `<div class="prose" style="max-width:820px"><h2 style="margin-top:0">Coverage</h2>
+   <div class="stats">${stat(ALL.length,"sources gathered")}${stat(KEPT.length,"read and kept")}${stat(unread.length,"not yet read")}${stat(out.length,"set aside")}${stat(KEPT.filter(i=>cu(i).tier==="A").length,"in tier A")}</div>
+   ${DATA.overview ? md(DATA.overview) : ""}
+   <h3>Kept sources by tradition</h3>
+   <div class="bars">${Object.entries(byS).filter(([,b])=>b.k+b.u).sort((a,b)=>b[1].k-a[1].k).map(([id,b])=>`<div><span>${esc(STREAMS[id]||id)}</span><i style="width:${Math.round(100*b.k/Math.max(1,...Object.values(byS).map(x=>x.k)))}%"></i><span>${b.k}${b.u?` +${b.u}`:""}</span></div>`).join("")}</div>
+   <p class="meta">A figure like "12 +5" means 12 read and 5 gathered but not yet read.</p>
+   <h3>Mode among read sources</h3>${bars(tally(KEPT, i=>[rd(i).mode]), k=>lab("mode",k))}
+   <h3>Eyes</h3>${bars(tally(KEPT, i=>[rd(i).eyes]), k=>lab("eyes",k))}
+   <h3>Onset pathway</h3>${bars(tally(KEPT, i=>[rd(i).onset_pathway]), k=>lab("onset",k))}
+   <h3>Tiers</h3>${bars(tally(KEPT, i=>[cu(i).tier ? "Tier "+cu(i).tier : "Not yet tiered"]), k=>k)}
+   <h3>Gap report</h3>${DATA.gaps ? md(DATA.gaps) : '<div class="empty">The gap report has not been written yet.</div>'}
+   <h3>Dropped after reading or screened out</h3>${DATA.dropped ? md(DATA.dropped) : '<div class="empty">No drop list available.</div>'}
+   <h3>Gathered but not yet read (${unread.length})</h3>
+   ${Object.entries(ug).map(([s, a]) => `<details><summary class="sans" style="cursor:pointer;padding:4px 0">${esc(STREAMS[s]||s)} (${a.length})</summary><ul class="plain">${a.map(i=>`<li><a href="#card=${encodeURIComponent(i.id)}">${esc(i.title)}</a><span class="meta"> · ${esc(i.author||"")}${i.priority?" · priority "+esc(i.priority):""}</span></li>`).join("")}</ul></details>`).join("") || "<p>None.</p>"}
+  </div>`;
+}
+
+function render() {
+  renderTabs();
+  if (S.card && BYID[S.card]) renderCard(BYID[S.card]);
+  else if (S.card) $("#app").innerHTML = `<div class="empty">No source with id <code>${esc(S.card)}</code>.<br><br><button class="btn" id="back">Back</button></div>`;
+  else if (S.v === "cmp") renderCompare();
+  else if (S.v === "rep") renderReport();
+  else if (S.v === "cov") renderCoverage();
+  else renderLib();
+}
+
+/* ---------- events ---------- */
+function toast(m) { const t = document.createElement("div"); t.className = "toast"; t.textContent = m; document.body.appendChild(t); setTimeout(() => t.remove(), 1800); }
+function toggleStar(id) { stars.has(id) ? stars.delete(id) : stars.add(id); saveStars(); render(); }
+document.addEventListener("click", e => {
+  const t = e.target;
+  const st = t.closest("[data-star]"); if (st) { e.stopPropagation(); toggleStar(st.dataset.star); return; }
+  const tab = t.closest(".tab"); if (tab) { S.v = tab.dataset.v; S.card = null; push(); return; }
+  const chip = t.closest(".chip");
+  if (chip) { const k = chip.dataset.f, v = chip.dataset.v, a = S.f[k] = S.f[k] || []; const ix = a.indexOf(v); ix < 0 ? a.push(v) : a.splice(ix, 1); openFacets.add(k); push(true); return; }
+  const card = t.closest(".card"); if (card) { S.card = card.dataset.id; push(); return; }
+  const id = t.id;
+  if (id === "back") { if (history.length > 1 && hashFromUs === false && S.card) { S.card = null; push(); } else { S.card = null; push(); } }
+  else if (id === "preset") { S.f.onset = presetOn() ? [] : PRESET.slice(); push(true); }
+  else if (id === "pre") { S.pre = !S.pre; push(true); }
+  else if (id === "starf") { S.star = !S.star; push(true); }
+  else if (id === "ftoggle") { filtersOpen = !filtersOpen; render(); }
+  else if (id === "clear" || id === "clear2") { S.f = {}; S.q = ""; S.pre = false; S.star = false; push(true); }
+  else if (id === "copycite") { const txt = citationText(BYID[S.card]); (navigator.clipboard ? navigator.clipboard.writeText(txt) : Promise.reject()).then(() => toast("Citation copied"), () => { const ta = document.createElement("textarea"); ta.value = txt; document.body.appendChild(ta); ta.select(); try { document.execCommand("copy"); toast("Citation copied"); } catch (x) { toast("Copy not available"); } ta.remove(); }); }
+  else if (id === "theme") { const cur = document.documentElement.dataset.theme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"); const n = cur === "dark" ? "light" : "dark"; document.documentElement.dataset.theme = n; LS.set("il_theme", n); }
+  const td = t.closest("td.c");
+  if (td) { S.f = {}; S.f[td.dataset.k] = [td.dataset.r]; if (td.dataset.c) S.f.stream = [td.dataset.c]; S.v = "lib"; S.q = ""; S.pre = false; S.star = false; filtersOpen = true; push(); }
+});
+document.addEventListener("keydown", e => { if (e.key === "Enter" && e.target.classList && e.target.classList.contains("card")) { S.card = e.target.dataset.id; push(); } });
+document.addEventListener("input", e => { if (e.target.id === "q") { S.q = e.target.value; push(true); } });
+document.addEventListener("toggle", e => { const d = e.target; if (d.dataset && d.dataset.f) d.open ? openFacets.add(d.dataset.f) : openFacets.delete(d.dataset.f); }, true);
+window.addEventListener("hashchange", () => { if (hashFromUs) return; fromHash(); render(); });
+
+/* The search box must keep focus while typing, so push(true) must not rebuild it. */
+const _render = render;
+render = function () {
+  const q = $("#q");
+  if (q && document.activeElement === q && S.v === "lib" && !S.card) { renderTabs(); const sel = q.selectionStart; $("#panel").innerHTML = filterPanel(); listOnly(); document.querySelectorAll(".btn#preset,.btn#pre,.btn#starf").forEach(b => { b.classList.toggle("on", b.id === "preset" ? presetOn() : b.id === "pre" ? S.pre : S.star); }); return; }
+  _render();
+};
+
+(function init() {
+  const th = LS.get("il_theme"); if (th === "light" || th === "dark") document.documentElement.dataset.theme = th;
+  if (location.hash.length > 1) fromHash();
+  else { try { const v = JSON.parse(LS.get("il_view") || "null"); if (v) { S.v = v.v || "lib"; } } catch (e) {} }
+  render();
+})();
+</script>

@@ -1,0 +1,79 @@
+{
+ "id": "hin-gheranda-samhita-vasu",
+ "stream": "hindu-yoga-tantra",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 3,
+ "practicality": 3,
+ "text_read": "digest",
+ "mode": "ambiguous",
+ "mode_evidence": "Jyotir dhyana is framed as contemplation ('let him contemplate on this flame'); the digest does not say the light is perceived. Trataka verse names clairvoyance only. Nose-tip gaze with 'luminous reflection of the moon' is contemplation with imagining of nectar.",
+ "eyes": "both",
+ "onset_pathway": "unclear",
+ "onset_evidence": "Gives beginner-usable steps: trataka (gaze unblinking at small object until tears), contemplate flame at muladhara or Om-light between eyebrows, gaze on nose tip contemplating moon's luminous reflection. No time scales; says nothing to someone who sees nothing beyond 'keep contemplating'.",
+ "stimulus_independence": "unclear",
+ "techniques": [
+  "gazing_fixed_point",
+  "visualization_crossing",
+  "concentration_visual_object",
+  "eye_position"
+ ],
+ "conditions": {
+  "posture": "Padmasana for the eye/gaze exercises.",
+  "gaze_or_eye_position": "Unblinking gaze until tears; gaze on tip of nose or between eyebrows.",
+  "setting": "",
+  "duration_and_schedule": "",
+  "prerequisites": "",
+  "other": ""
+ },
+ "phenomena": [
+  "lamp_or_flame",
+  "moon_disc",
+  "all_pervading_light"
+ ],
+ "stages": [
+  {
+   "label": "three dhyanas",
+   "description": "Sthula (gross, figure of guru), Jyotir (light), Sukshma (point/bindu and kundali); light contemplation ranked above gross form."
+  }
+ ],
+ "what_to_do_with_light": "Contemplate it continually; light as Brahma; by it all sins destroyed and Siddhas seen.",
+ "obstacles_and_fixes": [],
+ "cautions": [],
+ "safety_flags": [],
+ "interpretation": "The light is the Luminous Brahma, the jivatma as lamp-flame, or the light of Om between the eyebrows.",
+ "practice_summary": "Gheranda offers three light-related methods. Trataka: gaze steadily without blinking at a small object until tears flow; the fruit is Sambhavi siddhi and clairvoyance. Jyotir dhyana (6.15-17): contemplate the jiva as a lamp-flame in the muladhara as luminous Brahma, or contemplate the light consisting of Om between the eyebrows; the yogi by this attains success and sees his Self. In pranayama (5.43-44) fix the gaze on the tip of the nose, contemplating the luminous reflection of the moon there, and imagine its nectar purifying the vessels. The text frames these as contemplation and does not describe the light as seen; nothing is said about troubleshooting.",
+ "key_passages": [
+  {
+   "locator": "Lesson 1, Trataka, source lines 8736-8780",
+   "about": "method",
+   "anchor": "Gaze steadily without winking at any small object, until tears",
+   "paraphrase": "Gaze unblinking at a small object until tears flow; Sambhavi siddhis and clairvoyance follow.",
+   "quote": "53. Gaze steadily without winking at any small object, until tears begin to flow. This is called Trataka by the wise.",
+   "source_file": "sources/hin-vasu-yoga-sastra-sbh15.txt"
+  },
+  {
+   "locator": "Lesson 6, Jyotir Dhyana, source lines 11124-11187",
+   "about": "method",
+   "anchor": "In the middle of the two eye-brows, above the Manas, there is",
+   "paraphrase": "Alternative light contemplation on the flame of Om between the eyebrows.",
+   "quote": "17. In the middle of the two eye-brows, above the Manas, there is a Light consisting of Om. Let him contemplate on this flame. This is another method. of contemplation of Light.",
+   "source_file": "sources/hin-vasu-yoga-sastra-sbh15.txt"
+  },
+  {
+   "locator": "Lesson 5, source lines 10558-10596",
+   "about": "method",
+   "anchor": "Then fixing the gaze on the tip of the nose and",
+   "paraphrase": "Gaze on tip of nose contemplating the moon's luminous reflection while retaining breath.",
+   "quote": "Then fixing the gaze on the tip of the nose and contemplating the luminous reflection of the moon there, let him inhale through the left nostril",
+   "source_file": "sources/hin-vasu-yoga-sastra-sbh15.txt"
+  }
+ ],
+ "cross_refs": [
+  "hin-hatha-yoga-pradipika-sinh"
+ ],
+ "new_leads": [],
+ "reader_confidence": "medium",
+ "confidence_note": "Digest only. Digest windows from the Siva Samhita sharing the same saved file were not used here."
+}

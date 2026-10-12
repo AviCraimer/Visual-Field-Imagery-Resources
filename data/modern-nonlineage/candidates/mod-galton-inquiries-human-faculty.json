@@ -1,0 +1,46 @@
+{
+ "id": "mod-galton-inquiries-human-faculty",
+ "stream": "modern-nonlineage",
+ "title": "Inquiries into Human Faculty and its Development (sections 'Mental Imagery' and 'Visionaries')",
+ "author": "Francis Galton",
+ "translator": null,
+ "year": "1883",
+ "edition_cited": "London: Macmillan, 1883 (first edition); archive.org humanfacultydeve00galt",
+ "tradition": "Victorian self-observation and questionnaire testimony (non-lineage)",
+ "language": "English",
+ "source_type": "practitioner_testimony",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/humanfacultydeve00galt",
+ "alt_urls": [],
+ "source_files": [
+  "sources/mod-galton-inquiries-human-faculty.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Section 'Visionaries', printed pp. 155-177: Galton's own dark-field experiment at pp. 158-159 ('When in perfect darkness, if the field of view be carefully watched')",
+  "Rev. George Henslow's visions with closed eyes, pp. 159 ff.",
+  "'Phantasmagoria', pp. 166 ff.",
+  "Section 'Mental Imagery', pp. 83 ff. (imagery projected into the field of view; development by practice)"
+ ],
+ "summary": "Galton, who calls himself a poor visualiser 'peculiarly inapt' to see after-images, phosphenes or light-dust, reports that he had believed his field of view in the dark to be uniform black. After habituating himself to examine it with the kind of strain used to decipher a signpost in the dark, he found a continual kaleidoscopic change of patterns and forms, too fugitive to draw, vanishing the instant he thought of anything else. He then gives the testimony of the Rev. George Henslow, who shuts his eyes, waits, and watches vivid, self-transforming objects, including his attempts to steer them by will, and collects correspondents' accounts of phantasmagoria and of imagery seen in the field of view.",
+ "why_relevant": "A first-person report by a self-declared non-seer of what a specific way of attending to the dark field produced, plus further testimony about closed-eye visions and how far they obey the will. Public domain, so passages can be quoted.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "darkness_exposure",
+  "attention_to_spontaneous_phenomena",
+  "concentration_visual_object"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1883",
+  "class": "published_record",
+  "basis": "title page date 1883 in the saved scan; archive.org metadata year 1883"
+ },
+ "author_identifiable": true,
+ "author_basis": "Sir Francis Galton (1822-1911)",
+ "found_via": "own lead (not in seeds); archive.org title search",
+ "notes": "The book is a scientific miscellany; only the two named sections matter. Henslow's and other correspondents' reports are quoted by Galton, so their words are seen via Galton."
+}

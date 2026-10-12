@@ -1,0 +1,4 @@
+snapshots/
+__pycache__/
+node_modules/
+# Source texts and digests that are not public domain are kept out of this public repository.

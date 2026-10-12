@@ -1,0 +1,41 @@
+{
+ "stream": "shamanic-indigenous",
+ "translator": null,
+ "alt_urls": [],
+ "seen_via": null,
+ "locator_hints": [
+  "Ch. VII Medicine-men and magic: Yibai-dthulin's account of being made a Wulla-mullung, pp. 406-408 (source lines ~25480-25620)"
+ ],
+ "priority": 1,
+ "found_via": "gap pass 2",
+ "notes": "",
+ "author_identifiable": true,
+ "author_basis": "",
+ "id": "shm-howitt-native-tribes-se-australia",
+ "title": "The Native Tribes of South-East Australia",
+ "author": "A. W. Howitt",
+ "year": "1904",
+ "edition_cited": "Macmillan, London 1904",
+ "tradition": "Aboriginal Australian (Wiradjuri, Kurnai, Yuin and others)",
+ "source_type": "ethnographic_report",
+ "url": "https://archive.org/details/nativetribessou00howigoog",
+ "source_files": [
+  "sources/shm-howitt-native-tribes-se-australia.txt"
+ ],
+ "summary": "Howitt's chapter on the making of medicine-men: quartz crystals pressed into the body, crystal water to drink, after which the boy 'saw things my mother could not see' (ghosts); journeys underground and up a thread to Baiame, from whose shoulders two great quartz crystals extend to the sky. Crystal (associated with sky and light) is central, but the seeing reported is of ghosts and spirit journeys, not of light; Kurnai say power comes in dreams. Isolated reports of a spirit-object 'in the form of a bright spark' are second-hand, not practice-linked.",
+ "why_relevant": "Seed lead on making of clever men; checked for seen light.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "devotion_or_transmission"
+ ],
+ "date_evidence": {
+  "date": "1904",
+  "class": "published_record",
+  "basis": "archive.org metadata and title page, Macmillan 1904"
+ },
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "medium": "book_or_classical_text",
+ "language": "English"
+}

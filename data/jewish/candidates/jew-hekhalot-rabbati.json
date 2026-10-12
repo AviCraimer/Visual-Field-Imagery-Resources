@@ -1,0 +1,49 @@
+{
+  "id": "jew-hekhalot-rabbati",
+  "stream": "jewish",
+  "title": "Hekhalot Rabbati (The Greater Treatise Concerning the Palaces of Heaven)",
+  "author": "Anonymous (Hekhalot literature; attributed to R. Ishmael and R. Nehunya ben ha-Kanah)",
+  "translator": "Morton Smith, corrected by Gershom Scholem; transcribed and edited by Don Karr",
+  "year": "late antique to early medieval (Sefaria: before c. 900); translation made 1940s, Karr's transcription issued 2009 (year from memory, not printed in the saved text)",
+  "edition_cited": "Sefaria 'Heikhalot Rabbati': Hebrew 'Wertheimer edition' (licence unknown); English Smith/Scholem/Karr (licence unknown; Sefaria gives archive.org/details/hekhalot-rabbati as its source)",
+  "tradition": "Hekhalot / Merkavah mysticism",
+  "language": "Hebrew with English",
+  "source_type": "classical_text",
+  "rights": "unknown",
+  "access": "fulltext_saved",
+  "url": "https://www.sefaria.org/Heikhalot_Rabbati",
+  "alt_urls": [
+    "https://archive.org/details/hekhalot-rabbati"
+  ],
+  "source_files": [
+    "sources/jew-hekhalot-rabbati.txt"
+  ],
+  "seen_via": null,
+  "locator_hints": [
+    "Chapter 16, paragraphs 3-5: the company sees 'spiderwebs of fire and torches of light'; the method: call Surya, Prince of the Presence, and adjure him exactly 112 times, counting on the fingers",
+    "Chapter 4, paragraph 3: whoever beholds the divine garment, 'the balls of his eyes emit and send forth torches of fire'",
+    "Chapter 7, paragraph 1: 'I see seven lightnings which strike as one' ... 'close thine eyes'",
+    "Chapters 17-24: the seven palaces, guards whose eyes send out lightnings, seals to show",
+    "Chapter 24, paragraph 2 and chapter 26, paragraph 1: the 512 eyes of the holy beasts; the test at the sixth palace"
+  ],
+  "summary": "The main Hekhalot text describing the 'descent to the Merkavah'. Its one explicit technique is verbal: whoever wishes to descend calls on Surya, Prince of the Presence, and adjures him by the name Totrosi'ai exactly 112 times, the mouth uttering and the fingers counting, no more and no fewer on pain of death; the rest of the journey is managed with names and seals shown to the gatekeepers. What is seen is fiery and luminous throughout: webs of fire and torches of light separating the circle from the bystanders, lightnings from the eyes of the guardians, the eyes of the holy beasts 'running like lightnings', a garment no eye can bear without the eyeballs themselves throwing torches of fire, and a fixed lightning-like appearance that sorts the worthy from the unworthy. Dangers and qualifications are stressed at each gate.",
+  "why_relevant": "The earliest Jewish practice literature with reports of seen fire and light and a stated method (counted adjuration). The seeing is narrated as visionary ascent; whether it is perceptual light in the sense of the brief is for the reading agent. Carries the tradition's danger warnings.",
+  "expected_mode": "ambiguous",
+  "expected_onset_pathway": "induction",
+  "expected_techniques": [
+    "sound_or_mantra",
+    "devotion_or_transmission",
+    "fasting_or_austerity"
+  ],
+  "priority": 2,
+  "medium": "book_or_classical_text",
+  "date_evidence": {
+    "date": "0900",
+    "class": "published_record",
+    "basis": "Sefaria index record gives composition range ending c. 900 CE; the text is the classical Hekhalot Rabbati in the Wertheimer edition. The English version record on Sefaria carries no year; the archive.org item it cites was uploaded 2023-05-18 (archive.org metadata 'publicdate'), which dates the upload, not the translation."
+  },
+  "author_identifiable": true,
+  "author_basis": "",
+  "found_via": "seed lead; Sefaria index listing",
+  "notes": "Translation rights unclear (Morton Smith died 1991; Karr circulated the transcription freely): recorded as unknown, so paraphrase plus anchor for the English; the Hebrew is ancient. Hai Gaon's responsum describing the practitioners' method (fasting, head between the knees, whispered hymns) is a separate lead: see search log."
+}

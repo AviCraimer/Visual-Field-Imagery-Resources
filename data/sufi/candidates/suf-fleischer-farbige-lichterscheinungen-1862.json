@@ -1,0 +1,45 @@
+{
+ "id": "suf-fleischer-farbige-lichterscheinungen-1862",
+ "stream": "sufi",
+ "title": "Ueber die farbigen Lichterscheinungen der Sufi's (translation of a passage from an anonymous Arabic guide to the Sufi life, Leipzig Stadtbibliothek MS 187)",
+ "author": "Anonymous Sufi author (after 'Ala' al-Dawla Simnani, d. 1336), translated and introduced by Heinrich Leberecht Fleischer",
+ "translator": "H. L. Fleischer (Arabic to German)",
+ "year": "original after 1336; German 1862, reprinted 1888",
+ "edition_cited": "Kleinere Schriften, vol. III (Leipzig: S. Hirzel, 1888), pp. 440-449; first in ZDMG 16 (1862), pp. 235-241. Excerpt saved from archive.org kleinereschrift03fleigoog OCR",
+ "tradition": "Later Sufism commenting on the Kubrawi (Simnani) colour scheme",
+ "language": "German",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/kleinereschrift03fleigoog",
+ "alt_urls": [],
+ "source_files": [
+  "sources/suf-fleischer-farbige-lichterscheinungen-1862.txt"
+ ],
+ "seen_via": "H. L. Fleischer, Kleinere Schriften III (1888)",
+ "locator_hints": [
+  "p. 441: 'Am besten ist es nun allerdings, sich gegen diese farbigen Lichter abweisend zu verhalten' and the Shibli verses",
+  "p. 442: the uncreated light is colourless; the seven colours listed (Schwarzgrau, Blau, Karneolroth, Weiss, Gelb, Glaenzendschwarz, Gruen)",
+  "pp. 446-447: older masters taught no graded sequence; attention to and expectation of the lights distracts; some see none and still reach the goal",
+  "p. 447-448: Simnani's seven colours; the shining black 'descending from the head'; beginners see the colours mixed or singly without this proving the stage is passed; the true sign",
+  "p. 448-449: warning about self-appointed guides and conceit; the lights arise from the human spirit itself"
+ ],
+ "summary": "Fleischer translates the section on coloured lights from an anonymous Arabic manual of the Sufi way. The author accepts that travellers really see coloured lights that change as they move from stage to stage, lists the seven colours attached to the seven degrees and reports Simnani's ordering (smoke-grey for the body, blue for the soul, carnelian red for the heart, white, yellow, a shining black that seems to sink down from the head, green), and then argues against the scheme: the best course is to turn away from the lights; the older masters taught no sequence; waiting for a given colour at a given time pulls the mind from God; beginners see colours mixed or singly without having passed any stage; the real sign is that the light pervades the whole person; some people see no lights at all and arrive. Fleischer's own preface is dismissive.",
+ "why_relevant": "The tradition's own dissent and troubleshooting about coloured photisms, with a statement that seeing nothing is no obstacle; a public-domain text independent of Corbin.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1888",
+  "class": "published_record",
+  "basis": "archive.org metadata year 1888 for vol. III; footnote in the text gives first publication in ZDMG 1862"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "reference in Macdonald 1909 p. 201; archive.org search for Fleischer Kleinere Schriften",
+ "notes": "Only the article is saved (OCR lines 21378-21772 of the volume), under a two-line header. OCR is noisy (ue/ü, ß read as fs or B); pick anchors from clean runs. Arabic footnote text is garbled."
+}

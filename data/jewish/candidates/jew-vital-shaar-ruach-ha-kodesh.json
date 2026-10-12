@@ -1,0 +1,51 @@
+{
+  "id": "jew-vital-shaar-ruach-ha-kodesh",
+  "stream": "jewish",
+  "title": "Sha'ar Ruach ha-Kodesh (Gate of the Holy Spirit): opening derushim and sample yichudim",
+  "author": "Hayyim Vital (teachings of Isaac Luria), arranged by Shmuel Vital",
+  "translator": null,
+  "year": "compiled early 17th century (Sefaria: 1610); printed Jerusalem 1863",
+  "edition_cited": "Sefaria 'Sha'ar Ruach HaKodesh', Hebrew version 'Jerusalem, 1863' (Public Domain); sections 1-16 and 117-118 of Sefaria's numbering saved",
+  "tradition": "Lurianic Kabbalah (Safed)",
+  "language": "Hebrew",
+  "source_type": "classical_text",
+  "rights": "public_domain",
+  "access": "partial_saved",
+  "url": "https://www.sefaria.org/Sha'ar_Ruach_HaKodesh.3",
+  "alt_urls": [
+    "https://www.sefaria.org/Sha'ar_Ruach_HaKodesh.1",
+    "https://www.sefaria.org/Sha'ar_Ruach_HaKodesh.117"
+  ],
+  "source_files": [
+    "sources/jew-vital-shaar-ruach-ha-kodesh.txt"
+  ],
+  "seen_via": null,
+  "locator_hints": [
+    "Section 1 (Derush 1): prophecy and ruach ha-kodesh; maggidim, true and false; the sign Luria gave for testing them",
+    "Section 3, paragraph 1: 'chokhmat hakkarat ha-partzuf': the 22 letters appear on the forehead, protruding, flashing and vanishing 'like the stars seen in the firmament'; needs very intense looking before they hide",
+    "Section 3, paragraph 9: lights around the letters like a crown (or makif), from the daily blessings",
+    "Section 3, paragraphs 19-20: picture (yetzayyer) the four letters of YHVH; letters that cannot be pictured show where one sinned; black writing versus the colour of red fire; picturing the Name in each limb",
+    "Sections 4-7, 15-16: conditions and conduct for attainment (silence, midnight rising, intention in blessings)",
+    "Section 117: a yichud beginning 'close your eyes ... and seclude yourself for an hour'"
+  ],
+  "summary": "Hebrew only. The saved opening derushim set out how Luria's school understood ruach ha-kodesh and what the practitioner does. Section 3 reports Luria's 'reading of the face': the letters of a person's soul show on the forehead, standing out, sparkling and disappearing again like stars, so that the looker must gaze hard and understand quickly before they hide; lights surround the letters like crowns. The same section gives a self-test: when doing a commandment, picture the four letters of YHVH in thought; the letter that will not form marks the fault; lettering that presents itself black signals a blemish above, while lettering in the colour of red fire signals repair. Later sections list conduct that prepares attainment, and the yichudim begin with closing the eyes and an hour's seclusion.",
+  "why_relevant": "Open-eye seen lights (flashing letters on a forehead) attributed to Luria, plus an instruction in which a deliberately pictured Name takes on colours the practitioner does not choose. Borderline between imaginal and perceptual; the tradition's own tests for false maggidim are included.",
+  "expected_mode": "ambiguous",
+  "expected_onset_pathway": "unclear",
+  "expected_techniques": [
+    "letter_or_symbol_contemplation",
+    "visualization_crossing",
+    "sensory_restriction"
+  ],
+  "priority": 2,
+  "medium": "book_or_classical_text",
+  "date_evidence": {
+    "date": "1863",
+    "class": "published_record",
+    "basis": "Sefaria version record: Hebrew text 'Jerusalem, 1863', with a National Library of Israel catalogue link; Sefaria index gives composition date 1610."
+  },
+  "author_identifiable": true,
+  "author_basis": "",
+  "found_via": "seed lead; Sefaria index listing; keyword scan of the Hebrew for eye-closing, picturing and colour terms",
+  "notes": "Only 18 of roughly 200+ Sefaria sections saved (the rest are individual yichudim dense with Name arithmetic). The reading agent can fetch more with the Sefaria API (`Sha'ar Ruach HaKodesh <n>`). No usable English on Sefaria. Paragraph numbers are Sefaria's."
+}

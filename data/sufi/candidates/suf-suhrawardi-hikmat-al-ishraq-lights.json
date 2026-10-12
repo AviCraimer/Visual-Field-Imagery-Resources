@@ -1,0 +1,49 @@
+{
+ "id": "suf-suhrawardi-hikmat-al-ishraq-lights",
+ "stream": "sufi",
+ "title": "Hikmat al-ishraq (The Philosophy of Illumination), Part 2, Discourse 5: 'On the states of the wayfarers' (the fifteen kinds of light) and the author's Testament",
+ "author": "Shihab al-Din Yahya al-Suhrawardi (d. 587/1191)",
+ "translator": null,
+ "year": "1186; Corbin's edition 1952; this printing undated in metadata",
+ "edition_cited": "Arabic text, excerpt from the OCR of the edition revised by In'am Haydura (Beirut: Dar al-Ma'arif al-Hikmiyya), after Corbin's text; archive.org Hekmataleshraq",
+ "tradition": "Ishraqi (Illuminationist) school",
+ "language": "Arabic",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "partial_saved",
+ "url": "https://archive.org/details/Hekmataleshraq",
+ "alt_urls": [],
+ "source_files": [
+  "sources/suf-suhrawardi-hikmat-al-ishraq-lights.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Corbin para. 272 (printed '(777)' in the OCR): 'wa-ikhwan al-tajrid yushriqu 'alayhim anwar wa-laha asnaf': the list begins with 'nur bariq yaridu 'ala ahl al-bidaya' (a flashing light that comes to beginners, glinting and folding away like a pleasant lightning-flash)",
+  "Same paragraph: a greater flash with a sound like thunder or a roar in the brain; a light like hot water poured on the head; a fixed light of long duration with numbness in the brain; a burning light; a light 'more evident than the sun' seen 'mushahadatan wa-ibsaran'; a light that seems attached to the hair of the head; light with a grip that pulls the head; light that clothes the whole body",
+  "Para. 273: these are illuminations on the governing light reflected to the body; 'the goals of the intermediate'",
+  "Para. 274-275: the 'habit of death'",
+  "Testament (wasiyyat al-musannif): before starting the book, forty days of discipline, giving up meat, eating little, devoted to contemplating God's light",
+  "Earlier in the book (not saved): the introduction's statement that the book is for those to whom 'the divine flash' (al-bariq al-ilahi) has come and become habitual"
+ ],
+ "summary": "The closing practical section of Suhrawardi's main work. He says that lights dawn on 'the brethren of detachment' and lists their kinds as experienced: a pleasant flashing light that comes to beginners and vanishes; a stronger, frightening flash that may come with a sound like thunder or a roar in the brain; a pleasant light arriving like hot water poured over the head; a long-lasting overpowering light with numbness in the brain; a very sweet light moved by love; a burning light; a brilliant light in a great flash, seen 'more clearly than the sun'; a light felt as hanging on the hair; lights with a grip on the head or in the brain; a light that clothes the whole body; lights with unbearable weight or with force that shakes the limbs. He ranks these as attainments of the intermediate. The Testament prescribes forty days of retreat without meat before the book is studied.",
+ "why_relevant": "A classical first-hand typology of lights met in practice, graded from the beginner's flash upward, with somatic accompaniments and a minimal regimen; the seed lead is confirmed and the text is on disk.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "sensory_restriction",
+  "fasting_or_austerity",
+  "attention_to_spontaneous_phenomena",
+  "concentration_nonvisual"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1952",
+  "class": "published_record",
+  "basis": "12th-century work. The saved text follows Henry Corbin's edition (Oeuvres philosophiques et mystiques II, Tehran/Paris 1952), as the editor's bracketed notes 'zada Kurban' indicate; the Beirut printing's own date is garbled in the OCR front matter and absent from archive.org metadata"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; archive.org search for the Arabic title",
+ "notes": "Excerpt only (about 320 lines). The Arabic is from a text PDF and is fairly clean; bracketed alternatives are editorial variants. English: John Walbridge and Hossein Ziai, The Philosophy of Illumination (Brigham Young University Press, 1999), Part 2, Discourse 5, sections 272-277 (in copyright, not saved). Method here is thin: the list is phenomenology more than instruction."
+}

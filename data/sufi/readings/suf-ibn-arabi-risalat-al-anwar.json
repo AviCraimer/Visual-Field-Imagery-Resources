@@ -1,0 +1,31 @@
+{
+  "id": "suf-ibn-arabi-risalat-al-anwar", "stream": "sufi",
+  "verdict": "keep",
+  "drop_reason": null, "drop_note": "",
+  "relevance": 4, "practicality": 4,
+  "text_read": "digest (whole Arabic excerpt); read in Arabic with OCR and editor's footnotes",
+  "mode": "ambiguous",
+  "mode_evidence": "Ibn 'Arabi himself separates sensory unveiling from imaginal: if you see the form of a person and close your eyes, the vision that persists is in your imagination; if it vanishes, the perception was attached to the place where you saw it. This makes the early unveilings explicitly open-eyed or perceptual-sensory, then he moves the practitioner to imaginal and then abstract-meaning stages. The later lights (sparks, ascendants, 'a light in which you see none but yourself') are not tied to eyes open or shut.",
+  "eyes": "both",
+  "onset_pathway": "both",
+  "onset_evidence": "A full entry route: study and discipline before retreat, close the door on people, repeat the Name Allah (Allah, Allah), moderate diet to avoid imaginings from dryness, hold the creed that nothing is like Him. Unveilings are then 'raised' in a fixed order if the practitioner does not stop at each one. No time scales given. Nothing is said about the person who sees nothing, but the order and test imply the first stage is sensory sight through walls and darkness.",
+  "stimulus_independence": "not_applicable",
+  "techniques": ["sound_or_mantra", "concentration_nonvisual", "sensory_restriction", "fasting_or_austerity", "attention_to_spontaneous_phenomena", "devotion_or_transmission"],
+  "conditions": {"posture": "", "gaze_or_eye_position": "Eye test for distinguishing sensory from imaginal vision: close the eyes.", "setting": "Khalwa, a closed room, door shut to people and family.", "duration_and_schedule": "Continuous dhikr; no durations.", "prerequisites": "Training of character and religious knowledge before retreat; a shaykh if possible; control of imagination.", "other": "Rich diet without animal products, avoid satiety and excessive hunger; keep temperament balanced."},
+  "phenomena": ["lightning_flashes", "sparks_or_points", "stars", "figures_or_forms", "all_pervading_light", "light_in_the_room"],
+  "stages": [{"label": "sensory unveiling", "description": "Seeing what people do in their houses, through walls and darkness; do not disclose it."}, {"label": "imaginal unveiling", "description": "Forms and offered drinks (water, milk, honey; avoid wine); test by closing eyes."}, {"label": "flashes", "description": "Flashes (lawa'ih) and frightening visions."}, {"label": "light scattering sparks", "description": "A light that throws off sparks, from which one seeks cover; keep to dhikr and do not fear."}, {"label": "lights of the ascendants", "description": "A further light of ascendants (tawali') and the wider order of worlds."}, {"label": "light of the self", "description": "A light in which you see none but yourself, bringing great ecstasy."}],
+  "what_to_do_with_light": "Do not stop with any of it; take each unveiling with courtesy, keep the dhikr, and push on. Lingering with an appearance loses the rest.",
+  "obstacles_and_fixes": ["Fear at the spark-scattering light: do not fear, remain in dhikr, and no harm will reach you.", "Forms that claim 'I am God': say 'Glory to God' and continue the dhikr.", "Hallucination from dryness: moderate diet and temperament.", "Distinguish angelic arrivals from satanic ones by the after-effect: the first leaves coolness and calm, the second distress and confusion."],
+  "cautions": ["Do not seek anything but God in the retreat; if a thing is offered, take it politely and do not stay with it.", "Do not disclose hidden things you see; if you accuse people from what you see, suspect Satan.", "Opening the door to visitors makes one a seeker of rank and cut off from God."],
+  "safety_flags": ["tradition_warns_against_seeking"],
+  "interpretation": "The lights and visions are stations of an ordered ascent that the retreatant passes through; God is like nothing, so any form is only a veil.",
+  "practice_summary": "Prepare by learning the religious obligations and training character. Then enter retreat, close the door to people and household, and repeat the Name 'Allah, Allah' constantly, adding nothing. Eat moderately, avoiding satiety and extreme hunger, because dryness breeds fancies. Hold two vows: nothing is like Him, so dismiss any form that claims divinity with 'glory to God'; and ask nothing but Him. If unveilings come, take them courteously and do not stop. When you see a person or an act, close the eyes: if the sight stays it is imagination, if it vanishes it was located perception. Later flashes and a spark-throwing light may frighten you; do not fear, keep to the dhikr.",
+  "key_passages": [
+    {"locator": "Treatise, source lines about 540-560 (eye test)", "about": "mode", "anchor": "فهو في خيالك . وإن غاب", "paraphrase": "Closing the eyes tests whether a sensory-seeming unveiling is imaginal (it persists) or located perception (it vanishes).", "quote": "", "source_file": "sources/suf-ibn-arabi-risalat-al-anwar.txt"},
+    {"locator": "Treatise, source lines about 636-638 (spark light)", "about": "development", "anchor": "رفع لك نور متطاير", "paraphrase": "If you do not stop, a light scattering sparks is raised; you seek cover; do not fear and persist in dhikr and no harm comes.", "quote": "", "source_file": "sources/suf-ibn-arabi-risalat-al-anwar.txt"},
+    {"locator": "Treatise, source lines about 636-638", "about": "caution", "anchor": "فلا تخف ودم على الذكر", "paraphrase": "Do not fear and remain in dhikr when the spark-throwing light appears.", "quote": "", "source_file": "sources/suf-ibn-arabi-risalat-al-anwar.txt"},
+    {"locator": "Treatise, source lines about 793-796 (light of the self)", "about": "stages", "anchor": "رفع لك نور لا ترى فيه غيرك", "paraphrase": "A light is raised in which you see none but yourself, bringing great ecstasy and a pleasure in God never known before.", "quote": "", "source_file": "sources/suf-ibn-arabi-risalat-al-anwar.txt"}
+  ],
+  "cross_refs": [], "new_leads": [],
+  "reader_confidence": "medium", "confidence_note": "Arabic OCR with interleaved editor's footnotes; the stage sequence is reconstructed from the digest and the search agent's hints."
+}

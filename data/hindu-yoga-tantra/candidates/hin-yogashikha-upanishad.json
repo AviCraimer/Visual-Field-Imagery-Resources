@@ -1,0 +1,40 @@
+{
+ "stream": "hindu-yoga-tantra",
+ "translator": null,
+ "language": "English",
+ "rights": "unknown",
+ "access": "citation_only",
+ "alt_urls": [],
+ "source_files": [],
+ "seen_via": null,
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "author_identifiable": true,
+ "found_via": "gap pass 2",
+ "expected_mode": "unknown",
+ "expected_onset_pathway": "unknown",
+ "id": "hin-yogashikha-upanishad",
+ "title": "Yogashikha Upanishad",
+ "author": "Anonymous (Krishna Yajurveda yoga Upanishad)",
+ "year": "medieval; no PD English translation located",
+ "edition_cited": "none obtained",
+ "tradition": "Yoga Upanishads",
+ "source_type": "classical_text",
+ "url": "",
+ "locator_hints": [
+  "Ch. 1 on the signs of yoga, nada and jyoti"
+ ],
+ "summary": "A medieval yoga Upanishad on hatha and nada practice, said to discuss inner sound and the lights of laya practice. Not contained in Narayanasvami Aiyar's Thirty Minor Upanishads (1914), the only public-domain English yoga-Upanishad collection on disk; no other free English translation was located in this pass. Recorded as a gap.",
+ "why_relevant": "Belongs with Mandalabrahmana, Advayataraka and Dhyanabindu as a classical yoga-Upanishad source on signs of practice; contents unverified.",
+ "expected_techniques": [
+  "sound_or_mantra",
+  "breath_control"
+ ],
+ "date_evidence": {
+  "date": "undated",
+  "class": "undated",
+  "basis": "No edition obtained"
+ },
+ "author_basis": "Classical text",
+ "notes": "No URL verified; no free English text located."
+}

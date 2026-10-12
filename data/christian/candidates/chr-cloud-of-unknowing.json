@@ -1,0 +1,47 @@
+{
+ "id": "chr-cloud-of-unknowing",
+ "stream": "christian",
+ "title": "A Book of Contemplation the which is called the Cloud of Unknowing, in the which a Soul is Oned with God",
+ "author": "Anonymous English author, late 14th century",
+ "translator": "Edited from British Museum MS Harl. 674 with an introduction by Evelyn Underhill",
+ "year": "late 14th century; this edition 1922 (first 1912)",
+ "edition_cited": "London: John M. Watkins, 2nd ed. 1922. archive.org scan bookofcontemplat00unde",
+ "tradition": "English medieval apophatic contemplation",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/bookofcontemplat00unde",
+ "alt_urls": [],
+ "source_files": [
+  "sources/chr-cloud-of-unknowing.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Fourth chapter, end (lines 2465-2492; printed pp. 83-84): the darkness is not one imagined before the eyes, nor is 'a clear shining light' to be imagined; 'Let be such falsehood'",
+  "Two and fiftieth chapter (lines 6647-6700; pp. 237-238): beginners who 'turn their bodily wits inwards' and strain 'as they would see inwards with their bodily eyes', until 'the devil hath power for to feign some false light or sounds'",
+  "Chapters 45-48 and 51-53 on bodily misreading of 'in' and 'up' (search 'stare')",
+  "Chapters 57-58 (line 7146: those who 'stare in the stars'; line 7183 'quaint lights and shining in their eyes')",
+  "Line 8144 area: 'bodily light'"
+ ],
+ "summary": "A manual for a young contemplative on the 'work' of lifting a naked intent to God in a 'cloud of unknowing', using a one-syllable word. Its relevance is negative and precise. The author says the darkness he means is not something pictured before the eyes, and equally that one should not imagine 'a clear shining light' in the dark. In chapter 52 he describes practitioners who misunderstand 'inward' work: they turn their bodily senses inward against nature and strain to see inwardly 'with their bodily eyes', overwork the imagination until they 'turn their brain in their heads', and then get 'false light or sounds', sweet smells, and 'quaint heats and burnings' in breast, back and bowels, while believing they are recollected. Later chapters describe people who stare upward and see lights.",
+ "why_relevant": "A fourteenth-century description of a practice (inward straining of the eyes and senses) that does produce seen light, written as a warning and with the resulting phenomena listed; and an explicit instruction not to imagine light.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "eye_position",
+  "concentration_nonvisual",
+  "sound_or_mantra"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1922",
+  "class": "published_record",
+  "basis": "archive.org metadata year 1922; '1922' on the title page of the saved text"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "own lead; archive.org title search",
+ "notes": "The induction here is reported disapprovingly: the author treats the light so produced as feigned by the devil. Chapter headings in the OCR are split across lines ('TWO AND FIFTIETH' / 'CHAPTER')."
+}

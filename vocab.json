@@ -1,0 +1,145 @@
+{
+  "source_type": [
+    "classical_text",
+    "teacher_manual",
+    "practitioner_testimony",
+    "ethnographic_report",
+    "anthology_or_compilation",
+    "secondary_conduit"
+  ],
+  "rights": [
+    "public_domain",
+    "in_copyright",
+    "unknown"
+  ],
+  "access": [
+    "fulltext_saved",
+    "partial_saved",
+    "reader_extract_saved",
+    "citation_only"
+  ],
+  "mode": [
+    "perceptual",
+    "imaginal_crossing",
+    "ambiguous"
+  ],
+  "eyes": [
+    "closed",
+    "open",
+    "both",
+    "unspecified"
+  ],
+  "onset_pathway": [
+    "induction",
+    "development_only",
+    "both",
+    "unclear"
+  ],
+  "stimulus_independence": [
+    "yes",
+    "no",
+    "unclear",
+    "not_applicable"
+  ],
+  "verdict": [
+    "keep",
+    "keep_marginal",
+    "drop"
+  ],
+  "drop_reason": [
+    "imaginal_only",
+    "metaphorical_light",
+    "no_practical_content",
+    "academic_only",
+    "stimulus_bound_only",
+    "psychedelic_only",
+    "spontaneous_no_practice_context",
+    "not_accessible",
+    "duplicate",
+    "ai_or_low_quality",
+    "off_topic"
+  ],
+  "techniques": [
+    "concentration_nonvisual",
+    "concentration_visual_object",
+    "afterimage_retention",
+    "gazing_fixed_point",
+    "sky_or_space_gazing",
+    "light_source_gazing",
+    "darkness_exposure",
+    "eye_pressure_or_sense_closure",
+    "eye_position",
+    "breath_control",
+    "sound_or_mantra",
+    "movement",
+    "posture_or_body_lock",
+    "visualization_crossing",
+    "letter_or_symbol_contemplation",
+    "sleep_threshold",
+    "sensory_restriction",
+    "fasting_or_austerity",
+    "devotion_or_transmission",
+    "scrying_surface",
+    "flicker_or_device",
+    "attention_to_spontaneous_phenomena",
+    "energy_work",
+    "other"
+  ],
+  "phenomena_suggested": [
+    "sparks_or_points",
+    "fireflies",
+    "stars",
+    "smoke_mist_cloud",
+    "mirage_shimmer",
+    "lamp_or_flame",
+    "moon_disc",
+    "sun_disc",
+    "lightning_flashes",
+    "colour_fields",
+    "white",
+    "gold_yellow",
+    "blue",
+    "red",
+    "green",
+    "violet",
+    "black_light",
+    "geometric_patterns",
+    "sphere_pearl_bindu",
+    "chains_or_strings",
+    "rainbow",
+    "figures_or_forms",
+    "all_pervading_light",
+    "light_in_the_room",
+    "body_or_objects_luminous"
+  ],
+  "safety_flags": [
+    "eye_pressure",
+    "sun_gazing",
+    "breath_retention",
+    "sleep_deprivation",
+    "prolonged_darkness",
+    "flicker_seizure_risk",
+    "fasting",
+    "transmission_required_by_tradition",
+    "tradition_warns_against_seeking"
+  ],
+  "medium": [
+    "book_or_classical_text",
+    "web_article",
+    "forum_post",
+    "other"
+  ],
+  "date_class": [
+    "published_record",
+    "platform_timestamp",
+    "self_reported",
+    "post_2022",
+    "undated"
+  ],
+  "screen_decision": [
+    "pass",
+    "pass_flagged",
+    "fail",
+    "pending"
+  ]
+}

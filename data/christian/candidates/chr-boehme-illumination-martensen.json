@@ -1,0 +1,42 @@
+{
+ "id": "chr-boehme-illumination-martensen",
+ "stream": "christian",
+ "title": "Jacob Boehme: His Life and Teaching, or Studies in Theosophy (account of Boehme's illumination of 1600)",
+ "author": "Hans L. Martensen, reporting Abraham von Franckenberg's memoir of Jakob Boehme (1575-1624)",
+ "translator": "T. Rhys Evans",
+ "year": "event 1600; Franckenberg's memoir 1651; Martensen (Danish 1881), English 1885",
+ "edition_cited": "London: Hodder and Stoughton, 1885. archive.org scan jacobboehmehisli00mart",
+ "tradition": "German Lutheran theosophy",
+ "language": "English",
+ "source_type": "secondary_conduit",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/jacobboehmehisli00mart",
+ "alt_urls": [],
+ "source_files": [
+  "sources/chr-boehme-illumination-martensen.txt"
+ ],
+ "seen_via": "Martensen 1885, biographical chapter, retelling Franckenberg; Boehme's own words are quoted only in part",
+ "locator_hints": [
+  "Biographical chapter 'Jacob Böhme' (lines 630-680 of the saved file): seven days 'inwardly surrounded by a Divine light'; 1600, 'his eye fell upon a burnished pewter dish, which reflected the sunshine with such marvellous splendour that he fell into an inward ecstasy'; he went out on the green to banish it and found he 'gazed into the very heart of things'"
+ ],
+ "summary": "A nineteenth-century study of Boehme whose opening biographical chapter retells the story told by his friend Franckenberg. As a journeyman Boehme spent seven days 'inwardly surrounded by a Divine light' while working normally. In 1600, sitting in his room, his eye fell on a burnished pewter dish reflecting sunshine so brilliantly that he fell into an inward ecstasy and seemed to see into the foundations of things; thinking it fancy he walked out onto the green, where the seeing continued and matched what he saw outdoors in herbs and grass. A third experience followed in 1610. The account is third-person, gives no method, and presents the glint as an accidental trigger; what was 'seen' afterwards is insight into nature rather than light.",
+ "why_relevant": "A much-cited case of a bright reflective surface triggering an altered state that persisted after the stimulus; it is second-hand and unsought, so it is marginal on the inclusion test.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "scrying_surface",
+  "light_source_gazing"
+ ],
+ "priority": 3,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1885",
+  "class": "published_record",
+  "basis": "archive.org metadata year 1885; translator's preface in the saved text dated Sept. 1885"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; archive.org search after rejecting Hartmann 1891 (omits the dish episode; poor OCR) and the 1764 Law edition (long-s OCR unusable)",
+ "notes": "Not first-person and not a practice: likely keep_marginal or drop (spontaneous_no_practice_context). Boehme's own description of the breakthrough is in Aurora ch. 19, which says nothing of the dish; no usable public-domain English text of it was saved."
+}

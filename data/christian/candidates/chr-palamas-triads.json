@@ -1,0 +1,39 @@
+{
+ "stream": "christian",
+ "translator": null,
+ "alt_urls": [],
+ "seen_via": null,
+ "locator_hints": [],
+ "priority": 1,
+ "found_via": "gap pass 2",
+ "notes": "",
+ "author_identifiable": true,
+ "author_basis": "",
+ "id": "chr-palamas-triads",
+ "title": "Triads in Defence of the Holy Hesychasts",
+ "author": "Gregory Palamas",
+ "year": "c. 1338-41",
+ "edition_cited": "Greek ed. J. Meyendorff 1959; English trans. N. Gendle (Classics of Western Spirituality, 1983)",
+ "tradition": "Byzantine hesychasm",
+ "language": "Greek",
+ "source_type": "classical_text",
+ "url": "https://archive.org/details/triads0000greg",
+ "date_evidence": {
+  "date": "1983",
+  "class": "published_record",
+  "basis": "archive.org record for the Paulist Press translation (lending copy only)"
+ },
+ "summary": "Palamas's defence of the hesychasts argues that the saints see the uncreated light with senses transformed by the Spirit, 'beyond sense and mind', and defends the psychophysical method (gaze on the chest/navel, breath restraint) for beginners. No public-domain Greek text or free translation was found on the allowed archives (the Triads are not in Migne PG); only in-copyright editions exist.",
+ "why_relevant": "Key theoretical statement on the perceptual status of the Taboric light and on the breath/gaze method.",
+ "expected_techniques": [
+  "breath_control",
+  "eye_position",
+  "posture_or_body_lock"
+ ],
+ "rights": "in_copyright",
+ "access": "citation_only",
+ "source_files": [],
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "development_only",
+ "medium": "book_or_classical_text"
+}

@@ -1,0 +1,45 @@
+{
+ "id": "dao-dadan-zhizhi",
+ "stream": "taoist",
+ "title": "大丹直指 (Dadan zhizhi): hundred-day verifications, 'red light gradually seen in a silent room'",
+ "author": "Attributed to Qiu Chuji 丘處機",
+ "translator": null,
+ "year": "13th century (attribution uncertain)",
+ "edition_cited": "Zhengtong Daozang DZ 244 (Kanripo KR5a0245; base edition HFL)",
+ "tradition": "Quanzhen inner alchemy in the Zhong-Lü manner",
+ "language": "Chinese (classical)",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://github.com/kanripo/KR5a0245",
+ "alt_urls": [],
+ "source_files": [
+  "sources/dao-dadan-zhizhi.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "First juan, after the three combined methods (dragon-tiger intercourse, firing times, 'flying the golden essence behind the elbow'): '一百日口内生甘津身有神光 ... 三百日 ... 靜中時聞遠樂之聲默室漸見紅光之色若見此景勿疑是爲小驗'",
+  "Section 三田旣濟: each grain returning to the Yellow Court 'gives rise to a ray of golden light'",
+  "Search the text for 金光, 眉間, 電光 for the remaining light passages (seven hits in all)"
+ ],
+ "summary": "A short illustrated Quanzhen manual that sets out a graded series of energy methods, each followed by its expected results. For the first three methods practised together it gives a timetable: after a hundred days sweet saliva, 'spirit-light on the body', firm bones and a warm belly; after two hundred days aversion to meat and unusual fragrances; after three hundred days, among other signs, distant music heard in stillness and 'red light gradually seen in a silent room', with the instruction 'if you see this scene do not doubt it; it is a small verification'. A later section speaks of a ray of golden light with each returning 'grain'; other mentions of light and of the brow were found by search but not read in context. The methods are breath, posture and attention procedures at the lower field and spine.",
+ "why_relevant": "States a time scale (three hundred days) for first seen light and tells the practitioner to accept it as a minor confirmation; a useful contrast with texts that reject such signs.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "energy_work",
+  "breath_control",
+  "posture_or_body_lock",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 3,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1445",
+  "class": "published_record",
+  "basis": "Kanripo file header gives DZID DZ0244 and SOURCE 正統道藏 (Zhengtong Daozang), 三家本 1988 reprint; the canon was printed in 1445 (year from general knowledge, not printed in the file)."
+ },
+ "author_basis": "",
+ "found_via": "own lead, Kanripo catalogue on GitHub",
+ "notes": "Kanripo titles the file 太丹直指 (sic). Unpunctuated. Anchors: see ANCHOR RULE in the source file."
+}

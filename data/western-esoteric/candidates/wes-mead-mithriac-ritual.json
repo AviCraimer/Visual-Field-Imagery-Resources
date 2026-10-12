@@ -1,0 +1,47 @@
+{
+ "id": "wes-mead-mithriac-ritual",
+ "stream": "western-esoteric",
+ "title": "A Mithriac Ritual (Echoes from the Gnosis, vol. VI): translation of the 'Mithras Liturgy', Paris Magical Papyrus (PGM IV. 475-829)",
+ "author": "Anonymous (Greek magical papyrus, 4th century CE copy); ed. and trans. G. R. S. Mead after Dieterich",
+ "translator": "G. R. S. Mead",
+ "year": "papyrus c. 4th century CE; translation 1907",
+ "edition_cited": "London and Benares: Theosophical Publishing Society, 1907 (University of Toronto scan)",
+ "tradition": "Graeco-Egyptian ritual papyri (so-called Mithras Liturgy)",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/amythicritu06meaduoft",
+ "alt_urls": [],
+ "source_files": [
+  "sources/wes-mead-mithriac-ritual.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "'The Ritual', section III '[The First Instruction]': 'Take from the [Sun-]rays breath, inhaling thrice' (c. 20% into file)",
+  "sections IV-VI: the Disk, the 'Pipe', silence formula, the Disk expanding and five-pointed stars filling the air",
+  "section VII onward: 'open thy eyes' and the doors of fire; later 'gazing steadily' instructions; lightnings from the god's eyes",
+  "Mead's comments follow the translation (from c. 40%)"
+ ],
+ "summary": "Mead's English version of the ascent rite in the great Paris magical papyrus. After an opening prayer the operator is told to draw breath from the sun's rays, inhaling three times as deeply as possible, and he will see himself lifted into mid-air; he will see the gods ascending and descending through the sun's disk and a pipe hanging from it. Hostile gods stare at him; he lays a finger on his lips and says 'Silence'. After hissing and puffing sounds the disk expands and a host of five-pointed stars comes out of it and fills the air. He is told at one point to close and then open his eyes, to see doors of fire opened, to gaze steadily and draw the divine breath into himself, and to bellow with belly-pressure 'to start thy senses going'. Youthful gods, lightning and a fiery god follow.",
+ "why_relevant": "An ancient step-by-step script combining sun-directed breathing, vocal sounds, eye closure and fixed gazing with a predicted sequence of seen lights (disk, stars, fire, lightning).",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "breath_control",
+  "sound_or_mantra",
+  "light_source_gazing",
+  "gazing_fixed_point"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1907",
+  "class": "published_record",
+  "basis": "archive.org metadata and title page of the Echoes from the Gnosis volume (catalogue gives 1906-07 for the series)"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; archive.org search for Mead, Echoes from the Gnosis",
+ "notes": "The standard modern translation (Marvin Meyer in H. D. Betz, The Greek Magical Papyri in Translation, 1986) is in copyright and was not saved. Mead translates only the liturgy proper; the papyrus's appended recipe (scarab ointment, herb juice called kentritis, seven days' purity) is discussed only in his notes if at all: reader should check. Mead's diction is Theosophical and at points interpretive. Whether the rite was performed facing the physical sun is debated."
+}

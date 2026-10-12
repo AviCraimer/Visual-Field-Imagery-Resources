@@ -1,0 +1,49 @@
+{
+ "id": "bud-pa-auk-knowing-and-seeing",
+ "stream": "theravada-east-asian",
+ "title": "Knowing and Seeing: Talks and Questions & Answers at a Meditation Retreat in Taiwan",
+ "author": "Pa-Auk Tawya Sayadaw",
+ "translator": null,
+ "year": "talks 1998; 1st ed. 1999; 4th rev. ed. 2010",
+ "edition_cited": "Fourth Revised Edition, Pa-Auk Meditation Centre, Singapore, 2010 (archive.org text of the free-distribution PDF)",
+ "tradition": "Burmese Theravada, Pa Auk lineage",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/KnowingAndSeeing",
+ "alt_urls": [
+  "https://archive.org/details/VenerablePaAukTawyaSayadaw-KnowingAndSeeing"
+ ],
+ "source_files": [
+  "sources/bud-pa-auk-knowing-and-seeing.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Talk 1, 'How You Develop Mindfulness-of-Breathing': four stages, each tried 'for about one hour' before moving on if no nimitta appears (file lines c. 2700-2900)",
+  "Talk 1, section 'THE NIMITTA' (file line 2908 ff.): light before the nimitta vs the nimitta; do not play with it; ignore a nimitta far away; when to shift from breath to nimitta; uggaha to patibhaga",
+  "Q&A 1.2-1.4 (line 4882 ff.): is a nimitta necessary; where it comes from; 'real' vs not-real nimitta",
+  "Talk 2: white kasina from the skeleton, expanding the nimitta; 'How You Develop the Light Kasina' (line 5805) and fire kasina",
+  "Introduction, 'You Develop the Light of Wisdom' (line 1486) and Q&A 4.10 (line 11872) on the light experienced in meditation",
+  "Talk on insight: obhasa among the imperfections (search 'imperfection')"
+ ],
+ "summary": "Step-by-step Pa Auk instruction for bringing up the breath nimitta. Attention is held at the touch-point; four stages (long/short, whole breath, tranquillising) are each worked for about an hour and the meditator moves on if no nimitta appears. The text distinguishes a preliminary light from the nimitta proper ('as the sun is different from sunlight'), lists the forms it takes (cotton wool, morning star, ruby, pearl and others), and gives handling rules: do not play with it or shift to it early, ignore one that appears far in front, move to it only when it is stable at the touch-point and merged with the breath; hold the white uggaha-nimitta for one to three hours until it turns bright as the patibhaga-nimitta. Later talks give the white, fire and light kasinas, expansion of the sign, and the 'light of concentration' used as a working light for discerning body parts and beings; Q&A explains what the light is.",
+ "why_relevant": "Explicit induction and development procedure for a seen closed-eye light, with troubleshooting for the meditator for whom nothing appears and for a nimitta that is unstable or misplaced.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "concentration_nonvisual",
+  "concentration_visual_object",
+  "light_source_gazing"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "2010",
+  "class": "published_record",
+  "basis": "copyright page of the saved text: 'Fourth Revised Edition, Pa-Auk Meditation Centre, Singapore 2010'; first edition 1999 listed on the same page"
+ },
+ "author_basis": "",
+ "found_via": "seed lead; archive.org title search 'knowing and seeing'",
+ "notes": "Rights: the copyright page says of the 2003, 2008 and 2010 editions 'a gift in the public domain, the material cannot be copyrighted', so recorded as public_domain. OCR text from PDF: diacritics garbled, footnotes interleaved."
+}

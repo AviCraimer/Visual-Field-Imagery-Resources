@@ -1,0 +1,47 @@
+{
+ "id": "wes-reichenbach-researches",
+ "stream": "western-esoteric",
+ "title": "Researches on Magnetism, Electricity, Heat, Light, Crystallization, and Chemical Attraction, in their Relations to the Vital Force (Parts I and II)",
+ "author": "Karl, Baron von Reichenbach",
+ "translator": "William Gregory",
+ "year": "German 1845-49; English 1850",
+ "edition_cited": "London: Taylor, Walton and Maberly, 1850, trans. and ed. William Gregory (Google scan)",
+ "tradition": "Mesmeric-era 'odic' research; source for later aura and dark-room practice",
+ "language": "English",
+ "source_type": "ethnographic_report",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/researchesonmag00greggoog",
+ "alt_urls": [
+  "https://archive.org/details/physicophysiolog1851reic"
+ ],
+ "source_files": [
+  "sources/wes-reichenbach-researches.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Part I, sections 2-20 (c. 7-11% into file): first trials with Mlle Nowotny and Mlle Reichel; flames seen at magnet poles 'in absolute darkness'",
+  "Part I conclusion, section 168 item XXXVIII (p. 214-215; c. 49%): the moderately sensitive 'must remain a long time, perhaps two hours, in absolute darkness'; no trace of other light",
+  "Part II 'Witnesses to the Light' (pp. 260 ff.; c. 57-60%): healthy sensitives (Anschuetz, Glaser and others) after 'an hour in the dark chamber'; how he selects subjects and leaves them 'one or two hours'",
+  "c. 27% and 38%: arrangements for perfect darkness; luminosity of metals, crystals, hands"
+ ],
+ "summary": "Reichenbach's experimental record of persons who, in total darkness, saw flame-like and glowing light at the poles of magnets, on crystals, metals, plants and human hands. For practice the key points are his conditions. The light is extremely feeble; highly sensitive (often ill) subjects see it quickly, but the moderately sensitive must remain 'a long time, perhaps two hours, in absolute darkness' before their eyes are prepared, and during all that time not the smallest trace of other light may reach the eye. In Part II he reports healthy people who after one or two hours in his dark chamber were astonished to perceive many luminous phenomena they had never suspected, and describes how he picks likely subjects (people who dislike crowding, certain colours or sounds; a test pass over the palm). He records colours, sizes and forms of the lights and differences between observers.",
+ "why_relevant": "The founding source for prolonged dark-adaptation as a method of seeing faint lights with open eyes, with durations, conditions and reports from named healthy observers.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "darkness_exposure",
+  "sensory_restriction"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1850",
+  "class": "published_record",
+  "basis": "archive.org metadata date 1850 and title page of Gregory's translation"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; archive.org search creator Reichenbach",
+ "notes": "Reichenbach is an experimenter reporting on his sensitives, not a practitioner; treat reports as second-hand testimony with named witnesses. The more popular 'Letters on Od and Magnetism' (O'Byrne translation 1926), which addresses the reader directly about trying the dark room, could not be downloaded (archive.org returned HTTP 500 for the only open copy, identifier odic-magnetic-letters-baron-charles-von-reichenbach). Large file, Google-scan OCR with garbling."
+}

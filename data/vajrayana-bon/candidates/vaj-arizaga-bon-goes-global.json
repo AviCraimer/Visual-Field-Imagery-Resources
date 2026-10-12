@@ -1,0 +1,49 @@
+{
+ "id": "vaj-arizaga-bon-goes-global",
+ "stream": "vajrayana-bon",
+ "title": "When Tibetan Meditation Goes Global: A Study of the Adaptation of Bon Religious Practices in the West",
+ "author": "Mara Lisa Arizaga (quoting Yongdzin Lopon Tenzin Namdak, Khenpo Tenpa Yungdrung, Tenzin Wangyal and Western retreatants)",
+ "translator": null,
+ "year": "2022",
+ "edition_cited": "De Gruyter, Berlin/Boston 2022, open access CC BY-NC-ND 4.0",
+ "tradition": "Yungdrung Bon Dzogchen (Zhang Zhung Nyengyud; Shenten Dargye Ling, France)",
+ "language": "English",
+ "source_type": "ethnographic_report",
+ "rights": "in_copyright",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/oapen-20.500.12657-59457",
+ "alt_urls": [
+  "https://library.oapen.org/handle/20.500.12657/59457"
+ ],
+ "source_files": [
+  "sources/vaj-arizaga-bon-goes-global.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Section 6.7 'Retreats', subsection 'Dark Retreat', book pp. 95-98",
+  "Chapter 9 'Becoming a Bonpo', pp. 155-156: trekchö/thögal and the 'three supports' (space, darkness, sunlight), with a block quotation from Namdak",
+  "Chapter 12.5, p. 229 and note 642: number of participants who did dark retreats",
+  "search the file for 'Dark Retreat' and 'three supports'"
+ ],
+ "summary": "Ethnography of Western Bon practitioners. Its dark-retreat pages report how the practice is framed and run at a European Bon centre: Yongdzin Tenzin Namdak's statement that darkness serves beginners (to clarify and stabilise the mind) and advanced practitioners (to develop thögal visions); the three 'supports' for vision (dark room, sky, sunlight), with his remark that more visions develop in the dark and fewer but clearer ones with sunlight; the forty-nine-day 'Seven Cycles of Clear Light' appended to the Gyalwa Chaktri, one week per session with breathing, visualisation and postures; the requirement of stable trekchö, guidance and physical and mental fitness; the advice to Westerners to begin with retreats of up to seven days; and figures on how many people did short and full retreats. Little description of what was seen.",
+ "why_relevant": "Carries lineage holders' practical framing of dark retreat (prerequisites, durations, which support yields what kind of vision) in an openly licensed text; testimony on the light itself is thin.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "darkness_exposure",
+  "sky_or_space_gazing",
+  "light_source_gazing",
+  "posture_or_body_lock"
+ ],
+ "priority": 3,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "2022",
+  "class": "published_record",
+  "basis": "'Open Access. © 2022 Mara Lisa Arizaga, published by De Gruyter' printed in the text; archive.org/OAPEN metadata date 2022"
+ },
+ "author_identifiable": true,
+ "author_basis": "Named academic author, De Gruyter monograph 2022",
+ "found_via": "archive.org full-text search: \"dark retreat\" thigle",
+ "notes": "An academic study, catalogued only for the teacher statements and retreat arrangements it reports. The quoted teacher sources are Namdak 2010 (Masters of the Zhang Zhung Nyengyud), Lowenthal/Wangyal 2003, Yungdrung 2006, Wangyal 2000: follow those for the primary statements. Mentions Tenzin Wangyal's account of his own dark retreat (Wonders of the Natural Mind, 2000 ed., pp. 24-33)."
+}

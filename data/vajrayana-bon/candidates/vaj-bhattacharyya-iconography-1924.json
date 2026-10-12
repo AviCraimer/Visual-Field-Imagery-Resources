@@ -1,0 +1,46 @@
+{
+ "id": "vaj-bhattacharyya-iconography-1924",
+ "stream": "vajrayana-bon",
+ "title": "The Indian Buddhist Iconography, mainly based on the Sadhanamala and other cognate Tantric texts of rituals",
+ "author": "Benoytosh Bhattacharyya",
+ "translator": "Benoytosh Bhattacharyya (Sanskrit sadhanas with translation)",
+ "year": "1924",
+ "edition_cited": "Oxford University Press / Humphrey Milford, 1924; archive.org indianbuddhistic00bhat",
+ "tradition": "Indian Vajrayana (Sadhanamala), Tara sadhana by Anupamaraksita",
+ "language": "Sanskrit and English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/indianbuddhistic00bhat",
+ "alt_urls": [
+  "https://archive.org/details/in.ernet.dli.2015.282751 (Sadhanamala vol. I, 1925; Devanagari OCR unusable)"
+ ],
+ "source_files": [
+  "sources/vaj-bhattacharyya-iconography-1924.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Introduction: on the Sadhana and self-identification with the deity",
+  "Appendix A: Kincit-Vistara-Tara-Sadhana (text with translation) by Anupamaraksita, end section: 'espies her with his own eyes' (pratyaksatah eva tam pasyati)"
+ ],
+ "summary": "Bhattacharyya's iconography translates the dhyanas of hundreds of Sadhanamala deities and in Appendix A gives a full Tara sadhana (Anupamaraksita) in Sanskrit with English. The sadhana has the practitioner meditate on emptiness, generate Tara from the yellow syllable TAM on a moon in the heart, contemplate her 'as long as desired', invite the wisdom being by rays, and meditate repeatedly 'until tired', with mantra recitation for whoever cannot meditate. The colophon claims that whoever meditates on the goddess dwelling in a solitary mountain cave 'sees her directly' (pratyaksata eva tam pasyati), rendered 'espies her with his own eyes', and that she herself gives him his breath.",
+ "why_relevant": "A primary Indian sadhana stating that sustained visualization culminates in perceiving the deity directly (pratyaksa), with an explicit fallback for those who cannot visualize.",
+ "expected_mode": "imaginal_crossing",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "visualization_crossing",
+  "sound_or_mantra",
+  "sensory_restriction"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1924",
+  "class": "published_record",
+  "basis": "archive.org metadata for indianbuddhistic00bhat gives 1924"
+ },
+ "author_identifiable": true,
+ "author_basis": "Published book 1924",
+ "found_via": "gap pass 2",
+ "notes": "Sadhanamala Sanskrit volumes (GOS 26, 41; 1925, 1928) are on archive.org but their OCR is garbled Devanagari; not saved."
+}

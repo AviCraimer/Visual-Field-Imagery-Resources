@@ -1,0 +1,48 @@
+{
+ "id": "vaj-evans-wentz-tibetan-yoga-1935",
+ "stream": "vajrayana-bon",
+ "title": "Tibetan Yoga and Secret Doctrines, or Seven Books of Wisdom of the Great Path",
+ "author": "ed. W. Y. Evans-Wentz (Six Yogas of Naropa material and other texts)",
+ "translator": "Lama Kazi Dawa-Samdup",
+ "year": "1935",
+ "edition_cited": "First edition, London: Oxford University Press (Humphrey Milford), 1935; DLI scan in.ernet.dli.2015.24914",
+ "tradition": "Kagyu (Six Yogas of Naropa: psychic heat, illusory body); Mahamudra",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "in_copyright",
+ "access": "partial_saved",
+ "url": "https://archive.org/details/in.ernet.dli.2015.24914",
+ "alt_urls": [],
+ "source_files": [
+  "sources/vaj-evans-wentz-tibetan-yoga-1935.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Book III ch. I, Psychic Heat, Preliminary Exercise 1 (paras 13-16, pp. 173-175): Vajra-Yogini visualization, size expansion and reduction",
+  "Book III ch. II, Illusory Body, 'The Maya of the Visualizing State' (paras 7-13, pp. 210-212): painted Vajrasattva in a mirror, figure appears animated; footnote on the 'standard test' that the visualization becomes life-like/substantial",
+  "Same chapter paras 14-19: sky gazing, Five Signs, vision of Buddha form against cloudless sky",
+  "General Introduction X, 'Psychology of the Yogic Visualizations' (pp. 44-45)",
+  "Book II Yoga of One-Pointedness paras 32-34 (p. 124-125): image/picture or visualization of Buddha in front"
+ ],
+ "summary": "Kazi Dawa-Samdup's translations of Six Yogas manuals with Evans-Wentz's notes. In the Illusory Body yoga the practitioner places a painted image of Vajrasattva so it is reflected in a mirror, gazes at the reflection with fixity of gaze and mind until the figure appears animated, then visualizes it as standing between mirror and self; if this visualization becomes substantial enough to touch, he extends it to other bodies and to all visible forms. The editor's footnote calls life-likeness 'the standard test applied to yogic visualizations'. The Psychic-Heat preliminaries visualize oneself as Vajra-Yogini, transparent and radiant, expanded to the size of the universe and reduced to a sesame seed with all parts sharply defined. Book II offers an image, a picture, or a visualized Buddha placed in front of one as concentration supports. Elsewhere the deity is declared purely mind-produced.",
+ "why_relevant": "Explicit open-eye bridge from a gazed painted image to a visualized form located in the space in front of the practitioner, with a stated criterion of success (animated, life-like, touchable).",
+ "expected_mode": "imaginal_crossing",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "visualization_crossing",
+  "scrying_surface",
+  "concentration_visual_object",
+  "sky_or_space_gazing"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1935",
+  "class": "published_record",
+  "basis": "archive.org metadata for in.ernet.dli.2015.24914 gives 1935; scan is the OUP first edition"
+ },
+ "author_identifiable": true,
+ "author_basis": "Published book, Oxford University Press 1935",
+ "found_via": "gap pass 2",
+ "notes": "Published 1935, so treated as in copyright under the run rule; only excerpts (with original OCR line numbers) are saved, no verbatim quotes recorded. Notes by Evans-Wentz mix in Theosophical and parapsychological glosses (e.g. 'materializations')."
+}

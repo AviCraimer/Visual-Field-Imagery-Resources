@@ -1,0 +1,45 @@
+{
+ "id": "chr-macarius-fifty-homilies",
+ "stream": "christian",
+ "title": "Fifty Spiritual Homilies of St. Macarius the Egyptian",
+ "author": "Pseudo-Macarius (attributed to Macarius of Egypt; late 4th century Syria or Asia Minor)",
+ "translator": "A. J. Mason",
+ "year": "late 4th century; English translation 1921",
+ "edition_cited": "London: SPCK, 1921 (Translations of Christian Literature, Series I). archive.org scan fiftyspiritualho00pseuuoft",
+ "tradition": "Early Eastern Christian monasticism (Macarian); a root text for later hesychasm",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/fiftyspiritualho00pseuuoft",
+ "alt_urls": [],
+ "source_files": [
+  "sources/chr-macarius-fifty-homilies.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Homily VIII, sections 2-6 (printed pp. 65-68; about lines 4555-4700 of the saved file): what befalls Christians at prayer",
+  "Homily I (Ezekiel's vision: the soul becoming all light, all eye)",
+  "Homily V and XV on the body sharing the light; search 'light' near 'Moses' face'",
+  "Homily VII (questions on whether one sees the soul or light by revelation)"
+ ],
+ "summary": "A fourth-century collection of monastic homilies and question-and-answer sessions. Homily VIII describes what happens to people at prayer: the 'sign of the cross' appearing in light and fastening itself on the inward man, a garment flashing with light, and 'the light shining in the heart' disclosing a deeper hidden light, after which grace withdraws and a 'foggy power' veils the still-burning lamp. The speaker says he has himself 'in part come to that measure' and denies that it makes a man perfect. Other homilies treat the soul becoming 'all light, all eye' and the light that will one day show on the body. Practice context is unceasing prayer and waiting on grace; no technique for producing the light is given, and the fluctuation is ascribed to grace's management.",
+ "why_relevant": "Early first-person report of light seen during prayer with a statement of what the person was doing and an explicit account of the light dimming and returning; it is the background that later hesychast writers cite.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "devotion_or_transmission",
+  "sound_or_mantra"
+ ],
+ "priority": 2,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1921",
+  "class": "published_record",
+  "basis": "title page of the SPCK edition and archive.org metadata (date 1921)"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "own lead (not in seed list); archive.org title search",
+ "notes": "Whether the light is seen in the visual field or is inward is not settled by the text; Homily VIII says it fastens on 'the inward man'. OCR is good. Mason's footnotes are in the text."
+}

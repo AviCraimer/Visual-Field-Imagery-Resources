@@ -1,0 +1,34 @@
+{
+  "id": "hin-hatha-yoga-pradipika-sinh", "stream": "hindu-yoga-tantra",
+  "verdict": "keep",
+  "drop_reason": null, "drop_note": "",
+  "relevance": 3, "practicality": 3,
+  "text_read": "digest",
+  "mode": "perceptual",
+  "mode_evidence": "Sinh's introduction says one sees colours 'not with his eyes' and then stars and lightning flashes; verse 4.40 speaks of seeing the light with half-closed eyes.",
+  "eyes": "both",
+  "onset_pathway": "both",
+  "onset_evidence": "Gives induction methods: trataka (2.31) and Sambhavi/Unmani/Taraka gaze on the nose tip with half-closed eyes (4.38-40). Sambhavi is learnt only by a guru's favour. Introduction describes progression from agitated colour-waves to steady ocean of light with practice, but gives no time scale and says the highest stage is the lot of 'the favoured and fortunate few only'.",
+  "stimulus_independence": "unclear",
+  "techniques": ["gazing_fixed_point", "eye_position", "sound_or_mantra", "breath_control", "devotion_or_transmission"],
+  "conditions": {"posture": "Seated; breath stilled in ida and pingala.", "gaze_or_eye_position": "Half-closed eyes fixed on tip of the nose; eyebrows raised slightly; or gaze between eyebrows.", "setting": "", "duration_and_schedule": "", "prerequisites": "Guru's favour for Sambhavi; purified nadis.", "other": "Introduction links nada practice to later colour/light seeing."},
+  "phenomena": ["colour_fields", "stars", "lightning_flashes", "all_pervading_light", "sparks_or_points"],
+  "stages": [
+    {"label": "colours of the five elements", "description": "Various colours, then glittering stars and lightning flashes, all fleeting."},
+    {"label": "ocean of light", "description": "Colour-waves at first agitated (unsteady mind) become steady and motionless as one deep ocean of light as the mind calms."}
+  ],
+  "what_to_do_with_light": "Dive into the ocean of light and forget the world; fix gaze on the light to induce Unmani.",
+  "obstacles_and_fixes": ["Agitated colour-waves reflect an unsteady mind; calm it by continued practice."],
+  "cautions": ["Trataka and the six actions to be kept secret.", "Highest stage the lot of the favoured few."],
+  "safety_flags": ["transmission_required_by_tradition"],
+  "interpretation": "Light is the great seed, the all (Tattva); Sinh's note calls the ocean of light the condition of highest bliss.",
+  "practice_summary": "Trataka: calmly gaze steadily at a small mark until the eyes fill with tears. For the light itself, the Taraka/Unmani verses direct the practitioner to fix the eyes, half closed, on the tip of the nose with mind steady and breath stilled in ida and pingala, and to fix the gaze on the light so seen, raising the eyebrows slightly while the mind rests inwardly on Brahman; Sambhavi mudra is learnt by a guru's favour. Sinh's introduction adds that during contemplation colours, stars and lightning flashes are seen, not with the physical eyes; they are first agitated and, as the mind calms, steady into one deep ocean of light.",
+  "key_passages": [
+    {"locator": "Introduction, source lines 419-457", "about": "stages", "anchor": "At first these colours are seen in greatly agitated waves", "paraphrase": "Colours first appear as agitated waves reflecting an unsteady mind, then become steady as one deep ocean of light.", "quote": "At first these colours are seen in greatly agitated waves which show the unsteady condition of the mind; and as the practice increases and the mind becomes calm, these colourwaves become steady and motionless and appear as one deep ocean of light.", "source_file": "sources/hin-hatha-yoga-pradipika-sinh.txt"},
+    {"locator": "Introduction, source lines 419-457", "about": "mode", "anchor": "During contemplation one sees, not with his eyes, as he", "paraphrase": "Colours, stars and lightning are seen not with the physical eyes and are fleeting.", "quote": "During contemplation one sees, not with his eyes, as he does the objects of the world, various colours, which the writers on Yoga call the colours of the five elements.", "source_file": "sources/hin-hatha-yoga-pradipika-sinh.txt"},
+    {"locator": "Ch. 2 verse 31, source lines 2224-2287", "about": "method", "anchor": "Being calm, one should gaze steadily at a small mark,", "paraphrase": "Trataka definition: steady gaze at small mark until tears.", "quote": "Being calm, one should gaze steadily at a small mark, till eyes are filled with tears. This is called Trataka by acharyas.", "source_file": "sources/hin-hatha-yoga-pradipika-sinh.txt"},
+    {"locator": "Ch. 4 Unmani, source lines 5874-5973", "about": "method", "anchor": "Fix the gaze on the light (seen on the tip of the nose) and", "paraphrase": "Fix the gaze on the light seen at the nose-tip and slightly raise the brows to produce Unmani.", "quote": "Fix the gaze on the light (seen on the tip of the nose) and raise the eyebrows a little, with the mind contemplating as before", "source_file": "sources/hin-hatha-yoga-pradipika-sinh.txt"}
+  ],
+  "cross_refs": ["hin-gheranda-samhita-vasu"], "new_leads": [],
+  "reader_confidence": "medium", "confidence_note": "Digest only; trataka verse itself states no light result. Colour/star passage is the translator's own 1915 introduction, not the Sanskrit text."
+}

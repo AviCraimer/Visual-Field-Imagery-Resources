@@ -1,0 +1,47 @@
+{
+ "id": "bud-dhammakaya-luang-phor-sodh-manual",
+ "stream": "theravada-east-asian",
+ "title": "Samatha-Vipassana Meditation in Accordance with the Four Foundations of Mindfulness to Reach Lord Buddha's Dhammakayas and Nibbana",
+ "author": "Phra Mongkol-Thepmuni (Luang Phor Sodh Candasaro); presented and explained by Phra Thepyanmongkol (Sermchai Jayamanggalo)",
+ "translator": null,
+ "year": "2012 (Luang Phor Sodh's talks date from before 1959)",
+ "edition_cited": "Wat Luang Phor Sodh Dhammakayaram with the National Office of Buddhism, Visakha Puja 2012 (archive.org OCR)",
+ "tradition": "Thai Theravada, Dhammakaya (vijja dhammakaya) meditation, Wat Paknam / Wat Luang Phor Sodh line",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "in_copyright",
+ "access": "partial_saved",
+ "url": "https://archive.org/details/samatha-vipassana-meditation-in-accordance-with-the-four-foundations-of-mindfuln",
+ "alt_urls": [],
+ "source_files": [
+  "sources/bud-dhammakaya-luang-phor-sodh-manual.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Ch. 1.3: posture; reciting 'Samma Arahang' while 'staring at' a transparent sphere the size of an eyeball (parikamma-nimitta); the seven bases; rolling the eyes upward at Base 3",
+  "Ch. 1.42 (Luang Phor Sodh's own talk): 'With the eyes closed, roll the eyeballs up and back'; moving the sphere from base to base",
+  "Ch. 2.11-2.12: the method described as aloka-kasina combined with breath and Buddhanussati; preliminary, learning and counterpart signs as a visualised sphere becoming a stable bright sphere",
+  "Ch. 2.21 / 3.13 'The Dhamma Sphere': what appears at the centre once the mind stops",
+  "Ch. 4.12 and 4.21: 'Method for one who has not seen the Dhamma Sphere'"
+ ],
+ "summary": "An official English presentation of Luang Phor Sodh's method. The meditator sits, mentally recites 'Samma Arahang' and holds an imagined transparent sphere 'like a polished diamond', about the size of an eyeball, moving it through seven bases from the nostril to a point two finger-breadths above the navel; at the third base, in the centre of the head, the closed eyes are rolled up and back so that 'vision' falls inward. Recitation and sphere are never to be separated and are kept up in all postures; when the image 'becomes a bright sphere' recitation stops and attention rests on the pinpoint at its centre until it becomes brilliant. The book frames this as the light kasina: a visualised preliminary sign that becomes a briefly seen learning sign and then a stable bright counterpart sign. Separate sections give the procedure for someone who has never seen the sphere.",
+ "why_relevant": "A clear case of deliberate visualisation said to cross into a seen luminous sphere, with a stepwise induction procedure, an eye-position technique, and instructions for the person who sees nothing.",
+ "expected_mode": "imaginal_crossing",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "visualization_crossing",
+  "sound_or_mantra",
+  "eye_position",
+  "concentration_visual_object"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "2012",
+  "class": "published_record",
+  "basis": "title pages in the saved text: 'The Celebration of 2600th Anniversary of Lord Buddha's Enlightenment ... Visakha Puja Day 2012, by the National Office of Buddhism ... Wat Luang Phor Sodh Dhammakayaram'"
+ },
+ "author_basis": "",
+ "found_via": "seed lead; archive.org search 'dhammakaya meditation'",
+ "notes": "Only the practice chapters were saved (about a quarter of the book); the rest is cosmology. No rights statement found in the OCR; treated as in copyright. A second English manual from the same temple, 'The Heart of Dhammakaya Meditation' (archive.org heartofdhammakayameditationsermchaijayamanggalo_202002), has unusable OCR and was not saved. This is the Wat Luang Phor Sodh presentation; Wat Phra Dhammakaya's own materials were not found in the archives."
+}

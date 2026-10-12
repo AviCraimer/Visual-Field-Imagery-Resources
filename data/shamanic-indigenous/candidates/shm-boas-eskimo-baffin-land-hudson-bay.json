@@ -1,0 +1,46 @@
+{
+ "id": "shm-boas-eskimo-baffin-land-hudson-bay",
+ "stream": "shamanic-indigenous",
+ "title": "The Eskimo of Baffin Land and Hudson Bay: from notes collected by Capt. George Comer, Capt. James S. Mutch, and Rev. E. J. Peck (Bulletin of the American Museum of Natural History, vol. XV, part I)",
+ "author": "Franz Boas (compiling field notes of George Comer, James S. Mutch and E. J. Peck from Cumberland Sound and west Hudson Bay informants)",
+ "translator": null,
+ "year": "1901",
+ "edition_cited": "Bulletin AMNH vol. XV part I, New York 1901; archive.org item bulletin-american-museum-natural-history-15-001-370 (OCR text)",
+ "tradition": "Inuit (Baffin Island, Cumberland Sound; Aivilik of west Hudson Bay) angakkuq shamanism",
+ "language": "English",
+ "source_type": "ethnographic_report",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/bulletin-american-museum-natural-history-15-001-370",
+ "alt_urls": [],
+ "source_files": [
+  "sources/shm-boas-eskimo-baffin-land-hudson-bay.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Printed p. 133 (file lines c. 5322-5340): paragraph beginning 'When a person becomes an angakok, a light covers his body'",
+  "Printed pp. 153-154 (file lines c. 6327-6355): how the power is received (laying on of hands by an old angakok; worms on the forearms); seance with lights extinguished, seeing 'through the back of his head'",
+  "Printed pp. 133-134: origin story of the first angakok who 'saw another sky'"
+ ],
+ "summary": "A short, dense statement of the angakok's light from Cumberland Sound, a generation before Rasmussen and independent of him. On becoming an angakok 'a light covers his body'; the stronger the light within him, the deeper and farther he sees. The light makes the body feel well; when its intensity increases he feels strong pressure and it is as though a film were removed from his eyes. It is always present, guides him, lets him see under the earth and inside persons (but not through drifting snow, fog or rain), and under 'a very great pressure of light' he visits Sedna. At death the light passes to another person. On onset the text says only that power is transmitted by an old angakok laying hands on the head, or by an ordeal of worms eating the forearm. Seances are held with lights extinguished.",
+ "why_relevant": "Reported practitioner description of a continuously present inner light with felt pressure and a clearing of sight, with the tradition's account of how it is acquired (transmission) and what conditions block it.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "devotion_or_transmission",
+  "darkness_exposure",
+  "other"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1901",
+  "class": "published_record",
+  "basis": "title page of the scan: 'Bulletin of the American Museum of Natural History, Vol. XV, Part I, 1901. New York'; archive.org year 1901"
+ },
+ "author_identifiable": true,
+ "author_basis": "Franz Boas, AMNH Bulletin",
+ "found_via": "archive.org full-text search for angakok + light surfaced the passage as quoted in D. Merkur, Becoming Half Hidden (1985); traced to Boas 1901 and opened there",
+ "notes": "The passage is third-person and compiled from whalers' and a missionary's notes, not a verbatim informant statement; no named angakok. Part II of the same Bulletin (1907, archive.org bulletin-american-museum-natural-history-15-371-570) was grepped and has no parallel light passage. Compare Rasmussen 1929 (shm-rasmussen-iglulik-intellectual-culture).",
+ "_log": "Boas 1901 saved; light passage p. 133"
+}

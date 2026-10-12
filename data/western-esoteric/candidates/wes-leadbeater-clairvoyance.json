@@ -1,0 +1,49 @@
+{
+ "id": "wes-leadbeater-clairvoyance",
+ "stream": "western-esoteric",
+ "title": "Clairvoyance",
+ "author": "C. W. Leadbeater",
+ "translator": null,
+ "year": "1899",
+ "edition_cited": "Project Gutenberg eBook #29399 (released 2009), from the London: Theosophical Publishing Society edition (2nd ed. 1903)",
+ "tradition": "Theosophical Society (Adyar)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://www.gutenberg.org/ebooks/29399",
+ "alt_urls": [
+  "https://archive.org/details/clairvoyance01leadgoog"
+ ],
+ "source_files": [
+  "sources/wes-leadbeater-clairvoyance.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Chapter II 'Simple Clairvoyance: Full' (c. 15-25% into file): what etheric and astral sight show, the luminous aura, seeing 'alike in darkness or in light'",
+  "Chapter V 'Clairvoyance in Space: Semi-intentional' (c. 40-42%): crystal-gazing as a focus; 'a tiny brilliant object ... merely one of self-hypnotization'",
+  "Chapter VI (c. 45%): a quoted first-person account of vivid pictures seen in the dark with eyes shut before sleep",
+  "Chapter IX 'Methods of Development' (pp. 163 ff.; c. 81-88%): condemned methods (gazing at a bright spot, formula repetition, breath regulation, mesmerism), then concentration and meditation; closing account of what first opens"
+ ],
+ "summary": "The standard Theosophical account of clairvoyant sight, important here for its position on method. Chapter IX names the common techniques, 'gazing at a bright spot or the repetition of some formula until a condition of semi-stupefaction is produced' and Indian breath regulation, and condemns them all as unsafe self-hypnotisation for the untrained; mesmerism by another is discouraged; paid 'developing circles' are dismissed. The only method he recommends is moral preparation with daily concentration in ordinary tasks followed by regular meditation at a fixed hour, under which 'new worlds' may gradually open, with the Adepts as the real teachers. Earlier chapters describe what partial etheric and astral sight show (luminous mist of the aura, colours, seeing in darkness as in light) and treat the crystal as a mere focus. Chapter VI quotes a witness who saw bright miniature scenes in total darkness with eyes shut.",
+ "why_relevant": "A major tradition's explicit warning against gazing and breath methods for inducing sight, with its alternative (concentration and meditation) and a description of first phenomena.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "concentration_nonvisual",
+  "scrying_surface",
+  "gazing_fixed_point",
+  "breath_control"
+ ],
+ "priority": 2,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1899",
+  "class": "published_record",
+  "basis": "first published 1899 (archive.org lists Google scans dated 1899 and 1903); text used is Project Gutenberg #29399"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; archive.org search (Gutenberg mirror), text from gutenberg.org",
+ "notes": "Mostly descriptive and doctrinal; practical content is concentrated in chapter IX and is largely cautionary. Leadbeater's more specific etheric-sight remarks are in other books (The Inner Life; The Chakras, 1927), not gathered here."
+}

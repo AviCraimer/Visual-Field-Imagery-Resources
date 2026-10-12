@@ -1,0 +1,51 @@
+{
+ "id": "vaj-geisshuesler-sky-gazing",
+ "stream": "vajrayana-bon",
+ "title": "Tibetan Sky-Gazing Meditation and the Pre-History of Great Perfection Buddhism: The Skullward Leap Technique and the Quest for Vitality",
+ "author": "Flavio A. Geisshuesler (translating and paraphrasing the Seventeen Tantras, Vimalamitra's commentaries and Longchenpa)",
+ "translator": null,
+ "year": "2024",
+ "edition_cited": "Bloomsbury Academic, London 2024, open access CC BY-NC-ND 4.0",
+ "tradition": "Nyingma Dzogchen (Seminal Heart / Nyingthig), with Bon comparisons",
+ "language": "English",
+ "source_type": "secondary_conduit",
+ "rights": "in_copyright",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/oapen-20.500.12657-88172",
+ "alt_urls": [
+  "https://library.oapen.org/handle/20.500.12657/88172"
+ ],
+ "source_files": [
+  "sources/vaj-geisshuesler-sky-gazing.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Part II: Chapter 4 'The Four Visions and the Meaning of Vitality' (pp. 59-70), Chapter 5 'The Preliminary Practices' (pp. 71-82), Chapter 6 'The Dzogchen Body', section 'The Six Key Points' (pp. 83-93)",
+  "search the file for 'press the eye', 'linked chains', 'seminal nuclei', 'dark retreat', 'gaze of the'",
+  "endnotes list five postures and gazes (search 'posture of the dignified lion')",
+  "Chapter 8 on the 'introductions' (crystals, eye pressing) pp. 118-126"
+ ],
+ "summary": "An academic monograph on thögal ('Skullward Leap') that argues a historical thesis, but along the way translates and closely paraphrases the primary instructions. It describes the sky-gazing set-up; the six key points of gaze, posture, breath and awareness; lists of postures (lion, elephant, ascetic, goose, crystal antelope) and gazes (upward, straight, downward, right, left); the first appearances as circular 'seminal nuclei' and 'linked chains' likened to sheep, and how the yogi is told to stabilise them; instructions to press the eyeballs with the fingers to bring on the first lights; play with crystals as an introduction; and where the classical texts treat dark retreat. It also discusses the four visions in sequence. Much of the book is argument about origins and can be skipped.",
+ "why_relevant": "Open-access conduit for primary thögal instructions on gaze, posture, eye pressure and the first lights, including what is done to induce them; the argument itself is out of scope.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "sky_or_space_gazing",
+  "eye_pressure_or_sense_closure",
+  "posture_or_body_lock",
+  "eye_position",
+  "light_source_gazing",
+  "darkness_exposure"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "2024",
+  "class": "post_2022",
+  "basis": "publisher's open-access edition, archive.org/OAPEN metadata date 2024; first published 2024 per the book's own copyright page"
+ },
+ "author_identifiable": true,
+ "author_basis": "Named academic (Flavio Geisshuesler) with pre-2023 peer-reviewed publications on Dzogchen; published by Bloomsbury Academic",
+ "found_via": "Wikipedia 'Tögal' further reading; archive.org collection:oapen-library",
+ "notes": "Academic work: use only as a conduit for the primary passages it carries, and record the primary text for each passage. Dated 2024, so it needs the provenance screen; authorship is a named scholar and an academic press. Page references to Tibetan editions are given in the book in forms like '(177.4)'."
+}

@@ -1,0 +1,152 @@
+{
+ "id": "suf-rinn-marabouts-et-khouan-1884",
+ "stream": "sufi",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 4,
+ "practicality": 3,
+ "text_read": "Repaired digest; then in full from source: Ch. XX (Khelouatya) pp. 294-299 and 302 (source lines 14630-14930, 15380-15430); Ch. XXI-XXII p. 319 white/yellow light passage (lines 16240-16285).",
+ "mode": "ambiguous",
+ "mode_evidence": "Al-Sanusi's extract distinguishes a 'vision' (seen in dream) from a 'perception' (ce qui frappe les sens) in the somnolent state between sleep and waking, and from 'apparitions' in waking; the 70,000 lights are 'perceived' with named colours. It never states eyes open/closed or locates them in the visual field, so sensory character is asserted but not described.",
+ "eyes": "unspecified",
+ "onset_pathway": "development_only",
+ "onset_evidence": "Nothing for the one who sees nothing beyond the regimen itself: apparitions 'can strike the adept only in solitude and only after long practices of piety'. Each of ten Divine Names is taken up only after the shaykh transmits the 'revelations' of the previous one. Seeing requires self-abnegation; the lights are 'entirely subject to the will of God'; most affiliates, even the most fervent, never perceive them (the Companions are cited). Sha'rani (quoted by Rinn) holds sanctity is a gift, not acquired, and that lights from fasting/sleeplessness/isolation are delusions. No time scale given.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "sound_or_mantra",
+  "movement",
+  "posture_or_body_lock",
+  "sensory_restriction",
+  "fasting_or_austerity",
+  "devotion_or_transmission"
+ ],
+ "conditions": {
+  "posture": "Seated cross-legged; in circle the head is swung obliquely right into the circle then back left outward on 'Huwa' (Lui).",
+  "gaze_or_eye_position": "",
+  "setting": "Solitude/khalwa; group circle for collective dhikr; black clothing.",
+  "duration_and_schedule": "La ilaha illa'llah 'for a certain time', mouth carried from right shoulder to under the left breast; then ten Names in fixed order, each followed by 100 Fatiha and 100 salat on the Prophet; after all ten, 100 Kawthar.",
+  "prerequisites": "Shaykh's permission to move to each next Name; purified heart; for red lights, diet stripped of the foods one most craves.",
+  "other": "Somnolent state between sleep and waking named as locus of 'perceptions'."
+ },
+ "phenomena": [
+  "white",
+  "blue",
+  "red",
+  "gold_yellow",
+  "green",
+  "colour_fields",
+  "smoke_mist_cloud",
+  "figures_or_forms",
+  "all_pervading_light"
+ ],
+ "stages": [
+  {
+   "label": "lumière des ablutions et des prières",
+   "description": "First light, from ritual purity and prayer; then the 'light of the demon' with that of honours; then truth appears as coral, palm, horses, one's own form, the shaykh's form (said to have killed many)."
+  },
+  {
+   "label": "1 humanité",
+   "description": "10,000 dull lights intermingling; jinn seen; easy to pass."
+  },
+  {
+   "label": "2 extase passionnée",
+   "description": "Heart sanctified; 10,000 light-blue lights."
+  },
+  {
+   "label": "3 extase du coeur",
+   "description": "Hell seen; 10,000 lights red as pure flame; if food not stripped of favourites they appear smoke-dulled, and one must go no further."
+  },
+  {
+   "label": "4 extase de l'âme immatérielle",
+   "description": "Strong yellow lights; souls of prophets and saints."
+  },
+  {
+   "label": "5 extase mystérieuse",
+   "description": "Brilliant white; angels."
+  },
+  {
+   "label": "6 extase d'obsession",
+   "description": "Colour of clear mirrors; rapture called al-Khadir; the Prophet seen."
+  },
+  {
+   "label": "7 béatitude",
+   "description": "Green and white, passing through gem colours to a clear tint, then a colour without likeness spread through the universe; worldly things vanish."
+  }
+ ],
+ "what_to_do_with_light": "Submit visions and perceptions to the shaykh for interpretation; waking apparitions are not to be interpreted like dreams; at smoke-dulled red lights stop; do not trust lights over the prescribed litanies.",
+ "obstacles_and_fixes": [
+  "Smoke-dulled red lights: purify diet of craved foods; else go no further.",
+  "Being dazzled: few visionaries avoid it, so shaykhs do not always follow what revelations seem to say."
+ ],
+ "cautions": [
+  "Visions of forms 'caused the death of many'.",
+  "All revelations except that of the divine attributes are a slippery slope; the devil shows a false throne between heaven and earth.",
+  "Sha'rani: exhaustion by abstinence, silence, insomnia and isolation yields phantoms, lights or darkness, hideous images; one recluse starved to death.",
+  "Supernatural lights cannot replace the wird (Shadhili extract, p. 258)."
+ ],
+ "safety_flags": [
+  "fasting",
+  "sleep_deprivation",
+  "transmission_required_by_tradition",
+  "tradition_warns_against_seeking"
+ ],
+ "interpretation": "Lights are degrees of the soul's ascent (seven 'ramparts', 70,000 lights), gifts subject to God's will, reachable by struggle and asceticism in any religion, except the unveiling of the divine attributes reserved to followers of the Prophet.",
+ "practice_summary": "Under a Khalwati shaykh, sit cross-legged and repeat la ilaha illa'llah, swinging the mouth from over the right shoulder to below the left breast. Then take up ten Names in order (Huwa, Haqq, Hayy, Qahhar, Wahhab, Razzaq, Fattah, Wahid, Ahad, Samad), each followed by a hundred Fatihas and a hundred blessings on the Prophet, moving to the next Name only when the shaykh conveys that its 'revelations' have come. Work in solitude over long periods. The first lights are those of ablution and prayer; expect deceptive lights and forms and report everything to the shaykh. A graded ladder of coloured lights follows (dull, light blue, flame red, yellow, white, mirror-clear, green-white). Diet must be stripped of craved foods for the red lights; if they appear smoky, stop. Lights are not in the practitioner's control and most never see them; the litanies take precedence over any light.",
+ "key_passages": [
+  {
+   "locator": "Ch. XX, p. 297, source lines 14830-14840",
+   "about": "onset",
+   "anchor": "Nous dirons maintenant que les apparitions ne peuvent frapper l’adepte que dans la solitude et, seulement",
+   "paraphrase": "Apparitions come only in solitude after long devotions; first the light of ablutions and prayers, then the demon's light, then forms.",
+   "quote": "",
+   "source_file": "sources/suf-rinn-marabouts-et-khouan-1884.txt"
+  },
+  {
+   "locator": "Ch. XX, p. 296, source lines 14790-14800",
+   "about": "mode",
+   "anchor": "une perception est ce qui frappe les sens pendant que l’on est dans cet état",
+   "paraphrase": "A vision is seen in dream; a perception strikes the senses in somnolence between sleep and waking; waking apparitions are not interpreted like dreams.",
+   "quote": "",
+   "source_file": "sources/suf-rinn-marabouts-et-khouan-1884.txt"
+  },
+  {
+   "locator": "Ch. XX, pp. 295-296, source lines 14715-14735",
+   "about": "method",
+   "anchor": "on s’asseoit, les jambes croisées, et on répète pendant un certain temps",
+   "paraphrase": "Posture and dhikr movement; ten Names each begun only after the shaykh transmits the revelations of the previous one.",
+   "quote": "",
+   "source_file": "sources/suf-rinn-marabouts-et-khouan-1884.txt"
+  },
+  {
+   "locator": "Ch. XX, p. 298, source lines 14880-14890",
+   "about": "stages",
+   "anchor": "il faut que les aliments dont on se nourrit soient dégagés des choses que l’on aime le plus",
+   "paraphrase": "Red lights of the third degree require a diet free of most-craved foods; otherwise smoky, and one must stop.",
+   "quote": "",
+   "source_file": "sources/suf-rinn-marabouts-et-khouan-1884.txt"
+  },
+  {
+   "locator": "Ch. XX, p. 302, source lines 15385-15420",
+   "about": "caution",
+   "anchor": "sont nombreuses, extrêmement variées et entièrement soumises à la volonté de Dieu.",
+   "paraphrase": "Luminous apparitions are subject to God's will; require self-abnegation; most affiliates never see them; seeking them has led many astray or to death.",
+   "quote": "",
+   "source_file": "sources/suf-rinn-marabouts-et-khouan-1884.txt"
+  },
+  {
+   "locator": "Ch. XX, p. 294, source lines 14650-14660 (Sha'rani quoted by Rinn)",
+   "about": "caution",
+   "anchor": "voient  alors  des  fantômes  engendrés  par  leur  exaltation  et  qui  leur  parlent",
+   "paraphrase": "Sha'rani: those exhausted by fasting, silence, insomnia and isolation see phantoms, lights or darkness and vile images; sanctity is God's gift.",
+   "quote": "",
+   "source_file": "sources/suf-rinn-marabouts-et-khouan-1884.txt"
+  }
+ ],
+ "cross_refs": [],
+ "new_leads": [
+  "Al-Sanusi's source text (al-Salsabil al-ma'in) for the Arabic of the 70,000 lights and the table on pp. 300-301 (OCR unreadable)"
+ ],
+ "reader_confidence": "high",
+ "confidence_note": "Relevant chapter read in full; the explanatory table pp. 300-301 is OCR-garbled and was not read. French via a 19th-c. translation of al-Sanusi."
+}

@@ -1,0 +1,47 @@
+{
+ "id": "bud-vimuttimagga-ehara",
+ "stream": "theravada-east-asian",
+ "title": "The Path of Freedom (Vimuttimagga)",
+ "author": "Arahant Upatissa",
+ "translator": "N. R. M. Ehara, Soma Thera and Kheminda Thera (from the 6th-century Chinese of Sanghapala)",
+ "year": "c. 1st-3rd century CE; Chinese translation 6th century; English 1961",
+ "edition_cited": "Colombo: Dr D. Roland D. Weerasuria, 1961 (archive.org OCR of the first edition)",
+ "tradition": "Theravada (probably Abhayagiri affiliation), pre-Buddhaghosa",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "in_copyright",
+ "access": "partial_saved",
+ "url": "https://archive.org/details/ArahantUpatossa-Vimuttimagga-PathOfFreedom.pdf",
+ "alt_urls": [],
+ "source_files": [
+  "sources/bud-vimuttimagga-ehara.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Ch. VIII sec. 1, earth kasina: making the mandala; taking the sign 'through even gazing, skilfulness and neutralizing disturbance' (book p. c. 76-77)",
+  "'GRASPING SIGN' and 'THE AFTER-IMAGE' (book p. 77-78): the after-image seen with closed eyes, and at will far, near, left, right",
+  "Ch. VIII sec. 2-3: fire, air, colour kasinas; 'THE LIGHT KASINA' (book p. 128): 'sees light everywhere'",
+  "Ch. VIII sec. 4, 'MINDFULNESS OF RESPIRATION' (book p. c. 158-159): the breath image 'does not depend on colour or form'; the yogin who 'sees various forms such as smoke, mist, dust, sand of gold'"
+ ],
+ "summary": "The older sister manual to the Visuddhimagga. The saved excerpt holds the kasina sections and the breath section. For the earth kasina it tells the yogin to gaze with eyes neither wide open nor shut (wide, they tire and the after-image will not arise; shut, he sees nothing 'because of darkness'), and defines two signs: the grasping sign, and the 'after-image' which can be seen with closed eyes and placed far, near, left, right, above or below at will. It runs through fire, colour, light and space kasinas with what each yogin sees and its benefits (the light kasina: 'sees light everywhere'). On breathing it differs from Buddhaghosa: the image is the touch of air and 'does not depend on colour or form'; a yogin who from the start sees smoke, mist, dust or gold sand is told these confuse him if he follows them and that he should attend to respiration only.",
+ "why_relevant": "Classical instruction on producing a closed-eye image from gazing, plus an early dissent that treats visual appearances in breath practice as distraction, not as the sign.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "concentration_visual_object",
+  "gazing_fixed_point",
+  "afterimage_retention",
+  "light_source_gazing",
+  "concentration_nonvisual"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1961",
+  "class": "published_record",
+  "basis": "title page and preface in the archive.org OCR: 'Colombo, Ceylon, October 2505/1961'; colophon 'Printed for Dr. D. Roland D. Weerasuria by Saman Publishers Ltd.'"
+ },
+ "author_basis": "",
+ "found_via": "seed lead; archive.org title search 'vimuttimagga'",
+ "notes": "Only the relevant sections were saved because rights are uncertain: the 1961 first edition is still in copyright as far as I can tell (BPS later reprinted it). The translators render patibhaga-nimitta as 'after-image'; this is their term for the counterpart sign, not the retinal afterimage, and the reading agent should not over-read it. The full OCR is at the URL (c. 1.2 MB). A newer translation by Bhikkhu Nyanatusita exists (archive.org item path-to-freedom-vol-2), not examined."
+}

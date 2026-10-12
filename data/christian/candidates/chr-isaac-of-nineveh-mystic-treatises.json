@@ -1,0 +1,45 @@
+{
+ "id": "chr-isaac-of-nineveh-mystic-treatises",
+ "stream": "christian",
+ "title": "Mystic Treatises by Isaac of Nineveh",
+ "author": "Isaac of Nineveh (Isaac the Syrian), 7th century",
+ "translator": "A. J. Wensinck (from Bedjan's Syriac text)",
+ "year": "7th century; English translation 1923",
+ "edition_cited": "Amsterdam: Koninklijke Akademie van Wetenschappen, Verhandelingen, Afd. Letterkunde, N.R. XXIII no. 1, 1923. archive.org item IsaacOfNinevehMysticTreatises",
+ "tradition": "East Syrian Christian solitaries; read throughout the Orthodox hesychast tradition",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/IsaacOfNinevehMysticTreatises",
+ "alt_urls": [],
+ "source_files": [
+  "sources/chr-isaac-of-nineveh-mystic-treatises.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Treatise XX 'On the revelations and powers which happen to the saints in images' (about lines 5640-5690; printed pp. 105-107): revelations through the bodily senses; Paul's light was 'no sensible light'",
+  "Treatise XXII 'On various experiences during prayer' (lines 5727-6095; printed pp. 108-118): 'delight during prayer is different from sight during prayer'; the mind seeing its own steadfastness 'resembling sapphire or the colour of heaven' (quoting Evagrius)",
+  "Search 'light of the mind', 'apperception', 'species' (lines 16220-16255 on affections as dense things between light and sight)"
+ ],
+ "summary": "A large body of ascetical treatises for solitaries. The relevant parts are Treatise XX, which classifies revelations (those through the bodily senses, those of the soul in images, those of the mind) and says that the light shown to Paul was 'no sensible light, but an incomprehensible apperception' given 'in the likeness of a vision of light'; and Treatise XXII on experiences during prayer, which separates delight from 'sight during prayer', and cites Evagrius on the mind seeing its own state at prayer 'resembling sapphire or the colour of heaven' over which the light of the Trinity rises. Isaac states he has experienced little of what he writes. The practice context is solitude, vigils, psalmody and stillness; nothing is offered as a technique for producing light.",
+ "why_relevant": "Carries the Evagrian report of the mind's sapphire-coloured light at prayer and an early Eastern classification of sense-borne versus imaginal versus intellectual revelation, useful for the perceptual-versus-imaginal tag. Mostly doctrine; marginal on practice.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "concentration_nonvisual",
+  "sensory_restriction",
+  "sleep_threshold"
+ ],
+ "priority": 3,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1923",
+  "class": "published_record",
+  "basis": "title page of the saved text: 'Amsterdam 1923'"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "own lead; archive.org title search",
+ "notes": "The archive.org item is a community upload marked CC-BY; the 1923 Dutch Academy publication is treated here as public domain under the BRIEF's pre-1929 rule. OCR of running heads is poor; body text is good. Likely keep_marginal or drop as doctrinal: the reading agent should judge."
+}

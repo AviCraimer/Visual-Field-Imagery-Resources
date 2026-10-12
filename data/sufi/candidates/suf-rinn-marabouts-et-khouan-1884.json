@@ -1,0 +1,51 @@
+{
+ "id": "suf-rinn-marabouts-et-khouan-1884",
+ "stream": "sufi",
+ "title": "Marabouts et Khouan: etude sur l'Islam en Algerie, ch. XX (Khelouatya): extracts from the order's books after Shaykh al-Sanusi, on dhikr, khalwa visions and the seventy thousand lights",
+ "author": "Louis Rinn, translating Muhammad b. 'Ali al-Sanusi (d. 1859) on the Khalwatiyya; also quoting 'Abd al-Wahhab al-Sha'rani (d. 1565)",
+ "translator": "Louis Rinn and the Algerian government interpreters (Arabic to French)",
+ "year": "1884",
+ "edition_cited": "Alger: Adolphe Jourdan, 1884; archive.org maraboutsetkhoua00rinn (OCR text)",
+ "tradition": "Khalwatiyya / Rahmaniyya (North Africa); also other Algerian orders",
+ "language": "French",
+ "source_type": "secondary_conduit",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/maraboutsetkhoua00rinn",
+ "alt_urls": [],
+ "source_files": [
+  "sources/suf-rinn-marabouts-et-khouan-1884.txt"
+ ],
+ "seen_via": "Louis Rinn, Marabouts et Khouan (1884)",
+ "locator_hints": [
+  "Ch. XX 'Ordre des Khelouatya', printed pp. 293-302 (OCR lines ~14443-15430)",
+  "p. 294-295: Sha'rani's warning that fasting, silence, sleeplessness and isolation produce phantoms, 'des lumieres, ou des tenebres' (lines ~14645-14700)",
+  "p. 295-296: posture and dhikr sequence of ten Names, each begun only after the 'revelations' of the previous one (lines ~14710-14760)",
+  "p. 297-299: apparitions come only in solitude after long practice; 70,000 lights in seven degrees with colours: dull and intermingled, light blue, flame red, strong yellow, brilliant white, colour of clear mirrors, green and white (lines ~14830-14915)",
+  "p. 302: lights are subject to God's will; not all affiliates perceive them; dangers (lines ~15385-15430)",
+  "Ch. XXI or XXII, p. 319: a white then a yellow light (lines ~16250-16280) - check which order",
+  "p. 244 (line ~12354): hadra held with doors closed and lights out"
+ ],
+ "summary": "A French colonial survey of Algerian Sufi orders that prints long translated extracts from the orders' own manuals. The Khalwati chapter gives, after al-Sanusi, the seated posture and the head movement of the la ilaha illa'llah dhikr, the series of Names taken up one at a time on the shaykh's word, and a description of what the adept sees: apparitions come only in solitude after long devotions; first the light of ablutions and prayers, then a demonic light, then forms; then seventy thousand lights distributed over seven degrees, each with its colour and a condition for seeing it (for the red lights, food must be stripped of what one most craves, or they appear dulled by smoke, in which case one should go no further). It also quotes Sha'rani's criticism that such visions are products of exhaustion.",
+ "why_relevant": "A public-domain rendering of an order's working description of coloured lights in khalwa, with conditions, sequence, a stop rule and an internal critique.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "sound_or_mantra",
+  "sensory_restriction",
+  "fasting_or_austerity",
+  "darkness_exposure",
+  "devotion_or_transmission"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1884",
+  "class": "published_record",
+  "basis": "archive.org metadata year 1884, publisher A. Jourdan, Alger"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "own lead; archive.org search title:(marabouts et khouan)",
+ "notes": "Whole book saved (1.3 MB); only a few chapters matter. The foldout table of lights (pp. 300-301) did not survive OCR. Translations were made by military interpreters and should be treated as loose."
+}

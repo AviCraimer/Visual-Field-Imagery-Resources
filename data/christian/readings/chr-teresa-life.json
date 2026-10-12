@@ -1,0 +1,129 @@
+{
+ "id": "chr-teresa-life",
+ "stream": "christian",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 5,
+ "practicality": 2,
+ "text_read": "English (Lewis 1904) read in full: ch. XXVII (source lines 12443-13002), ch. XXVIII (13006-13557), ch. XXIX (13561-13990); ch. XXXVIII sections 2-4 and 12-15 (18400-18460, 18600-18650) and ch. XL sections 8 and 13-14 (19900-19930, 20030-20075). Spanish (es.wikisource transcription of the 1927 Clasicos Castellanos text) of the same chapters saved as sources/chr-teresa-life-es.txt; chs. XXVII-XXIX and the light passages of XXXVIII and XL read in Spanish.",
+ "mode": "imaginal_crossing",
+ "mode_evidence": "Teresa places this seeing in neither of the two bins the library uses. It is not bodily: 'nunca la vi con los ojos corporales, ni ninguna, sino con los ojos del alma' (XXVIII.5). But she insists it is not ordinary imagining either, and she describes it in strongly visual terms. The light is 'presented to the sight' ('se representa a la vista', XXVIII.7) and gives 'delight to the sight' without tiring it. It is called 'luz natural', beside which sunlight looks 'deslustrada' (tarnished). At XXVIII.9 she says it is 'a light so strong' entering 'the interior sense' so that it seems 'really there'. Eyes open or closed make no difference (XXVIII.8). In ch. XXXVIII she says she saw two demons 'con los ojos del alma, mas claro que con los del cuerpo'. She also states exactly what deliberate imagination can do: build up the image, its whiteness included, little by little and hold it in memory (XXIX.1). This vision differs from that in four ways: it is given whole in an instant, its content was never thought of, it cannot be altered, and close inspection makes it vanish. So the label 'imaginal_crossing' is used in the broad sense of the scheme: seeing that takes place in the faculty of imagination (ojos del alma, the interior sense) but that is perceived, autonomous and brighter than outer sight, not composed by the will. It is not visualization that ripens into perception, since she says effort produces nothing. 'Perceptual' would wrongly put the light in the outer visual field, which she denies. The intellectual vision (XXVII) is a separate kind with no image and 'a light not seen'.",
+ "eyes": "both",
+ "onset_pathway": "development_only",
+ "onset_evidence": "She offers no induction and denies that any exists: 'no hay ... modo para ello, aunque mas hagamos, ni para verlo cuando queremos, ni para dejarlo de ver' (XXIX.1). 'Ni basta diligencia, ni cuidado' (XXVIII.8). 'Our own efforts can neither make nor unmake them' (XXIX.3). The context was prayer of quiet and union, years of daily mental prayer, and often the time after Communion or Mass. A two-year period of intellectual vision came before the imaginary visions, which began with partial sight: the hands first, a few days later the face, later the whole Person (XXVIII.2-4). She thinks this gradualness was suited to her weakness. Imaginary visions came 'very frequently' for two and a half years and were then withdrawn in favour of something 'higher' (XXIX.2). For the person who sees nothing she has only one thing: the presence of Christ felt without seeing (intellectual vision) is a higher grace than seeing.",
+ "stimulus_independence": "yes",
+ "techniques": [
+  "devotion_or_transmission",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "conditions": {
+  "posture": "Not specified; visions came in prayer, at Mass, at Communion, during the Office.",
+  "gaze_or_eye_position": "Irrelevant by her account: 'no hace mas estar abiertos que cerrados' (XXVIII.8); the vision arrives too fast to open the eyes for it.",
+  "setting": "Mental prayer, Mass (feast of St Paul), after Communion, choir Office (XL.8).",
+  "duration_and_schedule": "Instantaneous onset. Each sight is brief and is usually cut off by trance or ecstasy. Once she was 'more than an hour' in the state of being shown things (XXXVIII.4). The imaginary visions came frequently over 2.5 years.",
+  "prerequisites": "Years of prayer; prayer of quiet and union; the intellectual vision of presence came first; humility; full openness with a confessor.",
+  "other": "Confessors ordered her to make the 'higas' (fig sign of scorn) at the vision. The visions increased rather than stopping (XXIX.6-9)."
+ },
+ "phenomena": [
+  "white",
+  "figures_or_forms",
+  "all_pervading_light",
+  "body_or_objects_luminous",
+  "colour_fields"
+ ],
+ "stages": [
+  {
+   "label": "vision intelectual (intellectual vision)",
+   "description": "Christ felt at her right side, 'nothing seen with the eyes of the body, nothing with the eyes of the soul'. No darkness is felt. There is 'a light not seen, which illumines the understanding', a knowledge 'more clear than the sun'. It is continuous for days and more, and it is surer than sight (XXVII.3-7)."
+  },
+  {
+   "label": "vision imaginaria, partial",
+   "description": "The hands only, then a few days later the face. Their beauty and whiteness overwhelm her (XXVIII.2-3)."
+  },
+  {
+   "label": "vision imaginaria, whole Sacred Humanity",
+   "description": "The risen Christ seen with the eyes of the soul in 'blancura suave' and 'resplandor infuso'. The two kinds of vision often come together: imaginary for the beauty, intellectual for the Godhead (XXVIII.4-14)."
+  },
+  {
+   "label": "withdrawal / higher grace",
+   "description": "After 2.5 years the continual imaginary vision was taken away 'through another of a higher nature' (XXIX.2). In later visions (XL) she 'cannot say I saw anything' and yet must have seen something, because the forms are not retained after trance."
+  }
+ ],
+ "what_to_do_with_light": "Receive it; do not try to inspect, prolong or alter it. Looking at a detail makes it vanish. Tell everything to the confessor. Judge it by its effects. She obeyed orders to scorn the vision but found she could neither stop it nor want it stopped.",
+ "obstacles_and_fixes": [
+  "Doubt afterwards that it was fancy. Her answer: years of trying could not picture such beauty and whiteness, and the vision showed in an instant things never remembered or thought of (XXVIII.7, 16).",
+  "Trying to see a particular feature, such as the colour of Christ's eyes, made the whole vision vanish (XXIX.1-2).",
+  "False images from Satan show 'the appearance of flesh' but not the glory. They leave the soul troubled and unable to pray; a soul that has known the true vision rejects them at once (XXVIII.15).",
+  "Self-made imagery is like trying to sleep: you may seem to succeed but are left weary, not refreshed (XXVIII.17)."
+ ],
+ "cautions": [
+  "Imaginary visions rank below intellectual ones, and bodily visions rank lowest and are the most open to diabolical delusion (XXVIII.5, citing those who 'understand these things better').",
+  "Visions cannot be made or unmade; they teach humility and fear, because God can take away the power of seeing (XXIX.3).",
+  "Lack of an experienced director is a great trial; she was thought possessed and her confessors were warned against her (XXVIII.18-24; XXIX.4)."
+ ],
+ "safety_flags": [
+  "tradition_warns_against_seeking"
+ ],
+ "interpretation": "A free gift by which Christ, in his risen and glorified body, shows himself to the interior sense. Its light is 'natural' and 'never-night', and beside it earthly light, sunlight included, is artificial and dim. It belongs to a different order from both bodily sight and the willed imagination, though it lodges in the imagination afterwards and stays there as a lasting image.",
+ "practice_summary": "Teresa gives no method for producing the light and says none exists: diligence, care and wanting do nothing, and nothing can stop it once given. What she gives is a phenomenology and a set of tests. The genuine imaginary vision comes all at once and unexpected. Eyes open or shut make no difference. Its light is a soft whiteness and an infused brilliance that does not dazzle and does not tire the sight, and it makes sunlight look tarnished. It is living, not like a painting. It cannot be altered, prolonged or inspected; trying to look at one feature makes it disappear. Deliberate imagination, by contrast, can build up a figure and its whiteness bit by bit and hold it, but the result is 'dead', leaves the mind cold and wearied, and is easily forgotten. The practitioner's part is prayer, humility, complete candour with a confessor, and judging by the effects (peace, humility, changed life), never seeking the vision.",
+ "key_passages": [
+  {
+   "locator": "Ch. XXVIII 5, English source lines 13073-13079; Spanish chr-teresa-life-es.txt line 100",
+   "about": "mode",
+   "anchor": "Esta vision, aunque es imaginaria, nunca la vi con los ojos corporales, ni ninguna, sino con los ojos del alma.",
+   "paraphrase": "Her basic statement of channel: the vision is imaginary (visión imaginaria) and was seen only with the eyes of the soul (ojos del alma), never with the bodily eyes (ojos corporales). She adds that this held for all her visions. She once wished she could see with the bodily eyes so that her confessor would not call it fancy.",
+   "quote": "This vision, though imaginary, I never saw with my bodily eyes, nor, indeed, any other, but only with the eyes of the soul.",
+   "source_file": "sources/chr-teresa-life-es.txt"
+  },
+  {
+   "locator": "Ch. XXVIII 7, English source lines 13132-13158",
+   "about": "testimony",
+   "anchor": "the  whiteness  and  brilliancy  alone  are\ninconceivable.     It  is  not  a  brilliancy  which  dazzles,",
+   "paraphrase": "Quality of the light. The whiteness and brilliance (blancura y resplandor) could not be pictured by years of effort. It is not a dazzling brilliance but a soft whiteness (blancura suave) and an infused brilliance (resplandor infuso). It gives the sight great delight and does not tire it. Next to it the sun's light looks tarnished (deslustrada), so that one would not want to open one's eyes afterwards.",
+   "quote": "For if I were to spend many years in devising how to picture to myself anything so beautiful, I should never be able, nor even know how, to do it; for it is beyond the reach of any possible imagination here below: the whiteness and brilliancy alone are inconceivable. It is not a brilliancy which dazzles, but a delicate whiteness and a brilliancy infused, furnishing the most excessive delight to the eyes, never wearied thereby, nor by the visible brightness which enables us to see a beauty so divine. It is a light so different from any light here below, that the very brightness of the sun we see, in comparison with the brightness and light before our eyes, seems to be something so obscure, that no one would ever wish to open his eyes again.",
+   "source_file": "sources/chr-teresa-life.txt"
+  },
+  {
+   "locator": "Ch. XXVIII 8, Spanish chr-teresa-life-es.txt lines 106-108; English source lines 13160-13179",
+   "about": "onset",
+   "anchor": "mas no hace mas estar abiertos que cerrados, cuando el Señor quiere, que aunque no queramos se ve.",
+   "paraphrase": "The light is 'luz natural', next to which all other light is artificial; it 'has no night'. God sets it before the soul so suddenly that there would be no time to open the eyes even if that were needed. Open or closed eyes make no difference. When the Lord wills it is seen even against one's will. No distraction shuts it out, no power resists it, and no diligence or care (diligencia, cuidado) obtains it.",
+   "quote": "God puts it before us so instantaneously, that we could not open our eyes in time to see it, if it were necessary for us to open them at all. But whether our eyes be open or shut, it makes no difference whatever; for when our Lord wills, we must see it, whether we will or not. No distraction can shut it out, no power can resist it, nor can we attain to it by any diligence or efforts of our own.",
+   "source_file": "sources/chr-teresa-life-es.txt"
+  },
+  {
+   "locator": "Ch. XXIX 1-2, English source lines 13567-13612; Spanish line 164",
+   "about": "method",
+   "anchor": "en quiriendo mirar alguna cosa particular, luego se pierde Cristo.",
+   "paraphrase": "Her sharpest contrast with imagination. By effort one can represent Christ's figure and its whiteness (la blancura) before the imagination, look at it for a while, improve it little by little and fix it in memory. That image the understanding can fabricate (fabricar). The vision cannot be brought about, added to or taken from, seen at will or refused. Wanting to look at any particular detail makes Christ vanish at once. Wanting to see the colour or size of his eyes, she never could, and the whole vision was lost.",
+   "quote": "Certainly, the imagination may be able to picture it, and a person may for a time contemplate that picture, — the form and the brightness of it, — and gradually make it more perfect, and so lay up that image in his memory. Who can hinder this, seeing that it could be fashioned by the understanding? But as to the vision of which I am speaking, there are no means of bringing it about; only we must behold it when our Lord is pleased to present it before us, as He wills and what He wills; and there is no possibility of taking anything away from it, or of adding anything to it; nor is there any way of effecting it, whatever we may do, nor of seeing it when we like, nor of abstaining from seeing; if we try to gaze upon it — part of the vision in particular — the vision of Christ is lost at once.",
+   "source_file": "sources/chr-teresa-life-es.txt"
+  },
+  {
+   "locator": "Ch. XXVII 3-5, English source lines 12490-12568",
+   "about": "stages",
+   "anchor": "I  do  not  mean  that  we  now  see  either\na  sun  or  any  brightness,  only  that  there  is  a  light  not\nseen,",
+   "paraphrase": "The intellectual vision, the higher kind, by contrast. She saw nothing with the eyes of the body or of the soul (ni con los ojos del cuerpo, ni del alma), yet she was more certain of Christ's presence than if she saw him. No darkness is felt. Presence is given by a knowledge 'clearer than the sun'. This is not a seen sun or brightness but 'a light not seen' that illumines the understanding.",
+   "quote": "The darkness is not felt; only He renders Himself present to the soul by a certain knowledge of Himself which is more clear than the sun. I do not mean that we now see either a sun or any brightness, only that there is a light not seen, which illumines the understanding so that the soul may have the fruition of so great a good.",
+   "source_file": "sources/chr-teresa-life.txt"
+  },
+  {
+   "locator": "Ch. XXVIII 16 and 9, English source lines 13353-13367 and 13181-13186",
+   "about": "interpretation",
+   "anchor": "How  is  it  that  we\nsee  present  before  us,  in  a  moment,  what  we  do  not\nremember,  what  we  have  never  thought  of,",
+   "paraphrase": "Her test against imagination: the vision shows in an instant what was never remembered or thought of, and what imagination could not put together in a long time, so it cannot be imagination's work. In §9 she declines to explain 'how a light so strong can enter the interior sense' (sentido interior), or so distinct an image the understanding, 'so as to seem to be really there'. In §17 she adds that self-made vision is like forcing sleep: it leaves the soul weary, while the true one leaves even the body healthier.",
+   "quote": "How is it that we see present before us, in a moment, what we do not remember, what we have never thought of, and, moreover, what, in a long space of time, the imagination could not compass, because, as I have just said, it far transcends anything we can comprehend in this life? This, then, is not possible.",
+   "source_file": "sources/chr-teresa-life.txt"
+  }
+ ],
+ "cross_refs": [
+  "chr-teresa-interior-castle"
+ ],
+ "new_leads": [
+  "Teresa, Relations (Cuentas de conciencia), esp. Rel. vii (to Rodrigo Alvarez) on kinds of vision",
+  "John of the Cross, Ascent of Mount Carmel II.16-22 on imaginary visions (cited in Zimmerman's notes)"
+ ],
+ "reader_confidence": "high",
+ "confidence_note": "Relevant chapters read in full in English and checked against the Spanish. Lewis's 'imaginary' translates 'imaginaria' (of the imagination, not unreal). Where his English is loose, the Spanish was preferred: 'deslustrada' (tarnished) for 'obscure'; 'se representa a la vista' (presented to the sight) for 'before our eyes'. The ch. XXIX angel 'in bodily form' is 'en forma corporal' in Spanish: she means a bodily shape seen in an imaginary vision, not with the bodily eyes."
+}

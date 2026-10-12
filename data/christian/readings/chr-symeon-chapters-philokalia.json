@@ -1,0 +1,74 @@
+{
+ "stream": "christian",
+ "drop_reason": null,
+ "drop_note": "",
+ "cross_refs": [],
+ "new_leads": [
+  "Symeon, 'Three Methods of Prayer' (Μέθοδος τῆς ἱερᾶς προσευχῆς καὶ προσοχῆς): present in printed Philokalia vol. 2 after Symeon's chapters but not located in this OCR"
+ ],
+ "safety_flags": [],
+ "stages": [
+  {
+   "label": "πόνος / δάκρυα",
+   "description": "heart-pain from fear of judgement turns into joy and a spring of tears"
+  },
+  {
+   "label": "φῶς",
+   "description": "for the perfected the spring suddenly becomes light; the person falls prostrate, burns, and finally 'becomes light'"
+  }
+ ],
+ "obstacles_and_fixes": [],
+ "cautions": [
+  "Before mourning and tears let no one deceive us with empty words, nor deceive ourselves."
+ ],
+ "phenomena": [
+  "all_pervading_light",
+  "lamp_or_flame"
+ ],
+ "conditions": {
+  "posture": "",
+  "gaze_or_eye_position": "",
+  "setting": "",
+  "duration_and_schedule": "",
+  "prerequisites": "",
+  "other": ""
+ },
+ "id": "chr-symeon-chapters-philokalia",
+ "verdict": "keep_marginal",
+ "relevance": 4,
+ "practicality": 2,
+ "text_read": "Greek 1893 text, Symeon section source lines ~1-1600 searched for φῶς; chapters ~640-810 read in full. The 'Three Methods' (Μέθοδος τῆς ἱερᾶς προσευχῆς) was not found by search in this OCR.",
+ "mode": "ambiguous",
+ "mode_evidence": "Light is 'seen' (ὁρᾶν) and overwhelms (he cannot bear to see it, falls prostrate), which suggests perceptual experience, but there is no statement of visual field or eyes.",
+ "eyes": "unspecified",
+ "onset_pathway": "development_only",
+ "onset_evidence": "The path to light is moral and affective: fear of judgement, accepted heart-pain, obedience to a spiritual father, abstinence; then tears flow ceaselessly; only 'for those being perfected' does the spring become light, 'suddenly'. No technique for the one who sees nothing, and repeated insistence that before mourning and tears no one should deceive himself.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "devotion_or_transmission",
+  "fasting_or_austerity"
+ ],
+ "what_to_do_with_light": "Not addressed as instruction; the light intensifies through continued tears.",
+ "interpretation": "The light of the Holy Spirit within, uniting the person to God.",
+ "practice_summary": "Symeon gives no light technique. Accept and even tighten the 'bond' of fear and heart-pain under a spiritual father, eat and dress only for need, renounce self-will. This pain becomes joy and a constant spring of tears; in the advanced, the heart is suddenly changed and the spring becomes light, so overwhelming that one falls to the ground. Do not claim any of this before real mourning and tears.",
+ "key_passages": [
+  {
+   "locator": "Chapters, source lines ~767-772",
+   "about": "stages",
+   "anchor": "φῶς ἡἣ πηγὴ αὕτη τῆς χαρδίας αἴφνης ἀλλοιουμένης καὶ μεταθαλλομένης γίνεται",
+   "paraphrase": "For those being perfected this spring (of tears) becomes light, the heart being suddenly changed and transformed.",
+   "quote": "",
+   "source_file": "sources/chr-symeon-chapters-philokalia.txt"
+  },
+  {
+   "locator": "Chapters, source lines ~770-780",
+   "about": "testimony",
+   "anchor": "εἰς γῆν πρηνὴς πίπτει χράζει τε хай βοᾷ ἐν ἐχπλήξει",
+   "paraphrase": "Having within the light of the Spirit and unable to bear seeing it, he falls face down, cries out in amazement and great fear, as having seen and suffered something beyond nature, and is like a man whose entrails are set on fire.",
+   "quote": "",
+   "source_file": "sources/chr-symeon-chapters-philokalia.txt"
+  }
+ ],
+ "reader_confidence": "medium",
+ "confidence_note": "Only the light-dense chapters were read; first-person Discourses (Catecheses) not in this file."
+}

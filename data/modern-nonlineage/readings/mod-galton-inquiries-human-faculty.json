@@ -1,0 +1,143 @@
+{
+  "id": "mod-galton-inquiries-human-faculty",
+  "stream": "modern-nonlineage",
+  "verdict": "keep",
+  "drop_reason": null,
+  "drop_note": "",
+  "relevance": 4,
+  "practicality": 3,
+  "text_read": "Read in full from the saved OCR text: the chapter 'Mental Imagery' (printed pp. 83-114, source lines 3597-4816) and the chapter 'Visionaries' (printed pp. 155-177, source lines 6378-7260). Also read the opening of 'Number-Forms', the 'Antechamber of Consciousness' passage that refers back to phantasmagoria (lines 8553-8582), and questions 1-7 of the Appendix F questionnaire (lines 16300-16350). Grepped the whole book for darkness, phosphene, after-image, sparks, closed eyes, projection and hallucination; no further on-topic passage found. The rest of the book (heredity, statistics, twins, eugenics) was not read.",
+  "mode": "perceptual",
+  "mode_evidence": "Galton places his own phenomena in 'the field of view in the dark' and 'the optical field', and classes them with after-images, phosphenes and light-dust rather than with his (weak) voluntary visualising. He states as a finding that 'visions' and vivid visualisation are different processes that can coexist in one person, and prints a correspondent's criteria: the mental image is voluntary, forms and fades slowly, seems far off 'in some far-off recess of the mind', and is only stage-lit; the waking vision is involuntary, instantaneous, close, 'filling as it were the whole head', and as distinct as a street in broad daylight. Henslow's closed-eye objects are 'highly brilliant', refuse his will, and end in a 'bright point of light' that shines 'like a star'. Mrs. Haweis as a child tried to touch her roses. Note that most of what is seen is forms, patterns and objects; plain light (a star-like point, gold sparks, a light-purple cloudiness) is a minor part of the reports.",
+  "eyes": "closed",
+  "onset_pathway": "both",
+  "onset_evidence": "This is the book's most useful content. Galton presents himself as the hard case: he visualises only with effort, is 'peculiarly inapt' to see after-images, phosphenes or light-dust, and would have 'emphatically declared' his dark field uniform black apart from an occasional light-purple cloudiness. What changed this was (1) perfect darkness, (2) carefully watching the field of view, (3) habituating himself to do so, and (4) a particular quality of looking: 'the same sort of strain that one tries to decipher a sign-post in the dark'. He then found a continual kaleidoscopic change of patterns and forms. He says many persons will find the same, and that the phenomena are 'certainly present and yet habitually overlooked'. No time scale is given beyond 'habituating'. For Henslow, a natural seer, the instruction is only to shut the eyes and wait: something comes 'within a minute or two' without thinking of any object. Limits stated by Galton: the visionary tendency is a natural, strongly hereditary gift, unequal between people; but it is blunted by repression in childhood and by abstract, verbal habits of thought, and faint fantasies 'increase in definition through being habitually dwelt upon'. Nothing about grace or transmission. He names fasting, want of sleep and solitary musing as each conducive to visions, as observation, not as recommendation.",
+  "stimulus_independence": "not_applicable",
+  "techniques": [
+    "darkness_exposure",
+    "attention_to_spontaneous_phenomena",
+    "sleep_threshold",
+    "visualization_crossing"
+  ],
+  "conditions": {
+    "posture": "Not specified by Galton. Goethe (as reported by Galton) bent his head and closed his eyes. Phantasmagoria usually come in bed before sleep.",
+    "gaze_or_eye_position": "Galton: watch the dark field itself with a deciphering strain, as when making out a sign-post in the dark; he does not say whether his eyes were open or shut. Henslow: eyes shut. Henslow looks to the right or left within the vision to find adjoining parts of an object.",
+    "setting": "Galton: 'perfect darkness'. Mrs. Haweis: 'whenever it was dark or darkish, in bed or otherwise'. Phantasmagoria: sometimes at the instant of putting out the candle, more often in bed, 'preparing to sleep, but by no means yet asleep'; occasionally in broad daylight.",
+    "duration_and_schedule": "Galton: repeated until habitual; no figures. Henslow: onset within a minute or two, then continues as long as he cares to watch; he repeated the experiments many times and drew the results.",
+    "prerequisites": "None stated for Galton's method. Natural endowment varies and runs in families; abstract verbal thinking and 'book-learning' dull the faculty.",
+    "other": "The mind must not move to another subject: Galton's patterns vanish from sight and memory the instant he thinks about anything."
+  },
+  "phenomena": [
+    "geometric_patterns",
+    "figures_or_forms",
+    "smoke_mist_cloud",
+    "violet",
+    "sparks_or_points",
+    "gold_yellow",
+    "stars",
+    "colour_fields",
+    "kaleidoscopic_change",
+    "faces"
+  ],
+  "stages": [
+    {
+      "label": "uniform black (Galton's prior belief)",
+      "description": "Before careful trial the dark field seems a uniform black with an occasional light-purple cloudiness and small variations."
+    },
+    {
+      "label": "kaleidoscopic change of patterns and forms",
+      "description": "After habituated, strained watching: a perpetual automatic series of changes, fugitive and elaborate, too quick to draw, gone the instant thought intervenes. Galton stays at this level."
+    },
+    {
+      "label": "clear image of some object (Henslow)",
+      "description": "Within a minute or two of shutting the eyes a clear object appears, usually with one part exaggerated; it oscillates, rotates and transforms by suggestion into further objects, often brilliant (cut glass, gold and silver filigree, coloured carpets)."
+    },
+    {
+      "label": "'visual cycle' (Henslow)",
+      "description": "By continued effort of will the series is brought back to its starting image; the first 'concession' to the will is partial and indirect."
+    },
+    {
+      "label": "hazy obscurity",
+      "description": "Henslow's objects all finally vanish into 'the usual hazy obscurity'; in one case via a bright point that shines intensely like a star and then dims."
+    }
+  ],
+  "what_to_do_with_light": "Watch and examine without thinking of anything else. Galton offers no further use. Henslow examines parts 'cautiously', tries to steer by will (largely refused while the series is 'in full career', sometimes yielding after sustained effort), and draws what he saw afterwards. Galton's general remark is that such fantasies gain definition by being habitually dwelt upon.",
+  "obstacles_and_fixes": [
+    "Thinking about anything else abolishes the patterns at once (Galton). Implied fix: keep attention on the field alone.",
+    "Habitual overlooking: the phenomena are present but unnoticed; the fix is deliberate, strained scrutiny repeated until habitual.",
+    "Scrutiny destabilises the image: when Henslow scrutinised the gun-stock it oscillated and crumpled; when he concentrated on one rotating flower it became a 'rotating haze'. He gives up the part and moves 'cautiously' to another.",
+    "Willed objects will not come cleanly: a 'watch' arrives as a hybrid and lapses into a warming-pan. Continued effort sometimes obtains a partial concession and then the wanted form.",
+    "Mental images generally do not grow stronger by dwelling on them; the first impression is usually the most vigorous (Mental Imagery chapter).",
+    "The faculty fades with age and disuse in some: Mrs. Haweis's roses shrank yearly from large and palpable to an instantaneous speck."
+  ],
+  "cautions": [
+    "Galton treats visions as products of one part of the brain watched by another; giving them religious sanction is, in his word, an error.",
+    "He regards the visionary tendency as continuous with hallucination and with the 'familiar hallucinations of the insane', and says that when opinion favours the supernatural the faculty runs 'into extravagance owing to the removal of reasonable safeguards'.",
+    "Fasting, want of sleep and solitude produce visions; he links solitude with madness. These are reported as causes, not prescribed.",
+    "Very vivid imagery can be a burden: one informant 'craves for an absence of visual perceptions, they are so brilliant and persistent'."
+  ],
+  "safety_flags": [],
+  "interpretation": "Automatic brain activity that goes on 'wastefully' in the optical field and is normally overlooked; a slight functional change makes it vivid, and the mind then interprets the blur into figures, as with faces in the fire. Not supernatural; continuous with dreaming and hallucination.",
+  "practice_summary": "From Galton's own trial, as a self-declared non-seer: go into perfect darkness and watch the field of view carefully. Do not look passively. Use the kind of strain with which you try to read a sign-post in the dark, as if something is there to be made out. Repeat until this way of looking is habitual. Keep the mind off every other subject, since the instant you begin to think about anything the phenomena leave sight and memory. Expect, at first, black with a faint purplish cloudiness, then a continual kaleidoscopic shifting of patterns and forms, fugitive and faint. From Henslow, a strong seer: shut the eyes and simply wait; within a minute or two an object appears unbidden and begins transforming. Watch as a spectator. Examine cautiously, because hard scrutiny makes the image oscillate or dissolve into haze. Attempts to impose a chosen object usually fail while the series is running; sustained effort sometimes wins a partial concession. The dark moments before sleep are the commonest occasion for others.",
+  "key_passages": [
+    {
+      "locator": "'Visionaries', printed p. 158, source lines 6505-6523",
+      "about": "onset",
+      "anchor": "after habituating myself to examine it with the same sort of strain that one tries to decipher a",
+      "paraphrase": "Galton, who visualises with effort and is inapt to see after-images, phosphenes or light-dust, believed his dark field was uniform black with an occasional light-purple cloudiness. After habituating himself to examine it with the strain used to decipher a sign-post in the dark, he found a continual kaleidoscopic change of patterns and forms. He says many persons will find the same if they watch carefully in perfect darkness.",
+      "quote": "When in perfect darkness, if the field of view be carefully watched, many persons will find a perpetual series of changes to be going on automatically and wastefully in it. I have much evidence of this. I will give my own experience the first, which is striking to me, because I am very unimpressionable in these matters. I visualise with effort; I am peculiarly inapt to see \"after-images,\" \"phosphenes,\" \"light-dust,\" and other phenomena due to weak sight or sensitiveness; and, again, before I thought of carefully trying, I should have emphatically declared that my field of view in the dark was essentially of a uniform black, subject to an occasional light-purple cloudiness and other small variations. Now, however, after habituating myself to examine it with the same sort of strain that one tries to decipher a sign-post in the dark, I have found out that this is by no means the case, but that a kaleidoscopic change of patterns and forms is continually going on",
+      "source_file": "sources/mod-galton-inquiries-human-faculty.txt"
+    },
+    {
+      "locator": "'Visionaries', printed p. 159, source lines 6528-6538",
+      "about": "caution",
+      "anchor": "They disappear out of sight and memory the instant I begin to think about anything,",
+      "paraphrase": "The patterns are too fugitive and elaborate to draw; they vanish from sight and from memory the instant he thinks of anything; he finds it curious that they are so certainly present yet habitually overlooked, and supposes a very slight physiological change would make them vivid. The OCR has stray marks at the page head ('with • '' and '/K') which do not affect the sense.",
+      "quote": "I am astonished at their variety, and cannot guess in the remotest degree the cause of them. They disappear out of sight and memory the instant I begin to think about anything, and it is curious to me that they should often be so certainly present and yet be habitually overlooked. If they were more vivid, the case would be very different, and it is most easily conceivable that some very slight physiological change, short of a really morbid character, would enhance their vividness.",
+      "source_file": "sources/mod-galton-inquiries-human-faculty.txt"
+    },
+    {
+      "locator": "'Visionaries', printed pp. 161-162, Henslow's letter (seen via Galton), source lines 6622-6663",
+      "about": "method",
+      "anchor": "to come spontaneously within a minute or two. Some object having once appeared, the automatism of the brain will rapidly",
+      "paraphrase": "Henslow: no need to think of any object first; with eyes shut something comes of itself within a minute or two, then changes rapidly. The images are numerous, often beautiful and highly brilliant, restless (oscillating, rotating), and he feels a mere spectator. Introducing a chosen object is next to impossible while the series runs. Galton's own summary just before (p. 159) says Henslow 'shuts his eyes and waits'.",
+      "quote": "It is not at all necessary to think of any particular object at first, as something is sure to come spontaneously within a minute or two. Some object having once appeared, the automatism of the brain will rapidly induce the series of changes. The images are sometimes very numerous, and very rapid in succession: very frequently of great beauty and highly brilliant. [...] When the process is in full activity, I feel as if I were a mere spectator at a diorama of a very eccentric kind, and was in no way concerned with the getting up of the performance.",
+      "source_file": "sources/mod-galton-inquiries-human-faculty.txt"
+    },
+    {
+      "locator": "'Visionaries', printed p. 163, Henslow's Fig. 73 (seen via Galton), source lines 6699-6715",
+      "about": "testimony",
+      "anchor": "then it gradually grew dimmer and dimmer till it disappeared into the usual hazy",
+      "paraphrase": "A spontaneous series (poppy capsule, salvias, a 'rotating haze' when he concentrated on one spinning flower, a nest, eggs) ends with one egg whose bright point of light shines with great intensity like a star, then dims into the hazy obscurity into which all his visual objects finally vanish. This is the one place where the testimony describes plain light rather than a formed object.",
+      "quote": "The eggs all disappeared but one (5), which increased in size; the bright point of light now shone with great intensity like a star; then it gradually grew dimmer and dimmer till it disappeared into the usual hazy obscurity into which all [my] visual objects ultimately vanish.",
+      "source_file": "sources/mod-galton-inquiries-human-faculty.txt"
+    },
+    {
+      "locator": "'Visionaries', printed pp. 163-165, Galton's statement and an unnamed friend's letter, source lines 6721-6780",
+      "about": "mode",
+      "anchor": "The waking vision is like what one sees in the open street in broad daylight, when",
+      "paraphrase": "Galton: some who visualise well and also see visions declare the vision is not a vivid visualisation but a different phenomenon, arriving by a different channel. The friend's criteria: mental image is stage-lit and vague, subservient to the will, slow to form and fade, far off in a recess of the mind; the waking vision is like broad daylight, independent of the will, instantaneous in coming and going, quite close, filling the whole head. The friend adds that no effort of imagination can call the visions up.",
+      "quote": "The waking vision is like what one sees in the open street in broad daylight, when every object is distinctly impressed on the memory. The two kinds of imagery differ also as regards voluntariness, the image being entirely subservient to the will, the visions entirely independent of it. They differ also in point of suddenness, the images being formed comparatively slowly as memory recalls each detail, and fading slowly as the mental effort to retain them is relaxed, the visions appearing and vanishing in an instant. The waking visions seem quite close, filling as it were the whole head, while the mental image seems farther away in some far-off recess of the mind.",
+      "source_file": "sources/mod-galton-inquiries-human-faculty.txt"
+    },
+    {
+      "locator": "'Visionaries', closing paragraph, printed pp. 176-177, source lines 7225-7260",
+      "about": "development",
+      "anchor": "attended to and encouraged, and they increase in definition through being habitually dwelt upon.",
+      "paraphrase": "Galton's account of how the faculty is lost and regained: imaginative children see such things, are laughed at, learn to discredit them and stop attending, so the tendency is 'blunted by repression'. Where opinion favours them, the faint fantasies of ordinary people are attended to and encouraged and gain definition by being habitually dwelt on. He adds that no new faculty is evoked; a smothered one is released, and he warns that it then runs to extravagance.",
+      "quote": "The faintly-perceived fantasies of ordinary persons become invested by the authority of reverend men with a claim to serious regard; they are consequently attended to and encouraged, and they increase in definition through being habitually dwelt upon. We need not suppose that a faculty previously non-existent has been suddenly evoked, but that a faculty long smothered by many in secret has been suddenly allowed freedom to express itself, and to run into extravagance owing to the removal of reasonable safeguards.",
+      "source_file": "sources/mod-galton-inquiries-human-faculty.txt"
+    }
+  ],
+  "cross_refs": [
+    "mod-mueller-phantastische-gesichtserscheinungen"
+  ],
+  "new_leads": [
+    "Goethe's closed-eye rosette (head bent, eyes closed, thinking of a rose), cited by Galton p. 159 without reference; the same passage Mueller discusses",
+    "St. James's Gazette, 10, 15 and 20 Feb. 1882: correspondence on phantasmagoria (Galton's footnote, p. 167)",
+    "Brierre de Boismont, Hallucinations (1862), chapter on the 'stars' of great men, including Napoleon's star reported by General Rapp",
+    "Lecoq de Boisbaudran, Education de la Memoire Pittoresque (repr. in Enseignement Artistique, Paris 1879): training of visual memory, three to four months to summon and hold images at will. Mind's-eye training, so probably out of scope"
+  ],
+  "reader_confidence": "high",
+  "confidence_note": "Both relevant chapters read in full in the saved text. Two limits. First, Galton's own method occupies a single paragraph; the candidate summary is accurate but there is no more detail than quoted here, and he does not say whether his eyes were open or closed in the dark. Second, the 'Mental Imagery' chapter is almost wholly about mind's-eye visualising (vividness returns, blindfold chess, training of visual memory, 'retaining a retinal picture', projecting an image onto paper) and does not claim that trained visualisation becomes perceived light; I tagged visualization_crossing only for Henslow, who can 'usually summon up any object thought of' and then sees it take on a life of its own. Henslow, Mrs. Haweis and the unnamed correspondents are quoted by Galton, 'extracted and condensed' in Henslow's case."
+}

@@ -1,0 +1,139 @@
+{
+ "id": "suf-razi-mirsad-al-ibad",
+ "stream": "sufi",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 5,
+ "practicality": 4,
+ "text_read": "repaired digest (ch.17 windows, lines 1253-1500, 1566-1751); plus sed of source lines 180-200 (ch.13 manner of dhikr), 575-600 (ch.15 khalwa conditions), 855-870, 1600-1700 (ch.17 colours, jalal lights)",
+ "mode": "perceptual",
+ "mode_evidence": "Lights are 'witnessed' (mushahada) by the heart in the dark cell with eyes shut, in a fixed sequence of forms and colours; the sun-like light is so strong 'the gaze cannot master its rays'. Razi says every shape and colour that imagination perceives in the light is an admixture (alayish, OCR-damaged) due to human attributes, while the light is still within the veils (hujub); when light comes out of the veils imagination has no hold and it is seen without colour, form or place. So: perceptual, closed-eye, but seen by the heart's eye; form layer explicitly imaginal.",
+ "eyes": "closed",
+ "onset_pathway": "induction",
+ "onset_evidence": "Lights arise as a consequence of method: the dhikr la ilaha illa'llah, received by talqin from a shaykh, struck from navel into the heart, gradually polishes the heart-mirror; 'in proportion as polish increases lights grow stronger and more'. Ch.15 khalwa: forty days, alone in a small dark clean cell facing qibla, cross-legged, hands on thighs, eyes closed, leaving only for ablution, need and prayer, constant fasting, silence, negation of thoughts, heart tied to the shaykh. No separate advice for one who sees nothing; time scale implied by the forty-day arba'in; lights are graded by the heart's purity rather than forced.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "sound_or_mantra",
+  "concentration_nonvisual",
+  "darkness_exposure",
+  "sensory_restriction",
+  "fasting_or_austerity",
+  "posture_or_body_lock",
+  "devotion_or_transmission",
+  "eye_pressure_or_sense_closure"
+ ],
+ "conditions": {
+  "posture": "Cross-legged (murabba') facing qibla, hands on thighs; cross-legged otherwise disapproved except during dhikr.",
+  "gaze_or_eye_position": "Eyes closed (chashm faraham/bar ham kunad) during dhikr.",
+  "setting": "Small, dark, empty, clean room; incense optional.",
+  "duration_and_schedule": "Forty-day khalwa (arba'in); leave only for ablution, need, prayer.",
+  "prerequisites": "Repentance, constant ablution, dhikr received from a shaykh, heart bound to the shaykh.",
+  "other": "Continuous fasting, silence, negation of passing thoughts; ablution itself said to carry light."
+ },
+ "phenomena": [
+  "lightning_flashes",
+  "sparks_or_points",
+  "lamp_or_flame",
+  "stars",
+  "moon_disc",
+  "sun_disc",
+  "blue",
+  "gold_yellow",
+  "red",
+  "white",
+  "black_light",
+  "all_pervading_light"
+ ],
+ "stages": [
+  {
+   "label": "buruq, lawami', lawa'ih",
+   "description": "Flashes that leap and vanish; gleams that follow one another and pause briefly; glints like sunlight reflected off a mirror that stay a little then go behind the veil. Mostly from dhikr, ablution and prayer."
+  },
+  {
+   "label": "lamp, candle, torch, kindled fires",
+   "description": "Light borrowed from the shaykh's walaya, the Prophet, the Qur'an or faith; the heart itself as a lamp lit to that measure (niche of the Light verse)."
+  },
+  {
+   "label": "stars, moon, sun",
+   "description": "Spirit's light on the heart's sky in proportion to polish: star-sized when the heart is star-pure; full or partial moon by its clarity; sun when the heart receives spirit's light, sometimes a thousand times brighter. Moon and sun together = heart and spirit."
+  },
+  {
+   "label": "lights without locus",
+   "description": "Out of the veils: colourless, formless, placeless; the absolute light."
+  },
+  {
+   "label": "colours by station",
+   "description": "Blue from spirit/dhikr light mixed with the nafs's darkness (blue Sufi novice robes mark this); yellow when spirit prevails; a further colour when darkness [OCR garbled]; sun-like with rays when the heart is wholly clear; then a light like the sun in a clear mirror that the eye cannot bear."
+  },
+  {
+   "label": "jalal lights",
+   "description": "Lights of the attributes of Majesty burn rather than illumine; sometimes a purely dark light (nur-i zulmani), illustrated by hell fired red, white, then black."
+  }
+ ],
+ "what_to_do_with_light": "Read the light as a gauge of the heart's polish and its source; do not take formed or coloured light as God (Abraham's star-moon-sun, 'I love not the setters'); continue dhikr until light is formless.",
+ "obstacles_and_fixes": [
+  "Frightening images and sounds in khalwa: call the shaykh's name and seek his help (himma).",
+  "Passing thoughts imprint the heart and block the lights: negate every thought with la ilaha.",
+  "Formed or coloured light is still behind veils of imagination: keep polishing."
+ ],
+ "cautions": [
+  "Every form and colour perceived is the veil of human attributes worked by imagination; the Real is beyond form and setting.",
+  "Abraham's error: taking reflections in the station of talwin for the Lord."
+ ],
+ "safety_flags": [
+  "fasting",
+  "prolonged_darkness",
+  "transmission_required_by_tradition"
+ ],
+ "interpretation": "Lights are reflections of spirit, of dhikr, of the shaykh, Qur'an and divine attributes on the polished heart-mirror; while they remain within the veils, imagination lends them shape and colour, an admixture of human attributes; once out of the veils, imagination has no hold and the light is formless.",
+ "practice_summary": "Repent, keep ablution, and take the formula la ilaha illa'llah from a shaykh. Enter a small, dark, clean, empty cell for forty days, leaving only for ablution, need and prayer; fast continuously and keep silence. Sit cross-legged facing qibla, hands on thighs, eyes closed, heart present, and strike the formula with force: la ilaha drawn up from the navel, negating every thought, illa'llah driven down into the heart. Keep the heart bound to the shaykh; if fearful images or sounds come, invoke him. As the heart is polished, expect first flashes, gleams and mirror-like glints; then lamps, candles, torches and fires; then stars, moon and sun in proportion to purity; finally lights without place. Colours track station: blue while spirit's light mixes with the nafs's darkness, yellow when spirit prevails, sun-like rays when the heart is clear. Treat all forms and colours as veils and go on until the light is colourless.",
+ "key_passages": [
+  {
+   "locator": "Part 3 ch.13, source lines 186-194",
+   "about": "method",
+   "anchor": "و دروفت: کر گفتن دستها ب‌روی ران‌نید ؛ ودل حاضرکند وچشم فراهم",
+   "paraphrase": "While saying dhikr, place the hands on the thighs, make the heart present and close the eyes.",
+   "quote": "",
+   "source_file": "sources/suf-razi-mirsad-al-ibad.txt"
+  },
+  {
+   "locator": "Part 3 ch.15, source lines 578-581",
+   "about": "method",
+   "anchor": "ازانجا جز بوضو وحاجت ونماز بیرون نياید . و خانه باید که تاريك بود وکوچك",
+   "paraphrase": "In khalwa leave only for ablution, need and prayer; the room must be dark and small.",
+   "quote": "ازانجا جز بوضو وحاجت ونماز بیرون نياید . و خانه باید که تاريك بود وکوچك",
+   "source_file": "sources/suf-razi-mirsad-al-ibad.txt"
+  },
+  {
+   "locator": "Part 3 ch.17, source lines c.1271-1279",
+   "about": "onset",
+   "anchor": "وچندانکک صقالت زبادت میشود انوار بقوّت‌تر و زیادت‌تر میگردد بعداز",
+   "paraphrase": "The more the polish increases, the stronger and more numerous the lights; after flashes come lamps, candles, torches and fires.",
+   "quote": "",
+   "source_file": "sources/suf-razi-mirsad-al-ibad.txt"
+  },
+  {
+   "locator": "Part 3 ch.17, source lines c.1300-1305",
+   "about": "mode",
+   "anchor": "و چون انواربکل ازحجب بیرون | ید خیال را دران تصرفی نماند",
+   "paraphrase": "When lights come fully out of the veils imagination has no hold; colours vanish and light is witnessed without colour, form or shape.",
+   "quote": "",
+   "source_file": "sources/suf-razi-mirsad-al-ibad.txt"
+  },
+  {
+   "locator": "Part 3 ch.17, colours, source lines c.1600-1625",
+   "about": "stages",
+   "anchor": "امتزاج نور روح بود یانور ذگر باطلمت نفس",
+   "paraphrase": "Blue light comes from the mixing of spirit's or dhikr's light with the nafs's darkness; yellow when spirit prevails.",
+   "quote": "",
+   "source_file": "sources/suf-razi-mirsad-al-ibad.txt"
+  }
+ ],
+ "cross_refs": [
+  "suf-kubra-fawaih-al-jamal"
+ ],
+ "new_leads": [],
+ "reader_confidence": "medium",
+ "confidence_note": "Persian OCR noisy with interleaved apparatus; colour list partly garbled after yellow (red/green/white not legible in that passage); method and stages read directly in source. Read as an ascent: the seen lights are the stages up to the sun; the final 'light without colour, form or place' is an apophatic marker of an experience beyond phenomena, not a further visual stage (user's reading, 12 Oct)."
+}

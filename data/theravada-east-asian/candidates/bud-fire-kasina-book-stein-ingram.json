@@ -1,0 +1,52 @@
+{
+ "id": "bud-fire-kasina-book-stein-ingram",
+ "stream": "theravada-east-asian",
+ "title": "The Fire Kasina: Questions and Answers on Retreat with Practice Notes and Commentary",
+ "author": "Shannon Stein and Daniel M. Ingram",
+ "translator": null,
+ "year": "2017",
+ "edition_cited": "Brighton: Heptarchia, first edition October 2017 (authors' free PDF, archive.org OCR)",
+ "tradition": "Modern pragmatic-dharma kasina practice, drawing on the Visuddhimagga and Vimuttimagga",
+ "language": "English",
+ "source_type": "practitioner_testimony",
+ "rights": "in_copyright",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/the-fire-kasina",
+ "alt_urls": [
+  "https://firekasina.org/"
+ ],
+ "source_files": [
+  "sources/bud-fire-kasina-book-stein-ingram.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Introductory chapters: Ingram's own account of starting with a candle flame; what a kasina is ('an external support used to generate an after-image')",
+  "Basic instruction (file line c. 1082): 'Sit comfortably and stare at the flame for a minute or...' then close the eyes and attend to the after-image, favouring 'anything resembling a red dot'",
+  "Q&A on the phase after the red and black dot, 'the murk' (line c. 1643-1745), and how images organise out of it",
+  "Q&A on carrying the after-image off the cushion and eyes-open after-images (line c. 1557-1575, 1799-1835), including using an LED or other light source",
+  "Mapping of the red dot, murk and later phases onto jhanas (line c. 2231 ff.)",
+  "Day-by-day retreat journal, Days One to Twenty-Five",
+  "Appendix on candle safety and practical set-up (line c. 6335)"
+ ],
+ "summary": "A 25-day solo candle-flame retreat journal by Shannon Stein with Daniel Ingram's answers to her daily questions. The basic instruction is to stare at a candle flame for about a minute, close the eyes, and take the retinal after-image as the object, giving most attention to anything like a red dot; when it fades, open the eyes and repeat. The authors describe a reproducible sequence: the red dot, its change to a black or green dot with coloured surround, then 'the murk', a shapeless field said to be where real progress is made and out of which detailed, self-moving, coloured imagery later forms. Ingram answers practical questions on how long to stare, widening attention around the dot, what to do when nothing but murk is present, carrying the after-image into walking and eyes-open periods, using other light sources, and the fear and energetic side effects. The journal records what was seen each day.",
+ "why_relevant": "The fullest modern first-person account of taking a flame after-image through to self-sustaining seen imagery, with troubleshooting for each stall point and time scales in days.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "light_source_gazing",
+  "afterimage_retention",
+  "concentration_visual_object",
+  "sound_or_mantra"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "2017-10",
+  "class": "published_record",
+  "basis": "imprint page in the saved text: 'Published by Heptarchia, Brighton, United Kingdom. Written by Shannon Stein & Daniel M. Ingram 2016-17. First edition October 2017'; archive.org metadata gives the same date"
+ },
+ "author_identifiable": true,
+ "author_basis": "Named authors; Ingram is the author of Mastering the Core Teachings of the Buddha (2008)",
+ "found_via": "seed lead; archive.org full-text search 'fire kasina'",
+ "notes": "Imprint grants free reproduction without alteration, so the whole text was saved. The retreat itself was in 2015. Sections discussing 'powers' and magick are outside this catalogue's concern but the visual phenomenology is central."
+}

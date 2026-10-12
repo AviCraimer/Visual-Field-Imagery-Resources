@@ -1,0 +1,126 @@
+{
+ "id": "jew-vital-shaarei-kedushah",
+ "stream": "jewish",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 3,
+ "practicality": 4,
+ "text_read": "digest; plus grep for 'dead person / after midnight' (Gate 8 paragraphs 3-10 seen in source, not in digest); Part 3, Gate 5 read in full in the user's translation (12 Oct)",
+ "mode": "imaginal_crossing",
+ "mode_evidence": "§9-10: the descending light takes material image in the imaginative faculty and is understood 'as though he were seeing them with his actual eyes'; sometimes the images are transferred to the five outer senses and he sees with his physical senses. Vital thus names both an inner and an outer locus and a passage between them. Vital says outright that the practitioner first only pictures the ascent in the imagination ('he does not actually see them, he sees them in his mind'). The light then descends into the imaginal faculty, where it is depicted 'as though he literally saw' it, and may be copied outward to the five physical senses so that he sees and hears physically. The crossing from imagined to perceived is the point of the procedure, but he gives no description of the visual quality.",
+ "eyes": "closed",
+ "onset_pathway": "both",
+ "onset_evidence": "Induction: a graded preparation (repentance, commandments, set times, immersion, then solitude in a secluded house after midnight, eyes closed, thought emptied as if dead, yearning to ascend, picturing the soul rising through the worlds). To someone who feels nothing: he is not yet fit, so he strengthens his service and sanctity and returns after a period. Response is conditional on fitness: the upper levels take no notice of a person unfit to draw light down. Early prophetic practice depended on kavvanot and yichudim transmitted by a teacher. No time scale is given beyond 'after a period of time'.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "visualization_crossing",
+  "sensory_restriction",
+  "devotion_or_transmission",
+  "sound_or_mantra",
+  "fasting_or_austerity"
+ ],
+ "conditions": {
+  "posture": "not specified in digest",
+  "gaze_or_eye_position": "eyes closed",
+  "setting": "secluded house, undisturbed by voices or birdsong, after midnight, in purity",
+  "duration_and_schedule": "set times prepared for; repeat after a period if nothing is felt",
+  "prerequisites": "five stages of refinement: repentance, full observance, fixed times for sanctification, ritual immersion and clean garments, ingrained good character",
+  "other": "transmitted kavvanot and yichudim in the prophetic schools"
+ },
+ "phenomena": [
+  "figures_or_forms",
+  "light_in_the_room"
+ ],
+ "stages": [
+  {
+   "label": "divestment",
+   "description": "Thought and the imaginative faculty emptied of worldly content (§7)."
+  },
+  {
+   "label": "imagined ascent",
+   "description": "The imagination pictures ascent through the soul's roots; the lights are engraved in thought as if seen (§7)."
+  },
+  {
+   "label": "descent to the inner senses",
+   "description": "Drawn-down light takes material image in the five inner senses of the imagination, as if seen with the eyes (§9-10)."
+  },
+  {
+   "label": "transfer to the outer senses",
+   "description": "In complete prophecy the images pass to the physical senses without the body recoiling (§10, §14)."
+  }
+ ],
+ "what_to_do_with_light": "Test it: judge whether the spirit is pure or an admixture of good and evil, by whether its words are true and in accord with Torah; if not, push it off and strengthen devotion. Do not adhere to the husk-lights passed through.",
+ "obstacles_and_fixes": [
+  "Feeling nothing: not yet fit, so increase service and sanctity and return later.",
+  "Imagination persisting in worldly images: it must be stopped before it is redirected.",
+  "Mixed or false visitation: uproot it and refine until all words are true."
+ ],
+ "cautions": [
+  "Practical Kabbalah (use of names to command angels) is forbidden; seeing is mixed truth and falsehood in the lowest world.",
+  "Ben Azai and Ben Zoma were harmed in the Pardes.",
+  "Prophecy proper has ceased; only the Holy Spirit from Yetzirah downward remains."
+ ],
+ "safety_flags": [
+  "transmission_required_by_tradition",
+  "tradition_warns_against_seeking"
+ ],
+ "interpretation": "The light is an influx from the upper Sefirot and the root of the soul, drawn down through the worlds and rendered by the imagination as seen form.",
+ "practice_summary": "Prepare by repentance, observance, set times of sanctification, immersion and clean clothes, until good traits are ingrained. Then retire to a quiet secluded house after midnight, close the eyes and stop the mind picturing worldly things, as if dead to the world. With strong yearning, use the imagination to picture the soul leaving the body and ascending through the upper worlds to its root. Intend to draw light and influence from the Sefirot down through the same levels to yourself, and picture yourself as present there. Where the light arrives it may be depicted vividly, as though seen with the physical eyes, and may pass to the outer senses. If nothing is felt, you are not yet fit; deepen devotion and repeat later. When something comes, test it for truth and uproot it if mixed.",
+ "key_passages": [
+  {
+   "locator": "Part 3, Gate 5, para 18, source lines 316-325",
+   "about": "onset",
+   "anchor": "know that the Supernal aspects are not shaken by the thoughts of man, except if he is fitting",
+   "paraphrase": "The upper powers respond only to a person fit to draw light down; otherwise his thought is ignored.",
+   "quote": "",
+   "source_file": "sources/jew-vital-shaarei-kedushah.txt"
+  },
+  {
+   "locator": "Part 3, Gate 6, para 8, source lines 332-345",
+   "about": "caution",
+   "anchor": "through known intentions (Kavanot) and unifications (Yichudim) that were transmitted to him by the prophet who",
+   "paraphrase": "The ascent did not occur by itself but through intentions and unifications transmitted by a teacher.",
+   "quote": "",
+   "source_file": "sources/jew-vital-shaarei-kedushah.txt"
+  },
+  {
+   "locator": "Part 3, Gate 5, §7 (user translation)",
+   "about": "method",
+   "anchor": "Then the imaginative faculty turns its thoughts to imagining and picturing that he is ascending through the upper worlds",
+   "paraphrase": "After stilling it, the practitioner turns the imaginative faculty to picture his ascent until the lights are engraved in thought as if seen.",
+   "quote": "",
+   "source_file": "sources/jew-vital-shaarei-kedushah.III5-translation.txt"
+  },
+  {
+   "locator": "Part 3, Gate 5, §9 (user translation)",
+   "about": "mode",
+   "anchor": "then he understands them as though he were seeing them with his actual eyes",
+   "paraphrase": "The descending light takes material image in the imaginative faculty and is understood as if seen with the eyes.",
+   "quote": "",
+   "source_file": "sources/jew-vital-shaarei-kedushah.III5-translation.txt"
+  },
+  {
+   "locator": "Part 3, Gate 5, §10 (user translation)",
+   "about": "mode",
+   "anchor": "From there the images may be transferred outward, to the five outer senses",
+   "paraphrase": "Sometimes the images pass from the inner senses of the imagination to the outer senses, and he sees and hears physically.",
+   "quote": "",
+   "source_file": "sources/jew-vital-shaarei-kedushah.III5-translation.txt"
+  },
+  {
+   "locator": "Part 3, Gate 5, §13 (user translation)",
+   "about": "stages",
+   "anchor": "the outer senses would recoil in great trembling and the prophet would fall down",
+   "paraphrase": "In most prophets the outer senses cannot bear the light and recoil; only Moses received it calmly in the material senses.",
+   "quote": "",
+   "source_file": "sources/jew-vital-shaarei-kedushah.III5-translation.txt"
+  }
+ ],
+ "cross_refs": [],
+ "new_leads": [
+  "Part 3 Gate 8 paras 8-11 not in digest; read in source by grep only"
+ ],
+ "reader_confidence": "high",
+ "confidence_note": "Read in digest plus one grep; Gate 8 was seen in source, not digest, and its details are summarised from that grep."
+}

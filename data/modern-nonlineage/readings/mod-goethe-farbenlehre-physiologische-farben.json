@@ -1,0 +1,136 @@
+{
+  "id": "mod-goethe-farbenlehre-physiologische-farben",
+  "stream": "modern-nonlineage",
+  "verdict": "keep_marginal",
+  "drop_reason": null,
+  "drop_note": "",
+  "relevance": 3,
+  "practicality": 4,
+  "text_read": "Whole of the Erste Abtheilung, Physiologische Farben, source lines 1851-4110 (sections I Licht und Finsterniss, II Schwarze und weisse Bilder, III Graue Flaechen, IV Blendendes farbloses Bild, V Farbige Bilder, VI Farbige Schatten, VII Schwache Lichter, Subjective Hoefe, and the Pathologische Farben paras 101-129), read in full though OCR loses many line-ends and some paragraphs are fragmentary (notably para 6, para 42, para 44, para 127).",
+  "mode": "perceptual",
+  "mode_evidence": "Everything is explicitly retinal: the afterimage 'schwebt' before the eyes in the dark room or on a wall, is located on a fixed place of the retina, grows with projection distance (paras 21-22), and is called 'ein Bild, das nunmehr dem Auge angehoert' (para 49). Light from pressure or a blow is 'Licht ohne aeusseres Licht' (para 120).",
+  "eyes": "both",
+  "onset_pathway": "induction",
+  "onset_evidence": "Goethe gives a reproducible physical induction anyone can perform: stare five seconds at a sunlit white disc in a darkened room, close the shutter, look into the darkest corner (or close the eyes) and the coloured image floats there; it can be revived again and again by opening and closing the eyes, lasting about seven minutes in total. Conditions that strengthen it: a rested, receptive eye (on waking, at dusk), dark background. He also says gentle then increasing pressure on the eyeball, in certain bodily states (heated blood, heightened sensitivity), can excite 'ein blendend unertraegliches Licht'. Stimulus independence is partial: the light outlasts the stimulus by minutes, but always decays; Goethe treats any long persistence as weakness or pathology (paras 28, 121-125), and he does not frame any of it as spiritual. No grace or transmission claims.",
+  "stimulus_independence": "unclear",
+  "techniques": [
+    "afterimage_retention",
+    "light_source_gazing",
+    "darkness_exposure",
+    "eye_pressure_or_sense_closure",
+    "gazing_fixed_point"
+  ],
+  "conditions": {
+    "posture": "",
+    "gaze_or_eye_position": "Stare fixedly ('starr', 'unverwandt') at the bright disc; afterwards look at the darkest place in the room, or close the eyes; alternate opening and closing to revive.",
+    "setting": "Room darkened as far as possible, a round shutter opening about three inches across letting the sun fall on white paper; for the green phase a moderately lit room and a light grey surface.",
+    "duration_and_schedule": "Exposure five seconds; purple after 13 s, blue after a further 29 s, colourless after a further 48 s; revived by blinking for about seven minutes in all. Times vary with the strength of the eye.",
+    "prerequisites": "A rested, receptive eye gives the strongest effects: morning on waking, dusk, after long darkness (paras 20, 54, 92).",
+    "other": "Viewing the afterimage alternately on a white and a black board gives purple and green phases; with practice both opposite colours can be seen at once on the boundary (para 43)."
+  },
+  "phenomena": [
+    "sun_disc",
+    "white",
+    "gold_yellow",
+    "red",
+    "blue",
+    "green",
+    "colour_fields",
+    "smoke_mist_cloud",
+    "sparks_or_points",
+    "lightning_flashes",
+    "geometric_patterns",
+    "sphere_pearl_bindu"
+  ],
+  "stages": [
+    {
+      "label": "farbloses Scheinbild (dark ground)",
+      "description": "Immediately after the shutter closes: a floating round image, centre bright, colourless, somewhat yellow; the rim at once purple."
+    },
+    {
+      "label": "Purpur",
+      "description": "Purple creeps in from the edge until it covers the whole disc and drives out the bright centre (about 13 s)."
+    },
+    {
+      "label": "Blau",
+      "description": "As soon as the whole disc is purple the rim turns blue, which pushes inward until the image is wholly blue (about 29 s more)."
+    },
+    {
+      "label": "unfaerbig",
+      "description": "The rim becomes dark and colourless and slowly displaces the blue until the whole is colourless (about 48 s more); then the image weakens and shrinks, losing its corners and becoming a small round image, until gone. Revivable by blinking for about seven minutes."
+    },
+    {
+      "label": "on a light grey surface",
+      "description": "Seen against a moderately lit light grey ground the image is dark and is overrun from the edge by a coloured rim (green is named in para 43; the OCR of para 42 is fragmentary) that fills the disc, then a further colour encircles it."
+    }
+  ],
+  "what_to_do_with_light": "Observe and measure it; revive the fading image by opening and closing the eyes; move it onto a white or black ground to switch its colour phase. Goethe also warns observers to keep afterimages from contaminating later observations.",
+  "obstacles_and_fixes": [
+    "Coming from bright daylight into the dark, the eye is blind to faint lights for a while; stay until the eye has recovered (paras 10-11).",
+    "A fading image can be revived by alternating opening and closing the eyes, 'Erregung und Schonung' (para 27).",
+    "Direct gaze can suppress subtle effects: the poppy 'flash' at dusk appeared only when looking sideways, from the corner of the eye (para 54)."
+  ],
+  "cautions": [
+    "Very long persistence of an image (14-17 minutes or more) signals extreme weakness of the organ (para 28); excessive duration is pathological (paras 121-122).",
+    "Looking into the sun can leave the image for several days; one case of fifty years is reported (para 123, OCR partly lost).",
+    "Strong pressure on the eye in certain bodily states produces a dazzling, unbearable light (para 115); sparks, flashes and fiery figures are listed among pathological colours (paras 114-120)."
+  ],
+  "safety_flags": [
+    "sun_gazing",
+    "eye_pressure"
+  ],
+  "interpretation": "Physiological colours are the living retina's own opposition to what is imposed on it: after strong light it produces, in a succession of 'Schwingungen', the demanded opposite states and colours as it restores itself, like the dying ring of a bell (Abklingen). Light from pressure or a blow is light without outward light, an 'abklingendes Licht' produced in the eye itself.",
+  "practice_summary": "Darken a room completely except for a round hole about three inches wide in the shutter that lets sunlight fall on a sheet of white paper. From some distance stare fixedly at the lit disc for about five seconds, then cover the hole and look into the darkest part of the room (or close the eyes). A round image floats before you: centre bright, colourless to yellowish, rim purple. Watch the purple advance inward until the whole disc is purple, then a blue rim advance until it is all blue, then a dark colourless rim until it is all colourless; it then shrinks and fades. When it seems gone, open and close the eyes alternately and it returns; Goethe kept it alive this way for about seven minutes. Looked at instead on a light grey or white surface in a moderately lit room it appears dark with a green rim; on black it shows purple. Effects are strongest with a rested eye: on waking, at dusk, after time in darkness. Gentle, increasing pressure on the eyeball at night produces rings of light, or a dazzling light.",
+  "key_passages": [
+    {
+      "locator": "IV Blendendes farbloses Bild, para 40, source lines 2480-2506",
+      "about": "stages",
+      "anchor": "Die Mitte des Kreiſes wird man hell, farblos,",
+      "paraphrase": "In a room darkened as far as possible, let the sun through a round shutter opening about three inches across onto white paper, stare fixedly at the lit disc from some distance, close the opening and look at the darkest place in the room: a round apparition floats before you. Its centre is bright, colourless, somewhat yellow; the rim at once purple. Purple slowly covers the circle from outside inward and drives out the bright centre; as soon as it is all purple the rim turns blue and blue displaces the purple inward; when it is fully blue the rim turns dark and colourless, and only after a long time does the colourless rim drive out the blue. The image then shrinks and weakens. The retina restores itself against the violent outer impression through a succession of oscillations ('Succeſſion von Schwingungen'). Eyes here are open, directed at darkness; para 21 confirms the same image is seen with eyes closed after looking at the sun.",
+      "quote": "In einem Zimmer, das moͤglichſt verdunkelt worden, habe man im Laden eine runde Oeffnung, etwa drey Zoll im Durchmeſſer, die man nach Belieben auf- und zudecken kann; durch ſelbige laſſe man die Sonne auf ein weißes Papier ſcheinen und ſehe in einiger Entfernung ſtarr das erleuchtete Rund an; man ſchließe darauf die Oeffnung und blicke nach dem dunkelſten Orte des Zimmers; ſo wird man eine runde Erſcheinung vor ſich ſchweben ſehen. Die Mitte des Kreiſes wird man hell, farblos, einigermaßen gelb ſehen, der Rand aber wird ſogleich purpurfarben erſcheinen. Es dauert eine Zeit lang, bis dieſe purpurfarbe von außen herein den ganzen Kreis zudeckt, und endlich den hellen Mittelpunct voͤllig vertreibt. Kaum erſcheint aber das ganze Rund purpurfarben, ſo faͤngt der Rand an blau zu werden, das Blaue verdraͤngt nach und nach hereinwaͤrts den Purpur. Iſt die Erſcheinung vollkommen blau, ſo wird der Rand dunkel und unfaͤrbig. Es waͤhret lange, bis der unfaͤrbige Rand voͤllig das Blaue vertreibt und der ganze Raum unfaͤrbig wird. Das Bild nimmt ſodann nach und nach ab und zwar dergeſtalt, daß es zugleich ſchwaͤcher und kleiner wird. Hier ſehen wir abermals, wie ſich die Netzhaut, durch eine Succeſſion von Schwingungen, gegen den gewaltſamen aͤußern Eindruck nach und nach wieder herſtellt.",
+      "source_file": "sources/mod-goethe-farbenlehre-physiologische-farben.txt"
+    },
+    {
+      "locator": "IV, para 41, source lines 2525-2537",
+      "about": "testimony",
+      "anchor": "Auf das blendende Bild hatte ich fünf Secunden ge⸗",
+      "paraphrase": "First-person timings, consistent over several trials: five seconds' gaze at the dazzling image; after closing the slide the coloured image floats; after 13 seconds wholly purple, after a further 29 seconds wholly blue, after a further 48 colourless. By closing and opening the eye he revived the image again and again, so that it was wholly lost only after seven minutes. Others will find shorter or longer times according to stronger or weaker eyes.",
+      "quote": "Auf das blendende Bild hatte ich fünf Secunden geſehen, darauf den Schieber geſchloſſen; da erblickt' ich das farbige Scheinbild ſchwebend, und nach dreyzehn Secunden erſchien es ganz purpurfarben. Nun vergingen wieder neun und zwanzig Secunden, bis das Ganze blau erſchien, und acht und vierzig, bis es mir farblos vorſchwebte. Durch Schließen und Oeffnen des Auges belebte ich das Bild immer wieder (27), ſo daß es ſich erſt nach Verlauf von ſieben Minuten ganz verlor. Künftige Beobachter werden dieſe Zeiten kuͤrzer oder laͤnger finden, je nachdem ſie ſtaͤrkere oder ſchwaͤchere Augen haben (23).",
+      "source_file": "sources/mod-goethe-farbenlehre-physiologische-farben.txt"
+    },
+    {
+      "locator": "II, paras 21 and 27, source lines 2187-2262; III-IV paras 42-43, lines 2553-2600",
+      "about": "method",
+      "anchor": "Schließen wir das Auge ſogleich, wenn wir in die Son",
+      "paraphrase": "Closing the eye straight after looking at the sun, one is surprised how small the remaining image is; projected with open eyes onto a wall it appears larger the farther the surface (para 22). An image no longer noticeable can be revived on the retina by opening and closing the eyes, alternating excitation and rest (para 27). With the light impression still in the eye, looking at a light grey object in a moderately lit room shows the image dark with a coloured rim spreading inward (para 42, OCR fragmentary); alternating between white and black boards gives now a purple, now a green phenomenon, and with practice both opposite colours together at the boundary (para 43).",
+      "quote": "Schließen wir das Auge ſogleich, wenn wir in die Sonne geſehen haben; ſo werden wir uns wundern, wie klein das zuruͤckgebliebene Bild erſcheint. [...] Ein ſolches Bild, deſſen Eindruck nicht mehr bemerklich iſt, läßt ſich auf der Retina gleichſam wieder beleben, wenn wir die Augen oͤffnen und ſchließen und mit Erregung und Schonung abwechſeln. [...] Man wird alsdann im Anfange bald ein purpurnes, bald ein grünes Phaͤnomen und ſo weiter das übrige gewahr werden. Ja, wenn man ſich geübt hat, ſo laſſen ſich, indem man das ſchwebende Phaͤnomen dahin bringt, wo die zwey Tafeln an einander ſtoßen, die beyden entgegengeſetzten Farben zugleich erblicken",
+      "source_file": "sources/mod-goethe-farbenlehre-physiologische-farben.txt"
+    },
+    {
+      "locator": "Subjective Hoefe, para 96, source lines 3647-3652",
+      "about": "onset",
+      "anchor": "her nur ein wenig druͤckt, ſo entſtehen dunklere oder hel",
+      "paraphrase": "If one presses the eye only a little from the inner corner, darker or lighter circles arise. At night one can sometimes, with continued pressure, see a succession of such circles, each developing out of the other and swallowed by the next. (OCR loses line-ends; 'inner corner' and 'continued' are reconstructions.)",
+      "quote": "Wenn man das Auge bon dem innern Aug nt her nur ein wenig druͤckt, ſo entſtehen dunklere oder hel Kreiſe. Man kann bey Nachtzeit manchmal a 5 Druck eine Succeſſion ſolcher Kreiſe gewahr ’ von denen fich einer aus dem andern entwickelt vom andern berſchlungen wird.",
+      "source_file": "sources/mod-goethe-farbenlehre-physiologische-farben.txt"
+    },
+    {
+      "locator": "Pathologische Farben, paras 114-120 and 127, source lines 3918-4000, 4046-4049",
+      "about": "caution",
+      "anchor": "Immer ftäxfer drückt /- fo kann man ein blendend",
+      "paraphrase": "Under morbid affections of the retina the eye is disposed to light-phenomena without outward stimulus. With a blow to the eye sparks seem to spray about; and in certain bodily states, especially heated blood and lively sensitivity, if one presses the eye first gently and then ever more strongly, one can excite a dazzling, unbearable light. Patients after cataract operations see fiery flashes for eight to fourteen days; others see light-sparks and balls, fiery sparks and luminous figures. 'As there light arises without outer light, so these images arise without outer images.' Para 127 (OCR fragmentary): as pressure on the eyeball produces a light-appearance on the retina, it is as it were a decaying ('abklingendes') light; a stray line reads that weak pressure produces a red [colour].",
+      "quote": "A Bey duet Schlag aufs Auge boenen 3 i umher zu ſpruͤhen. Ferner, wenn man i koͤrperlichen Dispoſitionen, beſonders bey erhitzte ie und reger Empfindlichkeit, das Auge erſt ſacht 2... Immer ftäxfer drückt /- fo kann man ein blendend eeertaaͤgliches Licht erregen. [...] Wie dort das Licht ohne aͤußeres Licht, ſo entſtpringen auch dieſe Bilder ohne aͤußre Bilder. [...] Wie wir durch Druck auf den Augapfel e erſcheinung auf der Retina hervorbringen Fön Mid gleichfam ein abklingendes Licht herve",
+      "source_file": "sources/mod-goethe-farbenlehre-physiologische-farben.txt"
+    }
+  ],
+  "cross_refs": [
+    "mod-mueller-phantastische-gesichtserscheinungen"
+  ],
+  "new_leads": [
+    "Scherfer on afterimage colours (cited para 126)",
+    "Darwin, 'ocular spectra' (para 2)",
+    "Purkinje, Beobachtungen zur Physiologie der Sinne (later work on pressure phosphenes, not cited here)"
+  ],
+  "reader_confidence": "high",
+  "confidence_note": "Fraktur OCR loses words at many line-ends; quotes in passages 4-5 are left as the OCR stands; the paraphrases restore the sense, with reconstructions flagged. Para 6 (eyes closed in total darkness) is too garbled to report. Not a spiritual source: kept marginal as the classic mechanism account for afterimage-based light practices (fire kasina, trataka); the light always decays and Goethe treats prolonged persistence as weakness. Quotes in passages 1-3 are joined across line breaks with hyphens removed and a few obvious OCR slips corrected (e.g. 'bu lebte' to 'belebte', 'bs druck “ag' to 'Eindruck nach'); anchors are exact."
+}

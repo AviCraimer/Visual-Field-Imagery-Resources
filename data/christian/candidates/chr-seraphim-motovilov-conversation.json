@@ -1,0 +1,41 @@
+{
+ "stream": "christian",
+ "translator": null,
+ "alt_urls": [],
+ "seen_via": null,
+ "locator_hints": [
+  "light episode, source lines ~1055-1135"
+ ],
+ "priority": 1,
+ "found_via": "gap pass 2",
+ "notes": "The 1903 date of first publication is from general knowledge, not printed in this brochure; the brochure itself is 2011. Nilus's other writings include antisemitic material; this conversation is separate.",
+ "author_identifiable": true,
+ "author_basis": "",
+ "id": "chr-seraphim-motovilov-conversation",
+ "title": "Beseda prepodobnogo Serafima Sarovskogo s N. A. Motovilovym o tseli khristianskoi zhizni (Conversation on the Aim of the Christian Life)",
+ "author": "N. A. Motovilov, recording Seraphim of Sarov",
+ "year": "conversation Nov. 1831; first published 1903; brochure ed. 2011",
+ "edition_cited": "Free-distribution brochure, Kostanai 2011 (archive.org B-001-031-884-ALL)",
+ "tradition": "Russian Orthodox",
+ "language": "Russian",
+ "source_type": "practitioner_testimony",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/B-001-031-884-ALL",
+ "source_files": [
+  "sources/chr-seraphim-motovilov-conversation.txt"
+ ],
+ "summary": "Motovilov's account of his conversation with Seraphim in a snowy forest clearing, late November 1831. Asked how one knows one is in the Spirit, Seraphim takes him by the shoulders; Motovilov cannot look at him because his face has become 'brighter than the sun', lightning streaming from his eyes, on an overcast day; the light extends a great distance around them. Seraphim says Motovilov too is in the same light, otherwise he could not see it, and questions him on the accompanying peace, sweetness, joy, warmth (in falling snow) and fragrance.",
+ "why_relevant": "A rare eyes-open, outdoor, shared perception of light, with the teacher's own interpretation and conditions.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "devotion_or_transmission"
+ ],
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1903",
+  "class": "published_record",
+  "basis": "text first published by S. A. Nilus in 1903 (stated in standard bibliography; the 2011 brochure gives only its own date and the 1831 date of the event, printed in the opening line)"
+ }
+}

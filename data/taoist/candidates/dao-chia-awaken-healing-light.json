@@ -1,0 +1,39 @@
+{
+ "stream": "taoist",
+ "translator": null,
+ "alt_urls": [],
+ "seen_via": null,
+ "expected_mode": "unknown",
+ "expected_onset_pathway": "unknown",
+ "expected_techniques": [],
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "user",
+ "notes": "",
+ "id": "dao-chia-awaken-healing-light",
+ "title": "Awaken Healing Light of the Tao",
+ "author": "Mantak Chia and Maneewan Chia",
+ "year": "1993",
+ "edition_cited": "Healing Tao Books, 1993 (PDF supplied by the user)",
+ "tradition": "Healing Tao (modern Taoist)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "in_copyright",
+ "access": "fulltext_saved",
+ "url": "",
+ "source_files": [
+  "sources/dao-chia-awaken-healing-light.txt"
+ ],
+ "locator_hints": [
+  "chapters on the eyes, the third eye / crystal room, and light in the head"
+ ],
+ "summary": "Mantak Chia's manual of the Healing Tao foundations (Microcosmic Orbit and related practices), supplied by the user, who recalls it containing practices involving the eyes and light. To be read for any method that produces seen light, especially light in the head as a sign of developed shen, and for what it offers someone who sees nothing.",
+ "why_relevant": "User-identified modern Taoist manual with eye and light practices.",
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1993",
+  "class": "published_record",
+  "basis": "Copyright line in the PDF: 1993 Mantak and Maneewan Chia"
+ }
+}

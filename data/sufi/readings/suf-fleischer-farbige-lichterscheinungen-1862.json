@@ -1,0 +1,132 @@
+{
+ "id": "suf-fleischer-farbige-lichterscheinungen-1862",
+ "stream": "sufi",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 4,
+ "practicality": 2,
+ "text_read": "digest (whole excerpt)",
+ "mode": "ambiguous",
+ "mode_evidence": "The author says coloured lights appear to travellers and that 'one or another Sufi undoubtedly really saw these colours'; the shining black seems to 'descend from the head'. He contrasts them with what one sees with the bodily eye and the eye of the spirit, and calls them a net that clothes inner ideas in the colours of sense perception. This points to seen light, but the passage never states eyes open or closed or placement in the visual field.",
+ "eyes": "unspecified",
+ "onset_pathway": "development_only",
+ "onset_evidence": "No induction is given. The lights simply appear to some travellers, change as they move between stations, and are best ignored. Some people see none and still behold God through strong faith. Older masters taught no graded sequence of colours.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "attention_to_spontaneous_phenomena"
+ ],
+ "conditions": {
+  "posture": "",
+  "gaze_or_eye_position": "",
+  "setting": "",
+  "duration_and_schedule": "",
+  "prerequisites": "Travelling the Sufi path through graded stages of purification; guidance of a tested master.",
+  "other": ""
+ },
+ "phenomena": [
+  "colour_fields",
+  "black_light",
+  "blue",
+  "red",
+  "white",
+  "gold_yellow",
+  "green",
+  "smoke_mist_cloud"
+ ],
+ "stages": [
+  {
+   "label": "body purification",
+   "description": "smoke-coloured grey light (Simnani's scheme)"
+  },
+  {
+   "label": "soul purification",
+   "description": "pure blue"
+  },
+  {
+   "label": "heart purification",
+   "description": "pure carnelian red"
+  },
+  {
+   "label": "mind/temperament purification",
+   "description": "pure white"
+  },
+  {
+   "label": "spirit purification",
+   "description": "pure yellow"
+  },
+  {
+   "label": "hiddenness",
+   "description": "shining black that seems to descend from the head; underlying colour is a white purer than before"
+  },
+  {
+   "label": "divinity",
+   "description": "pure green"
+  }
+ ],
+ "what_to_do_with_light": "Refuse and ignore. Turn away from the lights; do not sort them, wait for them, or rest in them. Colours are not proof of progress.",
+ "obstacles_and_fixes": [
+  "Absorption in or expectation of particular colours draws the mind from God; fix by turning away.",
+  "Seeing a colour alongside a mental vision of something higher can confuse and hold back a capable traveller."
+ ],
+ "cautions": [
+  "Best to be dismissive of the coloured lights; they belong to the human subject, appear and vanish.",
+  "Whoever stops at any of them and is content is shut out from the eternal colourless divine light.",
+  "Self-appointed guides without a tested master have fallen into conceit through a single light.",
+  "The uncreated light is colourless and has no moon or sun form."
+ ],
+ "safety_flags": [
+  "tradition_warns_against_seeking"
+ ],
+ "interpretation": "The lights arise from the hidden interior of the human spirit itself, come and go in time, and are clothed in sensory colours as a net to catch inner ideas; the true divine light has no colour.",
+ "practice_summary": "This is a warning text rather than a method. Travellers on the Sufi path may see coloured lights that change as they pass through stages: in one later scheme smoke-grey, blue, carnelian red, white, yellow, a shining black sinking from the head, and green. The author advises not to attend to them, not to separate or classify them, and not to await a given colour at a given time, since this pulls the heart from God. Seeing colours singly or mixed does not show that a stage has been passed. The real sign is that the light so pervades every side of the person that he is as if annihilated or beside himself. Some see no lights and arrive by strong faith. Follow a tested master and do not take pride in any light.",
+ "key_passages": [
+  {
+   "locator": "Fleischer p. 441, source lines 76-90",
+   "about": "caution",
+   "anchor": "Am  besten  ist  es  nun  allerdings,  sich  gegen  diese  farbigen  Lichter",
+   "paraphrase": "The best course is to turn away from the coloured lights, which belong only to the human subject and now appear, now not.",
+   "quote": "",
+   "source_file": "sources/suf-fleischer-farbige-lichterscheinungen-1862.txt"
+  },
+  {
+   "locator": "Fleischer p. 447, source lines 290-310",
+   "about": "onset",
+   "anchor": "nichts  von  jenen  Lichtem  sieht  und  ohne  Vermittlung  von",
+   "paraphrase": "One moved by pure strong faith sees none of these lights and beholds God without anything sensibly perceived.",
+   "quote": "",
+   "source_file": "sources/suf-fleischer-farbige-lichterscheinungen-1862.txt"
+  },
+  {
+   "locator": "Fleischer p. 447, source lines 312-325",
+   "about": "stages",
+   "anchor": "Unzweifelhaft  hat  der  eine  und  andere  Sufi  diese",
+   "paraphrase": "Undoubtedly one or another Sufi actually saw these colours, including the shining black that seems to sink from the head.",
+   "quote": "",
+   "source_file": "sources/suf-fleischer-farbige-lichterscheinungen-1862.txt"
+  },
+  {
+   "locator": "Fleischer p. 448, source lines 361-370",
+   "about": "development",
+   "anchor": "jenes  Licht  alle  Theüe  und  Seiten  seiner  Persönlichkeit",
+   "paraphrase": "Seeing colours is no sign of passing a stage; the sign is that the light pervades every part of the person so fully that he is as if annihilated.",
+   "quote": "",
+   "source_file": "sources/suf-fleischer-farbige-lichterscheinungen-1862.txt"
+  },
+  {
+   "locator": "Fleischer pp. 448-449, source lines 372-394",
+   "about": "interpretation",
+   "anchor": "diese  Lichter  aus  dem  geheimen  Innern  des  menschlichen  Geistes",
+   "paraphrase": "These lights spring from the hidden interior of the human spirit, arise and pass in time, and are clad in the colours of sense.",
+   "quote": "",
+   "source_file": "sources/suf-fleischer-farbige-lichterscheinungen-1862.txt"
+  }
+ ],
+ "cross_refs": [
+  "Simnani (Ala' al-Dawla) seven-colour scheme",
+  "Najm al-Din Kubra"
+ ],
+ "new_leads": [],
+ "reader_confidence": "medium",
+ "confidence_note": "German translation of an anonymous Arabic manual, OCR with doubled spaces; Fleischer's own preface is dismissive."
+}

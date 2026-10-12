@@ -1,0 +1,45 @@
+{
+ "id": "wes-kilner-human-atmosphere",
+ "stream": "western-esoteric",
+ "title": "The Human Atmosphere; or, The Aura Made Visible by the Aid of Chemical Screens",
+ "author": "Walter J. Kilner",
+ "translator": null,
+ "year": "1911",
+ "edition_cited": "New York: Rebman Company, 1911 (archive.org scan humanatmosphereo00kiln)",
+ "tradition": "Edwardian medical aura research (St Thomas's Hospital); later adopted by aura-seeing schools",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/humanatmosphereo00kiln",
+ "alt_urls": [],
+ "source_files": [
+  "sources/wes-kilner-human-atmosphere.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Chapter I 'The Aura of Healthy Persons', pp. 3-12 (c. 2-6% into file): the dicyanin ('spectauranine') screens; warning not to look through them continually; 'we gradually gained the power of seeing the Aura more and more plainly without the intervention of the screen'; room, lighting and background arrangements",
+  "Chapter on the Etheric Double and Inner/Outer Aura (c. 19-21%): use of carmine and blue screens by 'the observer who has gained the power of seeing the Aura without' the dicyanin screen",
+  "pp. 111-113 (c. 32-33%): loss of the power after a holiday and its quick return; visual-purple hypothesis; complementary-colour experiments"
+ ],
+ "summary": "A physician's manual for seeing a faint luminous envelope round the human body. The observer looks at daylight for some seconds through a glass cell of dicyanin dye, then views the unclothed subject against a black background in dim, diffuse light from one direction, standing with his back to a darkened window. Kilner reports that the dye's effect on the eyes is cumulative: he and his colleagues gradually came to see the aura more plainly without the screen and were finally able to dispense with it under suitable conditions; the power weakened after a holiday and returned quickly on resuming. He warns against looking through the screen continually because it harms the eyes, and offers a physiological theory (a change in visual purple extending sensitivity beyond the visible spectrum). He distinguishes an etheric double, an inner and an outer aura and describes their appearance and colours.",
+ "why_relevant": "An eyes-open induction method (dye-screen pre-exposure plus dim-light viewing against black) with an explicit claim that the seen luminosity becomes independent of the aid; borderline on physical induction, so a test case for the inclusion rule.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "flicker_or_device",
+  "darkness_exposure",
+  "gazing_fixed_point"
+ ],
+ "priority": 2,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1911",
+  "class": "published_record",
+  "basis": "archive.org metadata date 1911 for the scanned first edition"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; archive.org search",
+ "notes": "Kilner denies any occult faculty and treats the effect as optical. Dicyanin is no longer made and is toxic; the source itself reports eye damage. The reading agent should decide between keep_marginal and keep on the stimulus-independence claim."
+}

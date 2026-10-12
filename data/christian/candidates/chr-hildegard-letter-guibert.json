@@ -1,0 +1,41 @@
+{
+ "stream": "christian",
+ "translator": null,
+ "alt_urls": [],
+ "seen_via": null,
+ "locator_hints": [
+  "Epistola II 'Hildegardis de modo visionis suae', source lines ~19630-19790"
+ ],
+ "priority": 1,
+ "found_via": "gap pass 2",
+ "notes": "",
+ "author_identifiable": true,
+ "author_basis": "",
+ "id": "chr-hildegard-letter-guibert",
+ "title": "Letter to Guibert of Gembloux on the mode of her visions (Epistola 'de modo visionis suae')",
+ "author": "Hildegard of Bingen",
+ "year": "c. 1175 (Pitra: 1171); ed. 1882",
+ "edition_cited": "J.-B. Pitra, Analecta Sacra VIII (Analecta Sanctae Hildegardis), 1882, pp. 331-334",
+ "tradition": "Medieval Latin Benedictine",
+ "language": "Latin",
+ "source_type": "practitioner_testimony",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/jjoannesbaptist00hildgoog",
+ "source_files": [
+  "sources/chr-hildegard-letter-guibert.txt"
+ ],
+ "summary": "Hildegard, past seventy, describes the visual mode of her lifelong visions: seen in the soul, with outer eyes open, never in ecstasy, awake by day and night, not with the outer senses nor by thinking. The light is not local, far brighter than a cloud carrying the sun, without height, length or breadth, called the 'shadow of the living light'; texts, virtues and deeds shine in it like sun, moon and stars reflected in water. Within it she sometimes, rarely, sees another light, the 'living light', which takes away all sorrow. Her soul is never without the first light, seen like a starless firmament in a bright cloud.",
+ "why_relevant": "Precise first-person phenomenology of a constant, eyes-open, non-ecstatic light, distinguished from both sense perception and imagination.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "attention_to_spontaneous_phenomena"
+ ],
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1882",
+  "class": "published_record",
+  "basis": "Pitra's Analecta Sacra VIII, Monte Cassino 1882 (archive.org metadata)"
+ }
+}

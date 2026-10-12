@@ -1,0 +1,46 @@
+{
+ "id": "snt-dlm-rolling-stone-1974",
+ "stream": "sant-mat",
+ "title": "Rock Me Maharaji: The Little Guru Without a Prayer (Rolling Stone, March 14, 1974)",
+ "author": "Richard Levine, reporting accounts by premies and ex-premies (Bob Hallowitz, 'Alan')",
+ "translator": null,
+ "year": "1974",
+ "edition_cited": "Rolling Stone no. 156, March 14, 1974, pp. 36-50, as reproduced at ex-premie.org/pages/rollings_article.htm",
+ "tradition": "Divine Light Mission (Prem Rawat, 'Knowledge')",
+ "language": "English",
+ "source_type": "practitioner_testimony",
+ "rights": "in_copyright",
+ "access": "reader_extract_saved",
+ "url": "https://ex-premie.org/pages/rollings_article.htm",
+ "alt_urls": [],
+ "source_files": [
+  "sources/snt-dlm-rolling-stone-1974.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Section after the Astrodome press session with Mahatma Ashokanand: the initiation as described by disillusioned ex-premies (dark room of up to 25, mahatma 'presses his knuckles forcefully against each person's eyeballs')",
+  "Washington D.C. ashram section: Bob Hallowitz, neurophysiologist, on the experience after a month of meditation ('an intense white light that filled his head') and his pineal theory",
+  "Background section: 'Alan' on his hand dissolving while meditating and on nothing happening when he tried to force it"
+ ],
+ "summary": "Long 1974 magazine report on the Houston 'Millennium' festival. Two passages matter here. First, the initiation as ex-members described it to the reporter: up to twenty-five people in a darkened room for hours, then a demonstration lasting minutes in which the mahatma presses his knuckles hard on each initiate's closed eyes, producing flashes that the writer attributes to pressure on the optic nerve. Second, a practising premie, the neurophysiologist Bob Hallowitz, says that after a month of daily meditation, at the climax of a recurring nightmare, an intense white light filled his head together with bell sounds, fragrance and vibration: an event not tied to pressing at that moment. Another premie reports perceptual changes while meditating (his hand seeming to dissolve) and says that trying to force a trance produced little.",
+ "why_relevant": "Sets a pressure-induced first light beside a later, apparently stimulus-free light reported by the same movement's practitioner; both dated 1974 and attributed.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "eye_pressure_or_sense_closure",
+  "darkness_exposure",
+  "devotion_or_transmission",
+  "sleep_threshold"
+ ],
+ "priority": 2,
+ "medium": "other",
+ "date_evidence": {
+  "date": "1974-03-14",
+  "class": "published_record",
+  "basis": "Issue number, date and pages as printed on the reproduction page (Rolling Stone, Issue No. 156, March 14, 1974, pp. 36-50); the magazine itself was not seen, and the web page carries no posting date."
+ },
+ "author_identifiable": true,
+ "author_basis": "Bylined journalist (Richard Levine) in Rolling Stone; interviewees named in the article",
+ "found_via": "WebSearch restricted to ex-premie.org",
+ "notes": "Safety: eye pressure (forceful, applied by another person). Reader extract; the last 1,986 characters of the page were not read. The initiation description is second-hand (reporter relaying ex-premies); Hallowitz's account is first-person as quoted by the reporter. The Hallowitz light occurred in a dream/nightmare context: the reading agent should weigh whether it counts as practice-linked."
+}

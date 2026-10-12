@@ -1,0 +1,90 @@
+{
+ "id": "chr-john-of-the-cross-ascent",
+ "stream": "christian",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 3,
+ "practicality": 2,
+ "text_read": "digest only; chapter XI on bodily lights is not in the digest, only the search agent's summary of it",
+ "mode": "ambiguous",
+ "mode_evidence": "John distinguishes visions through the bodily senses, imaginary visions and spiritual visions; the digest shows only the last class, compared to lightning in a dark night, plus the sun-ray-in-dust analogy.",
+ "eyes": "unspecified",
+ "onset_pathway": "unclear",
+ "onset_evidence": "None. The soul is told to empty itself, to remain in darkness and faith, and not to seek visions; light is God's gift. Pure light is unseen by the understanding and shows as darkness.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "concentration_nonvisual",
+  "devotion_or_transmission"
+ ],
+ "conditions": {
+  "posture": "",
+  "gaze_or_eye_position": "",
+  "setting": "",
+  "duration_and_schedule": "",
+  "prerequisites": "Mortification of desire; detachment from forms and images.",
+  "other": "Loving attentiveness to God without meditating on particulars."
+ },
+ "phenomena": [
+  "light_in_the_room",
+  "lightning_flashes",
+  "all_pervading_light"
+ ],
+ "stages": [
+  {
+   "label": "spiritual visions",
+   "description": "As if a door opened on a marvellous light, like lightning flashing in a dark night, then gone but the forms remain."
+  }
+ ],
+ "what_to_do_with_light": "Refuse it and take no pleasure in it; rely on faith in darkness.",
+ "obstacles_and_fixes": [
+  "Forms and figures of meditation block the pure light: let go of particular objects."
+ ],
+ "cautions": [
+  "The devil mimics visions by natural light; delight in them blinds the soul and leads it to take darkness for light.",
+  "The more pure the light the more it is dark to the understanding."
+ ],
+ "safety_flags": [
+  "tradition_warns_against_seeking"
+ ],
+ "interpretation": "The divine light is pure knowledge that appears as darkness to the understanding; visions are secondary.",
+ "practice_summary": "John of the Cross teaches no technique for seeing light and warns against pursuing it. The soul is to be emptied of desires, images and clear perceptions, and to rest in loving attentiveness to God in the dark of faith. When meditation ceases, one attends lovingly without wishing to feel or see more; any particular forms interposed block the pure light, as a thing placed before the eyes. The pure divine light is not perceived by the understanding and may appear as darkness. Supernatural visions, when they come, are like lightning in a dark night; the devil can imitate them by a natural light. Therefore take no pleasure in them, esteem them little and walk by faith.",
+ "key_passages": [
+  {
+   "locator": "Book II ch. XXIV, source lines 10922-10987",
+   "about": "mode",
+   "anchor": "as if a door were\nopened into a lllost marvellous light",
+   "paraphrase": "Spiritual visions are like a door opening on marvellous light, as lightning in a dark night; the devil can mimic them with a natural light.",
+   "quote": "",
+   "source_file": "sources/chr-john-of-the-cross-ascent.txt"
+  },
+  {
+   "locator": "Book II ch. XIV, source lines 7509-7570",
+   "about": "interpretation",
+   "anchor": "pure and simple light is not properly the obj",
+   "paraphrase": "By the sun-ray analogy, pure light cannot be seen unless it falls on objects; so the purest divine light shows as darkness to the understanding.",
+   "quote": "",
+   "source_file": "sources/chr-john-of-the-cross-ascent.txt"
+  },
+  {
+   "locator": "Book II ch. XV, source lines 7787-7828",
+   "about": "method",
+   "anchor": "that it itself abstains from\nevery effort, except only that it attends lovingly upon\nGod",
+   "paraphrase": "Once meditation ceases, the soul only attends lovingly; particular forms interposed obstruct the pure light.",
+   "quote": "",
+   "source_file": "sources/chr-john-of-the-cross-ascent.txt"
+  },
+  {
+   "locator": "Book II ch. XXIV, source lines 13922-13962",
+   "about": "caution",
+   "anchor": "must not take any pleasure in these apprehensions",
+   "paraphrase": "Taking pleasure in apprehensions makes the soul blind and prey to the devil's gradual deception.",
+   "quote": "",
+   "source_file": "sources/chr-john-of-the-cross-ascent.txt"
+  }
+ ],
+ "cross_refs": [],
+ "new_leads": [],
+ "reader_confidence": "medium",
+ "confidence_note": "Digest only; chapter XI not seen."
+}

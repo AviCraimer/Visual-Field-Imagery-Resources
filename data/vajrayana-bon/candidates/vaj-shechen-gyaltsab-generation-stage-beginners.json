@@ -1,0 +1,37 @@
+{
+ "id": "vaj-shechen-gyaltsab-generation-stage-beginners",
+ "stream": "vajrayana-bon",
+ "title": "Explanation of the Generation Stage for Beginners",
+ "author": "Shechen Gyaltsab Pema Namgyal (trans. on Lotsawa House)",
+ "translator": null,
+ "year": "undated web translation",
+ "edition_cited": "",
+ "tradition": "Tibetan Vajrayana",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "in_copyright",
+ "access": "citation_only",
+ "url": "https://lotsawahouse.org/tibetan-masters/shechen-gyaltsab/explanation-of-generation-stage-for-beginners",
+ "alt_urls": [],
+ "source_files": [],
+ "seen_via": null,
+ "locator_hints": [],
+ "summary": "Turn-of-the-20th-century Nyingma instruction on generation stage, translated on Lotsawa House. Found by web search only; the host is outside this run's download list, so it was not opened. Likely relevant to the criteria of clear appearance (gsal snang) for beginners; nothing about its content is asserted here.",
+ "why_relevant": "Primary Tibetan instruction on generation-stage clarity in free English translation.",
+ "expected_mode": "unknown",
+ "expected_onset_pathway": "unknown",
+ "expected_techniques": [
+  "visualization_crossing"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "undated",
+  "class": "undated",
+  "basis": "search result only; no date seen"
+ },
+ "author_identifiable": true,
+ "author_basis": "Published author",
+ "found_via": "gap pass 2",
+ "notes": "Not read: host not reachable from bash and no WebFetch in this pass."
+}

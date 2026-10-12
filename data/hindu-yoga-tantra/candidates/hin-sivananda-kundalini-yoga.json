@@ -1,0 +1,55 @@
+{
+ "id": "hin-sivananda-kundalini-yoga",
+ "stream": "hindu-yoga-tantra",
+ "title": "Kundalini Yoga",
+ "author": "Swami Sivananda",
+ "translator": null,
+ "year": "1935 (first ed.); 10th ed. 1994; WWW edition 1999",
+ "edition_cited": "World Wide Web (WWW) Edition 1999 of the Tenth Edition (1994), The Divine Life Society, marked 'This WWW reprint is for free distribution'; text taken from the copy of that PDF mirrored at archive.org item kundalini-yoga",
+ "tradition": "Divine Life Society (Rishikesh); eclectic hatha/raja yoga with Vedanta",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "in_copyright",
+ "access": "fulltext_saved",
+ "url": "https://www.dlshq.org/download/kundalini-yoga/",
+ "alt_urls": [
+  "https://www.dlshq.org/download2/kundalini.pdf",
+  "https://archive.org/details/kundalini-yoga"
+ ],
+ "source_files": [
+  "sources/hin-sivananda-kundalini-yoga.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Chapter 'Yoga Sadhana', section '5. TRATAKA' (WWW ed. pp. 41-43; file lines c. 3784-3936): ten exercises (deity picture, black dot, Om, star or full moon from an open terrace with the colours and 'huge mass of light' that follow, open sky, own pupil in a mirror, brow point or nose-tip, inner chakras, ghee-lamp flame, sun only with a guide); instructions: start at two minutes, closed-eye alternative for weak eyes, sun-gazing precautions",
+  "Section '12. YONI MUDRA' (file lines c. 5545-5555)",
+  "Section 'ANAHATA SOUNDS' and Laya Yoga with Sambhavi mudra (file lines c. 5630-5690)",
+  "Chapter 'Yoga Addenda', section 'MYSTIC EXPERIENCE - VISIONS OF LIGHTS' (WWW ed. pp. 88-89; file lines c. 6580-6660): pin-point white light at the brow, coloured 'Tanmatric' lights, balls of white or red light, growth over months, steadiness with 2-3 hours' practice, lights lasting 10-15 minutes, do not shake the body, 'Do not waste your time in looking at these visions'",
+  "'ELEMENTALS' and 'LIFE IN THE ASTRAL PLANE' following (file lines c. 6660-6700)",
+  "Early chapter list of signs that Kundalini is awake (file lines c. 500-520; repeated c. 9345-9360)"
+ ],
+ "summary": "Sivananda's most detailed treatment, freely distributed by his own society. The trataka section lists ten gazing objects and reports what is seen: gazing at a bright star or the full moon from an open terrace brings different coloured lights, then a single colour, a 'huge mass of light all around you', doubled moons or none; the gazed object changes into something else. He gives a starting dose of two minutes, a closed-eye variant at the brow point for those who cannot hold the gaze, and firm warnings about sun-gazing without a guide. A separate section describes lights in closed-eye meditation: first a pin-point white light at the brow, then coloured lights, sparks and small floating balls; after some months a blaze 'bigger than the sun'; unsteady at first, steadier with two or three hours of regular sitting, eventually lasting ten or fifteen minutes. Onset may take days or six to nine months, and some never see them yet progress. He tells the student to keep still and breathe slowly, and not to linger over the visions.",
+ "why_relevant": "Explicit modern instructions with durations, a developmental sequence, a statement about those who see nothing, and a clear caution against dwelling on the lights.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "gazing_fixed_point",
+  "light_source_gazing",
+  "sky_or_space_gazing",
+  "eye_position",
+  "concentration_nonvisual",
+  "eye_pressure_or_sense_closure",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1999",
+  "class": "published_record",
+  "basis": "edition statement printed in the file: 'Tenth Edition: 1994 ... World Wide Web (WWW) Edition: 1999 ... This WWW reprint is for free distribution ... (c) The Divine Life Trust Society'; author died 1963"
+ },
+ "author_identifiable": true,
+ "author_basis": "Swami Sivananda (1887-1963), founder of the Divine Life Society; text issued by the Society itself",
+ "found_via": "seed lead; WebSearch on dlshq.org located /download/kundalini-yoga/; same PDF found on archive.org",
+ "notes": "In copyright but released by the publisher for free distribution, so the full text is saved; record passages as locator + paraphrase + anchor, no long quotes. The phrase 'float about before the mind's eye' sits beside 'when the eyes are closed ... you will notice' and 'Lights will appear before the eyes': the reading agent should weigh mode from the whole passage. Sun-gazing is mentioned with a warning (safety flag). Much of the lights section recurs almost word for word in Sivananda's Concentration and Meditation, which the Society does not offer free."
+}

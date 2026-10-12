@@ -1,0 +1,53 @@
+{
+ "id": "hin-shiva-samhita-vasu",
+ "stream": "hindu-yoga-tantra",
+ "title": "The Siva Samhita",
+ "author": "Anonymous (c. 15th-17th c.)",
+ "translator": "Rai Bahadur Srisa Chandra Vasu",
+ "year": "c. 1500-1700 text; translation 1914",
+ "edition_cited": "In: The Yoga Sastra (Sacred Books of the Hindus vol. XV), Allahabad: Sudhindranatha Vasu, Panini Office, 1914; OCR of archive.org scan india.history.resource.88861 (Siva Samhita occupies roughly lines 3700-8100 of the saved file)",
+ "tradition": "Hatha yoga with Srividya / Advaita colouring",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/india.history.resource.88861",
+ "alt_urls": [
+  "https://archive.org/details/sacredbooksofthehindusvol15sivasamhitawithsanskrittextscvasu1914_202002",
+  "https://archive.org/details/SivaSamhita"
+ ],
+ "source_files": [
+  "sources/hin-vasu-yoga-sastra-sbh15.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Chapter 5, verses 15-21: 'Invocation of the shadow (pratikopasana)' with the editor's 'How to invoke' note (file lines c. 6456-6517)",
+  "Chapter 5, verses 22-26: closing ears, eyes, nostrils and lips with the fingers; 'sees his soul in the shape of light' (file lines c. 6519-6540)",
+  "Chapter 5, verses 27-29: the anahata sounds that follow from the same practice; absorption in chidakasa",
+  "Chapter 5, verses 36-40: pressing the two 'vijnana nadis' with two fingers",
+  "Chapter 5, later verses on the ajna lotus and on fixing the gaze at the nose-tip / between the eyebrows: search 'light', 'flame', 'lamp', 'brilliant' in lines 6600-8100",
+  "Chapter 4: yoni-mudra (file lines c. 5780-5860; here a perineal contraction with visualisation, not the finger closure)"
+ ],
+ "summary": "Chapter 5 holds two induction methods. Pratikopasana (5.15-21): in a clear sunlit sky, at sunrise or by moonlight, fix the gaze steadily on the neck of one's own shadow, then look up into the sky, where a full grey figure is seen; this is an afterimage method, though the text treats the figure as divine and omen-bearing, and says that with constant practice one 'begins at last to see it in his heart'. Sense closure (5.22-26): ears stopped with thumbs, eyes with index fingers, nostrils with middle fingers, lips pressed with the rest, air confined; the yogi 'sees his soul in the shape of light', and seeing it unobstructed for a moment is said to free from sin; with gradual practice the inner sounds follow. Later verses of the chapter describe lights at the brow centre and elsewhere during chakra contemplation.",
+ "why_relevant": "Explicit physical-induction instructions (afterimage of the shadow; eye pressure with breath retention) with a claim of development toward light seen inwardly without the stimulus.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "afterimage_retention",
+  "eye_pressure_or_sense_closure",
+  "breath_control",
+  "gazing_fixed_point",
+  "sound_or_mantra"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1914",
+  "class": "published_record",
+  "basis": "title page of the scanned volume prints 'Printed by Apurva Krishna Bose at the Indian Press, 1914'; archive.org metadata for india.history.resource.88861 gives date 1915"
+ },
+ "author_identifiable": true,
+ "author_basis": "Classical Sanskrit text; translator S. C. Vasu (1861-1918)",
+ "found_via": "seed lead; archive.org title search 'siva samhita'",
+ "notes": "The 'How to invoke' paragraph under 5.18 is Vasu's editorial note, not a verse. Safety: 5.16 has the gaze in a 'sun-lit sky' at the shadow, not at the sun, but reading agent should set flags as the text warrants (eye_pressure, breath_retention). Verse numbering in Vasu differs from Mallinson's critical edition."
+}

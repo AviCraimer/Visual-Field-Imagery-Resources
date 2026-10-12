@@ -1,0 +1,52 @@
+{
+ "id": "snt-sant-sevi-harmony-of-all-religions",
+ "stream": "sant-mat",
+ "title": "Harmony of All Religions (Sarvadharma Samanvaya)",
+ "author": "Sant Sevi Ji Maharaj (1920-2007)",
+ "translator": "Veena Rani Howard",
+ "year": "English edition 2003, reissued 2006",
+ "edition_cited": "Santmat Society of North America, first English edition (201 copies), copyright 2003 and 2006; archive.org item HarmonyOfAllReligions",
+ "tradition": "Santmat of Bihar (Maharshi Mehi lineage)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "in_copyright",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/HarmonyOfAllReligions",
+ "alt_urls": [
+  "https://archive.org/details/harmonyofallreligions_201910"
+ ],
+ "source_files": [
+  "sources/snt-sant-sevi-harmony-of-all-religions.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "File c. 1425-1500 (introduction to the four practices): drishti yoga as gazing on a single infinitesimal point between the eyebrows; 'advised neither to focus forcefully nor manipulate the eyeballs'",
+  "File c. 2980-3030 (Vedic chapter): closing the eyes one sees darkness, 'the realm of darkness'; 'You must first get yourself out of darkness. How...'",
+  "File c. 3070-3110: bindu and sound 'come and receive you'; focus on bindu",
+  "File c. 3220-3265: 'focused gazing' (pashyan dhyana), Jabaladarshana Upanishad citation, warning about the eyeballs",
+  "File c. 3355: systems that close the ears and press (contrast)",
+  "File c. 3940-3955 (Jain chapter): 'The bright bindu point emerges when...'; file c. 4200-4210 bindu dhyana as preksha dhyana",
+  "File c. 4632-4640: names for drishti yoga across traditions"
+ ],
+ "summary": "Sant Sevi, Mehi's successor, restates the Santmat practice inside a survey of Vedic, Jain, Buddhist, Christian, Islamic and Sikh sources. The practical passages describe what is met on closing the eyes (darkness, identified as the realm one must first leave) and the method for leaving it: after mantra and form meditation, gaze on a single infinitesimal point in the middle of the inner darkness between the eyebrows, without forcing the focus or manipulating the eyeballs; when the practitioner is established in focusing 'the beams of both eyes' on one point, a bright bindu emerges; Mehi is quoted as saying bindu and sound 'will come and receive you'. He equates this 'focused gazing' with practices named in the Upanishads and with Jain preksha dhyana, and, for the sound stage, criticises systems that press the ears with the hands. Slower and more discursive than Mehi's manual but adds explanation and the lineage's comparative claims.",
+ "why_relevant": "Second teacher-level statement of the drishti-yoga route to first light, with explicit prohibition of eyeball manipulation and a description of how the bright point emerges.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "eye_position",
+  "gazing_fixed_point",
+  "sound_or_mantra",
+  "darkness_exposure"
+ ],
+ "priority": 2,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "2003",
+  "class": "published_record",
+  "basis": "Copyright page in saved text: 'Copyright (c) 2003 by Santmat Society of North America ... All rights reserved Copyright (c) 2006, First English Edition 201 copies'; archive.org metadata year 2003."
+ },
+ "author_identifiable": true,
+ "author_basis": "Sant Sevi Ji Maharaj, head of the Maharshi Mehi Ashram, Kuppaghat; publisher Santmat Society of North America",
+ "found_via": "seed lead; archive.org title search 'harmony of all religions'",
+ "notes": "In copyright; uploaded by the publisher's webmaster under CC BY-NC-ND 3.0. Most of the book is comparative religion: the reading agent should go straight to the located passages. OCR is clean."
+}

@@ -1,0 +1,120 @@
+{
+ "id": "hin-avalon-serpent-power",
+ "stream": "hindu-yoga-tantra",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 5,
+ "practicality": 4,
+ "text_read": "Full text grep for light vocabulary (jyotih, sparks, lightning, bindu); read in full Introduction 'Practice' pp. 221-224 (file lines 10960-11140) and Shat-chakra-nirupana vv. 36-37 with Kalicharana's commentary (file lines 20095-20310).",
+ "mode": "ambiguous",
+ "mode_evidence": "The verse says the yogi 'sees ... sparks of fire distinctly shining', and the commentary insists 'These sparks of Fire shine quite distinctly', but the commentator also glosses them as sparks of light that 'appear before his mental vision'. The rasananda passage of the Introduction says the Light (Jyotih) 'is seen'. Jyotirdhyana proper is an imaginal practice (meditating on the candle-like flame of the jivatma in muladhara or the Om-flame between the brows) with no claim of crossing.",
+ "eyes": "closed",
+ "onset_pathway": "induction",
+ "onset_evidence": "Gives a procedure claimed to produce the sparks: Yoni-mudra (heels at anus and on foot, crow-beak inhalation, thumbs close ears, index fingers on eyes, middle fingers on nostrils, rest on mouth, kumbhaka, meditation on the mantra/pranava at the ajna), until the chetas 'by repeated practice' dissolves there; first sparks of fire above the triangle, then a steady light like the morning sun. Alternative: in a silent place close both ears with puraka and kumbhaka until nada is heard; 'by daily practice' the Anahata sound is heard and the Light seen. Prerequisite: the knowledge is gained 'by the service of Parama-guru' and 'not by ten million of Shastras'. No time scale.",
+ "stimulus_independence": "unclear",
+ "techniques": [
+  "eye_pressure_or_sense_closure",
+  "breath_control",
+  "posture_or_body_lock",
+  "sound_or_mantra",
+  "concentration_nonvisual",
+  "visualization_crossing",
+  "devotion_or_transmission"
+ ],
+ "conditions": {
+  "posture": "Siddhasana-type seat (left heel at anus, right heel on left foot), body, neck and head straight",
+  "gaze_or_eye_position": "Eyes closed by index fingers; attention at the ajna, above the triangle of the pranava",
+  "setting": "Silent place (for ear-closing practice)",
+  "duration_and_schedule": "Repeated / daily practice; no durations given",
+  "prerequisites": "Instruction from and service of a guru",
+  "other": "Kaki-mudra inhalation; khechari mudra given as an alternative reading of 'closing the house'"
+ },
+ "phenomena": [
+  "sparks_or_points",
+  "lamp_or_flame",
+  "sun_disc",
+  "all_pervading_light",
+  "lightning_flashes"
+ ],
+ "stages": [
+  {
+   "label": "sparks of fire (Pavana-suhridam kana)",
+   "description": "Sparks distinctly shining within and above the triangle at the ajna, once the mind dissolves there under Yoni-mudra"
+  },
+  {
+   "label": "Jyotih",
+   "description": "After the sparks, a light in the form of a flaming lamp, lustrous like the morning sun, glowing 'between the Sky and the Earth', extending from muladhara to sahasrara"
+  },
+  {
+   "label": "nada then jyotih (rasananda)",
+   "description": "Ear-closing with kumbhaka: sounds from cricket chirp to kettledrum, then the Anahata sound, then the Light with Manas in it is seen"
+  }
+ ],
+ "what_to_do_with_light": "Treat the light as the place where Bhagavan manifests; continue pranava-yoga until manas dissolves (unmani). No instruction to refuse it.",
+ "obstacles_and_fixes": [
+  "The mind cannot be steadied unless completely detached from the material sphere; Yoni-mudra does this"
+ ],
+ "cautions": [
+  "Knowledge comes only through a guru's instruction, not from books"
+ ],
+ "safety_flags": [
+  "eye_pressure",
+  "breath_retention",
+  "transmission_required_by_tradition"
+ ],
+ "interpretation": "The sparks surround the flame-like Atma shaped like the pranava; the following light is the Jyotih in which the Lord manifests in fulness.",
+ "practice_summary": "Sit with the left heel at the anus and the right heel on the left foot, spine, neck and head straight. Draw air in through lips pursed like a crow's beak and fill the belly. Close the ears with the thumbs, the eyes with the index fingers, the nostrils with the middle fingers and the mouth with the remaining fingers; hold the breath and, senses withdrawn, meditate on the pranava at the point between the brows. With repeated practice, as the mind dissolves there, sparks of fire appear distinctly shining above the triangle at the ajna; after the sparks comes a light like a flaming lamp, bright as the morning sun. An alternative from Woodroffe's introduction: in a silent place close both ears, inhale and hold, until inner sounds appear; with daily practice the Anahata sound comes and the Light is seen. The commentator insists the method is learnt from a guru.",
+ "key_passages": [
+  {
+   "locator": "Shat-chakra-nirupana v. 36, file lines c. 20100-20107",
+   "about": "onset",
+   "anchor": "and in the space above (the triangle) sparks of fire",
+   "paraphrase": "When the yogi closes the house and the mind dissolves at the ajna by repeated practice, he sees sparks of fire distinctly shining.",
+   "quote": "When the Yogi closes the house which hangs without support, the knowledge whereof he has gained by the service of Parama-guru, and, when the Chetas by repeated practice becomes dissolved in this place which is the abode of uninterrupted bliss, he then sees within the middle of and in the space above (the triangle) sparks of fire distinctly shining.",
+   "source_file": "sources/hin-avalon-serpent-power.txt"
+  },
+  {
+   "locator": "Commentary on v. 36, file lines c. 20150-20165 (Yoni-mudra definition, from Sharada Tilaka XXV)",
+   "about": "method",
+   "anchor": "Then, with your lips formed to resemble a crow’s beak,i draw in air and fill therewith your belly.",
+   "paraphrase": "Yoni-mudra: posture, crow-beak inhalation, fingers closing ears, eyes, nostrils and mouth, breath held, meditation on the mantra.",
+   "quote": "",
+   "source_file": "sources/hin-avalon-serpent-power.txt"
+  },
+  {
+   "locator": "Commentary on v. 36, file line c. 20137",
+   "about": "mode",
+   "anchor": "sparks of light resembling sparks of fire appear before his mental",
+   "paraphrase": "Commentator's gloss: the sparks appear before the mental vision, a hedge against the verse's 'sees'.",
+   "quote": "",
+   "source_file": "sources/hin-avalon-serpent-power.txt"
+  },
+  {
+   "locator": "v. 37 commentary, file lines c. 20283-20286",
+   "about": "stages",
+   "anchor": "light. After seeing the fiery sparks they see the light.",
+   "paraphrase": "Sequence: sparks first, then the steady Light like the morning sun.",
+   "quote": "",
+   "source_file": "sources/hin-avalon-serpent-power.txt"
+  },
+  {
+   "locator": "Introduction, Practice, printed p. 222, file lines c. 11040-11052",
+   "about": "method",
+   "anchor": "By daily practice the Anahata sound is heard, and the",
+   "paraphrase": "Rasananda yoga (Gheranda): ear closure with puraka and kumbhaka; nada, then the Light with Manas in it is seen.",
+   "quote": "",
+   "source_file": "sources/hin-avalon-serpent-power.txt"
+  }
+ ],
+ "cross_refs": [
+  "hin-gheranda-samhita-vasu",
+  "hin-shiva-samhita-vasu",
+  "hin-thirty-minor-upanishads-aiyar"
+ ],
+ "new_leads": [
+  "Sharada Tilaka Tantra ch. XXV vv. 45-46 (source of the Yoni-mudra definition)"
+ ],
+ "reader_confidence": "high",
+ "confidence_note": "OCR is noisy; quote cleaned of OCR errors in a few words ('Chetas', 'house which hangs'). Anchors taken from clean runs."
+}

@@ -1,0 +1,52 @@
+{
+ "id": "hin-rama-prasad-natures-finer-forces",
+ "stream": "hindu-yoga-tantra",
+ "title": "The Science of Breath and the Philosophy of the Tattvas (Nature's Finer Forces), with a translation of the Shivagama / Shiva Svarodaya",
+ "author": "Rama Prasad (essays); anonymous Shiva Svarodaya (translated text)",
+ "translator": "Rama Prasad",
+ "year": "1890; 2nd ed. 1894",
+ "edition_cited": "London: Theosophical Publishing Society, 1894 (second and revised edition); OCR of the Google/HathiTrust scan hosted at archive.org item rama-prasad-sb",
+ "tradition": "Svarodaya (breath-and-tattva) tantra, presented by a Theosophical-era Indian pandit",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/rama-prasad-sb",
+ "alt_urls": [
+  "https://archive.org/details/in.ernet.dli.2015.42654",
+  "https://archive.org/details/in.ernet.dli.2015.22482"
+ ],
+ "source_files": [
+  "sources/hin-rama-prasad-natures-finer-forces.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Essay 'Yoga - the Soul', printed pp. 163-165 (file lines c. 6940-7005): pranayama, 'sensuous lucidity', 'I can affirm this by personal experience ... Bright sheets of the green ... make their appearance anywhere about me - in the room, in the heavens'; 'The power can be made to show itself by a sustained attempt to look into space, or anything else, as the moon, a star, a jewel'",
+  "Translation 'The Science of Breath', verses 146-151, printed p. 211 (file lines c. 8853-8880): shut ears with thumbs, nostrils, mouth and eyes with the fingers; the five tattvas 'gradually known as the yellow, the white, the red, the blue, and the spotted'; mirror-and-breath test; shapes",
+  "Translation verses 304-313, printed pp. 230-231 (file lines c. 9757-9800): the shadow-figure (Chhaya Purusha): back to the sun, gaze at the neck of the shadow for 108 repetitions of a mantra, then look up into the sky; six months and two years of practice; omen colours",
+  "Earlier essays: chart of head colours referred to as p. 43; search 'colour', 'tattvic' for further practice remarks"
+ ],
+ "summary": "A translation of the Shiva Svarodaya with long explanatory essays. Two classical induction methods are given as numbered verses. Sense closure (146-151): with thumbs on the ears and fingers on nostrils, mouth and eyes, the five tattvas come to be known by colour (yellow, white, red, blue, spotted) and by shape. Shadow-figure (304-313): stand alone with back to the sun, look attentively at the neck of one's shadow for as long as 108 calm repetitions of 'Om kram parabrahmane namah', then look up into the sky, where a figure appears; daily practice for six months and two years is specified, with omens read from its colour and missing limbs. In the essays Rama Prasad adds first-person testimony: after pranayama and trained attention he sees 'bright sheets' of green, white and red in the room, the sky, on a table or wall, and uses them to forecast rain; he says the faculty can be brought out by a sustained attempt to look into space, or at the moon, a star or a jewel.",
+ "why_relevant": "Explicit physical-induction recipes (eye and sense closure; shadow afterimage with a timed gaze) plus a rare nineteenth-century first-person report of open-eyed colours seen in external space, with the method the author credits.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "eye_pressure_or_sense_closure",
+  "afterimage_retention",
+  "sky_or_space_gazing",
+  "gazing_fixed_point",
+  "breath_control",
+  "sound_or_mantra"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1894",
+  "class": "published_record",
+  "basis": "HathiTrust catalogue header at the top of the OCR file prints 'London, Theosophical publishing society; 1894' and 'Public Domain in the United States'; archive.org metadata date 1894"
+ },
+ "author_identifiable": true,
+ "author_basis": "Rama Prasad, M.A., Meerut; essays first printed in The Theosophist in the late 1880s",
+ "found_via": "own lead (tattva-colour literature); archive.org search 'science of breath' + Prasad",
+ "notes": "The Golden Dawn's tattva-vision practice derives from this book; that reception belongs to the western-esoteric stream. Rama Prasad's interpretive frame (colours as 'tattvic' ether states, auras, weather prediction) is his own and should be kept apart from the description of what is seen. Safety: the shadow method has the practitioner's back to the sun. OCR has scattered 'Google' watermark lines and small errors ('Kuowing', 'cau')."
+}

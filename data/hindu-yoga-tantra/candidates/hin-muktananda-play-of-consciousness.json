@@ -1,0 +1,37 @@
+{
+ "stream": "hindu-yoga-tantra",
+ "translator": null,
+ "alt_urls": [],
+ "seen_via": null,
+ "expected_mode": "unknown",
+ "expected_onset_pathway": "unknown",
+ "expected_techniques": [],
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "user",
+ "notes": "Text needed. Leads: user's paper copy (photos of the light chapters); online talks or essays on the Blue Pearl.",
+ "id": "hin-muktananda-play-of-consciousness",
+ "title": "Play of Consciousness (Chitshakti Vilas)",
+ "author": "Swami Muktananda",
+ "year": "1971 (English 1974; rev. eds.)",
+ "edition_cited": "Not obtained",
+ "tradition": "Siddha Yoga",
+ "language": "English",
+ "source_type": "practitioner_testimony",
+ "rights": "in_copyright",
+ "access": "citation_only",
+ "url": "",
+ "source_files": [],
+ "locator_hints": [
+  "the chapters on the red aura, white flame, black light and the Blue Pearl (nila bindu)"
+ ],
+ "summary": "Muktananda's spiritual autobiography, describing a sequence of lights seen in meditation (red, white, black, and the Blue Pearl) as stages of his sadhana under Bhagawan Nityananda, arising through shaktipat, mantra and devotion. NOT YET READ: the text could not be obtained in this run. The user has a paper copy and may photograph the relevant chapters; Muktananda's published talks and essays on the Blue Pearl may also be available online and should be looked for.",
+ "why_relevant": "One of the most detailed modern first-person sequences of seen coloured lights; named by the user as a gap.",
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1971",
+  "class": "published_record",
+  "basis": "Well-known publication history; edition not yet in hand"
+ }
+}

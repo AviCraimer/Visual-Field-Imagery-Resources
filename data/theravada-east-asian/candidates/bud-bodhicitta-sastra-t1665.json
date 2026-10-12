@@ -1,0 +1,45 @@
+{
+ "id": "bud-bodhicitta-sastra-t1665",
+ "stream": "theravada-east-asian",
+ "title": "Jingangding yuqie zhong fa anouduoluo sanmiao sanputi xin lun (Bodaishinron; Treatise on Bodhicitta), T1665",
+ "author": "attributed to Nagarjuna; translated/compiled by Amoghavajra (705-774)",
+ "translator": null,
+ "year": "8th c.; Taisho edition vol. 32 (1924-1934)",
+ "edition_cited": "Taisho T32 no. 1665, CBETA XML P5 (GitHub)",
+ "tradition": "Esoteric Buddhism (Chinese Mijiao; foundational for Shingon)",
+ "language": "Classical Chinese",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://raw.githubusercontent.com/cbeta-org/xml-p5/master/T/T32/T32n1665.xml",
+ "alt_urls": [
+  "https://cbetaonline.dila.edu.tw/T1665"
+ ],
+ "source_files": [
+  "sources/bud-bodhicitta-sastra-t1665.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Samadhi section T32.573c10-c28: contemplating the white moon-disc in the heart (月輪觀)",
+  "A-syllable verse and its gloss T32.574b05-b11: 八葉白蓮一肘門，炳現阿字素光色; 若纔見者...若常見者...廓周法界"
+ ],
+ "summary": "The Indian/Chinese treatise that Kukai made the scriptural basis of Shingon's moon-disc (gachirinkan) and A-syllable (ajikan) contemplations. The practitioner contemplates a white moon-disc within the heart; by this one 'illuminates and sees' the original mind as clear and pure like full-moon light pervading space; 'I see my own mind shaped like a moon-disc'. The A-syllable verse places a shining white A on an eight-petalled white lotus a cubit across; the gloss says that if one barely sees the round bright pure consciousness, that is called seeing ultimate truth, if one sees it constantly one enters the first bhumi, and it is then gradually expanded to fill the dharmadhatu and contracted at will.",
+ "why_relevant": "Primary text for whether the Shingon disc is held as an image or 'seen'; uses 見 with graded thresholds (glimpsing vs constant seeing) and expansion/contraction.",
+ "expected_mode": "imaginal_crossing",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "visualization_crossing",
+  "letter_or_symbol_contemplation"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1924-1934",
+  "class": "published_record",
+  "basis": "Taisho Tripitaka vol. 32, digitised by CBETA"
+ },
+ "author_identifiable": true,
+ "author_basis": "Amoghavajra (attrib.)",
+ "found_via": "gap pass 2",
+ "notes": "Kakuban's Ajikan texts and Kukai's commentaries are not in Taisho/CBETA; not obtained."
+}

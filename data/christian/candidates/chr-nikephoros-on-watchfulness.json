@@ -1,0 +1,43 @@
+{
+ "stream": "christian",
+ "translator": null,
+ "alt_urls": [],
+ "seen_via": null,
+ "locator_hints": [
+  "final section 'Τοῦ αὐτοῦ Νικηφόρου': breath and heart method"
+ ],
+ "priority": 1,
+ "found_via": "gap pass 2",
+ "notes": "",
+ "author_identifiable": true,
+ "author_basis": "",
+ "id": "chr-nikephoros-on-watchfulness",
+ "title": "Logos peri nepseos kai phylakes kardias (On Watchfulness and the Guarding of the Heart)",
+ "author": "Nikephoros the Monk (Nikephoros the Hesychast)",
+ "year": "13th c.; ed. 1893",
+ "tradition": "Byzantine hesychasm",
+ "url": "https://archive.org/details/Dobrotolyubie1793",
+ "source_files": [
+  "sources/chr-nikephoros-on-watchfulness.txt"
+ ],
+ "summary": "Nikephoros's anthology of patristic sayings on attention, ending with his own method: sit, collect the mind, lead it in with the breath through the nostrils into the heart, keep it there with the Jesus Prayer; if this fails, repeat the prayer in the 'reasoning faculty' in the chest until the heart's entrance opens. The fruits named are joy, love, peace. No seen light is described or promised.",
+ "why_relevant": "Seed lead: the classic hesychast psychophysical method; checked for any light content.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "breath_control",
+  "sound_or_mantra",
+  "posture_or_body_lock"
+ ],
+ "language": "Greek",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1893",
+  "class": "published_record",
+  "basis": "Second Greek edition of the Philokalia, Athens 1893 (archive.org metadata and title page); text first printed Venice 1782"
+ },
+ "edition_cited": "Philokalia ton ieron neptikon, Athens 1893, djvu OCR from archive.org"
+}

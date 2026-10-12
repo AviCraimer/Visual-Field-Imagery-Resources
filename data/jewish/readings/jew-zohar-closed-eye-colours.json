@@ -1,0 +1,117 @@
+{
+ "id": "jew-zohar-closed-eye-colours",
+ "stream": "jewish",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 5,
+ "practicality": 2,
+ "text_read": "repaired digest plus full source checked for Aramaic-only passages: Vaera 2, Vayera 4 (Sitrei Torah), Bereshit 7 para 6 (I:18b), Yitro 1 para 49 (II:69a), Bereshit 66 paras 15-18 (I:42a-43a, not in digest; read in source lines 337-341)",
+ "mode": "perceptual",
+ "mode_evidence": "The text locates the vision in the physical eye: 'close thine eye and press thine eyeball', 'radiating and luminous colours which can only be seen with closed eyes', seen in the rolling or turning of the eye. The open eye sees the non-luminous mirror; the closed eye sees the luminous one. The Soncino editor reads the colours as not attached to any material background.",
+ "eyes": "closed",
+ "onset_pathway": "induction",
+ "onset_evidence": "A one-line instruction with no prerequisites: close the eye and turn/roll the eyeball (Aramaic satim einakh ve-ascher galgalakh; Soncino 'press'), and shining colours appear that are given only to closed eyes. Sitrei Torah grades three ways of seeing, the third a shining mirror seen only in the rolling of the fully shut eye, which cannot be held. Bereshit 66 para 17 states the dependence physiologically: were it not for the eye's visible colours, the shining colours would not appear when the eye is shut and rolled. No time scale, no training. Practice or figure: the text treats it as a real, repeatable act that the reader is told to perform, but always as a demonstration ('ve-raza da', 'this mystery') of the relation of revealed to hidden Sefirot, never as a cultivated contemplative regimen; Bereshit 66 uses it explicitly as a simile ('like that sight seen in closing when the eye rolls'). Full seeing of the higher colours remains Moses's alone.",
+ "stimulus_independence": "unclear",
+ "techniques": [
+  "eye_pressure_or_sense_closure",
+  "eye_position"
+ ],
+ "conditions": {
+  "posture": "",
+  "gaze_or_eye_position": "eye shut, eyeball pressed or rolled",
+  "setting": "",
+  "duration_and_schedule": "",
+  "prerequisites": "none stated",
+  "other": "Balaam looked at the light with a 'closed eye' and saw a small light as through a wall"
+ },
+ "phenomena": [
+  "colour_fields",
+  "white",
+  "red",
+  "green",
+  "lamp_or_flame",
+  "rainbow"
+ ],
+ "stages": [
+  {
+   "label": "three colours at a distance, narrowed, and in the rolling of the shut eye",
+   "description": "Sitrei Torah: the third is a mirror of light seen only in the closed rolling eye; one cannot stay in that colour."
+  },
+  {
+   "label": "non-luminous vs luminous mirror",
+   "description": "The open eye sees the lightless mirror (seeing); the closed eye sees the luminous mirror (knowing)."
+  },
+  {
+   "label": "sparkling radiance in the rolled closed eye (zahara natzitz)",
+   "description": "Bereshit 66 para 16: the contents of the palaces are like the sight seen in closing when the eye rolls, where a sparkling radiance appears; what is not seen in that rolling is the spirit ruling over all."
+  }
+ ],
+ "what_to_do_with_light": "Use the visible colours as a means to apprehend the hidden ones; the Patriarchs knew the concealed colours through the revealed ones. The vision cannot be held, per Sitrei Torah.",
+ "obstacles_and_fixes": [
+  "The luminous colour cannot be kept in view (Sitrei Torah)."
+ ],
+ "cautions": [
+  "Balaam saw only a thin streak of light through the husk, knowing not what he said; the vision is not trustworthy when the seer is impure.",
+  "Only Moses beheld the highest colours."
+ ],
+ "safety_flags": [
+  "eye_pressure"
+ ],
+ "interpretation": "The closed-and-rolled-eye colours are a physical demonstration of the luminous mirror above the visible, non-luminous colours; the Zohar uses this real effect as the model for the hidden Sefirot, for the radiance hidden in the pupil (I:18b), and for the linked palaces of prayer (I:42a-43a).",
+ "practice_summary": "The Zohar's instruction is brief: close the eye and press or turn the eyeball, and radiant, shining colours appear that cannot be seen with open eyes. A parallel text distinguishes three ways of seeing: from afar with the eye narrowed, with the eye nearly shut and opened a little, and a radiance seen only in the rolling of the fully closed eye, which the seer cannot hold steady. The open eye shows only the lightless mirror. The visible colours, white, red and green in the bow, serve as a way to infer the hidden luminous ones. No preparation, duration or troubleshooting is given. Balaam's looking with a 'closed eye' shows the same method with a flawed seer.",
+ "key_passages": [
+  {
+   "locator": "Zohar II:23a-b (Vaera 2), para 7, source lines 1-54",
+   "about": "method",
+   "anchor": "To understand this mystery, close thine eye and press thine eyeball, and thou wilt discern radiating",
+   "paraphrase": "Close the eye and press the eyeball, and shining, luminous colours are discerned that can be seen only with closed eyes.",
+   "quote": "To understand this mystery, close thine eye and press thine eyeball, and thou wilt discern radiating and luminous colours which can only be seen with closed eyes.",
+   "source_file": "sources/jew-zohar-closed-eye-colours.txt"
+  },
+  {
+   "locator": "Zohar II:23a-b (Vaera 2), para 9, source lines 1-54",
+   "about": "mode",
+   "anchor": "The closed eye sees the mirror of light: the open eye sees",
+   "paraphrase": "The closed eye sees the luminous mirror; the open eye sees the lightless one.",
+   "quote": "The closed eye sees the mirror of light: the open eye sees the mirror which is not luminous.",
+   "source_file": "sources/jew-zohar-closed-eye-colours.txt"
+  },
+  {
+   "locator": "Zohar I:97a-b (Vayera 4), para 3, source lines 1-54",
+   "about": "stages",
+   "anchor": "גוון תליתאה הוא זהר אספקלריאה דלא אתחזי ביה כלל בר בגלוגולא דעינא",
+   "paraphrase": "The third colour is the shining mirror seen only in the rolling of the eye when it is closed, and one cannot stay in it.",
+   "quote": "",
+   "source_file": "sources/jew-zohar-closed-eye-colours.txt"
+  },
+  {
+   "locator": "Zohar II:69a (Yitro 1), para 49, source lines 259-279",
+   "about": "caution",
+   "anchor": "he prophesied, he knew not what he prophesied: he looked at the light with a",
+   "paraphrase": "Balaam looked at the light with a closed eye, as through a partition, and saw only a thin streak of light without understanding it.",
+   "quote": "",
+   "source_file": "sources/jew-zohar-closed-eye-colours.txt"
+  },
+  {
+   "locator": "Zohar I:42a-43a (Bereshit 66), para 16, source line 339",
+   "about": "mode",
+   "anchor": "בִּסְתִימוּ כַּד מִתְגַּלְגְּלָא עֵינָא וְאִתְחַזֵּי הַהוּא זָהֲרָא נָצִיץ",
+   "paraphrase": "Everything within the palaces is like the sight seen with the eye shut as it rolls, where a sparkling radiance appears; what is not seen in that rolling is the ruling spirit.",
+   "quote": "",
+   "source_file": "sources/jew-zohar-closed-eye-colours.txt"
+  },
+  {
+   "locator": "Zohar I:18b (Bereshit 7), para 6, source lines 132-133",
+   "about": "interpretation",
+   "anchor": "the radiance which is hidden in the pupil of the eye",
+   "paraphrase": "Ezekiel's 'brightness round about' is the radiance hidden in the rolling of the eye's sight, which becomes the likeness of the Glory.",
+   "quote": "",
+   "source_file": "sources/jew-zohar-closed-eye-colours.txt"
+  }
+ ],
+ "cross_refs": [],
+ "new_leads": [],
+ "reader_confidence": "high",
+ "confidence_note": "All five loci now read in the source, including the Aramaic-only Bereshit 66 passage the earlier digest missed; it adds a simile, not new method. Practice-vs-figure: real act used as demonstration, not a regimen."
+}

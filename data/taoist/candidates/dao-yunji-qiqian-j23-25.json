@@ -1,0 +1,51 @@
+{
+ "id": "dao-yunji-qiqian-j23-25",
+ "stream": "taoist",
+ "title": "雲笈七籤 (Yunji qiqian) juan 23-25, 'Sun, Moon and Stars': methods of ingesting the rays of sun and moon; with 八素真經服食日月皇華訣",
+ "author": "Compiled by Zhang Junfang 張君房 from Shangqing scriptures",
+ "translator": null,
+ "year": "c. 1025 (sources 4th to 8th century)",
+ "edition_cited": "Zhengtong Daozang DZ 1032, juan 23-25 (Kanripo KR5d0055, files 023-025); and DZ 1323 (Kanripo KR5g0132)",
+ "tradition": "Shangqing (Highest Clarity) Daoism",
+ "language": "Chinese (classical)",
+ "source_type": "anthology_or_compilation",
+ "rights": "public_domain",
+ "access": "partial_saved",
+ "url": "https://github.com/kanripo/KR5d0055",
+ "alt_urls": [
+  "https://github.com/kanripo/KR5g0132"
+ ],
+ "source_files": [
+  "sources/dao-yunji-qiqian-j23-25.txt",
+  "sources/dao-basu-fushi-riyue-huanghua.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Juan 23, 大方諸宫服日月芒法: visualise in the heart a red sun 'the size of a coin' with nine rays rising to the teeth and returning to the stomach; 'after a good while, with eyes half closed, visualise until you yourself see heart and stomach distinctly'; three times a day; 'practised for eighteen years one attains the Way and casts no shadow walking in the sun'; at night the moon with ten white rays from the brain",
+  "Juan 23, 太上玄眞訣服日月法: fasting; sun (red with purple light, nine rays) by day and moon (yellow with white light, ten rays) by night held 'in the mouth, as large as a ring', the rays swallowed; otherwise sun and moon lodged left and right in the Bright Hall of the face 'so that the two lights join the pupils'",
+  "Juan 23, 太素眞人受太帝君日月訣法: 'only when this way is accomplished do you then see the Lord in the sun'",
+  "Juan 23, 服日子三五七九玄根氣法: results listed include 'the eyes produce bright light'",
+  "Juan 24-25: star and Dipper methods (not sampled). Second file DZ 1323 (not sampled beyond a term count: 金光 4, 神光 2, 月華 2, 白光 1)"
+ ],
+ "summary": "The section of the great Song anthology that gathers Shangqing methods for the luminaries. The methods are visualisations tied to times of day: a small red sun with nine rays held in the heart or mouth by day, a moon with ten white rays by night, the rays drawn in and swallowed with saliva. Several entries state a result in terms of seeing: one instructs the adept to continue, eyes half closed, until heart and stomach are seen distinctly; one says the solar deity is seen only when the method is accomplished; others promise light in the eyes and a radiant face. Durations run from a daily count to eighteen years. A related one-juan Shangqing text on ingesting the 'efflorescences' of sun and moon is saved with it.",
+ "why_relevant": "Primary instructions for the Shangqing 'absorption of sun, moon and star light' named in the stream scope, with the texts' own statements about when the visualised light or figure is seen.",
+ "expected_mode": "imaginal_crossing",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "visualization_crossing",
+  "light_source_gazing",
+  "breath_control",
+  "fasting_or_austerity",
+  "sound_or_mantra"
+ ],
+ "priority": 2,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1445",
+  "class": "published_record",
+  "basis": "Kanripo file headers give the Zhengtong Daozang (正統道藏, 三家本 1988 reprint) as source; the canon was printed in 1445 (year from general knowledge, not printed in the files)."
+ },
+ "author_basis": "",
+ "found_via": "seed lead (Shangqing absorption of solar and lunar essences), Kanripo catalogue on GitHub",
+ "notes": "Only juan 23-25 of 122 were downloaded. Whether any entry involves looking at the physical sun (a safety matter) should be checked by the reading agent; the entries sampled are indoor visualisations. Academic guides, in copyright and not opened: Robinet, Taoist Meditation (1993), ch. 8; Maspero, 'Les procédés de nourrir le principe vital' (1937). Anchors: see ANCHOR RULE in the source files."
+}

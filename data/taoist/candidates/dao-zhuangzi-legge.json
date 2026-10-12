@@ -1,0 +1,47 @@
+{
+ "id": "dao-zhuangzi-legge",
+ "stream": "taoist",
+ "title": "The Writings of Kwang-tze (Zhuangzi), with appendix 'Classic of the Directory for a Day', in The Texts of Taoism",
+ "author": "Zhuangzi (attrib.); anonymous (Riyong jing)",
+ "translator": "James Legge",
+ "year": "c. 4th to 2nd century BCE; translation 1891",
+ "edition_cited": "Sacred Books of the East vols. 39 and 40, Oxford: Clarendon Press, 1891 (archive.org scans, Princeton copies)",
+ "tradition": "Classical Daoism; later read as a neidan proof text",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/sacredbooksofchi01oxfo",
+ "alt_urls": [
+  "https://archive.org/details/sacredbooksofchi02oxfo"
+ ],
+ "source_files": [
+  "sources/dao-zhuangzi-legge-1.txt",
+  "sources/dao-zhuangzi-legge-2.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Part I, Book IV ('Man in the World'), par. 2, printed pp. 208-210: the fasting of the mind, then 'Look at that aperture (left in the wall); the empty apartment is filled with light through it' (虛室生白)",
+  "Part II, Book XXIII (Kang-sang Khu), par. 7, printed p. 82: 'He whose mind is thus grandly fixed emits a Heavenly light' (宇泰定者發乎天光)",
+  "Part II, Appendix IV, 'Zah Yung King / Classic of the Directory for a Day', printed pp. 269-272: sitting instruction; 'The man beholds scenes unfolded within him'"
+ ],
+ "summary": "The locus classicus for two phrases that later inner-alchemy writers use as names for a seen sign: 'the empty room brings forth white' (Zhuangzi 4, at the end of the 'fasting of the mind' dialogue, where one is told to listen with the breath rather than the ears or mind) and 'one whose mind is grandly fixed emits a heavenly light' (Zhuangzi 23). In Zhuangzi itself the light is an image attached to a described practice of emptying; whether it is meant as something seen is not stated. Legge's volume also translates the short Riyong jing, a later sitting manual: sit straight, mouth shut, eyes not looking, ears not listening, long fine breaths; results listed include inner sounds and 'scenes unfolded within'.",
+ "why_relevant": "Source passage for the 'white light of the empty chamber' named in the stream scope; needed so the report can state exactly what the classical text says and what later commentators added. The appendix gives a public-domain English sitting instruction with listed inner signs.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "concentration_nonvisual",
+  "sensory_restriction",
+  "breath_control"
+ ],
+ "priority": 2,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1891",
+  "class": "published_record",
+  "basis": "archive.org metadata for both volumes gives date 1891, publisher Oxford, Clarendon Press, copyright status NOT_IN_COPYRIGHT"
+ },
+ "author_basis": "",
+ "found_via": "seed lead (Zhuangzi ch. 4)",
+ "notes": "OCR text has scattered errors and double spacing. Book and paragraph numbers are Legge's. Marginal against the inclusion test on its own; kept because the neidan sources in this stream (Golden Flower ch. 6 and 10, Liu Yiming, Huang Yuanji) cite these two lines as practice signs."
+}

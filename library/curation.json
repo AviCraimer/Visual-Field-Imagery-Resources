@@ -1,0 +1,846 @@
+{
+ "families": [
+  {
+   "id": "darkness-gazing",
+   "name": "Looking into the darkness behind closed eyes",
+   "description": "The practitioner closes the eyes, lets body and breath drop from attention, and looks steadily into the middle of the dark field (usually between and behind the eyebrows) until it brightens of itself. This is the core seeing practice of the Sant Mat letters and of Mehi's drishti yoga, and it recurs without doctrine in Mueller's self-observation, AE's meditation, Sagan's third-eye drill and the Taiping 'guarding the light of the One'."
+  },
+  {
+   "id": "source-afterimage",
+   "name": "Gazing at a flame, star, moon or sun and keeping what remains",
+   "description": "The practitioner looks steadily at a luminous source (candle, lamp, star, moon, setting sun, or one's own shadow against the sky), then closes or shifts the eyes and attends to what persists. Used as fire kasina in modern Theravada retreat practice, as trataka in hatha yoga and by Sivananda and Aurobindo, as the first meditation of the Pure Land Contemplation Sutra, and reported by Newton and Wenger outside any tradition."
+  },
+  {
+   "id": "kasina-sign",
+   "name": "Taking a sign from a prepared object until it stands free of it",
+   "description": "The practitioner looks at a prepared disc, colour patch or circle of thrown light with moderately open eyes, repeats its name, and works until a learning sign and then a purified counterpart sign appear apart from the object and can be enlarged. This is the classical kasina method of the Vimuttimagga, Visuddhimagga and Pa-Auk; Steiner's seed contemplation is a distant relative."
+  },
+  {
+   "id": "nonvisual-concentration",
+   "name": "Concentration on breath or a single object until light appears as a by-product",
+   "description": "The practitioner fixes on something that is not a light (the breath at its touch point, bases in the body, a meditation theme) and light arises when concentration is strong. Theravada breath practice treats it as the nimitta or as light that tracks immersion; AE, the Golden Flower and Aurobindo describe the same order of events in other vocabularies."
+  },
+  {
+   "id": "gaze-posture",
+   "name": "Fixed eye position and bodily posture, including sky and space gazing",
+   "description": "The practitioner sets the eyes in a prescribed way (half-closed on the nose tip, raised to the brow, rolled up, or resting on open sky or empty space) and holds body and gaze motionless so that lights appear in front. Found in hatha yoga and the Yoga Upanishads as sambhavi and taraka, in the Golden Flower's lowered lids, in Togal's three postures and gazes, and in the Kalacakra signs seen with eyes neither open nor closed."
+  },
+  {
+   "id": "repetition-seclusion",
+   "name": "Repeating a name or formula in seclusion",
+   "description": "The practitioner withdraws to a cell or quiet room and repeats a divine name, formula or charged words without break, often with fasting and vigil, until lights are said to open. This is the Sufi khalwa and dhikr of Ghazali, Ibn 'Arabi, Kubra, Razi and the Khalwatiyya, the simran of Sant Mat, and the recitation that accompanies the Dhammakaya sphere."
+  },
+  {
+   "id": "visualization-crossing",
+   "name": "Building an image until it is seen rather than thought",
+   "description": "The practitioner deliberately pictures a sphere, a form, a teacher's face or a scene and holds it until it is reported as perceived. Dhammakaya, the Contemplation Sutra, Vital, Dara Shikoh, Tawakkul Beg, the Siva Samhita's third-eye verse and the tulpa community's imposition drills all work this way; Sant Mat teachers forbid it."
+  },
+  {
+   "id": "scrying",
+   "name": "Gazing into a crystal, mirror, lamp flame or bowl",
+   "description": "The practitioner gazes calmly into a reflective or luminous surface in shaded light for short regular sittings and watches the surface cloud, sparkle and brighten before images appear. Victorian and Edwardian crystal manuals give the fullest procedure; the Demotic lamp rites, Iamblichus and Ghazali's remarks on mirror gazers show the same practice in antiquity and Islam."
+  },
+  {
+   "id": "sense-closure",
+   "name": "Closing the senses with the fingers or pressing the eyes",
+   "description": "The practitioner stops ears, eyes, nose and mouth with the fingers, or presses or rolls the closed eyeball, and watches the colours that arise. Prescribed in the Shiva Svarodaya and Mandalabrahmana Upanishad, stated in one line in the Zohar, used in the Divine Light Mission's first technique, and offered by Wenger as a starter; several Sant Mat and Sufi sources forbid pressing."
+  },
+  {
+   "id": "dark-room",
+   "name": "Sitting in a darkened room or covered eyes and watching what appears",
+   "description": "The practitioner sits or lies in a room made fully dark, or bandages the eyes, and watches for sparks, clouds and glows, sometimes with open eyes. Randolph, Reichenbach's subjects, the tulpa darkness method and Thomas's funnel use physical darkness deliberately; Togal, the Huiming jing and the Taiping text name darkness or a sealed room as a condition."
+  },
+  {
+   "id": "breath-energy",
+   "name": "Breath and energy work in which light arrives as a stage sign",
+   "description": "The practitioner works with breath retention, forced or frictional breathing, or the circulation of energy in the body, and light is read as a signal of how far the work has gone. The Wu-Liu alchemical manuals count three appearances of yang light; Rama Prasad, the Mithras Liturgy, Sagan's throat friction and Randolph's rapid breathing use breath more directly."
+  },
+  {
+   "id": "waiting-on-gift",
+   "name": "Prayer, austerity or ordeal with the light given, withheld or refused",
+   "description": "The practitioner does not aim at light at all: he prays, fasts, keeps vigil or seeks solitude, and light either comes unbidden or is deliberately set aside. Christian contemplatives, the Inuit accounts of the shaman's light, Iamblichus on divine illumination, and the Sufi and Theravada texts that tell the traveller to turn away all belong here."
+  }
+ ],
+ "items": {
+  "bud-ajaan-lee-keeping-the-breath-in-mind": {
+   "tier": "B",
+   "families": [
+    "nonvisual-concentration"
+   ],
+   "librarian_note": "The seven basic steps and Method 2 were not read; the white nimitta may be closer to an image than a visual-field percept."
+  },
+  "bud-contemplation-sutra-takakusu": {
+   "tier": "B",
+   "families": [
+    "source-afterimage",
+    "visualization-crossing"
+   ],
+   "librarian_note": "Only the first meditation is clearly perceptual; later stages are constructed imagery. Sun gazing: setting sun only."
+  },
+  "bud-dhammakaya-luang-phor-sodh-manual": {
+   "tier": "A",
+   "families": [
+    "visualization-crossing",
+    "repetition-seclusion",
+    "gaze-posture"
+   ],
+   "librarian_note": "Partial excerpt. Has a section written expressly for one who has not yet seen the sphere."
+  },
+  "bud-fire-kasina-book-stein-ingram": {
+   "tier": "A",
+   "families": [
+    "source-afterimage",
+    "kasina-sign",
+    "dark-room"
+   ],
+   "librarian_note": ""
+  },
+  "bud-mahasi-progress-of-insight": {
+   "tier": "C",
+   "families": [
+    "waiting-on-gift",
+    "nonvisual-concentration"
+   ],
+   "librarian_note": "Dissent source: light as a corruption of insight to be noted and left."
+  },
+  "bud-mn128-upakkilesa-sutta": {
+   "tier": "A",
+   "families": [
+    "nonvisual-concentration"
+   ],
+   "librarian_note": "Development only: the best troubleshooting list for light that appears and vanishes, nothing on first onset."
+  },
+  "bud-pa-auk-knowing-and-seeing": {
+   "tier": "A",
+   "families": [
+    "nonvisual-concentration",
+    "kasina-sign",
+    "visualization-crossing"
+   ],
+   "librarian_note": "The Q&A on the light of concentration was not read."
+  },
+  "bud-vimuttimagga-ehara": {
+   "tier": "B",
+   "families": [
+    "kasina-sign",
+    "source-afterimage"
+   ],
+   "librarian_note": "Partial text; says the after-image exists only in thought."
+  },
+  "bud-visuddhimagga-nanamoli": {
+   "tier": "A",
+   "families": [
+    "kasina-sign",
+    "source-afterimage"
+   ],
+   "librarian_note": "Read in digest; the full learning-sign instructions of Ch. IV were not seen. Carries the one-in-a-hundred-or-a-thousand statement of difficulty."
+  },
+  "vaj-baker-tibetan-yoga-togal": {
+   "tier": "B",
+   "families": [
+    "gaze-posture",
+    "dark-room"
+   ],
+   "librarian_note": "Secondary conduit quoting Dudjom Lingpa and Pema Lingpa; no durations or preliminaries. The only read source for Togal."
+  },
+  "vaj-sekoddesa-summary-of-empowerment-84000": {
+   "tier": "B",
+   "families": [
+    "gaze-posture"
+   ],
+   "librarian_note": "Root verses only; the method lives in Naropa's commentary, not read. Restricted text by its own tradition."
+  },
+  "hin-aurobindo-letters-on-yoga-3": {
+   "tier": "A",
+   "families": [
+    "source-afterimage",
+    "nonvisual-concentration",
+    "gaze-posture"
+   ],
+   "librarian_note": "Contradicts itself usefully: names tratak as the yogis' method, and in another letter discourages flame gazing."
+  },
+  "hin-aurobindo-record-of-yoga": {
+   "tier": "B",
+   "families": [
+    "source-afterimage"
+   ],
+   "librarian_note": "Diary of an advanced practitioner; sun tratak of about a minute is recorded, not recommended."
+  },
+  "hin-gheranda-samhita-vasu": {
+   "tier": "C",
+   "families": [
+    "gaze-posture",
+    "visualization-crossing"
+   ],
+   "librarian_note": "Framed as contemplation; never says the light is seen."
+  },
+  "hin-hatha-yoga-pradipika-sinh": {
+   "tier": "B",
+   "families": [
+    "gaze-posture"
+   ],
+   "librarian_note": "The colour, star and ocean-of-light passage is the translator's 1915 introduction, not the Sanskrit text."
+  },
+  "hin-rama-prasad-natures-finer-forces": {
+   "tier": "B",
+   "families": [
+    "source-afterimage",
+    "sense-closure",
+    "gaze-posture",
+    "breath-energy"
+   ],
+   "librarian_note": "Shadow-method time scales (six months, two years) were not confirmed. Same shadow method as the Siva Samhita."
+  },
+  "hin-shiva-samhita-vasu": {
+   "tier": "B",
+   "families": [
+    "source-afterimage",
+    "visualization-crossing",
+    "gaze-posture"
+   ],
+   "librarian_note": "The finger-closure verses were not confirmed in the text read."
+  },
+  "hin-sivananda-kundalini-yoga": {
+   "tier": "A",
+   "families": [
+    "source-afterimage",
+    "gaze-posture",
+    "nonvisual-concentration"
+   ],
+   "librarian_note": "Gives the clearest time scale for onset (days to six or nine months) and admits some never see lights."
+  },
+  "hin-thirty-minor-upanishads-aiyar": {
+   "tier": "A",
+   "families": [
+    "gaze-posture",
+    "sense-closure"
+   ],
+   "librarian_note": "Mandalabrahmana only; OCR-sensitive. Other Yoga Upanishads in the volume unread."
+  },
+  "snt-dlm-knowledge-session": {
+   "tier": "C",
+   "families": [
+    "sense-closure",
+    "gaze-posture"
+   ],
+   "librarian_note": "Screen-flagged: unsigned ex-member site pages read as model summaries. Illustration only; pair with the Strasburg testimony."
+  },
+  "snt-expremie-journey-strasburg": {
+   "tier": "B",
+   "families": [
+    "sense-closure"
+   ],
+   "librarian_note": "Marginal as a source but the one first-person report that pressure-light did not outlast the pressure."
+  },
+  "snt-faqir-chand-unknowing-sage": {
+   "tier": "B",
+   "families": [
+    "repetition-seclusion",
+    "visualization-crossing",
+    "waiting-on-gift"
+   ],
+   "librarian_note": "Insider dissent: seventy years of practice, lights and forms treated as projection."
+  },
+  "snt-kirpal-light-of-kirpal": {
+   "tier": "A",
+   "families": [
+    "darkness-gazing",
+    "repetition-seclusion"
+   ],
+   "librarian_note": ""
+  },
+  "snt-kirpal-spiritual-elixir": {
+   "tier": "A",
+   "families": [
+    "darkness-gazing",
+    "repetition-seclusion"
+   ],
+   "librarian_note": "Overlaps heavily with the Teachings compilation; read this one first for letters answering people who see only darkness."
+  },
+  "snt-kirpal-teachings-meditation": {
+   "tier": "A",
+   "families": [
+    "darkness-gazing",
+    "repetition-seclusion"
+   ],
+   "librarian_note": "Compilation; near-duplicate of material in Spiritual Elixir."
+  },
+  "snt-mehi-philosophy-of-liberation": {
+   "tier": "B",
+   "families": [
+    "darkness-gazing",
+    "repetition-seclusion",
+    "visualization-crossing"
+   ],
+   "librarian_note": "Says almost nothing about what is seen; the 'blossoms into light' line is the translators' appendix."
+  },
+  "snt-sawan-singh-spiritual-gems": {
+   "tier": "A",
+   "families": [
+    "darkness-gazing",
+    "repetition-seclusion"
+   ],
+   "librarian_note": "Partial excerpts of the letters."
+  },
+  "dao-dacheng-jieyao": {
+   "tier": "B",
+   "families": [
+    "breath-energy"
+   ],
+   "librarian_note": "Reread in Chinese (11 Oct). Gives a test for false light: light before the bodily signs is delusion."
+  },
+  "dao-huiming-jing-chinese": {
+   "tier": "C",
+   "families": [
+    "breath-energy",
+    "dark-room"
+   ],
+   "librarian_note": "Reread in Chinese (11 Oct). Light is a sign of completion, not a method."
+  },
+  "dao-jinhua-zongzhi-chinese": {
+   "tier": "A",
+   "families": [
+    "gaze-posture",
+    "nonvisual-concentration"
+   ],
+   "librarian_note": "Reread in Chinese including chapter 5 on errors (11 Oct). Chapter 10 says not to care whether light appears."
+  },
+  "dao-taiping-shengjun-mizhi": {
+   "tier": "A",
+   "families": [
+    "darkness-gazing",
+    "dark-room",
+    "nonvisual-concentration"
+   ],
+   "librarian_note": "Whole text seen; terse. The only Taoist source that addresses the beginner who sees darkness."
+  },
+  "dao-wu-shouyang-xianfo-hezong": {
+   "tier": "B",
+   "families": [
+    "breath-energy"
+   ],
+   "librarian_note": "Reread in Chinese (11 Oct). The three flashes as timing signs; light cannot be hurried."
+  },
+  "jew-vital-shaarei-kedushah": {
+   "tier": "A",
+   "families": [
+    "visualization-crossing",
+    "repetition-seclusion",
+    "waiting-on-gift"
+   ],
+   "librarian_note": "Part 3, Gate 5 reread in full from the user's translation (12 Oct): Vital's explicit model of images passing from the inner senses of the imagination to the outer senses."
+  },
+  "jew-zohar-closed-eye-colours": {
+   "tier": "B",
+   "families": [
+    "sense-closure"
+   ],
+   "librarian_note": "Reread including Aramaic-only passages (11 Oct). The rolled closed eye is a real act used as a simile, with no regimen."
+  },
+  "suf-dara-shikoh-compass-of-truth": {
+   "tier": "C",
+   "families": [
+    "visualization-crossing",
+    "sense-closure",
+    "breath-energy",
+    "repetition-seclusion"
+   ],
+   "librarian_note": "The one illumination passage is garbled and reads as bodily sensation, not seen light."
+  },
+  "suf-fleischer-farbige-lichterscheinungen-1862": {
+   "tier": "B",
+   "families": [
+    "waiting-on-gift"
+   ],
+   "librarian_note": "Dissent source inside Sufism; gives the Simnani colour sequence only to advise ignoring it."
+  },
+  "suf-ghazali-ihya-dhikr-seclusion-method": {
+   "tier": "B",
+   "families": [
+    "repetition-seclusion",
+    "waiting-on-gift",
+    "scrying"
+   ],
+   "librarian_note": "Read through Macdonald's 1909 translation."
+  },
+  "suf-ibn-arabi-risalat-al-anwar": {
+   "tier": "B",
+   "families": [
+    "repetition-seclusion"
+   ],
+   "librarian_note": "Stage sequence partly reconstructed from damaged Arabic text. Holds the closed-eye test for sensory versus imaginal seeing."
+  },
+  "suf-kubra-fawaih-al-jamal": {
+   "tier": "A",
+   "families": [
+    "repetition-seclusion",
+    "darkness-gazing"
+   ],
+   "librarian_note": "Reread in full from the Arabic (2026-10-11), replacing the low-confidence first reading. Mode is explicit: point in trance, then with closed lids, then stars by daylight with open eyes."
+  },
+  "suf-razi-mirsad-al-ibad": {
+   "tier": "A",
+   "families": [
+    "repetition-seclusion"
+   ],
+   "librarian_note": "Reread from the Persian with a repaired digest (11 Oct). Clear ordered sequence of lights in a 40-day dark cell; colour list partly illegible in the OCR."
+  },
+  "suf-rinn-marabouts-et-khouan-1884": {
+   "tier": "B",
+   "families": [
+    "repetition-seclusion",
+    "waiting-on-gift"
+   ],
+   "librarian_note": "Reread from the French (11 Oct). Ladder of lights by colour; mostly not seen; dietary caution."
+  },
+  "suf-suhrawardi-hikmat-al-ishraq-lights": {
+   "tier": "B",
+   "families": [
+    "repetition-seclusion",
+    "waiting-on-gift"
+   ],
+   "librarian_note": "Rich phenomenology (fifteen lights with bodily marks); method is a list of austerities."
+  },
+  "suf-tawakkul-beg-initiation-by-mulla-shah": {
+   "tier": "A",
+   "families": [
+    "visualization-crossing",
+    "repetition-seclusion",
+    "dark-room"
+   ],
+   "librarian_note": "Detailed first-person onset, but the first seen thing is the master's image; the 'little light' is in the heart. Third-hand translation."
+  },
+  "chr-cloud-of-unknowing": {
+   "tier": "C",
+   "families": [
+    "waiting-on-gift"
+   ],
+   "librarian_note": "Dissent source: seen lights are called deceit."
+  },
+  "chr-hilton-scale-of-perfection": {
+   "tier": "B",
+   "families": [
+    "waiting-on-gift"
+   ],
+   "librarian_note": "The light that springs in the darkness is explicitly not a bodily light."
+  },
+  "chr-ignatius-autobiography": {
+   "tier": "B",
+   "families": [
+    "waiting-on-gift"
+   ],
+   "librarian_note": "Testimony only."
+  },
+  "chr-john-of-the-cross-ascent": {
+   "tier": "C",
+   "families": [
+    "waiting-on-gift"
+   ],
+   "librarian_note": "Dissent source; chapter XI on bodily visions not read."
+  },
+  "chr-teresa-interior-castle": {
+   "tier": "A",
+   "families": [
+    "waiting-on-gift"
+   ],
+   "librarian_note": "Reread in full against the Spanish (12 Oct). The clearest phenomenology in the library of seeing that is neither in the outer visual field nor willed imagery."
+  },
+  "chr-teresa-life": {
+   "tier": "A",
+   "families": [
+    "waiting-on-gift"
+   ],
+   "librarian_note": "Reread in full against the Spanish (12 Oct). The clearest phenomenology in the library of seeing that is neither in the outer visual field nor willed imagery."
+  },
+  "wes-ae-candle-of-vision": {
+   "tier": "A",
+   "families": [
+    "darkness-gazing",
+    "nonvisual-concentration"
+   ],
+   "librarian_note": "The exact object of concentration was not visible in what was read."
+  },
+  "wes-demotic-magical-papyrus": {
+   "tier": "B",
+   "families": [
+    "scrying",
+    "repetition-seclusion",
+    "dark-room"
+   ],
+   "librarian_note": "The light is tied to a physical lamp; fragmentary translation."
+  },
+  "wes-goodrich-freer-essays": {
+   "tier": "C",
+   "families": [
+    "scrying",
+    "visualization-crossing"
+   ],
+   "librarian_note": "No seen light as such; kept for the graded image-to-crystal exercises."
+  },
+  "wes-iamblichus-de-mysteriis": {
+   "tier": "C",
+   "families": [
+    "waiting-on-gift",
+    "scrying"
+   ],
+   "librarian_note": "Descriptive, no operating instruction."
+  },
+  "wes-mead-mithriac-ritual": {
+   "tier": "C",
+   "families": [
+    "breath-energy",
+    "source-afterimage"
+   ],
+   "librarian_note": "Ritual script for initiates; involves breathing toward the sun."
+  },
+  "wes-melville-crystal-gazing": {
+   "tier": "A",
+   "families": [
+    "scrying"
+   ],
+   "librarian_note": ""
+  },
+  "wes-randolph-seership": {
+   "tier": "B",
+   "families": [
+    "dark-room",
+    "scrying",
+    "breath-energy"
+   ],
+   "librarian_note": "The numbered rules and magnet operation were not seen; his ninety-second forced breathing is described by him as leading to coma if repeated."
+  },
+  "wes-reichenbach-researches": {
+   "tier": "C",
+   "families": [
+    "dark-room"
+   ],
+   "librarian_note": "Low confidence; light is bound to physical objects and the two-hour adaptation figure is unconfirmed."
+  },
+  "wes-sepharial-how-to-read-the-crystal": {
+   "tier": "A",
+   "families": [
+    "scrying"
+   ],
+   "librarian_note": ""
+  },
+  "wes-steiner-way-of-initiation": {
+   "tier": "B",
+   "families": [
+    "kasina-sign",
+    "nonvisual-concentration"
+   ],
+   "librarian_note": "Placed with kasina work only loosely: an object is contemplated until a flame is seen round it. The Probation exercises were not read."
+  },
+  "wes-thomas-crystal-gazing": {
+   "tier": "B",
+   "families": [
+    "scrying",
+    "dark-room"
+   ],
+   "librarian_note": "The milky-black-pictures sequence was not visible in what was read."
+  },
+  "shm-boas-eskimo-baffin-land-hudson-bay": {
+   "tier": "C",
+   "families": [
+    "waiting-on-gift"
+   ],
+   "librarian_note": "Short passage; how the light is acquired was not read."
+  },
+  "shm-rasmussen-iglulik-intellectual-culture": {
+   "tier": "B",
+   "families": [
+    "waiting-on-gift"
+   ],
+   "librarian_note": "Aua's solitude account is solid; the teacher-procured route rests on a summary."
+  },
+  "mod-mueller-phantastische-gesichtserscheinungen": {
+   "tier": "A",
+   "families": [
+    "darkness-gazing",
+    "dark-room"
+   ],
+   "librarian_note": "Reread from the German including chapter XII (11 Oct). Willing the images almost never works; they come suddenly and against the will."
+  },
+  "mod-newton-letter-sun-phantasm": {
+   "tier": "A",
+   "families": [
+    "source-afterimage"
+   ],
+   "librarian_note": "Sun exposure that cost him the use of his eyes for days. Evidence, not a protocol."
+  },
+  "mod-sagan-awakening-third-eye": {
+   "tier": "A",
+   "families": [
+    "darkness-gazing",
+    "breath-energy",
+    "nonvisual-concentration"
+   ],
+   "librarian_note": "Later chapters on seeing, pressure and night practice not read."
+  },
+  "mod-wenger-image-streaming-backup": {
+   "tier": "B",
+   "families": [
+    "source-afterimage",
+    "sense-closure"
+   ],
+   "librarian_note": "Aims at mind's-eye imagery; useful only for its seen-light starters. The four-hour afterimage is his claim."
+  },
+  "frm-tulpa-luigi-tulpamancy-guide": {
+   "tier": "B",
+   "families": [
+    "visualization-crossing",
+    "dark-room"
+   ],
+   "librarian_note": "Community manual; no documented case of success in the text."
+  },
+  "vaj-geisshuesler-sky-gazing": {
+   "tier": "B",
+   "families": [
+    "gaze-posture",
+    "sense-closure",
+    "dark-room"
+   ],
+   "librarian_note": "Read in full for Part II (2026-10-11). Academic conduit for Longchenpa and the Seventeen Tantras; dated 2024, so flagged on provenance and capped at tier B. Carries the clearest pressure-then-release instruction in the library."
+  },
+  "mod-galton-inquiries-human-faculty": {
+   "tier": "A",
+   "families": [
+    "darkness-gazing",
+    "dark-room"
+   ],
+   "librarian_note": "Read in full for the Visionaries section. A self-declared non-seer trains himself to see in the dark field: one paragraph of method, no time scale."
+  },
+  "bud-suttas-perception-of-light": {
+   "tier": "B",
+   "families": [
+    "nonvisual-concentration"
+   ],
+   "librarian_note": "Read whole. The instruction is a single formula; how the perception is first obtained is not said."
+  },
+  "snt-expremie-journey-ajw": {
+   "tier": "C",
+   "families": [
+    "waiting-on-gift",
+    "sense-closure"
+   ],
+   "librarian_note": "Read whole from the page the user supplied. Negative testimony: no light at initiation; techniques not described."
+  },
+  "suf-ibn-ata-allah-miftah-al-falah": {
+   "tier": "A",
+   "families": [
+    "repetition-seclusion",
+    "dark-room"
+   ],
+   "librarian_note": "Read in Arabic; lines 1-1008 in full, the rest by vocabulary search. Supplies the Sufi onset detail the first pass lacked."
+  },
+  "jew-abulafia-or-ha-sekhel": {
+   "tier": "C",
+   "families": [
+    "repetition-seclusion",
+    "breath-energy"
+   ],
+   "librarian_note": "Read in Hebrew. Full induction procedure, but it names no visual result; light is metaphor throughout."
+  },
+  "dao-zhengao-j9-10": {
+   "tier": "B",
+   "families": [
+    "sense-closure",
+    "visualization-crossing",
+    "gaze-posture"
+   ],
+   "librarian_note": "Read whole in classical Chinese. Early Taoist eye methods outside the alchemical frame; results counted in years."
+  },
+  "mod-bates-perfect-sight": {
+   "tier": "C",
+   "families": [
+    "darkness-gazing",
+    "sense-closure"
+   ],
+   "librarian_note": "Inverse case: lights under the palms are treated as failure; useful for what intensifies and quenches them. Sun-gazing advice is dangerous."
+  },
+  "dao-chia-awaken-healing-light": {
+   "tier": "C",
+   "families": [
+    "breath-energy",
+    "source-afterimage"
+   ],
+   "librarian_note": "Supplied by the user (11 Oct). No method for someone who sees nothing; light in the head is one optional sign among heat and tingling. Warns that premature third-eye focus can bring flashing lights and worse."
+  },
+  "mod-goethe-farbenlehre-physiologische-farben": {
+   "tier": "B",
+   "families": [
+    "source-afterimage",
+    "sense-closure"
+   ],
+   "librarian_note": "Added at the user's request (11 Oct). Not a spiritual practice: the classic timed account of a bright-source afterimage decaying through colours, and of light raised by eye pressure. Explains the coloured dot in fire kasina."
+  },
+  "shm-czaplicka-aboriginal-siberia": {
+   "tier": "C",
+   "families": [
+    "sense-closure"
+   ],
+   "librarian_note": "Added in gap pass 2 (11 Oct); family assigned provisionally."
+  },
+  "snt-tulsi-sahib-ghat-ramayan": {
+   "tier": "B",
+   "families": [
+    "darkness-gazing"
+   ],
+   "librarian_note": "Added in gap pass 2 (11 Oct); family assigned provisionally."
+  },
+  "snt-tagore-songs-of-kabir": {
+   "tier": "C",
+   "families": [
+    "darkness-gazing"
+   ],
+   "librarian_note": "Added in gap pass 2 (11 Oct); family assigned provisionally."
+  },
+  "bud-bodhicitta-sastra-t1665": {
+   "tier": "C",
+   "families": [
+    "visualization-crossing"
+   ],
+   "librarian_note": "Added in gap pass 2 (11 Oct); family assigned provisionally."
+  },
+  "wes-mead-corpus-hermeticum": {
+   "tier": "C",
+   "families": [
+    "waiting-on-gift"
+   ],
+   "librarian_note": "Added in gap pass 2 (11 Oct); family assigned provisionally."
+  },
+  "chr-diadochos-hundred-chapters": {
+   "tier": "B",
+   "families": [
+    "waiting-on-gift"
+   ],
+   "librarian_note": "Added in gap pass 2 (11 Oct); family assigned provisionally."
+  },
+  "chr-gregory-sinai-philokalia": {
+   "tier": "B",
+   "families": [
+    "waiting-on-gift"
+   ],
+   "librarian_note": "Added in gap pass 2 (11 Oct); family assigned provisionally."
+  },
+  "chr-evagrius-on-prayer": {
+   "tier": "B",
+   "families": [
+    "waiting-on-gift"
+   ],
+   "librarian_note": "Added in gap pass 2 (11 Oct); family assigned provisionally."
+  },
+  "chr-xanthopoulos-century": {
+   "tier": "B",
+   "families": [
+    "waiting-on-gift"
+   ],
+   "librarian_note": "Added in gap pass 2 (11 Oct); family assigned provisionally."
+  },
+  "chr-seraphim-motovilov-conversation": {
+   "tier": "B",
+   "families": [
+    "waiting-on-gift"
+   ],
+   "librarian_note": "Added in gap pass 2 (11 Oct); family assigned provisionally."
+  },
+  "chr-symeon-chapters-philokalia": {
+   "tier": "C",
+   "families": [
+    "waiting-on-gift"
+   ],
+   "librarian_note": "Added in gap pass 2 (11 Oct); family assigned provisionally."
+  },
+  "chr-hildegard-letter-guibert": {
+   "tier": "B",
+   "families": [
+    "waiting-on-gift"
+   ],
+   "librarian_note": "Added in gap pass 2 (11 Oct); family assigned provisionally."
+  },
+  "hin-hume-thirteen-upanishads": {
+   "tier": "B",
+   "families": [
+    "gaze-posture"
+   ],
+   "librarian_note": "Added in gap pass 2 (11 Oct); family assigned provisionally."
+  },
+  "hin-avalon-serpent-power": {
+   "tier": "B",
+   "families": [
+    "gaze-posture"
+   ],
+   "librarian_note": "Added in gap pass 2 (11 Oct); family assigned provisionally."
+  },
+  "hin-sivananda-japa-yoga": {
+   "tier": "C",
+   "families": [
+    "gaze-posture"
+   ],
+   "librarian_note": "Added in gap pass 2 (11 Oct); family assigned provisionally."
+  },
+  "hin-vijnana-bhairava-tantra": {
+   "tier": "A",
+   "families": [
+    "sense-closure",
+    "darkness-gazing",
+    "gaze-posture"
+   ],
+   "librarian_note": "Supplied by the user (11 Oct), read in Sanskrit. V. 36 is a classical sense-closure induction naming a seen bindu."
+  },
+  "jew-vital-shaarei-kedushah-part4-ms": {
+   "tier": "C",
+   "families": [
+    "repetition-seclusion",
+    "visualization-crossing"
+   ],
+   "librarian_note": "The omitted fourth part of Sha'arei Kedushah, from the user's manuscript transcription (12 Oct). An induction procedure for a visionary appearance; no light."
+  },
+  "vaj-evans-wentz-tibetan-yoga-1935": {
+   "tier": "B",
+   "families": [
+    "visualization-crossing"
+   ],
+   "librarian_note": "Added 12 Oct (deity visualization gap pass)."
+  },
+  "vaj-bhattacharyya-iconography-1924": {
+   "tier": "B",
+   "families": [
+    "visualization-crossing"
+   ],
+   "librarian_note": "Added 12 Oct (deity visualization gap pass)."
+  },
+  "bud-thanissaro-with-each-and-every-breath": {
+   "tier": "B",
+   "families": [
+    "kasina-sign",
+    "nonvisual-concentration"
+   ],
+   "librarian_note": "Added 12 Oct (sign terminology pass)."
+  },
+  "bud-yogavacara-manual-of-a-mystic": {
+   "tier": "B",
+   "families": [
+    "kasina-sign",
+    "nonvisual-concentration"
+   ],
+   "librarian_note": "Added 12 Oct (sign terminology pass)."
+  },
+  "bud-maha-boowa-acariya-mun-biography": {
+   "tier": "B",
+   "families": [
+    "kasina-sign",
+    "nonvisual-concentration"
+   ],
+   "librarian_note": "Added 12 Oct (sign terminology pass)."
+  },
+  "bud-buddhadasa-anapanasati": {
+   "tier": "B",
+   "families": [
+    "kasina-sign",
+    "nonvisual-concentration"
+   ],
+   "librarian_note": "Added 12 Oct (sign terminology pass)."
+  }
+ }
+}

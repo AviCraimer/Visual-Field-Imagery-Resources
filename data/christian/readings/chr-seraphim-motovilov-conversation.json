@@ -1,0 +1,80 @@
+{
+ "stream": "christian",
+ "drop_reason": null,
+ "drop_note": "",
+ "cross_refs": [],
+ "new_leads": [],
+ "safety_flags": [
+  "transmission_required_by_tradition"
+ ],
+ "stages": [],
+ "obstacles_and_fixes": [],
+ "cautions": [],
+ "phenomena": [
+  "body_or_objects_luminous",
+  "lightning_flashes",
+  "all_pervading_light",
+  "white"
+ ],
+ "conditions": {
+  "posture": "seated on a tree stump / standing in a forest clearing",
+  "gaze_or_eye_position": "looking at the elder's face",
+  "setting": "outdoors, snowing, overcast November day",
+  "duration_and_schedule": "one occasion",
+  "prerequisites": "Seraphim's prayer; the 'acquisition of the Holy Spirit' through prayer",
+  "other": "accompanied by warmth, fragrance, peace, sweetness, joy"
+ },
+ "id": "chr-seraphim-motovilov-conversation",
+ "verdict": "keep",
+ "relevance": 4,
+ "practicality": 2,
+ "text_read": "Whole brochure skimmed by search (свет, солнц, телесн); the light episode, source lines ~1030-1175, read in full in Russian.",
+ "mode": "perceptual",
+ "mode_evidence": "Seen with open eyes outdoors in daylight on an overcast day: the face 'brighter than the sun', light that 'pricks' and hurts the eyes, then light remaining around the face over a wide space; Motovilov contrasts it explicitly with the absent sun.",
+ "eyes": "open",
+ "onset_pathway": "unclear",
+ "onset_evidence": "Light came during conversation by the elder's prayer and touch (hands on the shoulders); Seraphim says Motovilov could see it only because he too was 'in the same grace-filled light'. It is presented as gift (благодать) acquired by the whole Christian life of prayer and alms, not as a technique; nothing for the person who sees nothing beyond 'acquire the Holy Spirit'. Effectively transmission/grace.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "devotion_or_transmission"
+ ],
+ "what_to_do_with_light": "Use it as a sign of being 'in the Spirit of God': attend to the accompanying peace, joy, warmth and fragrance.",
+ "interpretation": "The visible grace of the Holy Spirit, the same light as at the Transfiguration, shared by both participants.",
+ "practice_summary": "No method for producing light. Seraphim teaches that the aim of Christian life is acquiring the Holy Spirit, chiefly through prayer and good deeds done for Christ, and that one should constantly test whether one is 'in the Spirit'. The light came when he prayed for his disciple and laid hands on him: Motovilov, eyes open in daylight, saw the elder's face brighter than the sun and light filling the space around, and Seraphim told him he saw it because he was himself in that light. The sign-set to check is peace beyond words, sweetness, joy, warmth inside despite snow, and fragrance.",
+ "key_passages": [
+  {
+   "locator": "source lines ~1063-1066",
+   "about": "testimony",
+   "anchor": "потому что из них молнии светятся и у меня глаза ломит и я не могу смотреть на вас",
+   "paraphrase": "Motovilov cannot look Seraphim in the eyes because lightning shines from them and his own eyes ache; the elder is brighter than the sun.",
+   "quote": "Не могу, потому что из них молнии светятся, и у меня глаза ломит, и я не могу смотреть на вас, батюшка отец Серафим, потому что вы светлее солнца.",
+   "source_file": "sources/chr-seraphim-motovilov-conversation.txt"
+  },
+  {
+   "locator": "source lines ~1068-1070",
+   "about": "mode",
+   "anchor": "Знаю что солнца нет и что пасмурный день но ваше лице",
+   "paraphrase": "'I know there is no sun and the day is overcast, but your face has become brighter than the sun and my eyes hurt; this light pricks them.'",
+   "quote": "",
+   "source_file": "sources/chr-seraphim-motovilov-conversation.txt"
+  },
+  {
+   "locator": "source lines ~1074-1077",
+   "about": "onset",
+   "anchor": "Да и вы ведь и сами точно в таком же именно свете находитесь благодатном",
+   "paraphrase": "Seraphim: you too are in exactly the same grace-filled light, otherwise you could not see me so.",
+   "quote": "",
+   "source_file": "sources/chr-seraphim-motovilov-conversation.txt"
+  },
+  {
+   "locator": "source lines ~1130-1134",
+   "about": "interpretation",
+   "anchor": "тепло не в воздухе а в нас самих",
+   "paraphrase": "The warmth felt in falling snow is not in the air but in us: the warmth of the Holy Spirit.",
+   "quote": "",
+   "source_file": "sources/chr-seraphim-motovilov-conversation.txt"
+  }
+ ],
+ "reader_confidence": "high",
+ "confidence_note": "Modern reprint of the 1903 text; read in Russian."
+}

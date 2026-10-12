@@ -1,0 +1,48 @@
+{
+ "id": "hin-hume-thirteen-upanishads",
+ "stream": "hindu-yoga-tantra",
+ "title": "The Thirteen Principal Upanishads (Svetasvatara 2.8-13; Maitri 6.18-22)",
+ "author": "Anonymous (Svetasvatara and Maitri Upanishads)",
+ "translator": "Robert Ernest Hume",
+ "year": "c. last centuries BCE; translation 1921",
+ "edition_cited": "Oxford University Press, 1921 (archive.org thirteenprincipa028442mbp)",
+ "tradition": "Early Upanishadic yoga",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/thirteenprincipa028442mbp",
+ "alt_urls": [
+  "https://archive.org/details/thirteenprincipa00hume"
+ ],
+ "source_files": [
+  "sources/hin-hume-thirteen-upanishads.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Svetasvatara Upanishad 2.8-13, heading 'Rules and results of Yoga' (file lines c. 22480-22515): posture, breath, place; 2.11 'Fog, smoke, sun, fire, wind, Fire-flies, lightning, a crystal, a moon - These are the preliminary appearances'",
+  "Maitri Upanishad 6.18-22, printed pp. 435-438 (file lines c. 24700-24850): sixfold yoga; 6.20 'By pressing the tip of his tongue against the palate, by restraining voice, mind, and breath, one sees Brahma'; 6.22 closing the ears with the thumbs and the seven sounds",
+  "Maitri 6.24-25 and following: search 'lightning', 'brilliant', 'sees' for further light imagery"
+ ],
+ "summary": "The two oldest passages the later yoga literature builds on. Svetasvatara 2.8-13 prescribes an erect body, senses and mind drawn into the heart, diminished breathing through the nostrils, and a level, sheltered, quiet place; then 2.11 lists what appears first: fog, smoke, sun, fire, wind, fireflies, lightning, a crystal, a moon, called preliminary appearances that herald the manifestation of Brahman in yoga. Nothing is said about producing them or about what to do with them. Maitri 6.18-22 gives the sixfold yoga (breath restraint, sense withdrawal, meditation, concentration, contemplation, absorption), adds that by pressing the tongue-tip to the palate and restraining voice, mind and breath one sees the 'brilliant Self', and describes hearing the inner sound by stopping the ears with the thumbs. The lists are terse; their value here is as the textual root of the 'signs' tradition.",
+ "why_relevant": "Earliest list of seen preliminary appearances (smoke, fireflies, lightning, moon) tied to a stated breath-and-posture discipline; background for the later sign lists.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "breath_control",
+  "posture_or_body_lock",
+  "concentration_nonvisual",
+  "eye_pressure_or_sense_closure"
+ ],
+ "priority": 3,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1921",
+  "class": "published_record",
+  "basis": "archive.org metadata for thirteenprincipa028442mbp gives year 1921; Oxford University Press edition"
+ },
+ "author_identifiable": true,
+ "author_basis": "Classical texts; translator R. E. Hume (1877-1948)",
+ "found_via": "seed lead (Svetasvatara 2.11); archive.org title search",
+ "notes": "OCR has small errors in this passage ('Fire-Mies' for 'Fire-flies', 'heait' for 'heart'): pick anchors from clean lines. Short, mostly a list; the reading agent may fairly rate practicality low."
+}

@@ -1,0 +1,46 @@
+{
+ "id": "suf-ghazali-ihya-dhikr-seclusion-method",
+ "stream": "sufi",
+ "title": "Ihya' 'ulum al-din, Book 21 (Wonders of the Heart): the Sufi method of seclusion and dhikr, as translated in Macdonald, Lecture IX",
+ "author": "Abu Hamid al-Ghazali (d. 1111)",
+ "translator": "D. B. Macdonald",
+ "year": "c. 1100; English 1909",
+ "edition_cited": "D. B. Macdonald, The Religious Attitude and Life in Islam (Haskell Lectures 1906), University of Chicago Press, 1909; archive.org religiousattitud00macd (OCR text, double-spaced words)",
+ "tradition": "Classical Sunni Sufism",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/religiousattitud00macd",
+ "alt_urls": [],
+ "source_files": [
+  "sources/suf-macdonald-religious-attitude-1909.txt"
+ ],
+ "seen_via": "Duncan Black Macdonald, The Religious Attitude and Life in Islam (Chicago, 1909)",
+ "locator_hints": [
+  "Lecture IX 'The Mystery of Man's Body and Mind', printed pp. 255-257 (OCR lines ~9680-9760): 'let him sit alone in some corner ... saying continuously with his tongue, Allah, Allah'",
+  "p. 256: 'the light of the real will shine out in his heart. At first unstable, like a flash of lightning, it turns and returns'",
+  "Following pages: Ghazali's report of the objections of the 'people of speculation' to this method (risk of imagination, melancholia) - check",
+  "Lecture VIII also translates Ghazali's Munqidh on what Sufis see when awake (search 'unveiling')"
+ ],
+ "summary": "Ghazali's compact description of how the Sufis seek unveiling: cut all ties, sit alone in a corner doing only the obligatory prayers, no Qur'an reading or study, and repeat 'Allah, Allah' until the tongue's motion stops, then until the word's form and letters leave the heart and only the meaning remains. Up to here all depends on the seeker's will; what follows does not: he can only wait for what God opens. If he keeps to this, 'the light of the real will shine out in his heart', at first unstable like lightning, returning, sometimes abiding, sometimes momentary, long or short. Macdonald's surrounding translation gives Ghazali's account of scholars' reservations about the method.",
+ "why_relevant": "A canonical step sequence for khalwa-dhikr with a stated phenomenology of first light (lightning-like flashes that stabilise) and an explicit statement of which part is in the practitioner's power and which is not.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "sound_or_mantra",
+  "sensory_restriction",
+  "concentration_nonvisual"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1909",
+  "class": "published_record",
+  "basis": "archive.org metadata: date 1909, publisher University of Chicago Press"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "own lead; archive.org search by title",
+ "notes": "'Light' here may be read as cognitive illumination; the lightning imagery and Ghazali's follow-on discussion of forms seen should be weighed by the reading agent. Same source file as suf-tawakkul-beg-initiation-by-mulla-shah."
+}

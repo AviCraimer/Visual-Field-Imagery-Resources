@@ -1,0 +1,45 @@
+{
+ "id": "chr-fox-journal",
+ "stream": "christian",
+ "title": "The Journal of George Fox",
+ "author": "George Fox (1624-1691)",
+ "translator": "Revised by Norman Penney; introduction by Rufus M. Jones",
+ "year": "dictated c. 1675, first published 1694; this edition 1924",
+ "edition_cited": "London: J. M. Dent / New York: E. P. Dutton, Everyman's Library no. 754, 1924. archive.org scan journalofgeorgef0000foxg_b4a6",
+ "tradition": "Early Quakers (Religious Society of Friends)",
+ "language": "English",
+ "source_type": "practitioner_testimony",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/journalofgeorgef0000foxg_b4a6",
+ "alt_urls": [],
+ "source_files": [
+  "sources/chr-fox-journal.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "1647 (line 1558): 'an ocean of darkness and death, but an infinite ocean of light and love which flowed over the ocean of darkness'",
+  "1648 (line 1835): 'come up in spirit through the flaming sword'",
+  "1652 (lines 4475-4486): directing people 'to stand still in the light that shewed them their sins'",
+  "1658 letter to Lady Claypole (from line 9783): be still and cool in thy own mind"
+ ],
+ "summary": "Fox's journal is the main early source for the Quaker language of 'the Light'. On a first pass the light is not something seen in the visual field. Fox's 'openings' are reported with 'I saw', but as understandings: 'an infinite ocean of light and love which flowed over the ocean of darkness'. His practical instruction, repeated across the journal and in the letter to Lady Claypole, is to be still, turn the mind from its own thoughts, and 'stand still in the light' that shows a person their sins: the light is what makes one's condition visible to conscience. Collective silent waiting is described as practice. No passage found so far reports luminous phenomena, closed-eye or open-eye, as a result of waiting.",
+ "why_relevant": "The seed list asks whether Quaker 'waiting in the Light' involves seen light. This is the primary text to settle it; first impression is that it is metaphorical, which is itself a finding the report may need.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "concentration_nonvisual",
+  "devotion_or_transmission"
+ ],
+ "priority": 3,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1924",
+  "class": "published_record",
+  "basis": "archive.org metadata date 1924, J. M. Dent and Sons / E. P. Dutton"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; archive.org search",
+ "notes": "Likely drop (metaphorical_light) unless the reading agent finds a seen-light passage; searches for 'saw ... light', 'bright', 'shin' in the file found only figurative uses. Rex Ambler's modern reconstruction is recorded separately as citation_only."
+}

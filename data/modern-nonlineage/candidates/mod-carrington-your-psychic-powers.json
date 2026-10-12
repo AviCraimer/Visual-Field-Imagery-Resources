@@ -1,0 +1,48 @@
+{
+ "id": "mod-carrington-your-psychic-powers",
+ "stream": "modern-nonlineage",
+ "title": "Your Psychic Powers and How to Develop Them",
+ "author": "Hereward Carrington",
+ "translator": null,
+ "year": "1920",
+ "edition_cited": "New York: Dodd, Mead, 1920 (Google scan on archive.org, yourpsychicpowe00carrgoog; the catalogue record carries a 1975 reprint date for the same text)",
+ "tradition": "Psychical-research popular handbook (spiritualist development circles and aura experiments, non-lineage)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/yourpsychicpowe00carrgoog",
+ "alt_urls": [
+  "https://archive.org/details/yourpsychicpower00carr"
+ ],
+ "source_files": [
+  "sources/mod-carrington-your-psychic-powers.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Chapter X, 'The Human Aura': Kilner's screens; 'How to train your psychic sight' (horseshoe magnet in a darkened room, then in daylight, one eye at a time, focus)",
+  "Chapter XI on colour",
+  "Chapter on development for materialisation: 'Early signs and phenomena' (blackness before the eyes with specks of light; Madame d'Esperance on luminous haze seen in a half-darkened room)",
+  "Chapters on crystal gazing and clairvoyance (overlap with the western-esoteric stream)"
+ ],
+ "summary": "A handbook of self-development exercises by a psychical researcher. The aura chapter summarises Reichenbach and Kilner and then gives a training: in a darkened room study a horseshoe magnet until a faint luminosity appears at the poles and edges; repeat in daylight against a window or a white or dark wall, with one eye at a time, sliding the magnet nearer and farther until a quivering band of mist, compared to heated air over summer fields, appears along its edge. He says this needs an act of will and a special focus that often differs between the two eyes. Elsewhere he lists early signs in sitters developing in the dark, including blackness with dancing specks of light, and quotes a medium on luminous haze visible to all in a half-darkened room.",
+ "why_relevant": "Step-by-step open-eye exercise for seeing faint luminosity around objects, with viewing conditions that let the reader judge it as a dim-light and focus effect; also brief testimony about lights seen while sitting in darkness.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "gazing_fixed_point",
+  "darkness_exposure",
+  "eye_position"
+ ],
+ "priority": 3,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1920",
+  "class": "published_record",
+  "basis": "copyright line in the saved scan, OCR-garbled but legible as 'Copyright, 1920, by Dodd, Mead and Company, Inc.'; the archive.org record shows 1975, a reprint/catalogue year"
+ },
+ "author_identifiable": true,
+ "author_basis": "Hereward Carrington (1880-1958), psychical researcher",
+ "found_via": "own lead; archive.org title search",
+ "notes": "OCR quality is poor in places. In the preface Carrington says the book states the traditional teachings of spiritualist circles 'dogmatically' and does not necessarily give his own views; so its instructions are reported practice, not his endorsement."
+}

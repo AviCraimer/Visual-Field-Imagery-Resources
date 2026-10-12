@@ -1,0 +1,32 @@
+{
+  "id": "hin-shiva-samhita-vasu", "stream": "hindu-yoga-tantra",
+  "verdict": "keep",
+  "drop_reason": null, "drop_note": "",
+  "relevance": 4, "practicality": 3,
+  "text_read": "digest; plus grep for 'shadow'",
+  "mode": "perceptual",
+  "mode_evidence": "Shadow method ends in looking at the sky and seeing a grey figure; the third-eye verse says 'he then perceives a fire brilliant like lightning' and the great yogi 'beholds light, pure as holy mountain'. The third-eye verse begins with 'constantly thinks', so that one crosses from imagination to perception.",
+  "eyes": "both",
+  "onset_pathway": "induction",
+  "onset_evidence": "Shadow invocation is an explicit trial for a beginner: at sunrise or by moonlight gaze at the neck of your shadow, then look into the sky; if a full grey figure appears it is auspicious. Third-eye verse: keep thinking one has a third eye in the middle of the forehead until a lightning-like fire is perceived. Daily practice; 'by practising it always, he begins at last to see it in his heart'. Teaching is a great secret, given only to qualified yogis. Three years mentioned for success of qualified practitioners.",
+  "stimulus_independence": "yes",
+  "techniques": ["gazing_fixed_point", "sky_or_space_gazing", "afterimage_retention", "visualization_crossing", "eye_position", "eye_pressure_or_sense_closure", "devotion_or_transmission"],
+  "conditions": {"posture": "Padmasana for the nose-tip gaze and third-eye exercise.", "gaze_or_eye_position": "Steady gaze on neck of shadow, then up to sky; gaze on tip of the nose; attention between eyebrows.", "setting": "Rising sun or moonlight, clear sky.", "duration_and_schedule": "Daily; light contemplated day and night for the Siddha result; success in three years for qualified practitioners.", "prerequisites": "Qualified yogi; devotion to God and Guru, free of serious illness.", "other": ""},
+  "phenomena": ["figures_or_forms", "lightning_flashes", "all_pervading_light", "gold_yellow", "moon_disc", "sun_disc", "lamp_or_flame"],
+  "stages": [{"label": "shadow in the sky", "description": "A full grey shadow seen in the sky is auspicious; with constant practice it is eventually seen in the heart."}],
+  "what_to_do_with_light": "Contemplate it continually; by it sins are destroyed and Siddhas are seen; lie down and contemplate it to remove weariness.",
+  "obstacles_and_fixes": [],
+  "cautions": ["Yoga to be kept secret and revealed only to those with all the qualifications of a yogi."],
+  "safety_flags": ["transmission_required_by_tradition"],
+  "interpretation": "The seen shadow is a divine reflection (Pratika) giving God's sight; the light is a spiritual light that destroys sins and gives lordship over the light.",
+  "practice_summary": "Siva Samhita chapter 5 gives two seen-light methods. Pratikopasana: at sunrise or by moonlight, with a clear sky, fix the gaze steadily on the neck of your own shadow, then look up into the sky; seeing a full grey shadow there is auspicious, and daily practice gives long life and finally sight of it in the heart. Third-eye exercise: seated in Padmasana, constantly think that you have a third eye, the eye of Shiva, in the middle of the forehead; you then perceive a fire brilliant like lightning; contemplate this light day and night and you will see the Siddhas. Gaze at the tip of the nose in Padmasana and the yogi beholds a pure light, becoming its lord and guardian. Lie down and contemplate the light to remove fatigue.",
+  "key_passages": [
+    {"locator": "Ch. V, vv. 15-21 Invocation of the shadow, source lines 6456-6517", "about": "method", "anchor": "At the time of the rising sun, or by moon, let him steadily fix", "paraphrase": "Gaze steadily at the neck of the shadow thrown, then look into the sky; a full grey shadow is auspicious.", "quote": "At the time of the rising sun, or by moon, let him steadily fix his-gaze on the neck of the shadow he throws ; then, after sometime, let him look, into the sky ; ;ifhe sees a full grey shadow in the sky, itis auspicious.", "source_file": "sources/hin-vasu-yoga-sastra-sbh15.txt"},
+    {"locator": "Ch. V, v. 21, source lines 6456-6517", "about": "development", "anchor": "By practising it always, he begins at last to see it in his heart", "paraphrase": "Persistent practice moves the figure from the sky to the heart.", "quote": "21.. By practising it always, he begins at last to see it in his heart, and the persevering Yogi gets liberation.", "source_file": "sources/hin-vasu-yoga-sastra-sbh15.txt"},
+    {"locator": "Ch. V, vv. 45-46, source lines 6657-6696", "about": "onset", "anchor": "he then perceives a fire brilliant like lightning", "paraphrase": "Constantly thinking one has a third eye in the forehead, one perceives a lightning-bright fire; thinking of it day and night brings sight of Siddhas.", "quote": "When the Yogi constantly thinks that he has got a third eye-the eye of Shiva-in the middle of his forehead, he then perceives a fire brilliant like lightning.", "source_file": "sources/hin-vasu-yoga-sastra-sbh15.txt"},
+    {"locator": "Ch. V, vv. 49-50, source lines 6706-6743", "about": "method", "anchor": "The great Yogi beholds light, pure as holy mountain", "paraphrase": "Gazing on the nose tip in Padmasana, the yogi beholds pure light and becomes its lord.", "quote": "50. The great Yogi beholds light, pure as holy mountain (Kail&s), and through the force of his exercise in it, he becomes the lord and guardian of the light.", "source_file": "sources/hin-vasu-yoga-sastra-sbh15.txt"},
+    {"locator": "Ch. V, v. 42, source lines 6657-6696", "about": "caution", "anchor": "This Yoga is a great secret, and not to be given to every", "paraphrase": "The teaching is secret and for qualified yogis only.", "quote": "42. This Yoga is a great secret, and not to be given to every body ; it might be revealed to him only, in whom all the qualifications of a yogi are perceived.", "source_file": "sources/hin-vasu-yoga-sastra-sbh15.txt"}
+  ],
+  "cross_refs": ["hin-rama-prasad-natures-finer-forces"], "new_leads": [],
+  "reader_confidence": "medium", "confidence_note": "Digest plus one grep. The finger-closure verses 22-26 were not in the digest and could not be confirmed; I rely on the search agent's note for them."
+}

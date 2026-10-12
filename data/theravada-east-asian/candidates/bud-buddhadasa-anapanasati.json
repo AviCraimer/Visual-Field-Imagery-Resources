@@ -1,0 +1,44 @@
+{
+ "id": "bud-buddhadasa-anapanasati",
+ "stream": "theravada-east-asian",
+ "title": "Anapanasati (Mindfulness of Breathing)",
+ "author": "Buddhadasa Bhikkhu",
+ "translator": "Bhikkhu Nagasena",
+ "year": "Thai lectures 1959; English 1976",
+ "edition_cited": "Bangkok: Sublime Life Mission, 1976 (archive.org OCR)",
+ "tradition": "Thai Theravada, Suan Mokkh",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "in_copyright",
+ "access": "partial_saved",
+ "url": "https://archive.org/details/anapanasatibuddhadasabhikkhu_201909",
+ "alt_urls": [],
+ "source_files": [
+  "sources/bud-buddhadasa-anapanasati.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Chapter v, 'Eight Steps to Absorption': counting, connecting, contact, fixing; the three signs (printed pp. c. 154-160): the acquired sign as 'a white point or spot seen as a clear mental image at the point of contact'; comparison with kasina disc and corpse meditation ('seen with the eyes shut at least as clearly as with them open'); the list of counterpart-sign forms (cotton, smoke, gem or pearl, sun or moon) and why breath signs vary",
+  "Chapter v, further on: the point 'visualized as a sensitive wound'; the counterpart sign can be shifted at will and is then 'nailed'",
+  "Chapter vi, 'Obstacles to Absorption': what goes wrong at the stage of the acquired and counterpart signs"
+ ],
+ "summary": "Buddhadasa's systematic lectures on breath meditation. The saved chapters explain how concentration moves from the breath itself (preparatory sign) to an acquired sign and a counterpart sign. Attention is narrowed to the single point where air touches the nostril, which the meditator is told to visualise 'as a sensitive wound' being rubbed, disregarding the breath as a whole; this 'results in the formation of a mental image', a white point or spot at the nose tip. As the breath grows finer the image changes and finally stabilises as a counterpart sign whose form differs by person: felt as cotton or smoke, or 'seen vividly' as a hanging round object, gem, pearl, cobweb, lotus, wheel, or a very large sun or moon. He compares this with kasina practice, where the disc is seen with eyes shut as clearly as open and then enlarged or reduced at will, and attributes the variety of breath signs to individual memory. Chapter vi lists obstacles at this stage.",
+ "why_relevant": "A detailed modern explanation of how to produce the breath sign by a deliberately narrowed and partly visualised point of contact, with the sign described as seen; bears on both the mode question and induction.",
+ "expected_mode": "imaginal_crossing",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "concentration_nonvisual",
+  "visualization_crossing",
+  "concentration_visual_object"
+ ],
+ "priority": 2,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1976",
+  "class": "published_record",
+  "basis": "copyright page in the saved text: '(c) Copyright 1976 by Puran Singh. Published by Sublime Life Mission ... Bangkok, Thailand'"
+ },
+ "author_basis": "",
+ "found_via": "own lead; archive.org title search 'anapanasati buddhadasa'",
+ "notes": "Buddhadasa uses 'mental image' and 'inner eye' throughout, so whether the sign counts as perceptual needs the reading agent's judgment. The archive.org file opens with a different, unpublished draft translation of the corresponding Thai chapter (marked not for distribution); it was read for orientation only and not saved or quoted."
+}

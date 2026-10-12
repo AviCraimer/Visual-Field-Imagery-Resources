@@ -1,0 +1,44 @@
+{
+ "stream": "shamanic-indigenous",
+ "translator": null,
+ "alt_urls": [],
+ "seen_via": "Czaplicka quoting Castrén, Nordische Reisen und Forschungen, p. 191",
+ "locator_hints": [
+  "Religion, shaman's education, p. 190 (source lines ~10712-10720)",
+  "p. 174 shaman's 'very bright' eyes see spirits in the dark (Bogoras on the Chukchee)"
+ ],
+ "priority": 1,
+ "found_via": "gap pass 2",
+ "notes": "",
+ "author_identifiable": true,
+ "author_basis": "",
+ "id": "shm-czaplicka-aboriginal-siberia",
+ "title": "Aboriginal Siberia: a study in social anthropology",
+ "author": "M. A. Czaplicka",
+ "year": "1914",
+ "edition_cited": "Clarendon Press, Oxford 1914",
+ "tradition": "Siberian peoples (Samoyed/Nenets, Chukchee, Yakut, Buryat)",
+ "source_type": "secondary_conduit",
+ "url": "https://archive.org/details/aboriginalsiberi00czap",
+ "source_files": [
+  "sources/shm-czaplicka-aboriginal-siberia.txt"
+ ],
+ "summary": "Compilation of Russian and Western ethnography on Siberian shamanism. Relevant passages: a Samoyed (Castrén) shaman was trained by two shamans who blindfolded him and beat him on the back of the head and the shoulders 'till his eyes were dazzled as with too much light', after which he saw demons dancing on his arms and feet; Chukchee say the shaman's eyes are 'very bright', which lets them see spirits even in the dark.",
+ "why_relevant": "A concrete physical induction (blindfold plus blows to the occiput) producing photic phenomena that then turn into visions.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "eye_pressure_or_sense_closure",
+  "sensory_restriction",
+  "devotion_or_transmission"
+ ],
+ "date_evidence": {
+  "date": "1914",
+  "class": "published_record",
+  "basis": "archive.org metadata and title page, Clarendon 1914"
+ },
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "medium": "book_or_classical_text",
+ "language": "English"
+}

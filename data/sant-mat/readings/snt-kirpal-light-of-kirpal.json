@@ -1,0 +1,31 @@
+{
+  "id": "snt-kirpal-light-of-kirpal", "stream": "sant-mat",
+  "verdict": "keep",
+  "drop_reason": null, "drop_note": "",
+  "relevance": 5, "practicality": 4,
+  "text_read": "digest only",
+  "mode": "perceptual",
+  "mode_evidence": "He insists 'you cannot visualize, you see', that the light is seen at the seat of the soul behind the eyes, and that the blind also see it; he rejects visualizing the Master's face.",
+  "eyes": "closed",
+  "onset_pathway": "both",
+  "onset_evidence": "For someone who sees nothing: withdraw attention from the body and outgoing faculties, still the mind, fix attention at the eye centre (Shiv Netra). He compares seeing no light with climbing a dark staircase: many steps in the dark, then glimpses near the top. Initiation is given as the start: the Master 'gives something to start with', and some see star, moon or sun on the first day. Sitting in a dark room with nothing is a failure of attention, and he blames the mind standing between. Regular, continuous, uninterrupted attention is required; the diary and not digging up the seed are advised.",
+  "stimulus_independence": "not_applicable",
+  "techniques": ["concentration_nonvisual", "gazing_fixed_point", "eye_position", "devotion_or_transmission", "sound_or_mantra", "attention_to_spontaneous_phenomena"],
+  "conditions": {"posture": "", "gaze_or_eye_position": "Attention fixed at the seat of the soul behind the eyes, the Shiv Netra or single eye; look continuously like a child.", "setting": "Quiet; be cheerful rather than brooding.", "duration_and_schedule": "Regular and continuous; keep a diary; results come and recede.", "prerequisites": "Initiation by a Master; rising above body consciousness.", "other": "Do not use a photo or visualised face."},
+  "phenomena": ["stars", "moon_disc", "sun_disc", "colour_fields", "gold_yellow", "white", "red", "blue", "figures_or_forms"],
+  "stages": [{"label": "sky, star, big star, moon", "description": "A beginner's regular way: sees the sky, then stars, then the big star, transcends it, then the moon, transcends it. Those with background start higher."}],
+  "what_to_do_with_light": "Stay with it and go through: look into the middle of the bright light and it will open; transcend star and moon. Do not leave early.",
+  "obstacles_and_fixes": ["Seeing nothing or only darkness: attention not withdrawn, the mind is in between; keep attending, do not give up.", "Intellect and doubt interrupt progress; follow instructions implicitly.", "Seeing something but leaving too soon, so no more comes.", "Red light goes with a pushing attitude: do not push."],
+  "cautions": ["Never visualise the Master's face; if he is not perfect you become what he is.", "Drug experiences are hallucinations.", "Do not dig up the seed to check on it; judging each moment spoils progress."],
+  "safety_flags": ["transmission_required_by_tradition"],
+  "interpretation": "The inner light is God's expression and the soul's own nature; seeing it is the only proof of a Master.",
+  "practice_summary": "Sit and withdraw attention from the body and outgoing faculties until the mind is still. Fix the attention at the seat of the soul behind the eyes, the single or third eye, and look there continuously, like a child with a fixed gaze. Do not visualise a face or a candle; the light comes of itself. Expect nothing at first and keep attending: many steps may pass in the dark before glimpses. A beginner sees the sky, then stars, a big star, then the moon; go through each. If a bright light appears, look into its middle and it opens. Colours vary: golden-yellow and white are spiritual, red goes with pushing. Practise regularly, do not interrupt with intellect, and do not stop early.",
+  "key_passages": [
+    {"locator": "Printed p. 71, source lines 4497-4586", "about": "onset", "anchor": "tention just there, the place where the Shiv Netra , the third eye or single", "paraphrase": "After withdrawing attention and stilling the mind, fix it at the eye centre behind the eyes and you will see light; the many dark steps before the first glimpses are normal.", "quote": "", "source_file": "sources/snt-kirpal-light-of-kirpal.txt"},
+    {"locator": "Printed p. 29, source lines 2174-2213", "about": "mode", "anchor": "my way is different. Most do see something. But they stay, then leave.", "paraphrase": "He rejects visualisation of the Master; what appears of itself is true. Most see something but leave too early.", "quote": "", "source_file": "sources/snt-kirpal-light-of-kirpal.txt"},
+    {"locator": "Printed p. 73, source lines 4497-4586", "about": "stages", "anchor": "have to start, there’s a regular way. They’ll see the sky; they’ll see stars,", "paraphrase": "A beginner's sequence is sky, stars, big star, moon, each to be transcended.", "quote": "", "source_file": "sources/snt-kirpal-light-of-kirpal.txt"},
+    {"locator": "Source lines 18121-18157", "about": "method", "anchor": "child looks, his gaze is fixed continuously. When the gaze is fixed, the", "paraphrase": "Look continuously like a child; a fixed gaze fixes the mind; regularity and a diary are needed.", "quote": "", "source_file": "sources/snt-kirpal-light-of-kirpal.txt"}
+  ],
+  "cross_refs": [], "new_leads": [],
+  "reader_confidence": "high", "confidence_note": "Digest only; the many disciple-by-disciple corrections in the full text were not read."
+}

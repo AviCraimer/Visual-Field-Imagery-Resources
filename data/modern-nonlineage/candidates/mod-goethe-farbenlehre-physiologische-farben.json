@@ -1,0 +1,39 @@
+{
+ "stream": "modern-nonlineage",
+ "translator": null,
+ "alt_urls": [],
+ "seen_via": null,
+ "expected_mode": "unknown",
+ "expected_onset_pathway": "unknown",
+ "expected_techniques": [],
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "user",
+ "notes": "Observational, not a spiritual practice; include as mechanism and method for afterimage work. OCR uses long s (ſ) and Fraktur ligatures; anchors must be copied as they stand.",
+ "id": "mod-goethe-farbenlehre-physiologische-farben",
+ "title": "Zur Farbenlehre, Didaktischer Teil, Erste Abteilung: Physiologische Farben",
+ "author": "Johann Wolfgang von Goethe",
+ "year": "1810",
+ "edition_cited": "Tübingen: Cotta, 1810, vol. 1; Bayerische Staatsbibliothek scan, archive.org 10857915bsb (Fraktur OCR)",
+ "tradition": "Goethean phenomenology of colour",
+ "language": "German",
+ "source_type": "practitioner_testimony",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/10857915bsb",
+ "source_files": [
+  "sources/mod-goethe-farbenlehre-physiologische-farben.txt"
+ ],
+ "locator_hints": [
+  "Erste Abteilung, Physiologische Farben: IV 'Blendendes farbloses Bild' (Abklingen, the coloured decay of a dazzling afterimage), V 'Farbige Bilder', and the passages on light seen with closed eyes and pressure on the eye"
+ ],
+ "summary": "Goethe's first-person observations of physiological colours: the dazzling colourless image and its 'Abklingen' through a sequence of colours with eyes closed, coloured afterimages, and light seen in the dark eye or under pressure. Added at the user's request as the classic account of how a bright-source afterimage turns coloured, relevant to the mechanism of fire-kasina and candle trataka.",
+ "why_relevant": "Primary first-person account of the colour sequence of positive afterimages, the mechanism behind afterimage-based light practices.",
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1810",
+  "class": "published_record",
+  "basis": "1810 Cotta first edition scan on archive.org"
+ }
+}

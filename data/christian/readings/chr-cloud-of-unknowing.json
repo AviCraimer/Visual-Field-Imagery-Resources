@@ -1,0 +1,82 @@
+{
+ "id": "chr-cloud-of-unknowing",
+ "stream": "christian",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 3,
+ "practicality": 2,
+ "text_read": "digest only",
+ "mode": "ambiguous",
+ "mode_evidence": "The 'cloud' is explicitly not seen: it is a lack of knowing, not pictured darkness or imagined light. The only seen lights mentioned are the 'quaint lights and shining in their eyes' of deceived seekers, which the author calls false.",
+ "eyes": "unspecified",
+ "onset_pathway": "unclear",
+ "onset_evidence": "Offers nothing for someone who sees no light; the goal is a naked intent to God, not light. The sole light is an occasional 'beam of ghostly light' sent by God when He wishes, not producible by effort.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "concentration_nonvisual",
+  "devotion_or_transmission"
+ ],
+ "conditions": {
+  "posture": "",
+  "gaze_or_eye_position": "Warns against staring upward at stars or straining to see inwards with bodily eyes.",
+  "setting": "",
+  "duration_and_schedule": "",
+  "prerequisites": "Humility and charity; amendment of life.",
+  "other": "One-syllable word such as God or love, held in a naked intent."
+ },
+ "phenomena": [
+  "smoke_mist_cloud",
+  "lightning_flashes"
+ ],
+ "stages": [
+  {
+   "label": "cloud of unknowing",
+   "description": "At first only darkness and a naked intent in the will; sometimes God sends a beam of ghostly light through it."
+  }
+ ],
+ "what_to_do_with_light": "Refuse seeking it; treat bodily lights as accidents or hallucination and as a possible fiend's deceit; accept a ghostly beam only as given.",
+ "obstacles_and_fixes": [
+  "Imagination and curiosity of wit produce false images: leave them and do not work with them.",
+  "Thoughts pressing above the cloud: answer that God alone is sought, put them under a cloud of forgetting."
+ ],
+ "cautions": [
+  "Staring at stars and straining inwards produce false lights, sounds and smells.",
+  "The devil has his contemplatives as God has His."
+ ],
+ "safety_flags": [
+  "tradition_warns_against_seeking"
+ ],
+ "interpretation": "Light is a rare grace from God, not a goal; the darkness is a lack of knowing, and sensory lights are suspect.",
+ "practice_summary": "The Cloud teaches no light technique. The work is a loving, naked intent toward God, held with a short word such as God or love, with all created things put beneath a cloud of forgetting and all thoughts pressed down. At first you find only darkness. Do not picture this darkness, and do not imagine a shining light in it. Do not stare upward, turn the bodily senses inward or strain to see inwardly with the bodily eyes: this overworks the imagination and invites false lights, sounds, smells and burnings. If a beam of ghostly light ever pierces the cloud, it is God's doing, on His timing, and not to be reached by effort. Keep working and ignore it. Real illumination arises within the soul as gladness, not through the windows of the wits.",
+ "key_passages": [
+  {
+   "locator": "Ch. IV, source lines 2456-2574",
+   "about": "mode",
+   "anchor": "darkest  night  of  winter,  thou  mayest\nimagine  a  clear  shining  light.  Let  be\nsuch  falsehood.",
+   "paraphrase": "The darkness is not an imagined darkness, and one should not imagine a clear shining light; he calls both falsehood.",
+   "quote": "",
+   "source_file": "sources/chr-cloud-of-unknowing.txt"
+  },
+  {
+   "locator": "Ch. XXXIV, source lines 4614-4651",
+   "about": "onset",
+   "anchor": "Then  will  He  sometimes  peradven-\nture  send  out  a  beam  of  ghostly  light,",
+   "paraphrase": "Occasionally God, when He pleases, sends a beam of ghostly light through the cloud; it follows devotion and is not produced.",
+   "quote": "",
+   "source_file": "sources/chr-cloud-of-unknowing.txt"
+  },
+  {
+   "locator": "Ch. LVII, source lines 7116-7212",
+   "about": "caution",
+   "anchor": "the  devil  feigneth  quaint  sounds  in  their\nears,  quaint  lights  and  shining  in\ntheir  eyes",
+   "paraphrase": "Those who stare at the stars and strive for visions are deceived by quaint sounds, lights and shining in their eyes, and smells.",
+   "quote": "",
+   "source_file": "sources/chr-cloud-of-unknowing.txt"
+  }
+ ],
+ "cross_refs": [],
+ "new_leads": [],
+ "reader_confidence": "medium",
+ "confidence_note": "Digest only; anchors may span line breaks."
+}

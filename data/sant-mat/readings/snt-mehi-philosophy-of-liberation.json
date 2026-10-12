@@ -1,0 +1,31 @@
+{
+  "id": "snt-mehi-philosophy-of-liberation", "stream": "sant-mat",
+  "verdict": "keep",
+  "drop_reason": null, "drop_note": "",
+  "relevance": 4, "practicality": 4,
+  "text_read": "digest only",
+  "mode": "ambiguous",
+  "mode_evidence": "Drishti Yoga is called the yoga of inner Light and said to open 'subtle or Divine sight' and 'Divine vision dawns'; but the bindu is said to be something that cannot be marked or imagined, only 'visualized' by the converging gaze. The text never describes what is seen. The translators' appendix says the Point 'blossoms into inner Light or visions of Light'.",
+  "eyes": "closed",
+  "onset_pathway": "induction",
+  "onset_evidence": "A graded sequence for beginners: mental repetition (manas japa) and visualising a holy form (manas dhyan) to concentrate the mind, then drishti yoga: unite the rays of both eyes on the focal point and gaze on it with a steady mind that has no other activity. Constant practice opens the divine sight. Prerequisites: moral conduct (yama/niyama), a steady posture, the guru's service and grace, daily practice at fixed hours (3 a.m. preferred, mid-morning, evening). No time scale. Grace (krpa) is listed as essential.",
+  "stimulus_independence": "not_applicable",
+  "techniques": ["concentration_nonvisual", "visualization_crossing", "gazing_fixed_point", "eye_position", "sound_or_mantra", "posture_or_body_lock", "devotion_or_transmission"],
+  "conditions": {"posture": "Comfortable asana, head, neck and trunk straight and steady for prolonged periods.", "gaze_or_eye_position": "Eyes shut comfortably, no turning or pressing of the eyeballs; the rays of both eyes united on the point; no straining of pupils.", "setting": "Eyes and mouth closed; ears also closed only for the sound practice.", "duration_and_schedule": "Daily; preferred 3 a.m., then mid-morning and evening; also while falling asleep.", "prerequisites": "Yama and niyama; avoid drugs, alcohol, meat; guru's service; initiation.", "other": "Alert, not drowsy; return the mind repeatedly to the focus (pratyahara)."},
+  "phenomena": ["sphere_pearl_bindu", "colour_fields", "black_light", "red", "white", "blue", "gold_yellow"],
+  "stages": [{"label": "four stages", "description": "Manas japa, manas dhyan, drishti yoga (one-pointedness on the bindu), then sound (nada). Once one-pointedness is steady, drop the point for the sound."}],
+  "what_to_do_with_light": "Use it only to attain one-pointedness; once steady, leave the bindu and take up the inner sound (light is said to be within the sound).",
+  "obstacles_and_fixes": ["Drowsiness: stay alert.", "Wandering mind: pratyahara, bring it back to the focus repeatedly.", "Eye pain or abnormality from straining: do not strain or press."],
+  "cautions": ["Straining pupils or eyeballs brings pain and abnormality in the eyes.", "Do not press the eyeballs.", "Staying with Drishti Yoga after one-pointedness is steady is undesirable (more time, harder path).", "Divine light alone cannot reach the Essential Sound."],
+  "safety_flags": ["eye_pressure", "transmission_required_by_tradition"],
+  "interpretation": "The bindu is the finest expression of the Supreme; light belongs to the subtle realm and is a means of one-pointedness, with sound being the essence.",
+  "practice_summary": "Sit with head, neck and trunk straight and steady, alert and not drowsy. Shut the eyes comfortably, without turning or pressing the eyeballs. First concentrate the mind by silent repetition of a holy name and by visualising a holy form. Then practise drishti yoga: unite the rays of both eyes on one tiny point in the inner darkness and gaze on it with a mind so intent that all other activity stops. When the mind wanders, bring it back to the point. Do not strain the pupils. Practise daily at fixed hours, ideally very early morning, and keep conduct pure. The divine sight is said to open; once one-pointedness is steady, move to inner sound.",
+  "key_passages": [
+    {"locator": "Aphorism 59, source lines 1112-1195", "about": "method", "anchor": "by uniting the rays of both eyes on the focus and gazing on it", "paraphrase": "One-pointedness comes by uniting the rays of both eyes on the focus and gazing with a steady mind; this is drishti yoga.", "quote": "", "source_file": "sources/snt-mehi-philosophy-of-liberation.txt"},
+    {"locator": "Aphorism 59, source lines 1112-1195", "about": "caution", "anchor": "straining of the pupils or eyeballs brings pain and abnormality in the eyes.", "paraphrase": "Straining the eyes is unnecessary and harmful.", "quote": "", "source_file": "sources/snt-mehi-philosophy-of-liberation.txt"},
+    {"locator": "Aphorism 91, source lines 1786-1940", "about": "method", "anchor": "Meditation should be practiced being alert, without being drowsy,", "paraphrase": "Alert, eyes shut comfortably, no turning or pressing of the eyeballs.", "quote": "", "source_file": "sources/snt-mehi-philosophy-of-liberation.txt"},
+    {"locator": "Translators' appendix, source lines 2255-2369", "about": "stages", "anchor": "5) Drshti Yoga, the technique of focusing upon an Infinitesimal Point (Inner", "paraphrase": "The appendix says the point eventually blossoms into inner light or visions of light, and one gazes into the middle of the darkness or light seen.", "quote": "", "source_file": "sources/snt-mehi-philosophy-of-liberation.txt"}
+  ],
+  "cross_refs": [], "new_leads": [],
+  "reader_confidence": "medium", "confidence_note": "Digest only; the manual says little about what is actually seen."
+}

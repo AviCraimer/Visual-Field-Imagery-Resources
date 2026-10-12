@@ -1,0 +1,37 @@
+{
+ "id": "vaj-govinda-foundations-tibetan-mysticism",
+ "stream": "vajrayana-bon",
+ "title": "Foundations of Tibetan Mysticism",
+ "author": "Lama Anagarika Govinda",
+ "translator": null,
+ "year": "1959 (Rider)",
+ "edition_cited": "",
+ "tradition": "Tibetan Vajrayana",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "in_copyright",
+ "access": "citation_only",
+ "url": "https://archive.org/details/foundationsoftib0000lama",
+ "alt_urls": [],
+ "source_files": [],
+ "seen_via": null,
+ "locator_hints": [],
+ "summary": "In-copyright 1959 book (archive.org holds lending copies only). Part V treats sadhana and the creative visualization of the deity, the mandala and the transformation of the practitioner. Not opened in this pass, so nothing is claimed here about whether Govinda says the visualized deity becomes perceptually seen; the user should check his chapters on visualization and on the 'Mantra-Yana' in their own copy.",
+ "why_relevant": "Classic modern exposition of Tibetan deity visualization by a practitioner; possible statements on the reality-status of visualized forms.",
+ "expected_mode": "unknown",
+ "expected_onset_pathway": "unknown",
+ "expected_techniques": [
+  "visualization_crossing"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1959",
+  "class": "published_record",
+  "basis": "archive.org metadata for foundationsoftib0000lama gives 1959"
+ },
+ "author_identifiable": true,
+ "author_basis": "Published author",
+ "found_via": "gap pass 2",
+ "notes": "Not read: in copyright, no authorised free text."
+}

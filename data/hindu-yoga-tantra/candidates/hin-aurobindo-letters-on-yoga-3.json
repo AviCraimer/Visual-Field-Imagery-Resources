@@ -1,0 +1,54 @@
+{
+ "id": "hin-aurobindo-letters-on-yoga-3",
+ "stream": "hindu-yoga-tantra",
+ "title": "Letters on Yoga III: Experiences and Realisations in the Integral Yoga (Part Two, The Opening of the Inner Senses)",
+ "author": "Sri Aurobindo",
+ "translator": null,
+ "year": "letters 1927-1950; this volume 2014",
+ "edition_cited": "The Complete Works of Sri Aurobindo, vol. 30, Sri Aurobindo Ashram Publication Department, Pondicherry, 2014 ((c) Sri Aurobindo Ashram Trust 2014); text from the copy of the Ashram's freely distributed PDF mirrored at archive.org item letters-on-yoga-3-sri-aurobindo",
+ "tradition": "Integral Yoga (Sri Aurobindo Ashram)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "in_copyright",
+ "access": "fulltext_saved",
+ "url": "https://incarnateword.in/cwsa/30",
+ "alt_urls": [
+  "https://archive.org/details/letters-on-yoga-3-sri-aurobindo"
+ ],
+ "source_files": [
+  "sources/hin-aurobindo-letters-on-yoga-3.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Part Two, Section One, 'The Value of Visions': 'Vision, Experience and Realisation' (printed p. 87; file line c. 4396-4420)",
+  "'Sensing Supraphysical Things' (printed pp. 89-90; file lines c. 4490-4565): the long letter to a sceptic: the faculty is latent in everyone and trainable; 'It comes more easily with the eyes shut than with the eyes open'; first signs of the externalised way are 'sparkles' or small luminous dots, then circles of light round luminous objects, then colours; tratak on a luminous object; 'Your looking at the star was precisely an exercise in tratak'",
+  "'Stages in the Development of the Inner Vision' (printed pp. 99-100; file lines c. 4938-4985): colours or moving lights first, then shapes, flowers, figures, scenes; closed-eye seeing after the sleep obstacle is passed",
+  "Printed p. 108 (file lines c. 5359-5371): the letter warning against gazing on a flame or bright spot: surface trance, 'dreadful objects', 'You should not employ these means'",
+  "'Subtle Physical Visions' (printed p. 108; file lines c. 5372-5382): whatever is seen with closed eyes can be seen with open eyes; which comes first is temperament",
+  "Section Two, 'Lights and Colours', chapter 'Light': 'Seeing Light' (printed pp. 117-118; file lines c. 5605-5660): 'Light is always seen in Yoga with the inner eye and even with the outer eye'; 'There is no imagination in the seeing of these lights'; a quiet mind is not needed, only an opening of the brow centre; can be developed by effort by those with some inborn faculty; 'by a psychic and spiritual, not a physical pressure'",
+  "Chapter 'Colours' (printed pp. 122-134): meanings assigned to each colour; search also 'Different Forms of Light' p. 119 (sparks, flames, moon, sun)",
+  "Other volumes hold related letters (Letters on Himself; Letters on Yoga II on concentration between the eyebrows): not saved"
+ ],
+ "summary": "Replies written to disciples who reported what they saw. Aurobindo insists the lights are seen, not imagined, 'with the inner eye and even with the outer eye', and that anything seen with closed eyes can also be seen with open eyes once the inner sight extends to the 'subtle physical'. He gives a developmental order: moving colours or lights and vague shapes first, later flowers, figures and scenes; and for the open-eyed mode, sparkles or small luminous dots, then rings of light or colour around luminous objects such as a star, then colours. On onset he says the faculty is latent in everyone, often opens unasked early in practice, does not need a quiet mind, and can be trained 'with a little concentration'; he names tratak on a luminous point as the yogis' standard means and tells one correspondent his star-gazing was exactly that. To another, frightened by what flame-gazing produced, he says not to use such means because they give a passive surface trance. Colours are read as signs of specific forces.",
+ "why_relevant": "A major modern teacher answering practitioners' reports about seen lights, explicit on perceptual versus imagined, on closed-eye versus open-eye stages, on how the faculty starts, and containing both an endorsement of and a warning against gazing methods.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "attention_to_spontaneous_phenomena",
+  "light_source_gazing",
+  "gazing_fixed_point",
+  "concentration_nonvisual",
+  "devotion_or_transmission"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "2014",
+  "class": "published_record",
+  "basis": "imprint in the file: '(c) Sri Aurobindo Ashram Trust 2014, Published by Sri Aurobindo Ashram Publication Department'; the Publisher's Note states the letters were written between 1927 and 1950; author died 1950"
+ },
+ "author_identifiable": true,
+ "author_basis": "Sri Aurobindo (1872-1950); edition by the Sri Aurobindo Ashram Trust",
+ "found_via": "seed lead; WebSearch on incarnateword.in gave the CWSA 30 URL pattern; full text found on archive.org",
+ "notes": "In copyright; the Ashram distributes the Complete Works PDFs free, so the full text is saved: record passages as locator + paraphrase + anchor. OCR splits words at line ends with a '¬' sign and occasionally misreads brackets. Individual letters are undated in this edition. The incarnateword.in index page could not be read by the fetch tool (script-rendered), so no reader extract was made."
+}

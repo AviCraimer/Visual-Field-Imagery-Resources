@@ -1,0 +1,124 @@
+{
+ "id": "dao-wu-shouyang-xianfo-hezong",
+ "stream": "taoist",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 4,
+ "practicality": 3,
+ "text_read": "Repaired digest; then in the full source read in full chapter 4 火足候止火景采大藥候天機 (l.67-89), ch.5 七日采大藥 (89-120), ch.7 month-by-month signs (151), ch.8 出神景 (161-165), the 止火 Q&A (l.1059-1180), the 得藥景 notes (1039-1095, 1931-1937) and the 回光內照 Q&A (2225-2235).",
+ "mode": "perceptual",
+ "mode_evidence": "The light is located and seen: 'the space between the brows, called Bright Hall, is where the yang light appears; when it appears it is like a flash of lightning, the empty room producing white (恍如掣電，虛室生白)'; 'in stillness one suddenly sees lightning again between the brows'. Signs of the medicine include 'the eyes emit golden light (眼吐金光)'.",
+ "eyes": "closed",
+ "onset_pathway": "development_only",
+ "onset_evidence": "No induction of light per se: it is the outward sign of the completed small-orbit firing (300 'mysterious' circuits) plus genital retraction. The first flash comes during refining essence while 'the fire is not complete'; the second and third come only in stillness after the 300 count. Wu stresses 'when the medicine is not ripe the fire has no stopping-sign (丹藥未成熟，則火無止景)', i.e. light cannot be hurried; one practitioner reached fire-sufficiency in under fifty days and the medicine in five. The method of gathering is the 'eye-light' (眸光) gazing fixedly; Qiu Chuji's verse: 'the whole of life is in the two pupils'. Presupposes teacher transmission and celibacy.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "concentration_nonvisual",
+  "eye_position",
+  "breath_control",
+  "energy_work",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "conditions": {
+  "posture": "seated meditation",
+  "gaze_or_eye_position": "eye-light (眸光) fixed on the centre/lower field to give spirit its 'stabilizing point'",
+  "setting": "",
+  "duration_and_schedule": "300 good circuits of small orbit; seven-day gathering of the great medicine; ten months gestation",
+  "prerequisites": "pure 'water source' (no lustful thought), proper gathering and sealing, no dullness or scatter; transmission from a teacher",
+  "other": ""
+ },
+ "phenomena": [
+  "lightning_flashes",
+  "white",
+  "gold_yellow",
+  "sphere_pearl_bindu",
+  "snow_or_flakes"
+ ],
+ "stages": [
+  {
+   "label": "陽光一現",
+   "description": "Lightning-white flash between the brows during refining essence; continue firing."
+  },
+  {
+   "label": "陽光二現",
+   "description": "After 300 circuits, in samadhi, lightning again between the brows, with retraction: stop the fire (止火之景)."
+  },
+  {
+   "label": "陽光三現",
+   "description": "A third flash: the great medicine can be gathered; a fourth means overfiring and loss."
+  },
+  {
+   "label": "得藥六景",
+   "description": "During the seven-day gathering, around days 3-4: fire in the dantian, kidneys like boiling, eyes emitting golden light, wind behind the ears, eagle cries behind the head; 'golden light under the eyes' is the sign yang has become full."
+  },
+  {
+   "label": "出神景",
+   "description": "At the end of nurturing, in samadhi one sees 'six-petalled flakes falling in the void' (snow): the sign to send out the yang spirit."
+  }
+ ],
+ "what_to_do_with_light": "Treat as a sign: at the second appearance stop running the fire even if qi stirs, enter samadhi and 'listen quietly' for the third; then gather.",
+ "obstacles_and_fixes": [
+  "Mistaking qi stirrings after the second appearance for something to gather and resuming the fire causes danger.",
+  "Stopping fire with no stopping-sign leaves qi insufficient; never stopping it leaves only longevity, not transcendence.",
+  "Bad circuits (dull, scattered, impure) do not count toward the 300."
+ ],
+ "cautions": [
+  "Firing to a fourth appearance turns the medicine back into post-heaven essence.",
+  "Wu criticizes reducing 回光內照 to merely 'turning the gaze inward': it must accompany each stage's object (essence-qi, spirit-qi, emptiness)."
+ ],
+ "safety_flags": [
+  "transmission_required_by_tradition",
+  "tradition_warns_against_seeking"
+ ],
+ "interpretation": "The yang light is the visible proof that yang qi has fully settled in the qi root; Wu equates it with Buddhist images like the Buddha 'emitting light and shaking the earth'.",
+ "practice_summary": "Within the Wu-Liu course: refine essence by running the small heavenly circuit whenever yang stirs, counting only circuits done with a pure mind, unbroken attention, and harmonised spirit and qi, toward three hundred. A lightning-like white flash between the brows in this phase is the first appearance and means continue. When the count is full, stop doing anything and sit in stillness, nourishing yang. When the flash comes again between the brows, with the genitals retracted and unaroused, that is the second appearance: stop the fire completely even if qi still stirs. Wait quietly for the third flash, then gather the great medicine for seven days by fixing the eye-light unwaveringly, letting breath settle until it stops by itself. Golden light in the eyes, wind behind the ears and cries behind the head mark the medicine's arrival. Do not overrun into a fourth appearance.",
+ "key_passages": [
+  {
+   "locator": "火足候止火景采大藥候天機第四, source line 75",
+   "about": "mode",
+   "anchor": "兩 眉 間 號 曰 明 堂 陽 光 發 現 之 處 也 陽 光 發 現 之 時 恍 如 掣 電 虛 室 生 白 是 也",
+   "paraphrase": "Between the brows, called the Bright Hall, is where the yang light appears; it appears like a flash of lightning, the empty room producing white.",
+   "quote": "兩眉間號曰明堂，陽光發現之處也。陽光發現之時，恍如掣電，虛室生白是也。當煉精之時，即有陽光一現之景。斯時也，火候未全，淫根未縮。",
+   "source_file": "sources/dao-wu-shouyang-xianfo-hezong.txt"
+  },
+  {
+   "locator": "第四章, source line 83",
+   "about": "stages",
+   "anchor": "故 陽 光 二 現 縱 有 動 機 亦 去 其 火 更 宜 人 定 以 培 養 其 真 陽",
+   "paraphrase": "So at the second appearance, even if there is movement, remove the fire and enter samadhi to nourish true yang, quietly awaiting the third, which again flashes between the brows; second and third are both stopping-signs, the third alone also the sign to gather.",
+   "quote": "故陽光二現，縱有動機，亦去其火，更宜人定以培養其真陽，靜聽陽光之三現可也。由是於靜定之中，忽見眉間又掣電光，虛室生白。此陽光三現也。",
+   "source_file": "sources/dao-wu-shouyang-xianfo-hezong.txt"
+  },
+  {
+   "locator": "止火 Q&A, source line 1063",
+   "about": "onset",
+   "anchor": "丹 藥 未 成 熟 則 火 無 止 景",
+   "paraphrase": "While the dan medicine is not ripe, the fire shows no stopping-sign: the light cannot be produced before the work is complete.",
+   "quote": "丹藥未成熟，則火無止景。",
+   "source_file": "sources/dao-wu-shouyang-xianfo-hezong.txt"
+  },
+  {
+   "locator": "七日采大藥天機第五, source line 117",
+   "about": "method",
+   "anchor": "此 四 說 皆 以 眸 光 為 招 攝",
+   "paraphrase": "All four methods use the eye-light as what attracts and gathers; with the gaze fixed, around days three to four the six signs appear, including the eyes emitting golden light.",
+   "quote": "此四說皆以眸光為招攝……一團生意在雙眸……丹田火熾，兩腎湯煎，眼吐金光，耳後風生，腦後鷲鳴，身涌鼻搐之類，皆得藥之景也。",
+   "source_file": "sources/dao-wu-shouyang-xianfo-hezong.txt"
+  },
+  {
+   "locator": "出神景出神收神法第八, source line 165",
+   "about": "stages",
+   "anchor": "忽 於 定 中 見 空 中 六 出 紛 紛 即 出 神 之 景 也",
+   "paraphrase": "When nurturing is complete, one suddenly sees in samadhi six-petalled flakes falling thickly in the void: the sign for sending out the spirit.",
+   "quote": "",
+   "source_file": "sources/dao-wu-shouyang-xianfo-hezong.txt"
+  }
+ ],
+ "cross_refs": [
+  "dao-dacheng-jieyao"
+ ],
+ "new_leads": [],
+ "reader_confidence": "high",
+ "confidence_note": "Wikisource recension; candidate notes that the Daozang jiyao recension lacks the second/third-appearance wording. Dacheng jieyao's 真阳发生天机 closely paraphrases Wu's ch.4."
+}

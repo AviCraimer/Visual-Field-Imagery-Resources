@@ -1,0 +1,97 @@
+{
+ "stream": "christian",
+ "drop_reason": null,
+ "drop_note": "",
+ "cross_refs": [],
+ "new_leads": [],
+ "safety_flags": [],
+ "stages": [
+  {
+   "label": "umbra viventis lucis",
+   "description": "constant, non-local light brighter than a sunlit cloud, without dimensions; scriptures, virtues and human works shine in it like reflections in water"
+  },
+  {
+   "label": "lux vivens",
+   "description": "another light within the first, seen rarely; while seen, all sadness leaves her"
+  }
+ ],
+ "obstacles_and_fixes": [],
+ "cautions": [
+  "Many wise men, confounded by marvels, ascribed them to themselves from vainglory and fell."
+ ],
+ "phenomena": [
+  "all_pervading_light",
+  "white",
+  "colour_fields",
+  "figures_or_forms"
+ ],
+ "conditions": {
+  "posture": "",
+  "gaze_or_eye_position": "eyes open",
+  "setting": "ordinary waking life, day and night",
+  "duration_and_schedule": "constant from childhood",
+  "prerequisites": "none stated; humility",
+  "other": "accompanied by chronic illness"
+ },
+ "id": "chr-hildegard-letter-guibert",
+ "verdict": "keep",
+ "relevance": 5,
+ "practicality": 1,
+ "text_read": "Latin letter in full (source lines 19630-19790), plus search for 'umbra viventis', 'lux vivens', 'apertis'.",
+ "mode": "ambiguous",
+ "mode_evidence": "She sees 'in my soul, with outer eyes open', awake, never in ecstasy, and explicitly 'not with outer ears nor by thoughts of my heart nor by any combination of my five senses'. So it co-exists with open-eyed vision but she denies it is sensory or imaginative: a third mode. It is seen 'like a starless firmament in a bright cloud'.",
+ "eyes": "open",
+ "onset_pathway": "development_only",
+ "onset_evidence": "Present 'from infancy, before my bones, nerves and veins were strengthened' and continuous to her seventies; no practice produced it and none is offered. She attributes it entirely to God working where he wills; her own part is humility, fear, counting herself as nothing.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "attention_to_spontaneous_phenomena"
+ ],
+ "what_to_do_with_light": "Report what is seen and heard in it; refer everything to God; remain humble.",
+ "interpretation": "A light from God in which divine teaching is shown; she cannot know its form, as one cannot look fully at the sun.",
+ "practice_summary": "Hildegard gives no method. Her letter is valuable as a description: a light seen with open eyes while fully awake, never in ecstasy, constant for decades, not located anywhere, without measurable extent, brighter than a sunlit cloud, which she distinguishes both from sense perception and from thinking. Within it a second, rarer 'living light' appears and removes all sorrow. Her only counsel is humility: count oneself as nothing and leave everything to God.",
+ "key_passages": [
+  {
+   "locator": "Epist. II, Pitra p. 332, source lines ~19715-19721",
+   "about": "mode",
+   "anchor": "apertis exterioribus oculis ita ut nunquam in eis defectum extasis passa",
+   "paraphrase": "I neither hear these things with outer ears nor perceive them by thoughts of my heart or any combination of my five senses, but only in my soul, with outer eyes open, so that I never suffer the failing of ecstasy in them, but see them awake, day and night.",
+   "quote": "Ista autem nec exterioribus auribus audio, nec cogitationibus cordis mei, nec ulla collatione quinque sensuum meorum percipio; sed tantum in anima mea, apertis exterioribus oculis, ita ut nunquam in eis defectum extasis passa sim, sed vigilanter die ac nocte illa video.",
+   "source_file": "sources/chr-hildegard-letter-guibert.txt"
+  },
+  {
+   "locator": "Epist. II, Pitra p. 332, source lines ~19725-19729",
+   "about": "testimony",
+   "anchor": "Lumen igitur quod video locale non est sed multo et multo nube",
+   "paraphrase": "The light I see is not local, but far brighter than a cloud that carries the sun; I can consider no height, length or breadth in it, and it is called to me the shadow of the living light; scriptures, virtues and works shine in it as sun, moon and stars appear in water.",
+   "quote": "Lumen igitur quod video, locale non est, sed multo et multo nube quae solem portat, lucidior est; nec altitudinem, nec longitudinem, nec latitudinem in eo considerare valeo, et illud Umbra viventis lucis mihi nominatur.",
+   "source_file": "sources/chr-hildegard-letter-guibert.txt"
+  },
+  {
+   "locator": "Epist. II, Pitra p. 333, source lines ~19745-19750",
+   "about": "stages",
+   "anchor": "In eodem lumine aliam lucem quae Lux",
+   "paraphrase": "In that same light I sometimes, not often, see another light called the living light; I cannot say when or how I see it; while I see it all sadness and anguish are taken from me.",
+   "quote": "",
+   "source_file": "sources/chr-hildegard-letter-guibert.txt"
+  },
+  {
+   "locator": "Epist. II, Pitra p. 333, source lines ~19757-19760",
+   "about": "testimony",
+   "anchor": "Anima autem mea nulla hora caret praefato lumine",
+   "paraphrase": "My soul is at no hour without that light called the shadow of the living light, and I see it as if I were looking at a starless firmament in a bright cloud.",
+   "quote": "",
+   "source_file": "sources/chr-hildegard-letter-guibert.txt"
+  },
+  {
+   "locator": "Epist. II, Pitra p. 332, source lines ~19710-19712",
+   "about": "onset",
+   "anchor": "Ab infantia autem mea ossibus et nervis et venis meis nondum",
+   "paraphrase": "From my infancy, before my bones, nerves and veins were strengthened, I have always seen this vision in my soul up to the present, now over seventy.",
+   "quote": "",
+   "source_file": "sources/chr-hildegard-letter-guibert.txt"
+  }
+ ],
+ "reader_confidence": "high",
+ "confidence_note": "Read in Latin from Pitra's 1882 edition; OCR errors minor ('vive7itis')."
+}

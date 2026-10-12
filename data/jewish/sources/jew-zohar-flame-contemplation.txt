@@ -1,0 +1,76 @@
+
+===== Zohar, Bereshit 86 =====
+Source URL: https://www.sefaria.org/Zohar%2C_Bereshit_86
+Hebrew/Aramaic version: Vocalized Zohar, Israel 2013 | license: unknown | source: https://www.nli.org.il/he/books/NNL_ALEPH990035741170205171/NLI
+English version: The Zohar; London, Soncino Press, 1933 | license: Public Domain | source: https://www.nli.org.il/he/books/NNL_ALEPH997012945475805171/NLI
+Fetched from Sefaria API 2026-10-11
+
+[1] HE: תָּא חֲזֵי, אֶת הַשָּׁמַיִם דָּא שְׁכִינְתָּא עִלָּאָה. וְאֶת הָאָרֶץ דָּא שְׁכִינְתָּא דִּלְתַתָּא בְּאִתְחַבְּרוּתָא דִּדְכַר וְנוּקְבָא כְּחֲדָא. וְהָא אִתְּמָר כְּמָה דְּאִתְעָרוּ בֵּיהּ חַבְרַיָיא עַד כְּעָן.
+[1] EN: Similarly we can interpret the text “the heavens and the earth” to mean that the higher Shekinah and the lower Shekinah will be joined in the union of male and female; this has already been explained, as the colleagues have noted.’
+
+[2] HE: בָּעוּ (ד"א בעא) לְמֵיזַל. קָמוּ. אָמַר רַבִּי שִׁמְעוֹן מִלָּה הָכָא גַּבָּן. פָּתַח רַבִּי שִׁמְעוֹן וְאָמַר, תְּרֵי קְרָאֵי כְּתִיבֵי, (דברים ד׳:כ״ד) כִּי יְיָ אֱלֹהֶיךָ אֵשׁ אוֹכְלָה הוּא. וּכְתִיב הָתָם (דברים ד׳:ד׳) וְאַתֶּם הַדְּבֵקִים בַּיְיָ אֱלֹהֵיכֶם חַיִּים כֻּלְּכֶם הַיּוֹם. הָנֵי קְרָאֵי אוֹקִימְנָא לְהוּ בְּכַמָּה אֲתַר וְאִתְעָרוּ בְּהוּ חַבְרַיָיא. תָּא חֲזֵי, כִּי יְיָ אֱלהֶיךָ אֵשׁ אוֹכְלָה הוּא, הָא אִתְּמָר מִלָּה דָא בְּגוֹ חַבְרַיָיא דְּאִית אֶשָׁא אָכְלָא אֶשָׁא (ואיתאשא) וְאָכִיל לָהּ וְשָׁצֵי לָהּ. בְּגִין דְּאִית אֶשָׁא תַּקִּיפָא מֵאֶשָׁא וְאוּקְמוּהָ.
+[2] EN: They now rose to depart, but R. Simeon said: ‘I have still one thing more to tell you. It says in one place “For the Lord thy God is a consuming fire” (Deut. 4, 24), and in another place “Ye that clave to the Lord your God are all of you alive this day” (Deut. 4, 4). The apparent contradiction between these texts has already been discussed among the colleagues, but here is another explanation. It has already been established among the colleagues that there is a fire which consumes fire and destroys it, because there is one sort of fire stronger than another.
+
+[3] HE: אֲבָל תָּא חֲזֵי, מָאן דְּבָעֵי לְמִנְדַע חָכְמְתָא דְּיִחוּדָא קַדִּישָׁא. יִסְתַּכַּל בְּשַׁלְהוֹבָא דְּסָלְקָא מִגּוֹ גַּחֶלְתָּא. אוֹ מִגּוֹ בּוֹצִינָא דְּדָלִיק. דְּהָא שַׁלְהוֹבָא לָא סָלְקָא אֶלָּא כַּד אִתְאַחִיד בְּמִלָּה גַּסָּה (נ"א אחרא).
+[3] EN: Pursuing this idea, we may say that he who desires to penetrate to the mystery of the holy unity should contemplate the flame which rises from a burning coal or candle. The flame cannot rise save from some concrete body.
+
+[4] HE: תָּא חֲזֵי, בְּשַׁלְהוֹבָא דְּסָלְקָא אִית תְּרֵין נְהוֹרִין. חַד נְהוֹרָא חִוְורָא דְּנָהִיר. וְחַד נְהוֹרָא דְּאִתְאַחִיד בָּהּ אוּכְמָא אוֹ תִּכְלָא. הַהוּא נְהוֹרָא חִוְורָא אִיהוּ לְעֵילָא וְסָלְקָא בְאוֹרַח מִישׁוֹר. וּתְחוֹתֵיהּ הַהוּא נְהוֹרָא תִּכְלָא אוֹ אוּכְמָא דְּאִיהוּ כָּרְסַיָא לְהַהוּא חִוְורָא.
+[4] EN: Further, in the flame itself there are two lights: one white and luminous, and the other black, or blue. The white light is the higher of the two and rises steadily. The black or blue light is underneath the other, which rests on it as on a pedestal.
+
+[5] HE: וְהַהוּא נְהוֹרָא חִוְורָא שָׁארֵי עִלָוֵּיהּ וְאִתְאֲחִידוּ דָא בְּדָא לְמֶהוֵי כֹּלָּא חַד. וְהַהוּא נְהוֹרָא אוּכְמָא אוֹ גַּוָון תִּכְלָא דְּאִיהוּ לְתַתָּא הוּא כָּרְסַיָא דִיקָר לְהַהוּא חִוָּורָא. וְעַל דָּא רָזָא דִּתְכֶלְתָּא.
+[5] EN: The two are inseparably connected, the white resting and being enthroned upon the black. (Herein is the inner significance of the fringe of blue.)
+
+[6] HE: וְהַאי כָּרְסַיָא תִּכְלָא (או) אוּכְמָא אִתְאֲחַד בְּמִלָּה אָחֳרָא לְאִתְדַּלְּקָא דְּהוּא מִתַּתָּא וְהַהוּא אִתְעַר לֵיהּ לְאִתְאַחֲדָא בִּנְהוֹרָא חִוְּורָא (ס"א עלאה).
+[6] EN: This blue or black base is in turn attached to something beneath it which keeps it in flame and impels it to cling to the white light above.
+
+[7] HE: וְדָא תִּכְלָא אוּכְמָא לְזִמְנִין אִתְהֲדַר סוּמְקָא. וְהַהוּא נְהוֹרָא חִוְּורָא דְּעֲלֵיהּ לָא אִשְׁתַּנֵּי לְעָלְמִין דְּהָא חִוְּורָא הוּא תָּדִיר. אֲבָל הַאי תִּכְלָא אִשְׁתַּנֵּי לִגְוָונִין אִלֵּין. לְזִמְנִין תִּכְלָא אוֹ אוּכְמָא. וּלְזִמְנִין סוּמְקָא.
+[7] EN: This blue or black light sometimes turns red, but the white light above never changes its colour.
+
+[8] HE: וְהַאי אִתְאֲחִיד לִתְרִין סִטְרִין. אִתְאֲחִיד לְעֵילָא בְּהַהוּא נְהוֹרָא (ס"א עילאה) חִוְּורָא. אִתְאֲחִיד לְתַתָּא בְּהַהוּא מִלָּה דִּתְחוֹתוֹי דִּמְתַקְנָא בֵּיהּ לְאַנְהָרָא (מלין דשויין ליה לאדלקא) וּלְאִתְאַחֲדָא בֵּיהּ.
+[8] EN: The lower light, which is sometimes black, sometimes blue, and sometimes red, is a connecting link between the white light to which it is attached above and to the concrete body to which it is attached below, and which keeps it alight.
+
+[9] HE: וְדָא אָכְלָא תָּדִיר וְשָׁצֵי לְהַהוּא מִלָּה דְּשַׁוְיָין לֵיהּ. דְּהָא בְּכָל מַה דְּאִתְדָּבַּק בֵּיהּ לְתַתָּא וְשַׁרְיָא עֲלוֹי הַהוּא נְהוֹרָא תִּכְלָא שָׁצֵי לֵיהּ וְאָכִיל לֵיהּ. בְּגִין דְּאוֹרְחוֹי הוּא לְשֵׁיצָאָה וּלְמֶהֱוֵי אָכִיל. דְּהָא בֵּיהּ תַּלְיָא שֵׁצוּ דְּכֹלָּא מוֹתָא דְכֹלָּא. וּבְגִינֵי כָךְ אִיהִי אָכִיל כָּל מַה דְּאִתְדָּבַּק בֵּיהּ לְתַתָּא.
+[9] EN: This light always consumes anything which is under it or which is brought in contact with it, for such is its nature, to be a source of destruction and death.
+
+[10] HE: וְהַהוּא נְהוֹרָא חִוְּורָא דְּשַׁרְיָא עֲלוֹי לָא אָכִיל וְלָא שָׁצֵי לְעָלְמִין וְלָא אִשְׁתַּנֵּי נְהוֹרֵיהּ. וְעַל דָּא אָמַר משֶׁה כִּי יְיָ אֱלֹהֶיךָ אֵשׁ אוֹכְלָה הוּא. אוֹכְלָה וַדַּאי. אָכִיל וְשָׁצֵי כָּל מַה דְּשַׁרְיָא תְּחוֹתוֹי. וְעַל דָּא אָמַר יְיָ אֱלֹהֶיךָ וְלֹא אֱלהֵינוּ. בְּגִין דְּמשֶׁה בְּהַהוּא נְהוֹרָא חִוְּורָא דִלְעֵילָא הֲוָה דְּלָא שָׁצֵי וְלָא אָכִיל.
+[10] EN: But the white light which is above it never consumes or destroys and never changes. Therefore Moses said, “For the Lord thy God is a consuming fire”, literally consuming all that is beneath him; that is why he said “thy God” and not “our God”, because Moses was in that white light above which does not consume or destroy.
+
+[11] HE: תָּא חֲזֵי, לֵית לֵיהּ אִתְעֲרוּתָא לְאִתְדַּלְּקָא הַאי נְהוֹרָא תִּכְלָא לְאִתְאַחֲדָא בִּנְהוֹרָא חִוְּורָא, אֶלָּא עַל יְדֵי יִשְׂרָאֵל דְּאִנּוּן מִתְדַּבְּקָן בֵּיהּ תְּחוֹתוֹי.
+[11] EN: Now observe. The impulse through which this blue light is set aflame and attaches itself to the white light comes only from Israel, who cleave to it from below.
+
+[12] HE: וְתָּא חֲזֵי, אַף עַל גַּב דְּאָרְחֵיהּ דְּהַאי נְהוֹרָא תִּכְלָא אוּכְמָא לְשֵׁיצָאָה כָּל מַה דְּאִתְדָּבַּק בֵּיהּ תְּחוֹתוֹי. יִשְׂרָאֵל מִתְדַּבְּקָן בֵּיהּ תְּחוֹתוֹי וְקָיְימָן בְּקִיּוּמָא הֲדָא הוּא דִכְתִיב, (דברים ד׳:ד׳) וְאַתֶּם הַדְּבֵקִים בַּיְיָ אֱלהֵיכֶם חַיִּים. בַּיְיָ אֱלהֵיכֶם וְלָא אֱלהֵינוּ (אלא ביי אלהיכם). בְּהַהוּא נְהוֹרָא תִּכְלָא אוּכְמָא דְּאָכִיל וְשָׁצֵי כָּל מַה דְּאִתְדָּבַּק בֵּיהּ תְּחוֹתֵיהּ. וְאַתּוּן מִתְדַּבְּקָן בֵּיהּ וְקָיְימֵי. דִּכְתִיב חַיִּים כֻּלְּכֶם הַיּוֹם.
+[12] EN: Further, although it is the nature of this blue or black light to consume everything that is in contact with it beneath, yet Israel are able to cleave to it from below and still exist; so it is written, “and ye that cleave to the Lord your God are all of you alive this day”. Your God and not our God: to wit, that blue or black flame which consumes and destroys all that cleaves to it from below; yet you cleave and are still alive.
+
+[13] HE: וְעַל נְהוֹרָא חִוְּורָא, שַׁרְיָיא לְעֵילָא נְהוֹרָא סְתִימָא דְּאַקִּיף לֵיהּ. וְרָזָא עִלָּאָה הָכָא. וְכֹלָּא תִשְׁכַּח בְּשַׁלְהוֹבָא דְּסָלִיק וְחָכְמְתִין דְּעֶלְיוֹנִין בֵּיהּ. אֲתָא רַבִּי פִּנְחָס וּנְשָׁקֵיהּ. אָמַר בְּרִיךְ רַחֲמָנָא דְּאִיעַרְעָנָא הָכָא. אֲזְלוּ עִמֵּיהּ דְּרַבִּי פִּנְחָס תְּלַת מִילִין.
+[13] EN: Above the white light and surrounding it is still another light scarcely perceptible, symbolical of the supreme essence. Thus the ascending flame symbolises the highest mysteries of wisdom.’ R. Phineas approached and kissed him, saying, ‘Blessed be God who led my steps here.’ They then accompanied R. Phineas on his way for three miles.
+
+[14] HE: אֲהַדְּרוּ רַבִּי שִׁמְעוֹן וְחַבְרַיָיא. אָמַר רַבִּי שִׁמְעוֹן הָא דְּאֲמָרָן רָזָא דְחָכְמְתָא אִיהוּ בְּיִחוּדָא קַדִּישָׁא. דִּבְגִין כָּךְ ה"א בַּתְרָאָה דִּשְׁמָא קַדִּישָׁא אִיהוּ נְהוֹרָא תִּכְלָא אוּכְמָא דְּאִתְאֲחִיד בְּיה"ו דְּהוּא נְהוֹרָא חִוְּורָא דְּנָהִיר.
+[14] EN: When they came back, R. Simeon said: ‘What I told you before furnishes a symbol of the sacred unification. The second he of the holy name is the blue or black light which is attached to Yod, He, Vau, which are the white shining light.
+
+[15] HE: תָּא חֲזֵי, לְזִמְנִין הַאי נְהוֹרָא תִּכְלָא ד'. וּלְזִמְנִין ה'. אֶלָּא בְּזִמְנָא דְּלָא מִתְדַּבְּקָן בֵּיהּ יִשְׂרָאֵל לְתַתָּא לְאַדְלָקָא לֵיהּ לְאִתְאַחֲדָא בִּנְהוֹרָא חִוְּורָא, אִיהוּ ד'. וּלְזִמְנָא דְּמִתְעָרֵי לֵיהּ לְאִתְחַבְּרָא עִם נְהוֹרָא חִוְּורָא כְּדֵין אִקְרֵי ה'.
+[15] EN: Sometimes this blue light is not he’ but daleth; that is to say, when Israel do not cleave to it from below so as to make it burn and cling to the white light, it is daleth, but when they give it the impulse to cling to the white light, it is he.
+
+[16] HE: מְנָלָן דִּכְתִיב, (דברים כ״ב:כ״ג) כִּי יִהְיֶה נַעֲרָה בְּתוּלָה, נַעַר כְּתִיב בְּלָא ה'. מַאי טַעְמָא בְּגִין דְּלָא אִתְחַבְּרַת בִּדְכוּרָא. וּבְכָל אֲתַר דְּלָא אִשְׁתַּכְּחוּ דְּכַר וְנוּקְבָא, ה"א לָא אִשְׁתְּכַח וְסָלְקָא מִתַּמָּן וְאִשְׁתָּאַר ד'.
+[16] EN: For where male and female are not found together, he is eliminated and only daleth is left (hence in Deut. 22, 15, the word na’ar is used for “maiden” instead of na’arah, because she is not united with the male).
+
+[17] HE: דְּהָא אִיהִי כָּל זִמְנָא דְּאִתְחַבַּר בִּנְהוֹרָא חִוְּורָא דְּנָהִיר אִקְרֵי ה'. דְּהָא כְּדֵין כֹּלָּא אִתְחַבַּר כְּחֲדָא. אִיהִי אִתְדַּבְּקַת בִּנְהוֹרָא חִוְּורָא, וְיִשְׂרָאֵל מִתְדַּבְּקָן בָּהּ (ד"א ל"ג לתתא) וְקַיְימָא תְּחוֹתָהּ לְאַדְלָקָא לָהּ. וּכְדֵין כֹּלָּא חַד.
+[17] EN: But when the chain is complete, the he ‘ cleaves to the white light and Israel cleave to it and feed its light without being destroyed.
+
+[18] HE: וְדָא הוּא רָזָא דְקָרְבָּנָא. דִּתְנָנָא דְּסָלִיק אַתְעַר לֵיהּ לְהַאי נְהוֹרָא תִּכְלָא לְאַדְלָקָא. וְכַד אִתְדְּלַק אִתְחַבַּר בִּנְהוֹרָא חִוְּורָא וּשְׁרַגָּא דָּלִיק בְּיִחוּדָא חַד.
+[18] EN: This is the secret of the sacrifice. The ascending smoke kindles the blue light, which then attaches itself to the white light, so that the whole candle is completely alight.
+
+[19] HE: וּבְגִין דְּאָרְחֵיהּ דְּהַאי נְהוֹרָא תִּכְלָא לְשֵׁיצָאָה וּלְמֶהוֵי אָכִיל כָּל מַה דְּאִתְדָּבַּק בֵּיהּ תְּחוֹתֵיהּ. כַּד רַעֲוָא אִשְׁתַּכַּח וּשְׁרַגָּא דָּלִיק בְּחִבּוּרָא חַד כְּדֵין כְּתִיב, (מלכים א י״ח:ל״ח) וַתִּפּוֹל אֵשׁ ה' וַתֹּאכַל אֶת הָעוֹלָה וְגו'. וּכְדֵין אִתְיְידַע דְּהַהִיא שְׁרַגָּא דָּלִיק בְּחִבּוּרָא חַד וְקִשּׁוּרָא חַד. נְהוֹרָא תִּכְלָא אִתְדַּבָּק בִּנְהוֹרָא חִוְּורָא וְאִיהוּ חַד. אָכִיל תְּחוֹתֵיהּ תַּרְבִּין וְעִלַּוָּון. דְּמַשְׁמַע דְּהָא לָא אָכִיל (נ"א ואיהו ועלוון דהא לא אכיל) תְּחוֹתֵיהּ, אֶלָּא בְּזִמְנָא דְאִיהוּ סָלִיק (נ"א דליק) וְכֹלָּא אִתְקַשַּׁר וְאִתְחַבַּר בִּנְהוֹרָא חִוְּורָא. וּכְדֵין שְׁלָמָא דְּעָלְמִין כֻּלְהוּ, וְכוֹלָּא אִתְקַשַּׁר בְּיִחוּדָא חַד.
+[19] EN: Since it is the nature of this blue light to destroy and consume everything which is in contact with it underneath, when the sacrifice is pleasing and the candle is completely alight, then, as in the case of Elijah, “the fire of the Lord descends and consumes the burnt-offering” (I Kings 18, 38), this being a manifestation that the chain is complete, the blue light both cleaving to the white light and consuming the fat and flesh of the burnt-offering beneath it, for it does not consume what is beneath it save when it ascends and attaches itself to the white light. Then there is peace in all worlds, and the whole forms a unity.
+
+[20] HE: וּלְבָתַר דְּסִיֵּים לְשֵׁיצָאָה תְּחוֹתֵיהּ הַאי נְהוֹרָא תִּכְלָא, מִתְדַּבְּקָן בֵּיהּ תְּחוֹתֵיהּ כַּהֲנֵי וְלֵיוָאֵי וְיִשְׂרָאֵל. אִלֵּין בְּחֶדְוָה דְשִׁיר. וְאִלֵּין בִּרְעוּתָא דְלִבָּא וְאִלֵּין בִּצְלוֹתָא. וְשָׁרְגָּא דָּלִיק עֲלַיְיהוּ. וְאִתְדַּבְּקוּ נְהוֹרִין כְּחַד וּנְהִירִין עָלְמִין וּמִתְבָּרְכִין עִלָּאִין וְתַתָּאִין.
+[20] EN: When the blue light has consumed all that is beneath it, the priests, the Levites, and the laity assemble at its foot with chanting, with meditation, and with prayer, the lamp burns above them, the lights are welded into one, worlds are illumined, and both those above and those below are blessed.
+
+[21] HE: וּכְדֵין וְאַתֶּם הַדְּבֵקִים בַּיְיָ אֱלהֵיכֶם חַיִּים כֻּלְּכֶם הַיּוֹם. וְאַתֶּם, אַתֶּם מִבָּעֵי לֵיהּ. אֶלָּא ו' לְאוֹסָפָא עַל תַּרְבִּין וְעִלַּוָּון דְּאִנּוּן מִתְדַּבְּקִין בֵּיהּ וְאָכְלִין וְשָׁצָאן. וְאַתּוּן מִתְדַּבְּקָן בֵּיהּ בְּהַהוּא נְהוֹרָא תִּכְלָא אוּכְמָא דְאָכְלָא וְאַתּוּן קַיָּמִין הֲדָא הוּא דִכְתִיב חַיִּים כֻּלְּכֶם הַיּוֹם.
+[21] EN: Hence it is that “ye, even while cleaving to the Lord your God, are all alive this day”. The word athem (you) here is preceded by the letter Vau (and), to show that whereas the fat and the flesh which cleave to the flame are destroyed by it, you cleave to it and are still alive.’
+
+[22] HE: (ס"א ותכלת וארגמן), כָּל גְּוָונִין טָבִין לְחֶלְמָא, בַּר מִתִּכְלָא דְּאִיהוּ אָכִיל וְשָׁצֵי תָּדִיר. וְאִיהוּ אִילָנָא דְּבֵיהּ מוֹתָא וְשַׁרְיָא עַל עָלְמָא תַּתָּאָה. וּבְגִין דְכֹלָּא שָׁרְיָא תְּחוֹתֵיהּ אִיהוּ אָכִיל וְשָׁצֵי.
+[22] EN: All colours seen in a dream are of good presage, except blue; this is ever consuming and destroying, being the tree in which death is located. It spreads over the lower world, and because all things are situated beneath it, therefore they are perishable.
+
+[23] HE: וְאִי תֵימָא הָכִי נָמֵי שָׁרְיָא בִּשְׁמַיָא לְעֵילָא וְכַמָּה חַיָּלִין אִנּוּן לְעֵילָא וְכֻלְהוּ (שצי ואכיל) קָיְימֵי. תָּא חֲזֵי, כָּל אִנּוּן דִּלְעֵילָא בְּהַהוּא נְהוֹרָא תִּכְלָא אִתְכַּלְּלָן. אֲבָל תַּתָּאֵי לָאו הָכִי דְּאִנּוּן מִלָּה גַּסָּה עָלְמָא (נ"א אחרא לתתא על מה) דְּקָיְימָא וְשָׁרְיָא עֲלֵיהּ. וּבְגִין כָּךְ אָכִיל וְשָׁצֵי לוֹן. וְלֵית לָהּ מִלָּה אָחֳרָא לְתַתָּא בְּעָלְמָא דְּלָא אִשְׁתְּצֵי. בְּגִין דִּנְהוֹרָא תִּכְלָא שָׁצֵי לְכָל מַה דְּקָיְימָא עֲלֵיהּ.
+[23] EN: It is true that it also pervades the heaven, and there are many objects there which are imperishable. These, however, are constituted of this blue light, whereas the lower ones are of coarser material, and constitute a lower world on which the upper one rests. Hence the blue light consumes and destroys them.’ [note: From this point to 52a ad fin.] is a Cabbalistic interpolation on the origin of the Serpent. [note: Our translation of the Hebrew text resumes with the fifth line from the bottom of page 52a.]
+

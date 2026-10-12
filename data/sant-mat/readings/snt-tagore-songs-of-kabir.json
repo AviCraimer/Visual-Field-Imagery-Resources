@@ -1,0 +1,76 @@
+{
+ "id": "snt-tagore-songs-of-kabir",
+ "stream": "sant-mat",
+ "verdict": "keep_marginal",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 2,
+ "practicality": 1,
+ "text_read": "grep of the whole file for light, lamp, moon, sun, lightning, eye; read songs I. 57-ish (lines 960-990), I. 76, I. 93, II. 33 in full.",
+ "mode": "ambiguous",
+ "mode_evidence": "'look within, and behold how the moon-beams ... shine in you' implies inner seeing, but the poems never separate perception from metaphor; 'The moon shines in my body, but my blind eyes cannot see it'.",
+ "eyes": "both",
+ "onset_pathway": "unclear",
+ "onset_evidence": "No method for one who sees nothing: 'One day your eyes shall suddenly be opened'; the guru 'removes the veil from the eyes'. Implies grace/guru.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "devotion_or_transmission",
+  "sound_or_mantra"
+ ],
+ "conditions": {
+  "posture": "",
+  "gaze_or_eye_position": "I. 76: eyes open, not shut",
+  "setting": "",
+  "duration_and_schedule": "",
+  "prerequisites": "Guru",
+  "other": ""
+ },
+ "phenomena": [
+  "moon_disc",
+  "sun_disc",
+  "lamp_or_flame",
+  "lightning_flashes",
+  "all_pervading_light"
+ ],
+ "stages": [],
+ "what_to_do_with_light": "Still the mind to silence before the splendour (I. 93).",
+ "obstacles_and_fixes": [],
+ "cautions": [
+  "I. 76 rejects shutting eyes and ears and bodily mortification in favour of sahaj union with eyes open"
+ ],
+ "safety_flags": [],
+ "interpretation": "The inner light of sun and moon is the presence of the Hidden One within the body.",
+ "practice_summary": "Kabir gives no technique. He points within, where moonbeams of the Hidden One shine and the unstruck music sounds; before that splendour the mind is to be stilled. Opening of the inner eye is the guru's gift, sudden and unforced. In the sahaj song he refuses sense-closure altogether: he does not shut eyes or ears but sees with eyes open and beholds the Lord's beauty everywhere.",
+ "key_passages": [
+  {
+   "locator": "song at lines 975-978",
+   "about": "mode",
+   "anchor": "within, and behold how the moon-beams of that Hidden One shine",
+   "paraphrase": "Look within to see the moonbeams of the Hidden One.",
+   "quote": "Kabîr says: \"It is the sport of the Unattainable One: look within, and behold how the moon-beams of that Hidden One shine in you.\"",
+   "source_file": "sources/snt-tagore-songs-of-kabir.txt"
+  },
+  {
+   "locator": "I. 76 santo, sahaj samadh bhali, lines 1500-1502",
+   "about": "caution",
+   "anchor": "I see with eyes open and smile, and behold His beauty everywhere:",
+   "paraphrase": "Rejects closing the eyes and ears.",
+   "quote": "I shut not my eyes, I close not my ears, I do not mortify my body; I see with eyes open and smile, and behold His beauty everywhere",
+   "source_file": "sources/snt-tagore-songs-of-kabir.txt"
+  },
+  {
+   "locator": "II. 33 ghar ghar dipak barai, lines 1113-1114",
+   "about": "onset",
+   "anchor": "One day your eyes shall suddenly be opened, and you shall see:",
+   "paraphrase": "Seeing comes suddenly, not by effort described.",
+   "quote": "",
+   "source_file": "sources/snt-tagore-songs-of-kabir.txt"
+  }
+ ],
+ "cross_refs": [
+  "snt-tulsi-sahib-ghat-ramayan"
+ ],
+ "new_leads": [],
+ "reader_confidence": "medium",
+ "confidence_note": "Poetry; translation by Tagore is free and selective."
+}

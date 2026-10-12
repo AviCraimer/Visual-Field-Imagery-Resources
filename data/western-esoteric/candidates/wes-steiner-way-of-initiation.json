@@ -1,0 +1,49 @@
+{
+ "id": "wes-steiner-way-of-initiation",
+ "stream": "western-esoteric",
+ "title": "The Way of Initiation; or, How to Attain Knowledge of the Higher Worlds (with its sequel, Initiation and Its Results)",
+ "author": "Rudolf Steiner",
+ "translator": "Max Gysi (Way of Initiation); Clifford Bax (Initiation and Its Results)",
+ "year": "German articles 1904-05; English 1908 and 1909",
+ "edition_cited": "Way of Initiation: Project Gutenberg eBook #39986 (from the London/New York edition with Edouard Schure's biographical introduction, 1910 printing); Initiation and Its Results: New York: Macoy, 1909 (BYU scan)",
+ "tradition": "Anthroposophy (Steiner's Theosophical period)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://www.gutenberg.org/ebooks/39986",
+ "alt_urls": [
+  "https://archive.org/details/initiationitsres00stei"
+ ],
+ "source_files": [
+  "sources/wes-steiner-way-of-initiation.txt",
+  "sources/wes-steiner-initiation-and-its-results.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Way of Initiation, chapter on 'Illumination' / 'Enlightenment' (c. 43-50% into file): comparing a crystal, a plant and an animal; footnote 9 against crystal-gazing; the seed exercise ('Place before you the small seed of a plant'); 'small luminous cloud ... a kind of flame ... lilac color in the centre, blue at the edges'; the following exercise with a full-grown plant",
+  "Same chapter: preliminary 'Probation' exercises on growth and decay, and sounds",
+  "Later chapter on 'Initiation' and conditions; warnings on moral preparation",
+  "Initiation and Its Results (second file), ch. I: the astral body as 'a more or less luminous cloud' and the lotus-flower organs; c. 48-49%: forces behind crystal and plant acquiring 'form and color'"
+ ],
+ "summary": "The early English version of Steiner's training manual. The relevant exercises are in the stage he calls illumination. The student first contemplates and compares a crystal, a plant and an animal with specified thoughts and feelings. Then he places a real seed before him and thinks intensively that the whole future plant lies in it as an invisible force absent from an artificial copy, letting the feeling sink in. If done rightly, 'possibly not until after numerous attempts', the seed appears enclosed in a small luminous cloud, perceived as a kind of flame, lilac in the centre and blue at the edges. A matching exercise on a mature plant and its decay yields a different coloured flame. Steiner says the colours are seen spiritually, not with the physical eye, expressly rejects crystal-gazing as a distortion, and makes patience, health and moral development conditions. The sequel describes the astral body as a luminous cloud with developing organs.",
+ "why_relevant": "Step-by-step exercise in which sustained thought and feeling directed at a physical object are said to produce a seen flame-like light around it; the source itself discusses whether this is physical seeing.",
+ "expected_mode": "imaginal_crossing",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "concentration_visual_object",
+  "visualization_crossing",
+  "other"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1909",
+  "class": "published_record",
+  "basis": "Initiation and Its Results: archive.org metadata date 1909 (Macoy). Way of Initiation: Project Gutenberg #39986 transcription of the Gysi translation, first published in English 1908; the print year of the transcribed copy was not checked"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; Gutenberg search page and archive.org search",
+ "notes": "Seed lead confirmed (seed meditation and flame). This is the first, pre-revision form of the text; Steiner revised the book (Wie erlangt man Erkenntnisse der hoeheren Welten) several times and later translations ('Knowledge of the Higher Worlds', 'How to Know Higher Worlds') differ in wording and are in copyright. The mode is the key question: Steiner calls it 'spiritualized vision', so the reading agent should quote his own qualification exactly."
+}

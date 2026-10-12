@@ -1,0 +1,115 @@
+{
+ "id": "dao-taiping-shengjun-mizhi",
+ "stream": "taoist",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "eyes": "closed",
+ "stimulus_independence": "not_applicable",
+ "conditions": {
+  "posture": "Sit upright; later sit or lie quietly",
+  "setting": "Quiet room with thick walls, no noise",
+  "duration_and_schedule": "Gradual; about 100 days to first effect; 100, 200, 300 days stillness grades",
+  "prerequisites": "Moral conduct, no joy or anger, little food, avoid clever effort",
+  "other": "Imagine the body hollow and white as jade; unite essence, spirit and qi"
+ },
+ "stages": [
+  {
+   "label": "dark",
+   "description": "Closed eyes show nothing."
+  },
+  {
+   "label": "light arises",
+   "description": "Starts red as a new fire, long guarding turns it pure white, then penetratingly bright to the distance; first like fireflies then lightning."
+  },
+  {
+   "label": "graded lights",
+   "description": "Green/blue: lesser yang; red like fire: for transcending the world; yellow-blue: harmonious; white like clear water: lesser yin; dark-clear like peering at water: great yin; dark outside but belly lit within: great harmony."
+  }
+ ],
+ "cross_refs": [],
+ "new_leads": [],
+ "reader_confidence": "high",
+ "safety_flags": [
+  "tradition_warns_against_seeking"
+ ],
+ "relevance": 5,
+ "practicality": 4,
+ "text_read": "digest (whole file visible)",
+ "mode": "perceptual",
+ "mode_evidence": "\"With eyes shut there is no light in the eyes\"; then light arises and \"one sees clearly the four directions\"; colours and intensities graded; light described as firefly then lightning.",
+ "onset_pathway": "induction",
+ "onset_evidence": "Explicitly addresses the beginner who sees darkness: before refinement the closed eyes are dark; with long guarding the light arises of itself. Method is to guard the One (unify essence, spirit, qi) in a quiet thick-walled room, with little food, no joy or anger, no clever effort, \"everything arises gradually\", about a hundred days for first signs; 100/200/300 days as small/middle/great stillness. Dark both outside and inside with nothing seen is an illness, to be helped with medicines.",
+ "techniques": [
+  "concentration_nonvisual",
+  "sensory_restriction",
+  "fasting_or_austerity",
+  "attention_to_spontaneous_phenomena",
+  "energy_work"
+ ],
+ "phenomena": [
+  "white",
+  "red",
+  "blue",
+  "gold_yellow",
+  "black_light",
+  "fireflies",
+  "lightning_flashes",
+  "light_in_the_room",
+  "body_or_objects_luminous"
+ ],
+ "what_to_do_with_light": "Guard it, do not lose it; it enables seeing the body and the spirits, leading to transformation.",
+ "obstacles_and_fixes": [
+  "Dark inside and out: disorder, treat with medicine and seek the earlier seven methods",
+  "Excess clever intent: let the One come of itself"
+ ],
+ "cautions": [
+  "Visions of five-organ spirits and others beyond the first two methods are mixed or false; reject them",
+  "Emotion, noise, heavy food spoil the guarding"
+ ],
+ "interpretation": "The One is the primal source; its light is the illumination of essence-spirit-qi united, with the body becoming luminous.",
+ "practice_summary": "Prepare a quiet room with thick walls, eat little, and keep calm: no joy, anger or cleverness. Unite essence, spirit and qi into one by simply keeping the body in mind as hollow, white, and jade-like. At first the closed eyes see only dark; this is normal. Persist gradually for around a hundred days, and light arises of itself: first red like a fresh flame, then white, then bright to the distance, like fireflies at first and later lightning. Do not contrive. Rejecting visions of spirits or ancestors, keep the guard. Complete darkness within and without for a long time is a disorder needing medicine.",
+ "key_passages": [
+  {
+   "locator": "opening, Part A lines 45-47",
+   "about": "onset",
+   "anchor": "守 一 明 之 法 未 精 之 時 暝 目 㝠 㝠 目 中 無 有 光",
+   "paraphrase": "Before the method is refined, closed eyes are dark with no light in them.",
+   "quote": "",
+   "source_file": "sources/dao-taiping-shengjun-mizhi.txt"
+  },
+  {
+   "locator": "Part A lines 47-48",
+   "about": "onset",
+   "anchor": "守 一 復 久 自 生 光 明 昭 然 見 四 方",
+   "paraphrase": "Continued guarding makes light arise on its own and the four directions become visible.",
+   "quote": "",
+   "source_file": "sources/dao-taiping-shengjun-mizhi.txt"
+  },
+  {
+   "locator": "Part A lines 50-53",
+   "about": "stages",
+   "anchor": "始 赤 久 久 正 白",
+   "paraphrase": "The light begins red and with long practice becomes pure white.",
+   "quote": "",
+   "source_file": "sources/dao-taiping-shengjun-mizhi.txt"
+  },
+  {
+   "locator": "Part A lines 149-151",
+   "about": "stages",
+   "anchor": "漸 光 始 如 螢 火 久 似 電 光",
+   "paraphrase": "Light grows from a firefly to lightning.",
+   "quote": "",
+   "source_file": "sources/dao-taiping-shengjun-mizhi.txt"
+  },
+  {
+   "locator": "Part A line 65",
+   "about": "caution",
+   "anchor": "有 外 闇 内 闇 無 所 屬 無 所 覩 此 人 邪 亂",
+   "paraphrase": "Dark outside and inside with nothing seen counts as disorder, to be aided with medicines.",
+   "quote": "",
+   "source_file": "sources/dao-taiping-shengjun-mizhi.txt"
+  }
+ ],
+ "confidence_note": "Whole text visible; terse classical Chinese with ambiguous words (表)."
+}

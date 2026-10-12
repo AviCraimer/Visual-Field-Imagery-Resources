@@ -1,0 +1,49 @@
+{
+ "id": "mod-kilner-human-atmosphere",
+ "stream": "modern-nonlineage",
+ "title": "The Human Atmosphere, or, The Aura Made Visible by the Aid of Chemical Screens",
+ "author": "Walter J. Kilner",
+ "translator": null,
+ "year": "1911",
+ "edition_cited": "New York: Rebman, 1911; archive.org humanatmosphereo00kiln",
+ "tradition": "Medical/experimental aura research (non-lineage)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/humanatmosphereo00kiln",
+ "alt_urls": [
+  "https://archive.org/details/humanatmosphere00kilngoog"
+ ],
+ "source_files": [
+  "sources/mod-kilner-human-atmosphere.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Chapter I, printed pp. 5-12: the dicyanin ('spectauranine') screens, first sighting, seeing without the screen afterwards",
+  "Chapter I: lighting, black background, how to look; the 'etheric double', inner and outer aura",
+  "Chapter on complementary colours / the 'C.C. band' (the author's own afterimage method)",
+  "Passages on the effect of the screen on the observer's eyes and its cumulative action"
+ ],
+ "summary": "A St Thomas's Hospital physician's manual for seeing a faint luminous haze around the human body with open eyes. The observer first looks at the light for some seconds through a glass cell of dicyanin dye ('spectauranine'), then views the subject in dim, diffused light against a dead-black background. Kilner reports that after a few minutes he could go on seeing the haze without the screen, that this capacity is 'by no means uncommon' but usually brief, that the dye's action on the eyes is cumulative (and painful with overuse), and that his own eyes were finally so affected that he could dispense with the screen under suitable conditions. He gives lighting and background instructions and works with complementary-colour observations.",
+ "why_relevant": "Open-eye light seen around bodies with exact viewing conditions and a claim that the seeing persists without the screen. It lets a reader judge how far aura exercises rest on dim-light contrast and afterimage effects, since the author himself works with afterimages.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "gazing_fixed_point",
+  "darkness_exposure",
+  "afterimage_retention",
+  "flicker_or_device"
+ ],
+ "priority": 2,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1911",
+  "class": "published_record",
+  "basis": "archive.org metadata for humanatmosphereo00kiln: New York, Rebman, 1911"
+ },
+ "author_identifiable": true,
+ "author_basis": "Walter John Kilner (1847-1920), physician",
+ "found_via": "own lead; archive.org search 'Kilner human atmosphere'",
+ "notes": "Dicyanin is a toxic coal-tar dye and Kilner himself says the screens affect the eyes; treat as historical. Whether the 'aura' is anything beyond contrast and afterimage effects is for the reader to assess from his descriptions."
+}

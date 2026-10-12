@@ -1,0 +1,44 @@
+{
+ "id": "chr-angela-of-foligno-divine-consolation",
+ "stream": "christian",
+ "title": "The Book of Divine Consolation of the Blessed Angela of Foligno",
+ "author": "Angela of Foligno (c. 1248-1309), recorded by her confessor Brother Arnaldo",
+ "translator": "Mary G. Steegmann; introduction by Algar Thorold",
+ "year": "c. 1292-1309; English translation 1909",
+ "edition_cited": "London: Chatto and Windus, 1909 (New Medieval Library). archive.org scan divineconsolatio00angeuoft",
+ "tradition": "Italian Franciscan tertiary",
+ "language": "English",
+ "source_type": "practitioner_testimony",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/divineconsolatio00angeuoft",
+ "alt_urls": [],
+ "source_files": [
+  "sources/chr-angela-of-foligno-divine-consolation.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Treatise III, 'Visions of the Sacrament of the Altar', first to seventh (printed pp. 222-231; about lines 8565-8880): seeing in the Host a beauty 'more splendid than the sun', 'two eyes of great splendour'",
+  "Treatise III, visions of God 'in darkness' (lines 7170-7300)",
+  "Treatise I ch. I (line 1514) on being thrown into 'horrible darkness of spirit'"
+ ],
+ "summary": "Angela's dictated account of her conversion and visions. The passages nearest the brief are the seven 'visions of the Sacrament of the Altar': while looking at the elevated Host during Mass she says she saw 'with mine eyes' Christ in it, sometimes a throat 'more splendid and beauteous than the sun', sometimes 'two eyes of great splendour, and so large that I beheld nothing of the Host save the edge thereof'. Elsewhere she describes seeing God 'in a darkness' which she ranks above all the luminous visions. The practice context is penance, long prayer, and fixed looking at the Host or crucifix; no method is offered to others, and nothing is said to someone who sees nothing.",
+ "why_relevant": "Open-eye testimony of light and form seen on a fixed object of gaze during liturgy, with what she was doing; and a counter-valuation of 'darkness' over light.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "gazing_fixed_point",
+  "devotion_or_transmission"
+ ],
+ "priority": 3,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1909",
+  "class": "published_record",
+  "basis": "archive.org metadata year 1909 for scan divineconsolatio00angeuoft"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; archive.org title search",
+ "notes": "Steegmann translates an Italian version of 1536, not the critical Latin Memorial; wording differs from modern translations (Lachance 1993)."
+}

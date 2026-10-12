@@ -1,0 +1,52 @@
+{
+ "id": "vaj-baker-tibetan-yoga-togal",
+ "stream": "vajrayana-bon",
+ "title": "Tibetan Yoga: Somatic Practice in Vajrayāna Buddhism and Dzogchen (chapter 8 of Yoga in Transformation), section 6 'Tögal: Yoga of Active Perception'",
+ "author": "Ian A. Baker (quoting Dudjom Lingpa, Jigme Lingpa, Pema Lingpa, Padmasambhava/Khandro Nyingthik, and the Seventeen Tantras)",
+ "translator": "quotations via B. Alan Wallace (2004), Keith Dowman (2014), Kennard Lipman (2010) and Baker's own",
+ "year": "2018",
+ "edition_cited": "Baier, Maas & Preisendanz (eds.), Yoga in Transformation, V&R unipress, Göttingen 2018, pp. 335-383; open access CC BY-SA 4.0",
+ "tradition": "Nyingma Dzogchen (Nyingthik; Pema Lingpa's Lukhang cycle)",
+ "language": "English",
+ "source_type": "secondary_conduit",
+ "rights": "in_copyright",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/oapen-20.500.12657-28215",
+ "alt_urls": [
+  "https://library.oapen.org/handle/20.500.12657/28215"
+ ],
+ "source_files": [
+  "sources/vaj-baker-tibetan-yoga-togal.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Section 6, 'Tögal: Yoga of Active Perception', book pp. 370-378",
+  "p. 371: Dudjom Lingpa (Vajra Essence, via Wallace 2004: 302) on first appearances: hair-width 'vajra-strands', then 'strung pearls', lattices",
+  "pp. 372-373: lion, elephant and sage postures with gazes, from the Garland of Pearls tantra and Jigme Lingpa (via Dowman 2014: 49)",
+  "p. 373: breathing through slightly parted lips and teeth",
+  "p. 375: Pema Lingpa, visions arise only while posture key points are held; first vision from attending to phenomena in the 'watery lamp' of the eye",
+  "footnotes 101-102: entoptic phosphenes, floaters, leukocytes; datura eye decoction in Vima Nyingthik (out of scope)"
+ ],
+ "summary": "A scholar-practitioner's chapter on Tibetan somatic yoga whose sixth section describes Tögal as an inversion of sense withdrawal: perception is extended outward into self-manifesting visions said to rest initially on entoptic phenomena. It gives concrete detail drawn from primary texts: the three postures (lion, elephant, sage) with body placement, the gaze paired with each (rolled upward, sideways soft-focus, lowered through half-closed eyes), slow exhalation through slightly parted lips, and 'three-fold motionlessness of body, eyes and consciousness'. It quotes Dudjom Lingpa on how the first lights look (fine moving gold-sheened strands, then strung pearls, then lattices) and Pema Lingpa's point that the visions appear only while the posture is held. Lists the four lamps and four visions. The author explicitly relates the early visions to floaters and blood cells in retinal capillaries.",
+ "why_relevant": "Openly licensed text carrying specific posture, gaze and breath instructions for open-eye light visions, with quoted primary descriptions of the first appearances; a readable stand-in for in-copyright primary translations.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "posture_or_body_lock",
+  "eye_position",
+  "sky_or_space_gazing",
+  "breath_control",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "2018",
+  "class": "published_record",
+  "basis": "copyright line '© 2018, V&R unipress GmbH, Göttingen' printed on the chapter pages; archive.org/OAPEN metadata date 2018"
+ },
+ "author_identifiable": true,
+ "author_basis": "Named author (Ian A. Baker) in a peer-reviewed edited volume from an academic press, 2018",
+ "found_via": "archive.org collection:oapen-library search for Tibetan/tantra titles",
+ "notes": "Academic-press chapter used as a conduit, not as a study. Saved file is the Baker chapter only (OCR; diacritics garbled, e.g. 'Tógal'). Baker cites Dowman 2014 = Dowman's translation of Jigme Lingpa's Yeshe Lama, a text traditionally restricted to those with transmission; the chapter itself is openly published. Footnote 101 mentions a datura decoction applied to the eyes in early texts: plant-induced, logged in excluded_leads.md. The claim that Namkhai Norbu and Thinley Norbu gave details comes as 'personal communication' footnotes (107, 108)."
+}

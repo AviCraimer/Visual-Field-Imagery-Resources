@@ -1,0 +1,45 @@
+{
+ "stream": "christian",
+ "translator": null,
+ "alt_urls": [],
+ "seen_via": null,
+ "locator_hints": [
+  "'Περὶ πλάνης' section, source ~lines 4115-4165",
+  "warning against seeing lights, ~lines 3425-3455",
+  "~lines 5000-5015 'never accept'"
+ ],
+ "priority": 1,
+ "found_via": "gap pass 2",
+ "notes": "",
+ "author_identifiable": true,
+ "author_basis": "",
+ "id": "chr-gregory-sinai-philokalia",
+ "title": "Gregory of Sinai: Chapters, On Stillness, On Prayer (Philokalia texts)",
+ "author": "Gregory of Sinai",
+ "year": "14th c.; ed. 1893",
+ "tradition": "Byzantine hesychasm",
+ "url": "https://archive.org/details/Dobrotolyubie1793",
+ "source_files": [
+  "sources/chr-gregory-sinai-philokalia.txt"
+ ],
+ "summary": "Gregory's chapters and short treatises on hesychastic prayer. He names the sign of pure prayer as the mind 'seen formless', senses withdrawn by 'that light', and the mind becoming light-like; but in practice he instructs beginners to seek only the formless warm energy of prayer in the heart and not to see lights or forms; if while working one sees light or fire outside or inside, or a figure of Christ or an angel, do not accept it. Prayer begins as fire of joy rising from the heart and ends as fragrant light.",
+ "why_relevant": "The tradition's sharpest warning against accepting seen lights, plus a statement of what genuine light is and when it comes.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "breath_control",
+  "sound_or_mantra",
+  "posture_or_body_lock"
+ ],
+ "language": "Greek",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1893",
+  "class": "published_record",
+  "basis": "Second Greek edition of the Philokalia, Athens 1893 (archive.org metadata and title page); text first printed Venice 1782"
+ },
+ "edition_cited": "Philokalia ton ieron neptikon, Athens 1893, djvu OCR from archive.org"
+}

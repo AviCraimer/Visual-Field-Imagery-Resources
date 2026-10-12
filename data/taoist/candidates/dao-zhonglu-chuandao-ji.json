@@ -1,0 +1,50 @@
+{
+ "id": "dao-zhonglu-chuandao-ji",
+ "stream": "taoist",
+ "title": "鍾呂傳道集 (Zhong-Lü chuandao ji), chapter 論證驗 'On verifications', with 靈寶畢法 (Lingbao bifa)",
+ "author": "Attributed to Zhongli Quan and Lü Dongbin; compiled under the name Shi Jianwu",
+ "translator": null,
+ "year": "Northern Song (10th to 11th century)",
+ "edition_cited": "Zhengtong Daozang: Xiuzhen shishu juan 14-16 (DZ 263; Kanripo KR5a0266) and DZ 1191 (Kanripo KR5f0025); base edition HFL; plus a punctuated transcription from zh.wikisource (easier to read; wording may differ slightly)",
+ "tradition": "Zhong-Lü inner alchemy",
+ "language": "Chinese (classical)",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://github.com/kanripo/KR5a0266",
+ "alt_urls": [
+  "https://github.com/kanripo/KR5f0025",
+  "https://zh.wikisource.org/wiki/鍾呂傳道集"
+ ],
+ "source_files": [
+  "sources/dao-zhonglu-chuandao-ji-punctuated.txt",
+  "sources/dao-zhonglu-chuandao-ji.txt",
+  "sources/dao-zhonglu-lingbao-bifa.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Chuandao ji, last chapter 論證驗 (in Kanripo file KR5a0266_003): ordered list of signs each introduced by 次; '次居暗室而目有神光自現' (next, staying in a dark room, spirit-light appears of itself in the eyes); '次内觀明朗而不暗昧'; '祥光生於卧室'; '次靜中外觀紫霞滿目頂外下視金光罩體'",
+  "Chuandao ji, chapter 論魔難 just before it: visionary palaces and music taken for heaven are 'one's own inner court' and a trap",
+  "Lingbao bifa, later sections: verifications after each method, e.g. '丹光透骨異香滿室次以靜中外觀紫霞滿目'; practice 'shut in a room' for stated numbers of days"
+ ],
+ "summary": "The founding dialogue of Zhong-Lü inner alchemy ends with a chapter asking what verifications follow, in what order, once the methods are practised correctly. The reply is one long ordered list. Early in it, after warmth in the lower field at night, comes: 'dwelling in a dark room, spirit-light appears of itself in the eyes'. Later items include inner viewing that is bright and not dim, the ability to see fine detail at a hundred paces, auspicious light in the bedroom, and, near the end, 'in stillness, looking outward, purple haze fills the eyes; looking down from beyond the crown, golden light covers the body'. The preceding chapter on demonic obstacles warns that visionary palaces and music are one's own inner court mistaken for a real realm. The companion Lingbao bifa repeats several signs with day-counts.",
+ "why_relevant": "An ordered by-stage list of seen-light signs from the formative period of neidan, including light in the eyes in a dark room, stated as results of prescribed energy practices rather than as methods; also carries the tradition's warning about visions.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "energy_work",
+  "breath_control",
+  "darkness_exposure",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 2,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1445",
+  "class": "published_record",
+  "basis": "Kanripo file headers give DZID DZ0263c and DZ1191 with SOURCE 正統道藏 (Zhengtong Daozang), 三家本 1988 reprint; the canon was printed in 1445 (year from general knowledge, not printed in the files)."
+ },
+ "author_basis": "",
+ "found_via": "own lead (Zhong-Lü 'verifications'), Kanripo catalogue on GitHub",
+ "notes": "English translation: Eva Wong, The Tao of Health, Longevity, and Immortality: The Teachings of Immortals Chung and Lü (Shambhala, 2000), in copyright, not opened. The methods themselves occupy the earlier chapters and the Lingbao bifa and are heavily coded. Anchors: see ANCHOR RULE in the source files."
+}

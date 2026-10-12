@@ -1,0 +1,104 @@
+{
+ "id": "snt-expremie-journey-ajw",
+ "stream": "sant-mat",
+ "verdict": "keep_marginal",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 2,
+ "practicality": 1,
+ "text_read": "Whole of sources/snt-expremie-journey-ajw.full.txt read in full (1,149 lines: the 1998 'God is Great but...' memoir and the 2001 addition 'No More Mr Nice Guy' with its subsections). The older reader extract was not used.",
+ "mode": "perceptual",
+ "mode_evidence": "The light is defined only by the promise made to him before initiation: on meditating he would 'see this light, brighter than a thousand suns, better than acid', alongside music, nectar and the Word. That is a seen light compared with a drug vision. His own report is negative: at initiation he did not see it. No positive visual experience of his own is described anywhere in the text.",
+ "eyes": "unspecified",
+ "onset_pathway": "unclear",
+ "onset_evidence": "No method is given. He says only that Mahatma Umeshfee judged him 'ready' and that he 'was shown the four meditation techniques'; the techniques themselves are not described. Prerequisite for being shown them: accepting that there is one Master and one method and that one must practise Knowledge and dedicate one's life to Maharaji. Result at initiation (March 1973): no light, no music, 'something was buzzing'. What the organisation offered the person who sees nothing, in his later sarcastic summary: it is your own fault, you are too impure for the Grace to land, keep going. He records a 1976 phase of 'workshops' in which premies admitted they did not 'blast off into God consciousness' on sitting to meditate. He stayed twenty-five years (1973 to 1998), with ashram years of meditation each morning after rising at six; he never mentions light arriving later, but also never states outright that it never did.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "devotion_or_transmission",
+  "other"
+ ],
+ "conditions": {
+  "posture": "Sitting, formally (late-1980s instruction for the 'first technique').",
+  "gaze_or_eye_position": "",
+  "setting": "Initiation in a room with a mahatma, March 1973; thereafter ashram and community life of satsang, service and meditation.",
+  "duration_and_schedule": "Ashram: up at six, a hymn to Maharaji, meditation, then breakfast and work. 1970s commandment to 'constantly meditate and remember the Holy Name' through the day; from the late 1980s the 'first meditation technique' only when sitting formally. Durations not given.",
+  "prerequisites": "Being judged 'ready': one Master, one method, life dedicated to Maharaji. Initiation by a mahatma, later by instructors, from the 1990s by Maharaji himself in large meetings.",
+  "other": "Before joining he meditated half an hour each morning on a Sai Baba mantra; no light reported from that either."
+ },
+ "phenomena": [
+  "none_seen",
+  "buzzing_sound"
+ ],
+ "stages": [],
+ "what_to_do_with_light": "Not addressed; no light arose. The organisation's line as he gives it was to keep practising and purify oneself.",
+ "obstacles_and_fixes": [
+  "Seeing nothing: explained inside the organisation as the meditator's own impurity or lack of surrender; the remedy offered was more practice, devotion and service.",
+  "Thinking and 'the mind' were taught as what takes you from the Truth; the 'first technique' was said to stop thought."
+ ],
+ "cautions": [
+  "The author's own conclusion is that the promised experience did not come and that failure was turned back on the practitioner; he calls the organisation a cult and regrets the twenty-five years.",
+  "Peers who reported 'bliss' at events are compared by him to the crowd in 'The Emperor's New Clothes': everybody was pretending."
+ ],
+ "safety_flags": [
+  "transmission_required_by_tradition"
+ ],
+ "interpretation": "As taught to him, the light is one of four inner revelations of God ('Knowledge'), given by the grace of the living Master. By 2001 he treats the whole as cult belief.",
+ "practice_summary": "This page contains no usable instruction. It is a negative testimony. A friend promised that after receiving 'Knowledge' from Guru Maharaj Ji he would see a light brighter than a thousand suns when he meditated. In March 1973 a mahatma judged him ready, which meant accepting one Master and one method, and showed him the four techniques. He did not see the light or hear the music; something buzzed. He then lived the full regime for years: ashram life, rising at six, daily meditation, satsang, service, and the instruction to meditate and remember the Holy Name constantly. He reports no later arrival of light across twenty-five years. In 1976 workshops premies admitted among themselves that they did not blast off when they sat. Those who experienced little were told it was their own impurity. The techniques are not described, so the account cannot show what he actually did with his eyes or attention.",
+ "key_passages": [
+  {
+   "locator": "1998 memoir, friend Tom's explanation before initiation, source lines 108-113",
+   "about": "mode",
+   "anchor": "Maharaj Ji can show you God, face to face. When you meditate, you'll see this light, brighter",
+   "paraphrase": "The promise: on meditating you will see a light brighter than a thousand suns, 'better than acid', hear music, taste nectar and know the Word; the Guru shows you all this and it is called Knowledge.",
+   "quote": "",
+   "source_file": "sources/snt-expremie-journey-ajw.full.txt"
+  },
+  {
+   "locator": "1998 memoir, initiation March 1973, source lines 115-122",
+   "about": "testimony",
+   "anchor": "I didn't see light brighter than a thousand suns. Neither did I hear Ummagumma, but something was buzzing.",
+   "paraphrase": "Having been shown the four meditation techniques, he saw no such light and heard no music; there was only a buzzing.",
+   "quote": "",
+   "source_file": "sources/snt-expremie-journey-ajw.full.txt"
+  },
+  {
+   "locator": "1998 memoir, initiation March 1973, source lines 120-121",
+   "about": "onset",
+   "anchor": "meant understanding that there was only one Master and only one method of attaining salvation",
+   "paraphrase": "The stated precondition for being shown the techniques was doctrinal: one Master, one method, practise Knowledge and dedicate your life to Maharaji.",
+   "quote": "",
+   "source_file": "sources/snt-expremie-journey-ajw.full.txt"
+  },
+  {
+   "locator": "1998 memoir, 1976 'workshops', source lines 265-269",
+   "about": "testimony",
+   "anchor": "We admitted we didn't blast off into God consciousness when we sat down to meditate.",
+   "paraphrase": "In the 1976 workshop phase premies admitted to one another that sitting to meditate did not produce the advertised experience, and that this was not only a matter of insufficient surrender.",
+   "quote": "",
+   "source_file": "sources/snt-expremie-journey-ajw.full.txt"
+  },
+  {
+   "locator": "2001 addition, 'Wasting Time', source lines 1093-1098",
+   "about": "caution",
+   "anchor": "quite experience infinite glory when you meditate, it's your own fault. You're too impure for the Grace to land.",
+   "paraphrase": "His summary of how non-experience was explained: Knowledge is experienced through the Master's grace, and if you do not experience it the fault is your impurity; the Grace keeps circling until you clean up.",
+   "quote": "",
+   "source_file": "sources/snt-expremie-journey-ajw.full.txt"
+  },
+  {
+   "locator": "1998 memoir, late-1980s Birmingham meeting, source lines 559-568",
+   "about": "method",
+   "anchor": "Premies should no longer practice the first meditation technique throughout the day, but only do it sitting",
+   "paraphrase": "Late-1980s change: the 'first meditation technique' is to be done only in formal sitting, no longer through the day. He ties this technique to the 1970s commandment to constantly meditate and remember the Holy Name and says it 'stopped thought'; he does not call it the light technique.",
+   "quote": "",
+   "source_file": "sources/snt-expremie-journey-ajw.full.txt"
+  }
+ ],
+ "cross_refs": [
+  "snt-dlm-knowledge-session",
+  "snt-expremie-journey-strasburg"
+ ],
+ "new_leads": [],
+ "reader_confidence": "high",
+ "confidence_note": "Full page text read. Corrections to the candidate record: (1) the page never describes how any technique is done, so the candidate's expected 'eye_pressure_or_sense_closure' is not supported by this text; (2) the 'first technique' passage is linked by the author to remembering the Holy Name and stopping thought, not to light; (3) the null result is explicit only for the initiation; absence of later light is by silence across a 25-year account, not by direct statement."
+}

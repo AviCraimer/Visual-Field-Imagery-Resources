@@ -1,0 +1,35 @@
+{
+  "id": "hin-aurobindo-letters-on-yoga-3", "stream": "hindu-yoga-tantra",
+  "verdict": "keep",
+  "drop_reason": null, "drop_note": "",
+  "relevance": 5, "practicality": 3,
+  "text_read": "digest only",
+  "mode": "perceptual",
+  "mode_evidence": "Aurobindo says lights are seen with the inner eye and even the outer eye, 'There is no imagination in the seeing of these lights', and that anything seen with closed eyes can be seen with open eyes once inner sight reaches the subtle physical.",
+  "eyes": "both",
+  "onset_pathway": "both",
+  "onset_evidence": "Faculty is latent and often opens unasked early in practice; first signs are sparkles/dots, rings of light round luminous objects like a star, then colours. Yogis develop it by tratak on a single luminous point or object. Quiet mind not needed, only opening of the brow centre; can be developed by effort and concentration by those with some inborn faculty. Some find it difficult. Colour/light cannot be forced by physical pressure; it is by 'psychic and spiritual, not a physical pressure'. No time scales in digest.",
+  "stimulus_independence": "unclear",
+  "techniques": ["light_source_gazing", "gazing_fixed_point", "concentration_nonvisual", "attention_to_spontaneous_phenomena"],
+  "conditions": {"posture": "", "gaze_or_eye_position": "Concentration at the centre between the eyebrows; tratak on a single point or luminous object.", "setting": "", "duration_and_schedule": "", "prerequisites": "Some latent or inborn faculty helps; opening of the Ajna centre.", "other": "Mind need not be quiet for seeing lights."},
+  "phenomena": ["sparks_or_points", "stars", "colour_fields", "white", "gold_yellow", "blue", "violet", "sun_disc", "moon_disc", "lamp_or_flame", "lightning_flashes", "all_pervading_light", "light_in_the_room"],
+  "stages": [
+    {"label": "first signs, externalised way", "description": "Sparkles or small luminous dots, then circles of light or colour round objects (a star), then colours, though not always in that order."},
+    {"label": "descent of Light", "description": "A flow or sea of white, golden or blue light entering and surrounding the body and illumining the whole field of consciousness; may be seen or felt."}
+  ],
+  "what_to_do_with_light": "Let the opening of vision develop; do not over-weight individual visions until symbolic or significant; observe and describe exactly (colour shade matters); develop the consciousness by which they come. Light may eventually be lived in, filling every cell.",
+  "obstacles_and_fixes": ["Scepticism: throw off physical explanations and develop the power and experience.", "Colour reports need exact description (yellow vs gold)."],
+  "cautions": ["Gazing on a flame or bright spot to cross the threshold is discouraged: it may lead to passive concentration open to all sorts of things.", "Not all lights come from the paramjyotih; many lights."],
+  "safety_flags": ["tradition_warns_against_seeking"],
+  "interpretation": "Lights are subtle, not physical, signs of forces of various planes; colour indicates the force (white Mother, gold Truth, blue spiritual, violet grace); sun is the symbol of Truth.",
+  "practice_summary": "Aurobindo tells correspondents that sight of supraphysical light is a latent faculty, often the first to open in yoga, usually without effort and more easily with eyes shut, though it also comes with eyes open. Initial signs are sparkles or dots, rings of light around luminous objects such as a star, then colours. Indian yogis deliberately develop the power by tratak, concentrating vision on a single point, preferably luminous; a correspondent's star-gazing counted as such. A quiet mind is not required; what matters is the opening of the subtle vision at the brow centre, which can be developed by effort and concentration where some inborn faculty exists. Do not press physically; the opening comes by psychic and spiritual action. Let the vision develop, describe colours accurately, and learn their meaning over time. In another letter he advises against gazing on flame or bright spot to force the threshold, as it risks passive trance.",
+  "key_passages": [
+    {"locator": "Part Two, 'Sensing Supraphysical Things', source lines 4519-4558", "about": "onset", "anchor": "The Yogis in India very often in order to develop the power use the method of tratak", "paraphrase": "Indian yogis develop the power by tratak, concentrating vision on a single, preferably luminous, point; star-gazing was such an exercise.", "quote": "", "source_file": "sources/hin-aurobindo-letters-on-yoga-3.txt"},
+    {"locator": "Part Two, 'Sensing Supraphysical Things', source lines 4519-4558", "about": "stages", "anchor": "seeing of colours is a third initial experience", "paraphrase": "First signs: sparkles or dots, then rings of light round objects, then colours, not always in that order.", "quote": "", "source_file": "sources/hin-aurobindo-letters-on-yoga-3.txt"},
+    {"locator": "Ch. One, 'Seeing Light', source lines 5608-5652", "about": "mode", "anchor": "There is no imagination in the seeing of these lights", "paraphrase": "The lights are subtle but actually seen when inner vision is open; not imagination.", "quote": "", "source_file": "sources/hin-aurobindo-letters-on-yoga-3.txt"},
+    {"locator": "Ch. One, 'Seeing Light', source lines 5608-5652", "about": "onset", "anchor": "It is not necessary to have the mind quiet in order to see the", "paraphrase": "Seeing lights depends on opening of subtle vision at the brow centre, not a quiet mind; can be developed by effort by those with some inborn faculty.", "quote": "", "source_file": "sources/hin-aurobindo-letters-on-yoga-3.txt"},
+    {"locator": "'Subtle Physical Visions', source lines 5366-5408", "about": "caution", "anchor": "they may lead to a passive concentration in which one is open to all sorts of things", "paraphrase": "Warns against using flame or bright-spot gazing to force the threshold.", "quote": "", "source_file": "sources/hin-aurobindo-letters-on-yoga-3.txt"}
+  ],
+  "cross_refs": ["hin-aurobindo-record-of-yoga"], "new_leads": ["Letters on Yoga II on concentration between the eyebrows"],
+  "reader_confidence": "high", "confidence_note": "Digest only; flame-gazing letter's opening lines were cut off in the digest."
+}

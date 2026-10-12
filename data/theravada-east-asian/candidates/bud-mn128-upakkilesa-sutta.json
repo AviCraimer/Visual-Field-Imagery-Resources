@@ -1,0 +1,47 @@
+{
+ "id": "bud-mn128-upakkilesa-sutta",
+ "stream": "theravada-east-asian",
+ "title": "Upakkilesa Sutta (Majjhima Nikaya 128): Corruptions",
+ "author": "Pali Canon (Majjhima Nikaya)",
+ "translator": "Bhikkhu Sujato",
+ "year": "canonical; translation c. 2018",
+ "edition_cited": "SuttaCentral bilara-data, branch 'published', translation/en/sujato/sutta/mn/mn128",
+ "tradition": "Early Buddhism / Pali Canon",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://suttacentral.net/mn128/en/sujato",
+ "alt_urls": [
+  "https://raw.githubusercontent.com/suttacentral/bilara-data/published/translation/en/sujato/sutta/mn/mn128_translation-en-sujato.json",
+  "https://www.dhammatalks.org/suttas/MN/MN128.html"
+ ],
+ "source_files": [
+  "sources/bud-mn128-upakkilesa-sutta.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Segments 15.3-15.5: Anuruddha's report that light and vision of forms appear and vanish",
+  "Segments 16.1-27: the Buddha's own account and the eleven causes he found, each ending 'When immersion falls away, the light and vision of forms vanish'",
+  "Segments 28-29: perceiving light without seeing forms and the reverse; limited and limitless light, lasting 'a whole night, a whole day'",
+  "Segments 30-32: the threefold development of immersion that followed"
+ ],
+ "summary": "The canonical first-person troubleshooting account. Anuruddha and his companions tell the Buddha that while meditating they perceive both light and a vision of forms, but before long these vanish and they cannot find the reason. The Buddha replies that before his awakening the same happened to him, and recounts diagnosing, one after another, the mental states on whose arising 'immersion fell away' and with it the light and forms: doubt, inattention, dullness and drowsiness, terror, elation, discomfort, excessive energy, overly lax energy, longing, perception of diversity, and excessive concentration on forms. He then describes perceiving light without forms or forms without light depending on which he attended to, and limited or limitless light according to how limited his concentration was, sustained for a whole night and day.",
+ "why_relevant": "The earliest Buddhist report of seen light in meditation, with a diagnostic list of why it vanishes and what governs its extent; a development and stabilisation text addressed to people who already see some light.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "concentration_nonvisual",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "2018",
+  "class": "published_record",
+  "basis": "Canonical Pali discourse. The translation is SuttaCentral publication scpub3 (Bhikkhu Sujato, Middle Discourses), released on SuttaCentral in 2018; that year is from my knowledge of the release, as the repository's _publication.json leaves first_published empty. The Pali original is ancient in any case."
+ },
+ "author_basis": "",
+ "found_via": "seed lead; fetched from GitHub suttacentral/bilara-data",
+ "notes": "CC0 dedication is stated in the repository LICENSE.md and _publication.json. Segment numbers in the saved file are SuttaCentral's. Thanissaro's translation is on dhammatalks.org (not fetched)."
+}

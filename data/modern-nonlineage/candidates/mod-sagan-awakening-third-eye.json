@@ -1,0 +1,56 @@
+{
+ "id": "mod-sagan-awakening-third-eye",
+ "stream": "modern-nonlineage",
+ "title": "Awakening the Third Eye",
+ "author": "Samuel Sagan",
+ "translator": null,
+ "year": "1992; 3rd ed. 2007",
+ "edition_cited": "Third edition, 2007, Clairvision School PDF (title page carries www.clairvision.org); text from archive.org item awakening-the-third-eye-2007-samuel-sagan",
+ "tradition": "Clairvision School (modern Western third-eye school, non-lineage)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "in_copyright",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/awakening-the-third-eye-2007-samuel-sagan",
+ "alt_urls": [
+  "https://archive.org/details/awakeningthirdey0000samu"
+ ],
+ "source_files": [
+  "sources/mod-sagan-awakening-third-eye.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Ch. 1.1-1.3 (no forcing, no visualisation, trust what is seen)",
+  "Ch. 2.1 throat friction",
+  "Ch. 3.2-3.5 first opening; experiential references; 'If you are not feeling any vibration at all'",
+  "Ch. 3.7 third eye meditation; 3.10 'mysteries of the space'",
+  "Ch. 5 and 7 Seeing (eye contact, 7.1 use of darkness, 7.5 basic technique for seeing an aura)",
+  "Ch. 9.9 changes in vision",
+  "Ch. 10 experiences on the way (10.7 pressure, 10.8 headaches)",
+  "later chapters on night practice"
+ ],
+ "summary": "A step-by-step manual for a self-contained 'third eye' training. The core method is 'throat friction' (a soft laryngeal breathing sound) joined to awareness between the eyebrows, with the explicit rule of no visualisation and no forcing. Section 3.4 gives three experiential references met between the eyebrows with eyes closed: vibration (tingling, pressure, density); 'light' (anything from a vague haze, cloud or glow to colours, shining dots and organised patterns); and purple light, read as contact with a 'space'. Section 3.5 addresses those who feel nothing at all, and a timed meditation sequence follows. Separate chapters teach open-eye 'seeing' through eye-contact practice, the use of darkness and candlelight, plain backgrounds and a basic technique for seeing an aura, with troubleshooting for pressure and headaches.",
+ "why_relevant": "Explicit graded instruction aimed at light that is seen, not imagined, with a section for those who perceive nothing; covers both closed-eye and open-eye practice.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "breath_control",
+  "sound_or_mantra",
+  "eye_position",
+  "gazing_fixed_point",
+  "darkness_exposure",
+  "attention_to_spontaneous_phenomena",
+  "sleep_threshold"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "2007",
+  "class": "published_record",
+  "basis": "copyright line on the title page of the saved text: 'Copyright (c) Samuel Sagan 1992, 1997, 2007'; archive.org item metadata date 2007"
+ },
+ "author_identifiable": true,
+ "author_basis": "Named author (Samuel Sagan, founder of the Clairvision School, d. 2016); book first published 1992",
+ "found_via": "seed lead; archive.org title search",
+ "notes": "Rights: in copyright. The saved file is the publisher-branded PDF edition (www.clairvision.org on the title page); I understand Clairvision distributed this edition as a free download but could not open clairvision.org in this run to confirm, so readers should record locator, paraphrase and anchor only. The archive.org item wrongly carries a public-domain mark."
+}

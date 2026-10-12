@@ -1,0 +1,43 @@
+{
+ "stream": "shamanic-indigenous",
+ "translator": null,
+ "alt_urls": [],
+ "seen_via": null,
+ "locator_hints": [
+  "bards' 'way of Study' in a dark cell, p. 116 (source lines ~5545-5560)",
+  "Second Sight chapter, pp. 300ff (source lines ~12200-13000)"
+ ],
+ "priority": 1,
+ "found_via": "gap pass 2",
+ "notes": "",
+ "author_identifiable": true,
+ "author_basis": "",
+ "id": "shm-martin-western-islands",
+ "title": "A Description of the Western Islands of Scotland (incl. 'A Particular Account of the Second Sight')",
+ "author": "Martin Martin",
+ "year": "1703; 2nd ed. 1716",
+ "edition_cited": "2nd ed., London 1716",
+ "tradition": "Gaelic Hebridean (bards, seers)",
+ "source_type": "ethnographic_report",
+ "url": "https://archive.org/details/descriptionofwes01mart",
+ "source_files": [
+  "sources/shm-martin-western-islands.txt"
+ ],
+ "summary": "Martin describes the poets' method of composition: shutting doors and windows for a day, lying on their backs with a stone on the belly and plaids about their heads, eyes covered, they 'pump their brains' for verse in this dark cell. No light or vision is reported from it. The separate Second Sight chapter reports spontaneous visions (shrouds, a spark of fire falling on an arm, corpse-candles) with the seer's eyelids erect and eyes staring, but without any practice.",
+ "why_relevant": "Seed lead: darkness-and-sensory-restriction method; checked for seen light.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "darkness_exposure",
+  "sensory_restriction"
+ ],
+ "date_evidence": {
+  "date": "1716",
+  "class": "published_record",
+  "basis": "archive.org metadata: 2nd edition 1716; first edition 1703"
+ },
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "medium": "book_or_classical_text",
+ "language": "English"
+}

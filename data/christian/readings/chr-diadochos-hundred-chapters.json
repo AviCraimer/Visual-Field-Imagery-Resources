@@ -1,0 +1,80 @@
+{
+ "stream": "christian",
+ "drop_reason": null,
+ "drop_note": "",
+ "cross_refs": [
+  "chr-evagrius-on-prayer",
+  "chr-xanthopoulos-century"
+ ],
+ "new_leads": [],
+ "safety_flags": [
+  "tradition_warns_against_seeking"
+ ],
+ "stages": [],
+ "obstacles_and_fixes": [
+  "Dreams: divine ones keep one shape and bring calm joy; demonic ones shift shapes, frighten, laugh or scowl suddenly."
+ ],
+ "cautions": [
+  "If light, a fiery form or a voice appears to a struggler, he must on no account accept the vision: it is plain deceit of the enemy, by which many have strayed.",
+  "Do not take up the ascetic life in the hope of such things, lest Satan find the soul ready to be seized."
+ ],
+ "phenomena": [
+  "all_pervading_light",
+  "lamp_or_flame",
+  "figures_or_forms"
+ ],
+ "conditions": {
+  "posture": "",
+  "gaze_or_eye_position": "",
+  "setting": "",
+  "duration_and_schedule": "",
+  "prerequisites": "",
+  "other": ""
+ },
+ "id": "chr-diadochos-hundred-chapters",
+ "verdict": "keep",
+ "relevance": 5,
+ "practicality": 3,
+ "text_read": "Greek 1893 text, Diadochos section (source lines 1-5300) searched for φῶς, σχῆμα, μορφ-; chapters around source lines 250-265, 970-1010, 1070-1095 read in full (two-column OCR interleaves text).",
+ "mode": "ambiguous",
+ "mode_evidence": "The mind 'sees its own light abundantly' (τὸ ἑαυτοῦ φῶς ... ὁρᾶν) and becomes transparent; Diadochos contrasts this formless light with lights 'with shape', 'as light or as fire', which suggests visible appearances; no reference to eyes.",
+ "eyes": "unspecified",
+ "onset_pathway": "development_only",
+ "onset_evidence": "The mind's own light comes when the soul's power has mastered the passions and the mind is frequently energised by divine light. Diadochos forbids taking up asceticism in hope of seeing anything: 'we walk by faith, not by sight', and in the body we cannot see God or his wonders visibly. Nothing for the person who sees nothing; seeing nothing is presented as normal.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "sound_or_mantra",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "what_to_do_with_light": "Formless self-luminosity of the mind: accept as fruit of purification. Any light with shape, fiery form or voice: refuse outright.",
+ "interpretation": "The mind's own light, revealed by grace when the passions are mastered, is formless; shaped light belongs to the angel of light, i.e. Satan disguised.",
+ "practice_summary": "Diadochos gives no technique for producing light. Pursue purification and love of God with full feeling of the heart; keep the mind free of imagery. When the passions are mastered and the mind is often moved by divine light, it becomes transparent and sees its own light: accept this. Anything appearing with form, whether a light, a fire-like shape or a voice, refuse without examination. Do not practise in order to see.",
+ "key_passages": [
+  {
+   "locator": "Chapters, source lines ~975-990",
+   "about": "caution",
+   "anchor": "ἢ φῶς ἣ σχῆμά τι πυροειδές ἢ φωνή μηδαμῶς καταδεξάσθω",
+   "paraphrase": "If light, or some fiery shape, or a voice appears to any of those who struggle, let him on no account accept such a vision: it is manifest deceit of the enemy, by which many strayed from the way of truth.",
+   "quote": "ἐὰν οὖν ὀφθῇ τινὶ τῶν ἀγωνιζομένων, ἢ φῶς, ἢ σχῆμά τι πυροειδές, ἢ φωνή, μηδαμῶς καταδεξάσθω τὸ τοιοῦτον ὅραμα. ἀπάτη γάρ ἐστι φανερὰ τοῦ ἐχθροῦ (OCR normalised in this quote)",
+   "source_file": "sources/chr-diadochos-hundred-chapters.txt"
+  },
+  {
+   "locator": "Chapters, source lines ~1077-1080",
+   "about": "mode",
+   "anchor": "ὑπὸ τοῦ Θείου φωτὸς ἐνεργεῖσθαι διαφανής",
+   "paraphrase": "When the mind begins to be frequently energised by the divine light it becomes wholly transparent, so as to see its own light abundantly; this happens when the soul's power masters the passions.",
+   "quote": "",
+   "source_file": "sources/chr-diadochos-hundred-chapters.txt"
+  },
+  {
+   "locator": "Chapters, source lines ~1083-1088",
+   "about": "caution",
+   "anchor": "εἴτε ὡς πῦρ ἐκ τῆς τοῦ ἐχθροῦ",
+   "paraphrase": "Everything that appears to the mind in a shape, whether as light or as fire, comes from the enemy's craft, as Paul teaches (Satan disguised as an angel of light).",
+   "quote": "",
+   "source_file": "sources/chr-diadochos-hundred-chapters.txt"
+  }
+ ],
+ "reader_confidence": "medium",
+ "confidence_note": "Two-column OCR interleaves lines; passages reconstructed by reading both columns; meaning clear."
+}

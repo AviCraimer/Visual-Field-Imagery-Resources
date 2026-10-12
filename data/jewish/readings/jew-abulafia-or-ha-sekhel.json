@@ -1,0 +1,121 @@
+{
+ "id": "jew-abulafia-or-ha-sekhel",
+ "stream": "jewish",
+ "verdict": "keep_marginal",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 2,
+ "practicality": 3,
+ "text_read": "Hebrew only (341 KB file, 289 Hebrew paragraphs). Read in full: file section 'Ohr HaSekhel 8' paragraphs 54-62 (the pronunciation instructions, to the end of the part); section 9 paragraphs 3-8; section 10 complete (paragraphs 1-28, to the colophon); section 6 paragraphs 12, 14, 18 (breaths); section 3 paragraphs 15-16. For the rest (Introduction, sections 1-7 and the earlier part of 8) I read 600-800 character windows around every Hebrew occurrence of the light, seeing, eye, dream, imagination and seclusion vocabulary (אור, מאיר, זהר, בהיר, מראה, מחזה, חלום, עינ-, הסתכל, ציור, דמיון, התבודד), not the continuous text.",
+ "mode": "ambiguous",
+ "mode_evidence": "No light is reported as seen anywhere in the passages read. 'Light' [אור השכל] is consistently the Maimonidean figure for the Active Intellect: sunlight entering a dark house (Introduction), the bat blinded by the sun (10:9), the east 'whence light goes out to the world' as a gloss on the Intellect (4:4, 8:60). What the book does say about seeing is theoretical: the influx [שפע] is 'seen' in the intellect, which is intellectual apprehension; it then leaps to the imagination [דמיון], which sees a corporeal-seeming spiritual likeness called 'man' or 'angel'; and 'at certain times' it passes on to the sensed [מורגש] (10:20-21). That is an imaginal-crossing doctrine for figures, not a report of light.",
+ "eyes": "unspecified",
+ "onset_pathway": "unclear",
+ "onset_evidence": "The book gives a complete induction procedure, but for cleaving [דבקות] to the Active Intellect and receiving the influx, not for light. It promises that fear and awe give way to the soul's great joy in its apprehension; it never says what, if anything, will be seen and offers nothing to a person who sees nothing. Prerequisites are stated: strength in wisdom [חכמה] and in received tradition [קבלה], and a mind not gripped by worldly vanities; without these one must not pronounce the Name. No time scale. The influx is described as compelling once it comes, unless inner or outer obstacles block the receiver (Introduction; 10:20).",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "sound_or_mantra",
+  "breath_control",
+  "movement",
+  "letter_or_symbol_contemplation",
+  "sensory_restriction"
+ ],
+ "conditions": {
+  "posture": "Seated, wrapped in clean or new white garments over all one's clothes, or in the tallit, head crowned with tefillin.",
+  "gaze_or_eye_position": "Face turned due east, neither down nor up, at the start; no instruction about the eyes. The head then moves with each vowel.",
+  "setting": "Alone in a set-apart place where one's voice cannot be heard by anyone.",
+  "duration_and_schedule": "Not given as clock time. Measured in breaths: one long breath per letter-pair; at most 2 silent breaths within a pair in the reversed tables; at most 5 at the end of each row; at most 25 between the 'page' of one letter of the Name and the next.",
+  "prerequisites": "Adorn oneself; purify heart and soul of every thought of this world; competence in wisdom and Kabbalah; freedom from preoccupation with worldly vanities.",
+  "other": "Think that in that hour the soul separates from the body, that one dies to this world and lives to the world to come."
+ },
+ "phenomena": [
+  "figures_or_forms"
+ ],
+ "stages": [
+  {
+   "label": "אימה, יראה ופחד (dread, awe and fear)",
+   "description": "The mood in which every letter is to be chanted."
+  },
+  {
+   "label": "שמחת הנפש בהשגתה (the soul's joy in its apprehension)",
+   "description": "Joins the fear as the practice takes hold; the only result named in the instructions. Nothing visual."
+  },
+  {
+   "label": "שפע: intellect, then imagination, then sense",
+   "description": "Theory in part 10, not a practice stage: the influx is first an intellectual apprehension, overflows into the imagination as a seen figure ('man' or 'angel'), and occasionally reaches the senses."
+  }
+ ],
+ "what_to_do_with_light": "Not addressed: no light is described. For imaginative visions generally, the book ranks intellectual apprehension above anything imagined or sensed and treats the figure seen as the imagination's rendering of the influx.",
+ "obstacles_and_fixes": [
+  "A slip or a repetition inside a row: go back to the head of that row and say it again until it is said correctly.",
+  "Between the tables of the four letters do not interrupt with speech or with thought, even while taking the permitted breaths.",
+  "Inner or outer obstacles in the receiver block the influx (stated in general terms, no remedy beyond the preparation)."
+ ],
+ "cautions": [
+  "If you sense that your intellect is weak in wisdom or in Kabbalah, or that your thoughts are strongly held by the vanities of the age, do not pronounce the Name, lest you add to your sin.",
+  "The imagination never apprehends any true existent; its third kind of product, pure invention, misleads and corrupts every true apprehension (10:17).",
+  "The human intellect has a limit; one who tries to pass it becomes confused and his apprehension turns imaginary (9:4)."
+ ],
+ "safety_flags": [
+  "breath_retention"
+ ],
+ "interpretation": "Light is the Active Intellect [שכל הפועל], also called Shekhinah or holy spirit, whose radiance is too great for the embodied soul, as sunlight is for a bat. What a prophet sees is the influx clothed by his own imagination in a bodily likeness.",
+ "practice_summary": "This source teaches the Abulafian recitation, not a light practice. Adorn yourself and withdraw to a place where no one can hear you. Empty heart and soul of every worldly thought and consider that your soul is now leaving the body: you die to this world and live to the next. Sit facing due east, wrapped in clean white garments or tallit, wearing tefillin. Take each letter of the Name paired with aleph, in the vowel written in the tables, and chant the pair on one unbroken breath drawn out as long as you can, in dread and awe, until joy joins the fear. The melody and the head follow the vowel: holam, raise the head slowly from centre-east to upright, then bow to the ground once; hiriq, draw downward, pulling the upper power into you; shuruq, straight forward; tsere, left to right; qamats, right to left. Keep the breath limits between pairs, rows and tables; after any slip restart the row. The text names no visual result.",
+ "key_passages": [
+  {
+   "locator": "File section 'Ohr HaSekhel 8', paragraph 59 (source line 576); Abulafia's own heading at para. 54: part 5 (ה'), matter 3, sign 200",
+   "about": "method",
+   "anchor": "קשט עצמך והתבודד במקום מיוחד, שלא ישמע קולך לזולתך, וטהר לבך ונפשך מכל מחשבות העולם הזה",
+   "paraphrase": "Preparation: adorn yourself, seclude yourself in a special place where your voice is not heard by another, purify heart and soul of all thoughts of this world, and think that in that hour your soul parts from your body, that you die to this world and live to the world to come, which is the source of life and is the Intellect.",
+   "quote": "קשט עצמך והתבודד במקום מיוחד, שלא ישמע קולך לזולתך, וטהר לבך ונפשך מכל מחשבות העולם הזה, וחשוב שבאותה שעה הפרד נפשך מגופך ותמות מן העולם הזה ותחיה לעולם הבא",
+   "source_file": "sources/jew-abulafia-or-ha-sekhel.txt"
+  },
+  {
+   "locator": "File section 'Ohr HaSekhel 8', paragraph 60 (source line 578)",
+   "about": "method",
+   "anchor": "ואתה יושב מעוטף בבגדים לבנים מכובסים טהורים או חדשים על כל בגדיך",
+   "paraphrase": "Posture and procedure: seated, wrapped in clean or new white garments or the tallit, head crowned with tefillin, facing the east 'whence light goes out to the world' (the only mention of light in the instructions, and it is directional symbolism). One breath per letter-pair, as long as the breath allows, chanted in dread, awe and fear until the soul's joy in its great apprehension joins in. Melody and head movement take the shape of the vowel point: holam upward from the middle of the east, then one prostration; hiriq downward, drawing the upper power to cleave to you; shuruq a middle pull straight ahead; tsere left to right; qamats right to left. A clause following the qamats instruction ('שלא תוכל לסבלו ...') is corrupt in this transcription and I could not construe it; it may concern an effect too strong to bear and a second recitation 'in the manner of running and returning'.",
+   "quote": "",
+   "source_file": "sources/jew-abulafia-or-ha-sekhel.txt"
+  },
+  {
+   "locator": "File section 'Ohr HaSekhel 8', paragraph 60 (source line 578)",
+   "about": "caution",
+   "anchor": "ואם תרגיש בך ששכלך חלוש בחכמה או בקבלה או רעיונך חזקים בהבלי הזמן, אל תזכיר את השם פן תוסיף לחטוא",
+   "paraphrase": "Prerequisite and warning: if you feel your intellect is weak in wisdom or in Kabbalah, or your thoughts are firmly in the vanities of the time, do not pronounce the Name, lest you sin further. Also here: up to 25 breaths between the table of one letter of the Name and the next, provided there is no interruption by speech or by thought.",
+   "quote": "ואם תרגיש בך ששכלך חלוש בחכמה או בקבלה או רעיונך חזקים בהבלי הזמן, אל תזכיר את השם פן תוסיף לחטוא",
+   "source_file": "sources/jew-abulafia-or-ha-sekhel.txt"
+  },
+  {
+   "locator": "File section 'Ohr HaSekhel 10', paragraph 20 (source line 644); Abulafia's heading at para. 18: 'the necessity of the influx that moves one to speak and compose'",
+   "about": "mode",
+   "anchor": "וידלג השפע עוד לדמיון, והתחייב שהדמיון ישיג מה שבטבעו להשיג, ויראה מה שיראה בדמות גשמות מדומה רוחני משותף",
+   "paraphrase": "Because man is compounded of many powers, the influx must be 'seen' in his intellect, and that seeing is called a thought, intellectual apprehension. The influx then leaps on to the imagination, which must apprehend in its own way and sees what it sees as an imagined, spiritual, shared likeness of corporeality; that power is called 'man' or 'angel'. Because the multitude trusts what is sensed more than what is imagined, Scripture had to speak as though all prophecies were sense perceptions.",
+   "quote": "וידלג השפע עוד לדמיון, והתחייב שהדמיון ישיג מה שבטבעו להשיג, ויראה מה שיראה בדמות גשמות מדומה רוחני משותף, ויקרא הכח ההוא איש או מלאך או כיוצא בם",
+   "source_file": "sources/jew-abulafia-or-ha-sekhel.txt"
+  },
+  {
+   "locator": "File section 'Ohr HaSekhel 10', paragraph 21 (source line 646)",
+   "about": "mode",
+   "anchor": "וכבר יעבור הדבר הנשפע למורגש בקצת העתים",
+   "paraphrase": "The intellectual apprehension is the highest; sense is matter to imagination and imagination matter to intellect. Yet the thing that flows down does at certain times pass over into the sensed. This one clause is the book's only admission that the experience can become perceptual; no detail of what is then perceived is given.",
+   "quote": "כי ההרגש חומר לדמיון והדמיון חומר לשכל, וכבר יעבור הדבר הנשפע למורגש בקצת העתים",
+   "source_file": "sources/jew-abulafia-or-ha-sekhel.txt"
+  },
+  {
+   "locator": "File section 'Ohr HaSekhel 10', paragraph 9 (source line 621); Abulafia's heading at para. 8: 'the form of the apprehension of the Intellect'",
+   "about": "interpretation",
+   "anchor": "נעלמה צורת יפיו כהעלמת צורת יפי אור השמש מעיני נעטלף ומי שעיניו כואבות",
+   "paraphrase": "The form of the Intellect is subtler than subtle and purer than pure; because of the abundance of its light and bright radiance, which illuminates the whole world, its beauty is hidden, as the sun's light is hidden from the eyes of a bat or of one with sore eyes. The hindrance is not in the light but in the weakness of the receiver: the soul, being material, weakens when it tries to contemplate the giver of the light of the intellect. Explicitly a simile ['על דרך משל'] a few lines on. (The saved file reads נעטלף, presumably for עטלף.)",
+   "quote": "",
+   "source_file": "sources/jew-abulafia-or-ha-sekhel.txt"
+  }
+ ],
+ "cross_refs": [],
+ "new_leads": [
+  "Abulafia, Chayei ha-Olam ha-Ba and Sefer ha-Cheshek: the same recitation with stated results (trembling, anointing sensation, vision of a figure); to be checked for seen light.",
+  "Sha'arei Tzedek (anonymous disciple of Abulafia): first-person account of light appearing in the room at night after letter combination; the testimony this manual lacks."
+ ],
+ "reader_confidence": "high",
+ "confidence_note": "High for the verdict that the instructions (part 8) and the theory of apprehension (parts 9-10) contain no seen-light claim: those were read in full in Hebrew. The remainder was covered by keyword windows, so a stray remark outside the light and vision vocabulary could have been missed. One clause in 8:60 is corrupt in the transcription. The two new leads are from my general knowledge of the school, not from this file."
+}

@@ -1,0 +1,47 @@
+{
+ "id": "chr-teresa-life",
+ "stream": "christian",
+ "title": "The Life of St. Teresa of Jesus, of the Order of Our Lady of Carmel, Written by Herself",
+ "author": "Teresa of Avila (1515-1582)",
+ "translator": "David Lewis; third edition with notes by Benedict Zimmerman",
+ "year": "written 1562-1565; this edition 1904",
+ "edition_cited": "London: Thomas Baker, 1904 (3rd ed.). archive.org scan lifeofteresajesu00tereuoft",
+ "tradition": "Spanish Carmelite",
+ "language": "English",
+ "source_type": "practitioner_testimony",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/lifeofteresajesu00tereuoft",
+ "alt_urls": [],
+ "source_files": [
+  "sources/chr-teresa-life.txt",
+  "sources/chr-teresa-life-es.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Ch. XXVII (from line 12443): the intellectual vision, Christ felt at her side, 'saw nothing with the eyes of the body, nothing with the eyes of the soul' (line 12494)",
+  "Ch. XXVIII sections 5-9 (lines 13070-13190; printed pp. 237-239): the imaginary vision; ranking of bodily, imaginary and intellectual visions; the light 'so different from any light here below'; 'whether our eyes be open or shut, it makes no difference'; 'nor can we attain to it by any diligence or efforts of our own'",
+  "Ch. XXVIII later sections: how to tell it from fancy and from the devil's counterfeit",
+  "Ch. XXIX (line 13561): being ordered to make signs of scorn at the vision; the cross with jewels; the angel with the dart",
+  "Ch. XXXVIII and Relations (lines 21400-23950): later visions; Relation at line 23950 'The imaginary visions have ceased'"
+ ],
+ "summary": "Teresa's autobiography, written under obedience for her confessors. Chapters XXVII to XXIX give her first-hand account of three kinds of vision and are explicit about the channel of each. The first was 'intellectual': a presence at her side with nothing seen by body or soul. Then came 'imaginary' visions of Christ's hands, face and whole glorified body, which she insists she 'never saw with my bodily eyes ... but only with the eyes of the soul', yet with a whiteness and infused brilliancy beside which sunlight looks dim, appearing instantaneously, and 'whether our eyes be open or shut, it makes no difference'. She says it cannot be reached 'by any diligence or efforts of our own', describes trying and failing to see more, and reports her confessors' fears, tests and her criteria for distinguishing true vision from imagination and from diabolical imitation.",
+ "why_relevant": "Detailed first-person testimony that places a vividly seen light in a category that is neither bodily sight nor ordinary imagining, with her own statement that it cannot be induced; central evidence for the perceptual-versus-imaginal question in the Christian material.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "devotion_or_transmission",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1904",
+  "class": "published_record",
+  "basis": "archive.org metadata year 1904; imprimatur in the saved text dated 27 Sept. 1904"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; archive.org title search",
+ "notes": "'Imaginary' in this translation means imaginative (seen through the interior sense), not unreal. The project already holds a document on Teresa and the Sacred Humanity (Life 22, Interior Castle VI.7); this record covers different chapters. Footnotes by Zimmerman quote scholastic rankings of visions. Spanish text of chs. XXVII-XXIX, XXXVIII, XL saved from es.wikisource (transcription of the 1927 Clasicos Castellanos ed.) as sources/chr-teresa-life-es.txt."
+}

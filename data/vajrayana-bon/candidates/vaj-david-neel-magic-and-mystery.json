@@ -1,0 +1,37 @@
+{
+ "id": "vaj-david-neel-magic-and-mystery",
+ "stream": "vajrayana-bon",
+ "title": "Magic and Mystery in Tibet (Mystiques et magiciens du Thibet)",
+ "author": "Alexandra David-Neel",
+ "translator": null,
+ "year": "1929 French; 1932 English",
+ "edition_cited": "",
+ "tradition": "Tibetan Vajrayana",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "in_copyright",
+ "access": "citation_only",
+ "url": "https://archive.org/details/magicmysteryinti0000alex_p8v8",
+ "alt_urls": [],
+ "source_files": [],
+ "seen_via": null,
+ "locator_hints": [],
+ "summary": "Travel and ethnographic memoir by a long-term retreatant in Tibet. From memory (unverified in this pass) it contains an account of yidam visualization practice in which the deity is meant eventually to appear before the hermit, and the author's own 'tulpa' experiment of a visualized monk who became visible to herself and others. The archive.org text available was OCR-garbled (Devanagari junk) and the 1932 scan is a lending copy, so nothing could be checked or anchored.",
+ "why_relevant": "If the passages are as remembered, a rare first-person report of a deliberately visualized form becoming seen with open eyes, in a Tibetan training context.",
+ "expected_mode": "unknown",
+ "expected_onset_pathway": "unknown",
+ "expected_techniques": [
+  "visualization_crossing"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1932",
+  "class": "published_record",
+  "basis": "archive.org metadata for magicmysteryinti0000alex_p8v8 gives 1932 (English edition)"
+ },
+ "author_identifiable": true,
+ "author_basis": "Published author",
+ "found_via": "gap pass 2",
+ "notes": "Lead only; content unverified. 1929/1932 publication and author died 1969: treat as in copyright."
+}

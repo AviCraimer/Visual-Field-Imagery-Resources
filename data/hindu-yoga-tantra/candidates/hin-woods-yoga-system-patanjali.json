@@ -1,0 +1,46 @@
+{
+ "id": "hin-woods-yoga-system-patanjali",
+ "stream": "hindu-yoga-tantra",
+ "title": "The Yoga-System of Patanjali (Yoga Sutra with the Yoga-bhashya of Veda-vyasa and the Tattva-vaicaradi of Vachaspati-micra)",
+ "author": "Patanjali; Vyasa; Vachaspati Misra",
+ "translator": "James Haughton Woods",
+ "year": "sutra and bhashya c. 4th-5th c.; Vachaspati 10th c.; translation 1914",
+ "edition_cited": "Harvard Oriental Series vol. 17, Cambridge, Mass.: Harvard University Press, 1914 (archive.org yogasystemofpata00wooduoft)",
+ "tradition": "Patanjala yoga",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/yogasystemofpata00wooduoft",
+ "alt_urls": [],
+ "source_files": [
+  "sources/hin-woods-yoga-system-patanjali.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Book I, sutras 35-36, printed pp. 73-76 (file lines c. 5745-5875): 'Or an undistressed [and] luminous [sense-activity ...]'; Vyasa: attention fixed on the Lotus of the Heart, the sense-activity 'resplendent as the sun or the moon or planets or gems'; Vachaspati: the eight-petalled lotus turned head upwards 'by the force of an emissive restraint of breath', circles of sun, moon and fire",
+  "Book III, sutra 25 (pravrtty-aloka: casting the light of the sense-activity) and III.32 (radiance in the head, murdha-jyotis, and the sight of the Siddhas): search 'radiance in the head', 'light of the sense-activity'",
+  "Book I, sutra 35: supernormal sense-activities from fixed attention on the tip of the nose, tongue, palate etc."
+ ],
+ "summary": "The classical commentaries on Yoga Sutra 1.36 (visoka va jyotismati) give a compact method. Vyasa: when the yogin fixes attention on the lotus of the heart, the buddhi's sattva becomes resplendent and space-like, and with skill in holding it there the 'sense-activity' takes on the appearance of the sun, moon, planets or gems; a second, formless kind is bare 'I am'. Vachaspati supplies procedure: the eight-petalled lotus lying head-down between abdomen and chest is turned upward by a retention after exhalation, and attention is fixed on it and on the sushumna running through its sun, moon and fire circles. The surrounding sutra 1.35 treats such arisen perceptions as confidence-giving proofs that steady the mind, not as ends. Book III adds samyama on the radiance in the head, by which Siddhas are seen. The luminous appearances are presented as something that arises and is then used.",
+ "why_relevant": "The root classical statement, with commentary, that a luminous appearance arises from heart-centred attention and is to be used to stabilise the mind; gives the tradition's own valuation of the phenomenon.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "concentration_nonvisual",
+  "breath_control",
+  "visualization_crossing",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 2,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1914",
+  "class": "published_record",
+  "basis": "archive.org metadata for yogasystemofpata00wooduoft gives year 1914; Harvard Oriental Series vol. 17"
+ },
+ "author_identifiable": true,
+ "author_basis": "Classical texts; translator J. H. Woods (1864-1935), Harvard",
+ "found_via": "own lead (Yoga Sutra 1.36 jyotismati); archive.org title search",
+ "notes": "Woods's bracketed English is stiff; 'sense-activity' renders pravrtti. Whether the 'appearance of sun, moon, gems' is visual in the perceptual field is not stated outright: record as the text has it. This is an academic translation used purely as carrier of the primary texts."
+}

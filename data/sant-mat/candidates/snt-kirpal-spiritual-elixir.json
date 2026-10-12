@@ -1,0 +1,57 @@
+{
+ "id": "snt-kirpal-spiritual-elixir",
+ "stream": "sant-mat",
+ "title": "Spiritual Elixir",
+ "author": "Kirpal Singh (1894-1974)",
+ "translator": null,
+ "year": "letters and answers 1950s-1960s; first published 1967 (Ruhani Satsang); edition used 1993",
+ "edition_cited": "Unity of Man (St. Gilgen, Austria), first edition 1993, 'No rights reserved'; archive.org item kirpalsinghspiritualelixir_202004_315_x",
+ "tradition": "Ruhani Satsang (Kirpal Singh line of Sant Mat / surat shabd yoga)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/kirpalsinghspiritualelixir_202004_315_x",
+ "alt_urls": [
+  "https://ruhanisatsangusa.org/elixir.htm"
+ ],
+ "source_files": [
+  "sources/snt-kirpal-spiritual-elixir.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Part I is question-and-answer; Part II is excerpts from letters to individual initiates, grouped by topic; the meditation letters run roughly file lines 4800-7400",
+  "file c. 4895 and 4998: seeing the Master in golden Light; golden light as sign of progress",
+  "file c. 4944: 'occasional manifestation of blue patches'",
+  "file c. 5274-5300: 'You see sky with stars'; 'At the time of initiation you saw white Light and stars'",
+  "file c. 5505: 'golden principle of penetrating through the middle'",
+  "file c. 5680-5685: stars, sun and moon; pick out a big star among them",
+  "file c. 6083: no strain on eyes or forehead",
+  "file c. 6179-6205: 'you will find stars in the sky in due course'; fix the inner gaze penetratingly into the darkness between and behind the eyebrows",
+  "file c. 6277 and 6497: keep the gaze on darkness or Light, whichever it may be",
+  "file c. 6639-6640: purple veil changing into gold, stars and moon",
+  "file c. 6846-6848: the bright star; penetration through it"
+ ],
+ "summary": "Kirpal Singh's replies to individual initiates, the closest thing in his line to a case-book. Many letters respond to a specific report: darkness only, blue patches, a purple veil turning gold, sky with stars, white light seen at initiation and then lost, red or golden light, the Master seen in golden light. The standing advice: fix the inner gaze 'penetratingly' into the darkness between and behind the eyebrows with no strain on eyes or forehead and no awareness of breathing; keep looking into the middle of whatever is there, light or darkness; when stars appear pick out a big one and look into its middle until it gives way; do not visualise or try to pull the light closer. Lost or faded light is traced to strain, divided attention or lapses in conduct, and patience is urged.",
+ "why_relevant": "Troubleshooting addressed to named experiences, including first light seen at initiation and lost afterwards; shows what the teacher says to those who see nothing and to those who see colours.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "eye_position",
+  "darkness_exposure",
+  "sound_or_mantra",
+  "attention_to_spontaneous_phenomena",
+  "devotion_or_transmission"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1993",
+  "class": "published_record",
+  "basis": "Front matter of the saved text: 'Unity of Man - First edition 1993 / No rights reserved'. The first Ruhani Satsang edition (1967) is from memory and not verified here; the author died in 1974, so the content predates that."
+ },
+ "author_identifiable": true,
+ "author_basis": "Kirpal Singh; published by Unity of Man (Sant Kirpal Singh's organisation in Austria)",
+ "found_via": "seed lead; archive.org title search 'spiritual elixir'",
+ "notes": "Rights: 'No rights reserved' printed in the edition; treated as public_domain. The archive.org item's creator field ('Prabodh Bakshi') is an uploader artefact, not the author. The same text is on ruhanisatsangusa.org/elixir.htm (not fetched)."
+}

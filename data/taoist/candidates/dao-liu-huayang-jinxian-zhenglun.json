@@ -1,0 +1,45 @@
+{
+ "id": "dao-liu-huayang-jinxian-zhenglun",
+ "stream": "taoist",
+ "title": "金仙證論 (Jinxian zhenglun): warnings against 'eye-light sitting' and false outer light",
+ "author": "Liu Huayang 柳華陽",
+ "translator": null,
+ "year": "c. 1790s",
+ "edition_cited": "Punctuated transcription on zh.wikisource (no print edition named)",
+ "tradition": "Wu-Liu school of Longmen neidan",
+ "language": "Chinese (classical)",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://zh.wikisource.org/wiki/金仙證論",
+ "alt_urls": [],
+ "source_files": [
+  "sources/dao-liu-huayang-jinxian-zhenglun.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "風火經第六, comment on 石杏林 '定裏見丹成': when the energy is full and the genitals no longer rise, 'the elixir light wells upward, so there is something seen'",
+  "風火經第六, comment on 沖虛真人 '有止火之景': 'side schools that take eye-light in sitting, wisdom-light, a thousand kinds of light, are gravely mistaken'; outer light without the bodily sign 'is not the sprout of the dantian; it arises from deluded imagining'",
+  "Same passage, quoting Yu Yan: when the medicine is born yang energy rises 'and clings to the eyes so that there is light; from the eyes to the navel all is empty white, dazzling like moonlight'",
+  "Sections 危險說 and 後危險說: dangers; 效驗說第七: verifications"
+ ],
+ "summary": "Companion to the Huiming jing by the same author, written as a chain of quoted sayings with commentary on the microcosmic-orbit stage. It supplies the school's sharpest dissent about light: methods that have the sitter attend to 'eye-light' or cultivate 'wisdom light' of many kinds are called gravely mistaken side-paths, and any outer light that shows before the lower field holds 'medicine' and before genital retraction is declared a product of deluded imagining and not a true sign. The genuine sign is described through older verses: moon-bright radiance, an empty whiteness from the eyes down to the navel, the 'elixir light welling upward' seen in concentration. It names adepts who lost their attainment by mishandling the moment, and requires a teacher's oral instruction for what follows.",
+ "why_relevant": "A tradition-internal warning that separates light produced by attending to the eyes from light arising as a consequence of energy work, with stated criteria; needed for the report's section on dissent and on onset.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "energy_work",
+  "breath_control",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 2,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1799",
+  "class": "published_record",
+  "basis": "Wikisource header (in the saved file) gives author 柳華陽 and no edition; the year is my recollection of the usual dating of the work (preface 1790, printed with the Huiming jing in 1799) and was not verified in this run. The author is the same Qing writer whose Huiming jing Wilhelm translated in 1929."
+ },
+ "author_basis": "",
+ "found_via": "own lead (Wu-Liu school), zh.wikisource",
+ "notes": "Date is weakly evidenced; the provenance screen can rely on the text being a well-known Qing work. English: Eva Wong, Cultivating the Energy of Life translates the Huiming jing, not this text; I know of no complete English translation. Anchors: see ANCHOR RULE in the source file."
+}

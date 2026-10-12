@@ -1,0 +1,45 @@
+{
+ "id": "mod-panchadasi-human-aura",
+ "stream": "modern-nonlineage",
+ "title": "The Human Aura: Astral Colors and Thought Forms",
+ "author": "Swami Panchadasi (pseudonym of William Walker Atkinson)",
+ "translator": null,
+ "year": "1912",
+ "edition_cited": "Project Gutenberg ebook #22739 (text of the 1912 Yoga Publication Society edition)",
+ "tradition": "American New Thought occultism (pseudo-Indian persona, non-lineage)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://www.gutenberg.org/ebooks/22739",
+ "alt_urls": [
+  "https://archive.org/details/human_aura_panchadasi"
+ ],
+ "source_files": [
+  "sources/mod-panchadasi-human-aura.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Chapter II, 'The Prana-Aura': the hand against a black background in dim light with narrowed eyelids; heat-shimmer comparison",
+  "Later chapters on developing the aura by visualising colours (imaginal, probably out of scope)"
+ ],
+ "summary": "A short popular manual. The relevant passage is in Chapter II: the 'prana-aura' is said to be visible to trained ordinary sight, not clairvoyance. The reader places a hand against a black background in dim light and gazes with narrowed eyelids, squinting if necessary; after a little practice a thin outline or halo of pale yellowish light appears round the hand and round each spread finger, compared to the radiance round a candle flame and, at best, almost phosphorescent. It is also likened to the vibrating air above a hot stove. The remaining chapters assign meanings to colours seen by clairvoyants and teach colour visualisation, without a method for seeing them.",
+ "why_relevant": "A plain, early statement of the standard aura-seeing exercise (dark ground, dim light, narrowed lids), useful for judging whether such exercises are contrast and afterimage effects; the author himself calls it ordinary sight.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "gazing_fixed_point",
+  "darkness_exposure"
+ ],
+ "priority": 3,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1912",
+  "class": "published_record",
+  "basis": "archive.org record human_aura_panchadasi gives 1912; Gutenberg text of that edition"
+ },
+ "author_identifiable": true,
+ "author_basis": "William Walker Atkinson (1862-1932) writing as Swami Panchadasi",
+ "found_via": "seed lead (aura-seeing exercises); archive.org creator search",
+ "notes": "May overlap with the western-esoteric stream; only one passage is practical for seen light."
+}

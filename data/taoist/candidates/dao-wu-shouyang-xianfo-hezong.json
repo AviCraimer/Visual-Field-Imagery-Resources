@@ -1,0 +1,49 @@
+{
+ "id": "dao-wu-shouyang-xianfo-hezong",
+ "stream": "taoist",
+ "title": "仙佛合宗語錄 (Xianfo hezong yulu): 'the yang light appears' as the sign for stopping the fire",
+ "author": "Wu Shouyang 伍守陽 (Wu Chongxu 伍沖虛)",
+ "translator": null,
+ "year": "first half of the 17th century",
+ "edition_cited": "Punctuated transcription on zh.wikisource (nine-chapter arrangement plus Q&A sections; no print edition named). A differently arranged Daozang jiyao recension (Kanripo KR5i0066), which I also opened, lacks the 'second and third appearance' wording.",
+ "tradition": "Longmen neidan; founder text of the Wu-Liu school",
+ "language": "Chinese (classical)",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://zh.wikisource.org/wiki/仙佛合宗語錄",
+ "alt_urls": [
+  "https://github.com/kanripo/KR5i0066"
+ ],
+ "source_files": [
+  "sources/dao-wu-shouyang-xianfo-hezong.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Chapter 火足候止火景采大藥候天機第四: Q 'when the yang light appears, where does it appear?' A 'between the two eyebrows, the Bright Hall ... like a flash of lightning; this is the empty room bringing forth white'",
+  "Same chapter: first appearance during refining of essence (keep firing); complete 300 cycles, enter stillness and 'wait for the second appearance'; second = stop the fire; third = gather the great medicine; firing on to a fourth appearance loses the medicine",
+  "Chapter 七日采大藥天機第五: for seven days use 'the light of the two pupils', by day gazing at the middle field and by night keeping it there; 'the mechanism is in the eyes'",
+  "Chapter on the great medicine and Q&A sections: six signs including golden light in the eyes"
+ ],
+ "summary": "Wu Shouyang's question-and-answer manual is the earliest source found here for the Wu-Liu teaching that a light seen between the eyebrows times the alchemical work. He says the yang light appears at the 'Bright Hall' between the brows, 'like a flash of lightning', and identifies it with the empty room bringing forth white. A first flash comes during the refining of essence and the firing continues; when the three hundred cycles are complete the adept sits in stillness and waits; the second flash, together with genital retraction, means stop the fire; the third means the great medicine can be gathered; to keep firing until a fourth is to lose it. Gathering then uses the 'light of the two pupils' turned on the middle field for seven days. Light is never sought directly; it reports the state of the accumulated energy.",
+ "why_relevant": "Primary instruction stating where and how the light is seen, how many times, and exactly what the practitioner must do at each appearance; shows the tradition treating seen light as a timing signal and attaching a danger to mishandling it.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "energy_work",
+  "breath_control",
+  "eye_position",
+  "attention_to_spontaneous_phenomena",
+  "concentration_nonvisual"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1906",
+  "class": "published_record",
+  "basis": "Wikisource header gives author 伍沖虛 and period 明 but names no edition. The same work is in the Daozang jiyao (Kanripo KR5i0066, base edition CK-KZ, the Chongkan Daozang jiyao reprint of 1906; year from my memory of that edition), which fixes a pre-1929 publication record for the work, though that recension's wording differs."
+ },
+ "author_basis": "",
+ "found_via": "own lead (Wu-Liu 'three appearances of yang light'), zh.wikisource",
+ "notes": "The reading agent should cite the Wikisource text for the three-appearance passage; I confirmed by search that the Daozang jiyao recension does not contain the strings 陽光二現 or 三現. No public-domain English translation found. Anchors: see ANCHOR RULE in the source file."
+}

@@ -1,0 +1,5 @@
+Verdicts: 9 keep (AE, Demotic papyrus, Iamblichus, Mead Mithriac, Melville, Randolph, Sepharial, Steiner, Thomas), 2 keep_marginal (Goodrich-Freer, Reichenbach), 0 drop.
+Best for induction: Melville and Sepharial (explicit sitting schedules, cloud/pin-point/azure stages), Randolph (dark room sparks, bandage testimony), Demotic papyrus (what to do if the light does not come), Steiner (seed exercise, "numerous attempts").
+Best for development: AE Candle of Vision (stupor, then luminous brain over weeks or months), Sepharial (azure screen stage, avoiding startle), Iamblichus (graded lights of epiphanies).
+Disagreement: Lang says give up after two or three trials; Thomas (and Islamic practice) says forty-five minutes or more and many trials. Steiner rejects crystal-gazing outright; Iamblichus and Mead say the light is granted, not forced.
+Thin: digests only; Reichenbach's two-hour dark adaptation and AE's exact concentration object unconfirmed; Goodrich-Freer and Reichenbach are mostly imaginal or stimulus-bound; scrying texts largely tied to a physical medium.

@@ -1,0 +1,51 @@
+{
+ "id": "suf-inayat-khan-light-of-breath",
+ "stream": "sufi",
+ "title": "The Gathas, Pasi Anfas (Breath) I and III; 'Breath' in The Art of Being; 'Form' in The Mysticism of Sound: passages on the light and colours of breath",
+ "author": "Hazrat Inayat Khan (1882-1927)",
+ "translator": null,
+ "year": "teachings 1920s; Mysticism of Sound 1923; Gathas first published in The Sufi Message vol. XIII, 1982; web pages checked 2005-2015",
+ "edition_cited": "wahiduddin.net online text of The Sufi Message of Hazrat Inayat Khan, vols. II, VIII, XIII (pages marked 'checked 22-Oct-2005', 'checked 16-nov-2015', 'checked 2-nov-2015')",
+ "tradition": "Chishti-derived Western Sufism (Inayat Khan)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "unknown",
+ "access": "reader_extract_saved",
+ "url": "https://wahiduddin.net/mv2/XIII/XIII_12.htm",
+ "alt_urls": [
+  "https://wahiduddin.net/mv2/XIII/XIII_10.htm",
+  "https://wahiduddin.net/mv2/VIII/VIII_1_17.htm",
+  "https://wahiduddin.net/mv2/II/II_5.htm"
+ ],
+ "source_files": [
+  "sources/suf-inayat-khan-light-of-breath.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Vol. XIII Gathas, Part IV Pasi Anfas, Gatha III, sub-section 5 'The Unknown Dimension': the eyes must be purified by Pasi Anfas before they can see the light of breath; Jalal and Jamal currents joined in the head; many experience it and doubt it",
+  "Same Gatha, sub-section 2 'Inspiration': developed breath thrown outward shows shades of light as colours signalling the elements",
+  "Gatha I, sub-section 9 'The Mysticism of Breath': some see light before them, some colours, some forms; why Sufis keep silent; sub-section 10 'Color and Sound'",
+  "Vol. VIII, Part I ch. XVII 'Breath', sub-section 6 'The Control of the Breath (2)': qasb and shaghl fan and purify the breath; then forms and colours are seen in it",
+  "Vol. II, Mysticism of Sound ch. V 'Form': the colours of the five elements as seen 'on the abstract plane'"
+ ],
+ "summary": "Inayat Khan's instruction papers for initiates treat seen light as a property of developed breath. The breath is said to be luminous; coarse breath dims it; before the physical eyes can see 'the light of breath' they must be purified by the breathing practice called Pasi Anfas. The light is produced when the two currents of breath, Jalal and Jamal (right and left), are properly connected in the head. Many experience it and doubt it, taking it for imagination. Thrown outward, the light shows shades that appear as colours, each indicating an element (elsewhere: yellow earth, green water, red fire, blue air, grey ether); the practices qasb and shaghl are said to 'fan' and purify the breath, after which forms and colours are seen in it. He adds that Sufis do not talk about such seeing, because of ridicule and the danger of pride. No procedures are given on these pages.",
+ "why_relevant": "A modern teacher's statements that a light and colours are seen by the physical eyes as a result of breath practice, with the named practices and a remark on doubt; from the stream's owned site.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "breath_control",
+  "eye_pressure_or_sense_closure",
+  "energy_work"
+ ],
+ "priority": 2,
+ "medium": "web_article",
+ "date_evidence": {
+  "date": "2015-11-02",
+  "class": "self_reported",
+  "basis": "the Gatha pages print 'checked 2-nov-2015' (the other two pages 'checked 16-nov-2015' and 'checked 22-Oct-2005'); these are the site's own check dates, the only dates on the pages. The volume contents page gives 1923 as publication year of The Mysticism of Sound"
+ },
+ "author_identifiable": true,
+ "author_basis": "Texts of Hazrat Inayat Khan (d. 1927) as published in The Sufi Message volumes (1960s-1980s), hosted on Richard Shelquist's long-standing site wahiduddin.net",
+ "found_via": "WebSearch restricted to wahiduddin.net, then WebFetch of the pages (17 fetches in all, incl. 7 pages with nothing relevant)",
+ "notes": "Reader extract only: paraphrases are a model's reading; the verbatim phrases in the file are the only safe anchors. Rights set to unknown: author died 1927, but the Gathas were first published in 1982. The actual instructions for Shaghl and Qasab are in Inayat Khan's restricted Githa and Sangatha papers, not on these pages; Samuel Lewis's commentaries on them are a lead (see suf-samuel-lewis-ryazat-papers)."
+}

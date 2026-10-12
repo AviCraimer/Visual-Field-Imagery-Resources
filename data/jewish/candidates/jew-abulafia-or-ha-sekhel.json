@@ -1,0 +1,47 @@
+{
+ "id": "jew-abulafia-or-ha-sekhel",
+ "stream": "jewish",
+ "title": "Or ha-Sekhel (Light of the Intellect)",
+ "author": "Abraham Abulafia",
+ "translator": "Sefaria Community Translation (partial; quality uneven)",
+ "year": "c. 1285",
+ "edition_cited": "Sefaria 'Ohr HaSekhel': Hebrew transcription (source hebrew.grimoar.cz, licence 'unknown'); English 'Sefaria Community Translation' CC0, covering only about a fifth of the paragraphs",
+ "tradition": "Prophetic (ecstatic) Kabbalah, Abulafia",
+ "language": "Hebrew with partial English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://www.sefaria.org/Ohr_HaSekhel",
+ "alt_urls": [],
+ "source_files": [
+  "sources/jew-abulafia-or-ha-sekhel.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Ohr HaSekhel 8, paragraphs 59-62 (heading 'chelek 5, inyan 3, siman 200'): how to pronounce the Name: seclusion, white garments, face east, one breath per letter, melody shaped by the vowel point, head movement following the vowel",
+  "Ohr HaSekhel 6, paragraphs 12-18: length of each letter and the breaths (neshimot)",
+  "search the Hebrew for the results clause after paragraph 60"
+ ],
+ "summary": "Abulafia's manual for a disciple on pronouncing the divine Name letter by letter. The practical core (part 8, paragraphs 59-60 in Sefaria's numbering) tells the practitioner to adorn himself, seclude himself where his voice is not heard, clear the heart of all worldly thought, imagine the soul parting from the body, sit wrapped in white garments facing east, and intone each letter combined with aleph on a single long breath, chanting in a melody whose contour follows the vowel point and moving the head in the direction the vowel sign indicates. Part 6 treats breath counts. On a first skim the saved text gives technique and preparation in detail but says little about what is then seen; visual results in this school are described more fully in other works (Chayei ha-Olam ha-Ba, Sha'arei Tzedek).",
+ "why_relevant": "Primary instructions for the Abulafian breath, chant and head-movement technique that the school's testimonies (lights, forms) presuppose. May prove to be method without a seen-light claim; the reading agent should check the Hebrew of part 8 to the end.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "letter_or_symbol_contemplation",
+  "breath_control",
+  "sound_or_mantra",
+  "movement",
+  "sensory_restriction"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1285",
+  "class": "published_record",
+  "basis": "Sefaria index record gives composition date 1285 and names the author; the digital Hebrew text is an undated transcription hosted by Sefaria (source hebrew.grimoar.cz). No printed-edition year is stated on Sefaria."
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; Sefaria index listing",
+ "notes": "English is partial (57 of 289 paragraphs) and reads in places like machine output; rely on the Hebrew. Rights: 13th-century text, so public domain; the modern transcription's licence is 'unknown' on Sefaria."
+}

@@ -1,0 +1,45 @@
+{
+ "id": "shm-rasmussen-across-arctic-america",
+ "stream": "shamanic-indigenous",
+ "title": "Across Arctic America: Narrative of the Fifth Thule Expedition",
+ "author": "Knud Rasmussen (reporting Igjugarjuk, Kinalik, Aua)",
+ "translator": null,
+ "year": "1927",
+ "edition_cited": "New York and London: G. P. Putnam's Sons, 1927; archive.org scan acrossarcticamer006641mbp (OCR text, some garbling)",
+ "tradition": "Inuit (Caribou Inuit of the Barren Grounds; Iglulik) angakkuq shamanism",
+ "language": "English",
+ "source_type": "ethnographic_report",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/acrossarcticamer006641mbp",
+ "alt_urls": [],
+ "source_files": [
+  "sources/shm-rasmussen-across-arctic-america.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Chapter 'A Nomad's Life', printed pp. 81-86 (file lines c. 3796-3990): Igjugarjuk's doctrine ('All true wisdom is only to be learned far from the dwellings of men') and his thirty-day initiation in a tiny snow hut; Kinalik's and Aggjartoq's ordeals",
+  "Chapter 'Faith out of Fear', printed pp. 126-127 (file lines c. 5510-5550): Iglulik novitiate and Aua: 'a great glow as of intense light pervaded all his being (this is a recurrent feature in the process)'"
+ ],
+ "summary": "Rasmussen's popular narrative of the expedition, useful as a second witness beside the Iglulik report. For the Iglulik it condenses Aua's account: ordinary instruction failed, then 'without knowing how' a glow as of intense light pervaded his whole being, with inexpressible joy and song; Rasmussen adds that this glow is 'a recurrent feature in the process'. For the Caribou Inuit it gives Igjugarjuk's own training in detail: carried in midwinter to a snow hut barely large enough to sit cross-legged, no food or drink, told to think only of the Great Spirit and the helper to come; water after five days, a little meat after fifteen more, thirty days in all, then five months of strict diet and continence, the fast repeated. He reports a helping spirit arriving in sleep; no light is mentioned in his case.",
+ "why_relevant": "Gives the fullest procedure (solitude, cold, fasting, single-pointed thought, durations) attached to the Inuit tradition of shamanic light, and a contrast case where the same ordeal is reported without light.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "fasting_or_austerity",
+  "sensory_restriction",
+  "concentration_nonvisual"
+ ],
+ "priority": 3,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1927",
+  "class": "published_record",
+  "basis": "title page in the scan: 'G. P. Putnam's Sons, New York - London, 1927'; archive.org year 1927"
+ },
+ "author_identifiable": true,
+ "author_basis": "Knud Rasmussen",
+ "found_via": "own lead (Igjugarjuk's initiation); archive.org title search",
+ "notes": "Largely overlaps shm-rasmussen-iglulik-intellectual-culture for Aua; its distinct value is the Igjugarjuk procedure, which carries no report of seen light. Reader may reasonably mark keep_marginal. The fuller scholarly version of Igjugarjuk's account is in Rasmussen, Observations on the Intellectual Culture of the Caribou Eskimos (1930), which archive.org holds only as a lending scan (trent_0116403227725), not opened.",
+ "_log": "Across Arctic America saved; Aua glow p.127, Igjugarjuk ordeal pp.81-84 (no light)"
+}

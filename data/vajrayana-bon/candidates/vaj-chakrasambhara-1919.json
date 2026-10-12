@@ -1,0 +1,46 @@
+{
+ "id": "vaj-chakrasambhara-1919",
+ "stream": "vajrayana-bon",
+ "title": "Shrichakrasambhara Tantra: A Buddhist Tantra (Tantrik Texts vol. VII)",
+ "author": "Kazi Dawa-Samdup (ed. and trans. of a Tibetan Chakrasamvara sadhana); ed. Arthur Avalon (John Woodroffe)",
+ "translator": "Lama Kazi Dawa-Samdup",
+ "year": "1919",
+ "edition_cited": "Tantrik Texts vol. VII, London: Luzac / Calcutta: Thacker, Spink, 1919; DLI scan in.ernet.dli.2015.92407",
+ "tradition": "Kagyu / Indo-Tibetan Chakrasamvara generation stage",
+ "language": "English (with Tibetan text)",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/in.ernet.dli.2015.92407",
+ "alt_urls": [
+  "https://archive.org/details/tantriktexts07chakrasambharabuddhisttantrajohnwoodroffekazidawasamdup1919_202003_330_n"
+ ],
+ "source_files": [
+  "sources/vaj-chakrasambhara-1919.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Avalon's introduction: clear vision of the Devatas, absorption into the Bindu between the eyebrows",
+  "translation p. [42]-[43]: mandala to be 'vividly present to the mind's eye'; 'quite clearly and distinctly and without any vagueness and dimness'",
+  "note on Bija 'not seen flat like a written letter but upright like a flame'"
+ ],
+ "summary": "A complete Chakrasamvara sadhana translated from Tibetan in 1919. It sets out the generation-stage sequence (protective circle, mandala palace, deities, armour letters, absorption) and repeatedly asks that the mandala and deities be brought 'vividly' and 'clearly and distinctly and without any vagueness and dimness' before the mind; it explicitly says 'vividly present to the mind's eye'. Avalon's introduction says the initiate knows the deities 'exist only in the mind', and describes the dissolution of the mandala into a Point of Light between the eyebrows, which vanishes into the Void. No statement that the deity becomes externally or ocularly seen.",
+ "why_relevant": "The user asked for the converse case: a primary generation-stage text that locates clarity in the mind's eye.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "visualization_crossing",
+  "letter_or_symbol_contemplation"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1919",
+  "class": "published_record",
+  "basis": "archive.org metadata for in.ernet.dli.2015.92407 gives 1919; Tantrik Texts vol. VII"
+ },
+ "author_identifiable": true,
+ "author_basis": "Published book 1919",
+ "found_via": "gap pass 2",
+ "notes": "OCR fair."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "shm-rasmussen-iglulik-intellectual-culture", "stream": "shamanic-indigenous",
+  "verdict": "keep",
+  "drop_reason": null, "drop_note": "",
+  "relevance": 4, "practicality": 2,
+  "text_read": "digest (printed pp. 111-122, Aua's account, Uvavnuk, innEriugjat); the five-day instruction detail is from the search agent's summary and the opening of the passage only",
+  "mode": "perceptual",
+  "mode_evidence": "The qaumaneq is described as a mysterious light felt in the body, inside the head and brain, 'a luminous fire' by which the shaman sees through darkness even with closed eyes; Aua adds that the same light shone out from him, imperceptible to humans but visible to spirits, and that vision reached through house, earth and sky. It is described as seen and felt, but the text does not describe how the light itself looks.",
+  "eyes": "closed",
+  "onset_pathway": "both",
+  "onset_evidence": "Two routes. (1) A teacher 'procures' it for the pupil (the older shaman's task after instruction; details of time scale are in the summary, not confirmed in the digest). (2) Aua's own account: instruction from famous shamans failed; he sought solitude, became melancholy, wept without cause, then felt an inexplicable joy so strong he had to burst into song, and in the midst of that he became a shaman and had the light. Uvavnuk received it without seeking, when a ball of fire struck her, and lost it when the trance ended. The innEriugjat luminous bags are another source. Nothing is said to be forceable; it comes through spirits, ordeal or sudden grace.",
+  "stimulus_independence": "yes",
+  "techniques": ["sensory_restriction", "devotion_or_transmission", "sound_or_mantra", "fasting_or_austerity", "attention_to_spontaneous_phenomena"],
+  "conditions": {"posture": "", "gaze_or_eye_position": "eyes closed for seeing in the dark; during exorcisms the lamps are put out and all must keep eyes closed on pain of blindness", "setting": "solitude; seance with lamps extinguished", "duration_and_schedule": "not given in the digest; Aua's solitude lasted until the change came", "prerequisites": "confession of taboo breaches; for some, a life of obligation from birth", "other": "helping spirits; amulets; song"},
+  "phenomena": ["body_or_objects_luminous", "lamp_or_flame", "all_pervading_light", "figures_or_forms"],
+  "stages": [
+    {"label": "solitude, melancholy, joy-song", "description": "Weeping without cause, then overwhelming joy that breaks into song; in that state Aua gained the light."},
+    {"label": "first helping spirit", "description": "The house passage and roof seemed lifted up and he could see through the house, into the earth and up into the sky."},
+    {"label": "light lit by the spirit (Uvavnuk)", "description": "A ball of fire entered her; everything within her grew light; when the trance ended the light left her body."}
+  ],
+  "what_to_do_with_light": "Use it for seeing far and hidden things and for calling spirits; it is kept alive by the helping spirit rather than by technique (Uvavnuk's light was lit only when the meteor spirit lit it).",
+  "obstacles_and_fixes": ["Instruction from others failed for Aua; solitude and the joy-song succeeded."],
+  "cautions": ["Opening the eyes while the lamps are out during an exorcism would mean blindness.", "The light can leave when the trance ends (Uvavnuk)."],
+  "safety_flags": ["prolonged_darkness", "tradition_warns_against_seeking"],
+  "interpretation": "The qaumaneq (anak'ua) is the shaman's enlightenment, the element that makes a man an angakoq, given by a spirit such as the Moon Spirit, the meteor spirit or the dead.",
+  "practice_summary": "The qaumaneq is not something taught directly. The elder shaman is said to procure it for the pupil after a short period of instruction and confession of taboo breaches. Aua's own route was solitude: he went alone, became melancholy and wept without cause, then was overtaken by a joy so great it burst into song, and in the midst of it he became a shaman with the light of brain and body. He saw through house, earth and sky, and the light shone out to the spirits. Uvavnuk was struck by a ball of fire that entered her and lit her from within. Once it comes, the shaman can see in darkness even with closed eyes.",
+  "key_passages": [
+    {"locator": "Chapter on shamans, printed p. 112-113, source lines 5648-5693", "about": "mode", "anchor": "closed eyes, see through darkness and perceive things and coming", "paraphrase": "The light lets the shaman see in the dark, even with closed eyes, and perceive hidden and coming events.", "quote": "", "source_file": "sources/shm-rasmussen-iglulik-intellectual-culture.txt"},
+    {"locator": "Aua's account, printed pp. 118-119, source lines 6024-6082", "about": "onset", "anchor": "Then I sought solitude, and here I soon became very melancholy. I would", "paraphrase": "After instruction from others failed, Aua sought solitude and became melancholy, which led to weeping and then overwhelming joy.", "quote": "", "source_file": "sources/shm-rasmussen-iglulik-intellectual-culture.txt"},
+    {"locator": "Aua's account, printed p. 119, source lines 6024-6082", "about": "testimony", "anchor": "I could see and hear in a totally different way. I had gained", "paraphrase": "In the midst of mysterious delight he became a shaman and gained his qaumaneq, the shaman-light of brain and body.", "quote": "", "source_file": "sources/shm-rasmussen-iglulik-intellectual-culture.txt"},
+    {"locator": "Aua's account, printed p. 119, source lines 6024-6082", "about": "stages", "anchor": "lifted up, and I felt such a power of vision, that I could see right through", "paraphrase": "With the first helping spirit the house seemed lifted and he could see through the house, into the earth and up into the sky.", "quote": "", "source_file": "sources/shm-rasmussen-iglulik-intellectual-culture.txt"},
+    {"locator": "Uvavnuk, printed p. 123, source lines 6290-6331", "about": "caution", "anchor": "light left her body and she was once more quite an ordinary person", "paraphrase": "Uvavnuk's light left when the trance ended; it was lit again only when the meteor spirit lit it.", "quote": "", "source_file": "sources/shm-rasmussen-iglulik-intellectual-culture.txt"}
+  ],
+  "cross_refs": ["shm-boas-eskimo-baffin-land-hudson-bay"], "new_leads": ["Rasmussen on Igjugarjuk (Caribou Inuit) ordeal", "seeing oneself as a skeleton test, printed p. 114 onward"],
+  "reader_confidence": "medium", "confidence_note": "Read in digest; teacher-procured route and its time scale rest on the search summary and the opening of the passage."
+}

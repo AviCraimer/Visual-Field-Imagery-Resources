@@ -1,0 +1,36 @@
+{
+  "id": "hin-sivananda-kundalini-yoga", "stream": "hindu-yoga-tantra",
+  "verdict": "keep",
+  "drop_reason": null, "drop_note": "",
+  "relevance": 5, "practicality": 5,
+  "text_read": "digest",
+  "mode": "ambiguous",
+  "mode_evidence": "Trataka on a star or moon is stated to produce coloured lights, a huge mass of light, multiple moons, or no moon though the eyes are open, i.e. seen with eyes open. Closed-eye lights are said to 'float before the mind's eye' and he adds that visions may be subjective, objective, or purely imaginary, so he himself does not settle the mode.",
+  "eyes": "both",
+  "onset_pathway": "both",
+  "onset_evidence": "For someone who sees nothing: do trataka (ten graded exercises), starting two minutes and increasing cautiously, with mind on the spot; if gaze cannot be held, close eyes and gaze at an imaginary spot between the eyebrows; daily for a month. Lights appear in meditation first as a pin-point white light at the brow. Onset in a few days to six or nine months depending on mind and concentration; some never see lights yet progress.",
+  "stimulus_independence": "yes",
+  "techniques": ["light_source_gazing", "gazing_fixed_point", "sky_or_space_gazing", "concentration_visual_object", "concentration_nonvisual", "posture_or_body_lock", "visualization_crossing"],
+  "conditions": {"posture": "Siddhasana or Padmasana; lying on an open terrace for the star/moon exercise; no shaking of the body.", "gaze_or_eye_position": "Unwinking gaze on object; brow point or nose tip; closed-eye imaginary spot between eyebrows for weak gaze.", "setting": "Open terrace for star or moon; morning or evening for open sky; guide for sun.", "duration_and_schedule": "Start with two minutes, increase cautiously; practise a month and report; meditation of 2-3 hours makes lights steady; lights last 10-15 minutes.", "prerequisites": "Mind must stay on the spot; sun-gazing only with an experienced guide.", "other": "Breathe slowly during light visions."},
+  "phenomena": ["sparks_or_points", "white", "gold_yellow", "red", "blue", "green", "smoke_mist_cloud", "lightning_flashes", "moon_disc", "sun_disc", "stars", "lamp_or_flame", "light_in_the_room", "figures_or_forms"],
+  "stages": [
+    {"label": "trataka on star or moon", "description": "Different coloured lights, then one colour with other stars vanishing, then a huge mass of light all around, then two or three moons or none though eyes are wide open."},
+    {"label": "closed-eye lights", "description": "A pin-point white light at the brow; coloured lights, flashes, sparks; small floating balls of white or red; after months a full blaze of white light bigger than the sun, at first unsteady, later steady for 10-15 minutes."}
+  ],
+  "what_to_do_with_light": "Do not shake the body; keep steady and breathe slowly; adore the Devatas that appear; ignore the visions as encouragements and do not waste time looking at them; discriminate subjective from objective.",
+  "obstacles_and_fixes": ["Cannot gaze steadily: close eyes and gaze at an imaginary spot between eyebrows.", "Weak eyes: practise with eyes closed on an imaginary spot; do not over-practise.", "Light too dazzling: withdraw from looking and break the meditation; some are afraid.", "Mind wandering makes hours of gazing worthless."],
+  "cautions": ["Sun-gazing without an experienced guide may cause serious trouble; use cooling oil and honey on the eyes with a guide.", "Do not mistake visions for realisation or stop sadhana.", "Do not waste time looking at visions."],
+  "safety_flags": ["sun_gazing", "tradition_warns_against_seeking"],
+  "interpretation": "Lights are Tanmatric lights, signs that the mind is steadying and that one is transcending physical consciousness; encouragement from the Ishta Devata; may be subjective or objective.",
+  "practice_summary": "Sivananda lists ten trataka exercises: picture of a deity, black dot on white wall, Om, a bright star or full moon watched while lying on an open terrace, open sky, own pupil in a mirror, brow point or nose tip, inner chakras, ghee-lamp flame, and, only with a guide, the rising sun. Start with two minutes, gaze unwinking until tears flow, keep the mind on the spot, then close the eyes and hold the image. Star or moon gazing brings coloured lights, a single colour, a huge mass of light, multiple moons. If you cannot hold the gaze, close the eyes and gaze at an imaginary spot at the brow. In meditation a pin-point white light appears at the brow, then coloured lights and balls, later a blaze bigger than the sun. Sit perfectly still, breathe slowly, and do not linger on the visions.",
+  "key_passages": [
+    {"locator": "Yoga Sadhana, 5. Trataka, source lines 3788-3945", "about": "method", "anchor": "Lie down on an open terrace and gaze at a particular bright star or on the full moon", "paraphrase": "Lie on an open terrace and gaze at a star or full moon; coloured lights, then one colour, a mass of light, doubled or absent moons appear.", "quote": "", "source_file": "sources/hin-sivananda-kundalini-yoga.txt"},
+    {"locator": "Yoga Sadhana, 5. Trataka instructions, source lines 3788-3945", "about": "onset", "anchor": "Do Trataka for two minutes to start with. Then cautiously increase the period.", "paraphrase": "Begin with two minutes and extend gradually; the mind must be on the spot.", "quote": "", "source_file": "sources/hin-sivananda-kundalini-yoga.txt"},
+    {"locator": "Yoga Sadhana, 5. Trataka instructions, source lines 3788-3945", "about": "onset", "anchor": "They can close their eyes and gaze at an imaginary spot at the space between the two", "paraphrase": "If steady gazing is impossible, close the eyes and gaze at an imaginary spot between the eyebrows.", "quote": "", "source_file": "sources/hin-sivananda-kundalini-yoga.txt"},
+    {"locator": "Yoga Addenda, Mystic Experience - Visions of Lights, source lines 6553-6617", "about": "stages", "anchor": "In the beginning a bright, white light, the size of a pin’s point will appear", "paraphrase": "Closed-eye meditation begins with a pin-point white light at the brow, then coloured lights, then balls, then a blaze bigger than the sun.", "quote": "", "source_file": "sources/hin-sivananda-kundalini-yoga.txt"},
+    {"locator": "Yoga Addenda, source lines 6623-6664", "about": "caution", "anchor": "Do not waste your time in looking at these visions.", "paraphrase": "Visions are encouragement only; ignore them, and discriminate whether they are subjective or objective.", "quote": "", "source_file": "sources/hin-sivananda-kundalini-yoga.txt"},
+    {"locator": "Yoga Addenda, source lines 6623-6664", "about": "onset", "anchor": "The visions may appear in some", "paraphrase": "Visions may come within days for some, six or nine months for others; some never have them but progress.", "quote": "", "source_file": "sources/hin-sivananda-kundalini-yoga.txt"}
+  ],
+  "cross_refs": ["hin-thirty-minor-upanishads-aiyar", "hin-aurobindo-letters-on-yoga-3"], "new_leads": [],
+  "reader_confidence": "high", "confidence_note": "Digest only; the sixth passage anchor spans a line break and may need adjusting."
+}

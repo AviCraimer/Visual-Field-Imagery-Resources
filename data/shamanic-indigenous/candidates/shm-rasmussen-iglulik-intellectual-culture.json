@@ -1,0 +1,50 @@
+{
+ "id": "shm-rasmussen-iglulik-intellectual-culture",
+ "stream": "shamanic-indigenous",
+ "title": "Intellectual Culture of the Iglulik Eskimos (Report of the Fifth Thule Expedition 1921-24, vol. VII no. 1)",
+ "author": "Knud Rasmussen (reporting Aua, Igjugarjuk and other Iglulik and Aivilik angakkuit)",
+ "translator": "W. Worster (from the Danish)",
+ "year": "1929",
+ "edition_cited": "Copenhagen: Gyldendalske Boghandel, Nordisk Forlag, 1929; archive.org scan intellectualcult00rasm_1 (OCR text)",
+ "tradition": "Inuit (Iglulik / Aivilik) angakkuq shamanism",
+ "language": "English",
+ "source_type": "ethnographic_report",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/intellectualcult00rasm_1",
+ "alt_urls": [],
+ "source_files": [
+  "sources/shm-rasmussen-iglulik-intellectual-culture.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Chapter on shamans (angakut): printed pp. 111-114, 'The next thing an old shaman has to do for his pupil is to procure him an anak'ua ... his qaumaneq' (OCR spells it qaumankq / qaumanEq); saved file lines c. 5560-5760",
+  "Aua's own account of becoming a shaman, printed pp. 116-119 (file lines c. 5950-6075): solitude, melancholy, joy-song, then 'my qaumanEq ... the shaman-light of brain and body'",
+  "Printed p. 114 onward: the next test, seeing oneself as a skeleton",
+  "Printed p. 210 (file line c. 11450): the innEriugjat fire spirits' luminous bags as a source of qaumaneq",
+  "Also search the file for 'Igjugarjuk', 'solitude', 'see in the dark' for the Caribou-Inuit style ordeal reported comparatively"
+ ],
+ "summary": "The locus classicus for qaumaneq. Rasmussen reports from Iglulik angakkuit that the teacher, after a short instruction period (as little as five days, the pupil seated behind a curtain, eating as little as possible, confessing breaches of taboo), must 'procure' for the pupil an anak'ua or qaumaneq: a light felt suddenly inside the head and brain, 'an inexplicable searchlight', by which he sees in the dark and with closed eyes; at first onset the house seems to rise and sight reaches through mountains. It is said to come from the Moon Spirit, the dead, bears or lemmings. Aua's first-person account differs: instruction by others failed; he sought solitude, passed through weeping and unexplained joy that broke into song, and in that state gained the light, which also shone out from him to the spirits. Training then continues alone in the wilds.",
+ "why_relevant": "Practitioner-reported account of a seen/felt inner light as the defining shamanic faculty, with the procedure around it (seclusion, fasting, confession, transmission by a teacher, solitude) and an explicit statement that it is procured for the pupil rather than produced by technique.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "devotion_or_transmission",
+  "sensory_restriction",
+  "fasting_or_austerity",
+  "sound_or_mantra",
+  "other"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1929",
+  "class": "published_record",
+  "basis": "archive.org metadata for intellectualcult00rasm_1 gives date 1929, publisher Copenhagen: Gyldendalske Boghandel; fieldwork 1921-24"
+ },
+ "author_identifiable": true,
+ "author_basis": "Published expedition report by Knud Rasmussen (1879-1933)",
+ "found_via": "seed lead; archive.org title search 'intellectual culture iglulik'",
+ "notes": "Rights: published 1929 (not 'before 1929'), but author died 1933 and the work is openly served by archive.org (americana/getty collections) and is out of US copyright as a 1929 publication; treated as public_domain, reading agent may quote. OCR is rough around the key passage (plate captions interrupt the sentence between pp. 112 and 113; 'qaumaneq' appears as 'qaumankq'/'qaumanEq'): choose anchors from clean lines. Whether the light is visually seen or 'felt' is the source's own ambiguity ('a mysterious light which the shaman suddenly feels in his body, inside his head') and should be recorded as such.",
+ "_log": "Rasmussen 1929 full text saved; qaumaneq passages at lines 5655, 5735, 6053, 11460"
+}

@@ -1,0 +1,122 @@
+{
+ "id": "bud-suttas-perception-of-light",
+ "stream": "theravada-east-asian",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 4,
+ "practicality": 2,
+ "text_read": "Whole saved file read in full (362 lines): AN 4.41, AN 7.61, SN 51.20, SN 51.11, AN 6.29, AN 8.64, AN 1.51-60, all in Sujato's English. The Pali is not in the saved file, so the underlying terms (aloka-sanna, diva-sanna, sappabhasa citta, obhasa) are not verified here against the original.",
+ "mode": "ambiguous",
+ "mode_evidence": "The stock formula speaks of applying the mind to a 'perception of light' and a 'perception of day' that is the same by night as by day, giving 'a mind that's full of radiance': a perception attended to, with no statement of where or how it appears. AN 8.64 is the one passage with plainly visual language: the Buddha 'perceived light but did not see forms', then perceived light and saw forms, the forms being deities he went on to converse with. That pairs light with seeing, but the text never says eyes open or closed, nor contrasts it with imagining. AN 1.51 ('this mind is radiant') is a statement about the mind, not a visual report.",
+ "eyes": "unspecified",
+ "onset_pathway": "both",
+ "onset_evidence": "Induction only in the barest sense. The instruction is given to people who are not said to see anything (in AN 7.61 to a man nodding off at night): apply the mind to the perception of light, fix on the perception of day, by night exactly as by day, with a heart 'open and unenveloped'. No procedure for getting that perception is given. SN 51.20's own gloss is circular: the radiant mind is developed when one has 'properly grasped' the perception of light and of day. In AN 7.61 the step immediately before it is to get up, rinse the eyes, look round in every direction and look up at the stars; the text presents these as separate successive remedies and does not say one feeds the other. Development: AN 8.64 starts with light already perceived and adds forms 'after some time, living diligent, keen, and resolute'; no time scale beyond that phrase. Nothing on grace or on light being unforceable. Prerequisite in SN 51 is samadhi built on enthusiasm, energy, mind-development or inquiry, each neither lax nor tense, neither constricted by drowsiness nor scattered among the senses.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "other",
+  "concentration_nonvisual"
+ ],
+ "conditions": {
+  "posture": "Not specified for the light perception. AN 7.61 surrounds it with seated meditation, standing up, walking, and lying on the right side.",
+  "gaze_or_eye_position": "None given. AN 7.61's preceding remedy: rinse the eyes with water, look in every direction, look up at the stars.",
+  "setting": "Night as well as day; quiet, remote lodgings praised at the end of AN 7.61.",
+  "duration_and_schedule": "'As by day, so by night; as by night, so by day': the same features, attributes and signs at both times (SN 51.20). No durations.",
+  "prerequisites": "SN 51.20/51.11: immersion with effort that is not too lax (laziness), not too tense (restlessness), not constricted internally (dullness and drowsiness), not scattered externally (sense stimulation).",
+  "other": "In SN 51 the light perception is the last of four linked perceptions: before/behind, below/above (the body parts from soles to hair-tips), day/night, and the open, unenveloped, radiant mind."
+ },
+ "phenomena": [
+  "all_pervading_light",
+  "figures_or_forms"
+ ],
+ "stages": [
+  {
+   "label": "perception of light, perception of day (AN 4.41, 7.61, 6.29)",
+   "description": "Mind applied to light and to daytime, alike by night and by day; yields 'a mind that's full of radiance'. Nothing seen is described."
+  },
+  {
+   "label": "perceived light but did not see forms (AN 8.64, round 1)",
+   "description": "The Buddha's pre-awakening starting point: light without forms."
+  },
+  {
+   "label": "perceived light and saw forms (AN 8.64, round 2)",
+   "description": "Reached 'after some time, living diligent, keen, and resolute', prompted by the deliberate thought 'what if I were to both perceive light and see forms?'"
+  },
+  {
+   "label": "rounds 3 to 8 (AN 8.64)",
+   "description": "Conversing with the deities seen; knowing their order, the deeds that led them there, their food and experience, their lifespan, and whether he had lived with them before. Each round opens with a deliberate resolve and is reached 'after some time'."
+  }
+ ],
+ "what_to_do_with_light": "Cultivate it deliberately and keep it identical by day and by night; use it as the samadhi-development that leads to 'knowledge and vision' (AN 4.41, AN 6.29), as a remedy for drowsiness (AN 7.61), and as a component of the bases of psychic power (SN 51). In AN 8.64, extend it step by step by resolve from light alone to light with forms and then to knowledge about what is seen.",
+ "obstacles_and_fixes": [
+  "Drowsiness while meditating (AN 7.61), remedies in order: drop the perception you were on when you got drowsy; reflect on the teaching; recite it in detail; pinch the ears and rub the limbs; get up, rinse the eyes, look around and up at the stars; apply the mind to the perception of light; walk with senses turned inward; finally lie down in the lion's posture set on the time of rising.",
+  "Effort too lax (with laziness) or too tense (with restlessness); mind constricted internally (dullness and drowsiness) or scattered externally (five kinds of sense stimulation) (SN 51.20).",
+  "Vanity when visiting families and getting into arguments lead to restlessness, loss of restraint, and a mind 'far from immersion' (AN 7.61)."
+ ],
+ "cautions": [
+  "No warning against seeking the light occurs in these texts; it is prescribed. AN 4.41 ranks it as leading to knowledge and vision, and names a different development (observing rise and fall in the five aggregates) as the one that leads to the ending of defilements."
+ ],
+ "safety_flags": [],
+ "interpretation": "The light perception is a cultivated perception that makes the mind 'full of radiance' and is the route to 'knowledge and vision', which in AN 8.64 means seeing and knowing deities; AN 1.51-52 separately calls the mind itself radiant but corrupted by visiting corruptions. The suttas do not say what the light is.",
+ "practice_summary": "From these discourses alone the practice is one sentence long. Turn the mind to the perception of light and hold the perception of daytime, at night just as in the day and in the day just as at night, with the same features and signs at both times, keeping the heart open and unenveloped; this develops a mind full of radiance. Keep effort neither slack nor strained, the mind neither sunk in drowsiness nor scattered among the senses. If you are nodding off at night, try it after the simpler remedies have failed: changing the object, reflecting on and reciting the teaching, rubbing ears and limbs, standing up, rinsing the eyes and looking at the stars. Once light is perceived, the Buddha's own account is that he resolved to see forms as well, and after some time of diligent, keen, resolute practice did so, then extended his knowledge of what he saw round by round. How the perception of light is first obtained is not explained.",
+ "key_passages": [
+  {
+   "locator": "AN 4.41 seg. 3.1-3.5, source lines 17-21",
+   "about": "method",
+   "anchor": "when a mendicant applies their mind to the perception of light, focusing on the perception of day",
+   "paraphrase": "The whole instruction: attend to the perception of light, fix on the perception of day, as by day so by night; with an open, unenveloped heart develop a radiant mind. This is the samadhi-development that leads to knowledge and vision.",
+   "quote": "It’s when a mendicant applies their mind to the perception of light, focusing on the perception of day: as by day, so by night; as by night, so by day. And so, with an open and unenveloped heart, they develop a mind that’s full of radiance.",
+   "source_file": "sources/bud-suttas-perception-of-light.txt"
+  },
+  {
+   "locator": "AN 7.61 seg. 6.1-7.4, source lines 62-67",
+   "about": "onset",
+   "anchor": "get up from your seat, flush your eyes with water, look around in every direction, and look up at the stars and constellations",
+   "paraphrase": "Fifth remedy for drowsiness: stand up, rinse the eyes, look around and up at the stars. If that fails, the sixth is the perception-of-light formula. The text lists them as successive alternatives; it does not say the starlight is the source of the light perception.",
+   "quote": "Then get up from your seat, flush your eyes with water, look around in every direction, and look up at the stars and constellations. It’s possible that you’ll give up drowsiness in this way. But what if that doesn’t work? Then apply your mind to the perception of light, focusing on the perception of day: as by day, so by night; as by night, so by day.",
+   "source_file": "sources/bud-suttas-perception-of-light.txt"
+  },
+  {
+   "locator": "SN 51.20 seg. 10.1-10.3, source lines 149-151",
+   "about": "onset",
+   "anchor": "when a mendicant has properly grasped the perception of light, and has properly grasped the perception of day",
+   "paraphrase": "The sutta's own definition of developing a radiant mind: having properly grasped the perception of light and of day. It names the grasping as the condition and does not say how the grasping is done.",
+   "quote": "It’s when a mendicant has properly grasped the perception of light, and has properly grasped the perception of day.",
+   "source_file": "sources/bud-suttas-perception-of-light.txt"
+  },
+  {
+   "locator": "SN 51.20 seg. 9.1-9.4, source lines 145-148",
+   "about": "development",
+   "anchor": "with the same features, attributes, and signs by day as by night",
+   "paraphrase": "'As by day, so by night' is glossed as developing the samadhi with identical features, attributes and signs at both times.",
+   "quote": "",
+   "source_file": "sources/bud-suttas-perception-of-light.txt"
+  },
+  {
+   "locator": "AN 8.64 seg. 1.3-3.1, source lines 275-279",
+   "about": "mode",
+   "anchor": "So after some time, living diligent, keen, and resolute, I perceived light and saw forms.",
+   "paraphrase": "First-person: before awakening the Buddha perceived light without seeing forms; he resolved to have both, and after some time of diligent, keen, resolute practice perceived light and saw forms. The pairing with seeing forms is the strongest sign in these texts that the light is something seen.",
+   "quote": "before my awakening—when I was still not awake but intent on awakening—I perceived light but did not see forms. Then it occurred to me, ‘What if I were to both perceive light and see forms? Then my knowledge and vision would become even more purified.’ So after some time, living diligent, keen, and resolute, I perceived light and saw forms.",
+   "source_file": "sources/bud-suttas-perception-of-light.txt"
+  },
+  {
+   "locator": "AN 6.29 seg. 5.1-5.3, source lines 242-244",
+   "about": "interpretation",
+   "anchor": "a mendicant focuses on the perception of light, focusing on the perception of day regardless of whether",
+   "paraphrase": "Ananda lists the light perception as the second of five topics for recollection, practised regardless of whether it is night or day, leading to knowledge and vision; the Buddha approves the list.",
+   "quote": "",
+   "source_file": "sources/bud-suttas-perception-of-light.txt"
+  }
+ ],
+ "cross_refs": [
+  "bud-mn128-upakkilesa-sutta",
+  "bud-visuddhimagga-nanamoli",
+  "bud-vimuttimagga-ehara"
+ ],
+ "new_leads": [
+  "Commentarial glosses on aloka-sanna in AN 4.41 and AN 7.61 (Manorathapurani), for how the perception is said to be 'grasped' (light of sun, moon, lamp or gem)"
+ ],
+ "reader_confidence": "high",
+ "confidence_note": "Entire file read. English translation only: 'light', 'radiance' and 'forms' are Sujato's renderings and the Pali is not in the saved text. Onset coded 'both' on a thin basis: the formula is an instruction to begin, but with no procedure."
+}

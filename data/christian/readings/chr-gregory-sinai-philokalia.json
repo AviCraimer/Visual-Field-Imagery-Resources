@@ -1,0 +1,102 @@
+{
+ "stream": "christian",
+ "drop_reason": null,
+ "drop_note": "",
+ "cross_refs": [
+  "chr-xanthopoulos-century",
+  "chr-diadochos-hundred-chapters",
+  "chr-evagrius-on-prayer"
+ ],
+ "new_leads": [],
+ "safety_flags": [
+  "tradition_warns_against_seeking"
+ ],
+ "stages": [
+  {
+   "label": "πῦρ εὐφροσύνης",
+   "description": "in beginners prayer is felt as a fire of joy rising from the heart"
+  },
+  {
+   "label": "φῶς εὐωδιάζον",
+   "description": "in the perfect it is a fragrant light"
+  }
+ ],
+ "obstacles_and_fixes": [
+  "Mind drawn outside or upward by an invisible power: do not trust it, pull the mind back to its work at once.",
+  "Mind's natural tendency to form images: hold it formless (ἀνείδεον, ἀσχημάτιστον)."
+ ],
+ "cautions": [
+  "Lights at the beginning are the means by which delusion (πλάνη) deceives the inexperienced.",
+  "Seeking these things before their time makes one a 'fantasist, not a hesychast' and can cost one's sanity."
+ ],
+ "phenomena": [
+  "lamp_or_flame",
+  "light_in_the_room",
+  "figures_or_forms",
+  "all_pervading_light"
+ ],
+ "conditions": {
+  "posture": "seated (treatise on how the hesychast should sit)",
+  "gaze_or_eye_position": "not specified in passages read",
+  "setting": "stillness, cell",
+  "duration_and_schedule": "years; under a guide",
+  "prerequisites": "humility, obedience, purification of passions",
+  "other": "Jesus Prayer in the heart"
+ },
+ "id": "chr-gregory-sinai-philokalia",
+ "verdict": "keep",
+ "relevance": 5,
+ "practicality": 3,
+ "text_read": "Greek 1893 text: Nikephoros-adjacent opening, the chapters around the 'fire of joy / fragrant light' passage, the 'impossible in our generation' passage, the Peri planes section of On Stillness/On Prayer, and the 'never accept' passage, all read in full via targeted search for φῶς, φαντασ-, πλάνη, παραδέξ-.",
+ "mode": "ambiguous",
+ "mode_evidence": "Lights and fire are spoken of as things one 'sees' (ἴδῃς φῶς ... ἔξωθεν ἢ ἔσωθεν), outside or inside, so perceptual appearances are in view; but Gregory treats all such forms as suspect products of the imaginative faculty (φανταστικόν) or demonic, while the genuine light is formless and goes with the senses being withdrawn. He does not classify by eyes open/closed.",
+ "eyes": "unspecified",
+ "onset_pathway": "development_only",
+ "onset_evidence": "No induction: Gregory explicitly tells the practitioner not to seek lights; true contemplation of light (ὑποστατικὴ τοῦ φωτὸς θεωρία) is 'impossible to find in our generation' because of the passions, and seeking things before their time makes one a fantasist instead of a hesychast. Light is the late fruit of long heart-prayer under obedience, given by grace; the beginner's sign is warmth/'fire of joy', the end is 'fragrant light'.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "sound_or_mantra",
+  "breath_control",
+  "posture_or_body_lock",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "what_to_do_with_light": "Refuse: do not accept any light, fire or figure, outside or inside; do not let the mind form images; return the mind to the work of prayer.",
+ "interpretation": "Genuine divine light is formless, comes by grace to the purified, and accompanies withdrawal of the senses; formed lights and fires are imagination or demonic.",
+ "practice_summary": "Sit in stillness and practise the Jesus Prayer in the heart, seeking only its warm, formless energy. Do not try to see anything. Expect, as a beginner, warmth or a 'fire of joy' rising from the heart rather than light. If during the work you see light or fire, outside or inside, or a figure of Christ, an angel or a saint, do not accept it and do not let your own mind shape such images; return to the prayer. If the mind feels pulled out or upward by some power, do not trust it; lead it back. Gregory holds that true contemplation of light is the far end of a long, guided, humble life of prayer and that in his day it is very rarely found.",
+ "key_passages": [
+  {
+   "locator": "Peri planes, source lines ~4115-4125",
+   "about": "caution",
+   "anchor": "ἐπὰν ἐργαζόμενος τὸ ἔργον ἴδῃς φῶς А πῦρ ἔξωθεν ἢ ἔσωθεν",
+   "paraphrase": "If while doing the work you see light or fire outside or within, or a supposed form of Christ, an angel or anyone else, do not accept it, lest you suffer harm; and do not yourself let the mind shape such images.",
+   "quote": "Πρόσεχε οὖν ἀκριβῶς, Θεοῦ ἐραστά, ἐν γνώσει· ἐπὰν ἐργαζόμενος τὸ ἔργον, ἴδῃς φῶς, ἢ πῦρ ἔξωθεν ἢ ἔσωθεν, ἢ σχῆμα δῆθεν Χριστοῦ, ἢ Ἀγγέλου, ἢ ἑτέρου τινός, μὴ παραδέξῃ αὐτό (OCR normalised in this quote)",
+   "source_file": "sources/chr-gregory-sinai-philokalia.txt"
+  },
+  {
+   "locator": "chapters, source lines ~3425-3440",
+   "about": "onset",
+   "anchor": "μήτε μορφήν ἣ τύπον δῆθεν ἁγίων φανταστιχῶς ἐνοπτρίζεσθαι μήτε φῶτα θεωρεῖν",
+   "paraphrase": "Seek only the heart's energy, wholly formless; neither imagine forms of saints nor contemplate lights, for delusion at the beginning especially deceives the inexperienced with such false phantasms.",
+   "quote": "",
+   "source_file": "sources/chr-gregory-sinai-philokalia.txt"
+  },
+  {
+   "locator": "chapters, source lines ~3450-3455",
+   "about": "stages",
+   "anchor": "ἐν μὲν τῇ ἀρχῇ ὡς πῦρ εὐφροσύνης ἀπὸ χαρδίας ἀναδιδόμενον",
+   "paraphrase": "Prayer is in beginners the ever-moving noetic energy of the Spirit: at the start like a fire of joy rising from the heart, at the end like fragrant light.",
+   "quote": "",
+   "source_file": "sources/chr-gregory-sinai-philokalia.txt"
+  },
+  {
+   "locator": "chapters, source lines ~2145-2160 and ~2211-2236",
+   "about": "mode",
+   "anchor": "τῶν αἰσθήσεων πολλάχις ὑπὸ τοῦ φωτὸς ἐχεί",
+   "paraphrase": "In true prayer the mind is seen wholly formless, sees nothing gross, the senses often drawn in by 'that light'; but the hypostatic contemplation of light is now nearly impossible to find, and one who seeks it before its time becomes a fantasist instead of a hesychast.",
+   "quote": "",
+   "source_file": "sources/chr-gregory-sinai-philokalia.txt"
+  }
+ ],
+ "reader_confidence": "high",
+ "confidence_note": "Greek OCR has Cyrillic look-alike letters; passages read directly in Greek, meaning clear."
+}

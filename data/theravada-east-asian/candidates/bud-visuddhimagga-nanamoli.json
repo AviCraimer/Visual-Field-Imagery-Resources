@@ -1,0 +1,51 @@
+{
+ "id": "bud-visuddhimagga-nanamoli",
+ "stream": "theravada-east-asian",
+ "title": "The Path of Purification (Visuddhimagga)",
+ "author": "Bhadantacariya Buddhaghosa",
+ "translator": "Bhikkhu Nanamoli",
+ "year": "5th century CE; translation 1956; BPS online ed. 2011",
+ "edition_cited": "Buddhist Publication Society, Kandy, revised third online edition, 2011 (PDF text via archive.org)",
+ "tradition": "Theravada commentarial (Mahavihara)",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "in_copyright",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/Visuddhimagga-ThePathOfPurification",
+ "alt_urls": [
+  "https://www.accesstoinsight.org/lib/authors/nanamoli/PathofPurification2011.pdf"
+ ],
+ "source_files": [
+  "sources/bud-visuddhimagga-nanamoli.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Ch. IV (earth kasina): making the disk, gazing with eyes 'open moderately', apprehending 'a hundred times, a thousand times' until the learning sign arises; '[The Counterpart Sign]' (file line c. 11116-11160); guarding and extending the sign",
+  "Ch. V (remaining kasinas): water, fire (line c. 13758), air, colours, '[The Light Kasina]' V.21-23 (line 13878), limited space; V.36 on what the light kasina is a basis for",
+  "Ch. VIII, mindfulness of breathing: how the sign appears differently to different people (star, cluster of gems, cotton...; file line c. 20860-20880) and that it is born of perception",
+  "Ch. IV.55 ff.: perception of light as a remedy for torpor (line c. 11572)",
+  "Ch. XIII: divine eye and extending light (line c. 28115)",
+  "Ch. XX.105-130: the ten imperfections of insight beginning with illumination (obhasa), and how the skilful meditator treats it (file lines c. 44446-44720)"
+ ],
+ "summary": "The classical Theravada manual. Chapter IV gives the earth-kasina procedure in full: construction of the disk, distance and seat, gazing with eyes moderately open, alternately opening and closing them and adverting 'a hundred times, a thousand times' until the learning sign is seen with eyes shut as with eyes open; then leaving the place, developing the sign until the purified counterpart sign 'breaks out', and guarding and extending it. Chapter V treats fire, light (a circle of sun or lamp light on a wall; counterpart 'a compact bright cluster of lights'), colour and space kasinas. Chapter VIII lists how the breath sign appears to different meditators (star, gems, pearls, cotton, smoke, moon or sun disk) and attributes the variety to perception. Chapter XX treats illumination arising in early insight as the first of ten imperfections and prescribes seeing it as impermanent and not the path.",
+ "why_relevant": "Foundational step-by-step instructions for turning a gazed-at object into a light seen with closed eyes, descriptions of the breath sign, and the tradition's own warning about insight-light.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "concentration_visual_object",
+  "gazing_fixed_point",
+  "light_source_gazing",
+  "concentration_nonvisual",
+  "afterimage_retention"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "2011",
+  "class": "published_record",
+  "basis": "terms-of-use page in the saved text: 'Copyright revised, third, online edition. Copyright (c) 2011 Buddhist Publication Society'; translation first published 1956 per the same front matter"
+ },
+ "author_basis": "",
+ "found_via": "seed lead; archive.org search 'visuddhimagga nanamoli'",
+ "notes": "In copyright, but the BPS terms of use printed in the file permit free redistribution of the unaltered PDF; the saved file is OCR text of that PDF. Paragraph numbers (e.g. IV.30, XX.105) are printed in the text and are the stable locators. The public-domain Pe Maung Tin translation (Path of Purity, PTS 1922-31) exists on archive.org (pathofpuritybein01budduoft is Part I only; Parts II-III with the kasina chapters are 1929 and 1931) and was not saved."
+}

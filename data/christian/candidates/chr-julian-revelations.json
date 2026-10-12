@@ -1,0 +1,48 @@
+{
+ "id": "chr-julian-revelations",
+ "stream": "christian",
+ "title": "Revelations of Divine Love, Recorded by Julian, Anchoress at Norwich, Anno Domini 1373",
+ "author": "Julian of Norwich (1342-after 1416)",
+ "translator": "Edited and modernised by Grace Warrack from MS Sloane 2499",
+ "year": "c. 1373-1395; this edition 1901",
+ "edition_cited": "London: Methuen, 1901. archive.org scan RevelationsOfDivineLove",
+ "tradition": "English medieval anchoritic",
+ "language": "English",
+ "source_type": "practitioner_testimony",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/RevelationsOfDivineLove",
+ "alt_urls": [
+  "https://www.gutenberg.org/ebooks/52958"
+ ],
+ "source_files": [
+  "sources/chr-julian-revelations.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Ch. III (lines 3270-3300; printed pp. 6-7): at the point of death she sets her eyes on the crucifix; 'it was all dark about me in the chamber, as if it had been night, save in the Image of the Cross whereon I beheld a common light'",
+  "Ch. IX end (line 3935): shewings 'by bodily sight, and by word formed in mine understanding, and by spiritual sight'",
+  "Ch. X (line 3950): 'I saw with bodily sight in the face of the crucifix'; she 'desired more bodily sight' and is answered",
+  "Ch. LXXIII (line 10861): the three modes restated",
+  "Chs LXVI-LXIX: the fiend, smoke and stench, and her doubt whether she had 'raved'"
+ ],
+ "summary": "Julian's account of sixteen 'shewings' received on one day in May 1373 during a grave illness she had earlier prayed for. The curate held a crucifix before her and told her to look at it; she fixed her eyes on its face. Her sight then failed, the room went dark 'as if it had been night', and only the cross kept 'a common light', she did not know how. From that fixed gaze the bodily sights began: blood flowing, changes of colour in the face. She distinguishes throughout three channels: 'bodily sight', words formed in the understanding, and 'ghostly sight', and at one point asks for more bodily sight because she saw 'darkly'. She later doubted the whole as raving and records how she was corrected.",
+ "why_relevant": "First-person report of light localised on a fixed object of gaze with the surrounding field darkened, with the circumstances stated (illness, fixed gaze on a crucifix), and a self-applied threefold classification of sights.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "gazing_fixed_point",
+  "devotion_or_transmission"
+ ],
+ "priority": 2,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1901",
+  "class": "published_record",
+  "basis": "archive.org metadata year 1901; editor's preface in the saved text dated May 1901"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "own lead; archive.org title search",
+ "notes": "Context is near-death illness rather than a repeatable practice; the BRIEF excludes spontaneous or near-death light with no account of practice, but here the gaze instruction and what she did are stated. Reading agent to decide keep_marginal. The saved file begins with Google's boilerplate."
+}

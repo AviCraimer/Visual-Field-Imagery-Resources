@@ -1,0 +1,52 @@
+{
+ "id": "hin-hatha-yoga-pradipika-sinh",
+ "stream": "hindu-yoga-tantra",
+ "title": "The Hatha Yoga Pradipika",
+ "author": "Svatmarama (15th c.)",
+ "translator": "Pancham Sinh",
+ "year": "15th century text; translation 1914/1915",
+ "edition_cited": "Pancham Sinh, Allahabad: Panini Office / Sudhindra Nath Vasu, 1914-15 (Sacred Books of the Hindus). Two saved texts: a clean e-text of Sinh's translation (archive.org HathaYogaPradipika-SanskritTextWithEnglishTranslatlionAndNotes, credited to sacred-texts.com) and the OCR of the SBH vol. XV scan (the HYP begins about line 12300 of that file)",
+ "tradition": "Hatha yoga (Nath)",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/HathaYogaPradipika-SanskritTextWithEnglishTranslatlionAndNotes",
+ "alt_urls": [
+  "https://archive.org/details/dli.csl.7087",
+  "https://archive.org/details/india.history.resource.88861"
+ ],
+ "source_files": [
+  "sources/hin-hatha-yoga-pradipika-sinh.txt",
+  "sources/hin-vasu-yoga-sastra-sbh15.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Translator's Introduction (e-text lines c. 400-450): 'During contemplation one sees, not with his eyes ... various colours ... stars are seen glittering, and lightning flashes' and the 'ocean of light' passage",
+  "Chapter 2, verses 31-32: trataka (e-text lines c. 2239-2260)",
+  "Chapter 4, verses 35-41: Sambhavi mudra, Unmani ('Fix the gaze on the light (seen on the tip of the nose)'), Taraka, half-closed eyes seeing the jyotis (e-text lines c. 5825-5960)",
+  "Chapter 4, verses 65-102: nada-anusandhana (sound, little about light; check for any light statements)",
+  "In the SBH XV file the same verses are at lines c. 12541 (trataka) and c. 14326-14360 (Sambhavi/Unmani)"
+ ],
+ "summary": "The standard hatha manual. Three places bear on seen light. (1) Trataka (2.31-32): gaze unblinking at a small mark until tears flow; presented as a cleansing act with no stated light result. (2) The Sambhavi-Unmani-Taraka group (4.35-41): attention on an inner target while the unblinking eyes look outward, then 'fix the gaze on the light' with brows slightly raised, and with half-closed eyes on the nose-tip, breath in ida and pingala stilled, 'he who can see the light which is the all, the seed' reaches the highest; said to be learnt only by a guru's favour. (3) Pancham Sinh's own 1915 introduction, a modern practitioner-style note, says that in contemplation one sees colours of the five elements, glittering stars and lightning flashes, first as agitated waves, then steady as 'one deep ocean of light'. The nada section (4.65 ff.) is about sound.",
+ "why_relevant": "Classical instructions for gaze and eye-position practices in which a light is said to be seen, plus a translator's description of the developmental sequence from flickering colours to steady light.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "gazing_fixed_point",
+  "eye_position",
+  "breath_control",
+  "sound_or_mantra"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1914",
+  "class": "published_record",
+  "basis": "title page of the SBH vol. XV scan (archive.org india.history.resource.88861) prints Allahabad, Indian Press, 1914; archive.org item dli.csl.7087 for the separate HYP volume gives 1915"
+ },
+ "author_identifiable": true,
+ "author_basis": "Classical Sanskrit text; translator Pancham Sinh published 1914-15",
+ "found_via": "seed lead; archive.org title search 'hatha yoga pradipika'",
+ "notes": "The e-text was retyped by a third party from Sinh's edition and has some OCR-like damage in the Devanagari lines; the English is clean. The verse 'light (seen on the tip of the nose)' parenthesis is Sinh's gloss. The Jyotsna commentary (Brahmananda), which says more on tara/jyotis, is not in this edition; an 1893 Theosophical edition by Shrinivas Iyangar carries notes from it (not obtained)."
+}

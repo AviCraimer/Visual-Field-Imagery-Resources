@@ -1,0 +1,52 @@
+{
+ "id": "dao-jinhua-zongzhi-chinese",
+ "stream": "taoist",
+ "title": "太乙金華宗旨 (Taiyi jinhua zongzhi; The Secret of the Golden Flower), Chinese text",
+ "author": "Attributed to Lü Dongbin (spirit-writing text, Qing dynasty)",
+ "translator": null,
+ "year": "late 17th to 18th century; Daozang jiyao recension reprinted 1906",
+ "edition_cited": "(1) punctuated 13-chapter text on zh.wikisource; (2) Daozang jiyao recension, Kanripo KR5i0046, base edition CK-KZ",
+ "tradition": "Quanzhen / Jingming-affiliated spirit-writing circles; Longmen neidan with Chan and Tiantai elements",
+ "language": "Chinese (classical)",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://zh.wikisource.org/wiki/太乙金華宗旨",
+ "alt_urls": [
+  "https://github.com/kanripo/KR5i0046"
+ ],
+ "source_files": [
+  "sources/dao-jinhua-zongzhi-chinese.txt",
+  "sources/dao-jinhua-zongzhi-chinese-dzjy.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "第三章 回光守中: eyelids lowered like a curtain, gaze at the tip of the nose, light 'between the eyes'; 100 days of practice before the light is real",
+  "第五章 回光差謬: errors and wrong paths in the practice (not checked in detail by the search agent)",
+  "第六章 回光證驗: three confirmatory signs available now; second is '目光騰騰，滿前皆白，如在雲中' glossed as 虛室生白; opening the eyes one cannot find one's body",
+  "第八章 逍遙訣: 'at the third watch the sun-disc blazes'; two eyes shine inward on the Kan palace",
+  "第九章 百日築基 and 第十章 性光識光: distinguishing nature-light from consciousness-light",
+  "第十章: '初未見光時，此為效驗，若見為光，而有意著之，即落意識，非性光也' (do not care whether there is light or not)"
+ ],
+ "summary": "The root text for 'turning the light around' (回光). Instruction: sit, lower the lids 'like a hanging curtain', set the gaze by the tip of the nose, and hold attention level between the eyebrows (兩眉中間) so that the light which normally flows outward through the eyes is reversed; breath is refined by listening to it. Chapter 6 lists confirmatory signs, among them that in stillness 'the light of the eyes blazes up and everything in front is white, as if one were in a cloud', and on opening the eyes the body cannot be found; this is glossed with Zhuangzi's 'empty room brings forth white'. Chapter 5 lists errors, and chapter 10 separates nature-light from the light of discriminating consciousness. Time scales (a hundred days; 'two or three months') are stated.",
+ "why_relevant": "Explicit step-by-step method (gaze, lids, attention point, breath) with a described perceptual sign (whiteness filling the field, eyes closed and then open) plus the text's own warnings and its test for telling true light from false.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "eye_position",
+  "gazing_fixed_point",
+  "concentration_nonvisual",
+  "breath_control",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1906",
+  "class": "published_record",
+  "basis": "Kanripo file header names base edition CK-KZ (Chongkan Daozang jiyao, the 1906 Chengdu reprint; the year is from my memory of that edition, not printed in the file). The text itself is older and was translated by Wilhelm in 1929. The Wikisource page gives only 'Qing' and names no edition."
+ },
+ "author_basis": "",
+ "found_via": "seed lead (Secret of the Golden Flower)",
+ "notes": "Two recensions saved; they differ in wording and chapter detail. The Wikisource transcription has typos (e.g. 曰 for 日). English translations (Wilhelm/Baynes 1931; Cleary 1991) are in copyright and are catalogued separately. Anchors: see the ANCHOR RULE at the top of each source file."
+}

@@ -1,0 +1,43 @@
+{
+ "id": "chr-rolle-fire-of-love",
+ "stream": "christian",
+ "title": "The Fire of Love, or Melody of Love; and The Mending of Life, or Rule of Living",
+ "author": "Richard Rolle of Hampole (c. 1300-1349)",
+ "translator": "Richard Misyn (1434-35); modernised and edited by Frances M. M. Comper, introduction by Evelyn Underhill",
+ "year": "c. 1340; this edition 1914",
+ "edition_cited": "London: Methuen, 1914. archive.org scan fireofloveormelo0000roll",
+ "tradition": "English medieval hermit",
+ "language": "English",
+ "source_type": "practitioner_testimony",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/fireofloveormelo0000roll",
+ "alt_urls": [],
+ "source_files": [
+  "sources/chr-rolle-fire-of-love.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "The Mending of Life, ch. XII 'Of contemplation' (lines 12201-12370; printed p. 239): 'if our ghostly eye be busy to that spiritual light it may not see that light in itself'; 'in contemplation that invisibly lightens the soul, no seen light we see'",
+  "The Fire of Love, Prologue and Book I ch. 15: first-person account of the heat felt in the breast, then song, after sitting in a chapel (search 'chapel', 'heat')"
+ ],
+ "summary": "Rolle's two best-known works in the fifteenth-century English of Misyn. His own experience, described at first hand, came in a fixed order while sitting in a chapel in prayer and psalmody: real felt heat in the breast, then heavenly song, then sweetness. Light is not part of it. In The Mending of Life, chapter XII, he says so directly: the spiritual eye cannot see the divine light as it is, though it feels 'the savour and heat of that light unknown', and 'as we, standing in darkness, see nothing, so in contemplation that invisibly lightens the soul, no seen light we see'. He allows that for some 'the door of heaven is opened'.",
+ "why_relevant": "A practised contemplative's explicit statement that his contemplation gives heat and sound but no seen light: useful as a negative data point and as dissent from light-centred accounts.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "unclear",
+ "expected_techniques": [
+  "sound_or_mantra",
+  "devotion_or_transmission"
+ ],
+ "priority": 3,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1914",
+  "class": "published_record",
+  "basis": "'First Published in 1914' printed in the saved text; archive.org metadata year 1914"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; archive.org title search",
+ "notes": "Probably keep_marginal (a statement that no light is seen) or drop as metaphorical_light. The Fire of Love locator is from memory of the work and was not opened in the file."
+}

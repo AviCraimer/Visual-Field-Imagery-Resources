@@ -1,0 +1,47 @@
+{
+ "id": "wes-achad-crystal-vision",
+ "stream": "western-esoteric",
+ "title": "Crystal Vision through Crystal Gazing; or, The Crystal as a Stepping-Stone to Clear Vision",
+ "author": "Frater Achad (Charles Stansfeld Jones)",
+ "translator": null,
+ "year": "1923",
+ "edition_cited": "Chicago: Yogi Publication Society, 1923 (Library of Congress scan)",
+ "tradition": "Thelemic / Golden Dawn-derived magic (A.'.A.'.)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/crystalvisionthr00acha_0",
+ "alt_urls": [],
+ "source_files": [
+  "sources/wes-achad-crystal-vision.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Chapter I 'The Lesser Crystalline Sphere': choosing and examining the crystal; purification",
+  "Chapter II: quoted traditional instructions (1)-(5) with Achad's bracketed comments, sittings of ten then fifteen minutes up to one hour (c. 29-33% into file)",
+  "Chapter III-IV: his own diary visions, including an elemental (Water) vision checked against an event (c. 43%)",
+  "Chapter IV: Trithemius/Barrett crystal instructions reprinted (c. 50-58%)",
+  "Chapters V-VII: 'Astral Journey', the 'Greater' and 'Ultimate' Crystal (aura / universe as crystal)"
+ ],
+ "summary": "Crowley's pupil Achad takes the ordinary crystal manual and reframes it as training toward 'clear vision' in the Golden Dawn sense. He reprints the standard instructions (shaded room, black velvet and silk screen, same place and hour, first sitting about ten minutes, then fifteen for five or six sittings, never over an hour; clouding with 'small pin points of light ... like tiny stars' as the sign of onset) and adds his own bracketed comments, including a warning that passivity lays the seer open to suggestion. He holds that clarity depends on the seer rather than the crystal, prescribes self-examination and purification, and gives extracts from his own record of visions. Later chapters move from the physical crystal to treating one's aura and then the universe as the crystal, with astral-journey method.",
+ "why_relevant": "A magical-order practitioner's commentary on the beginner scrying procedure, with timings, the onset sign and his own recorded results.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "scrying_surface",
+  "gazing_fixed_point",
+  "visualization_crossing"
+ ],
+ "priority": 2,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1923",
+  "class": "published_record",
+  "basis": "archive.org / Library of Congress metadata date 1923, Yogi Publication Society"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "archive.org title search 'crystal gazing'",
+ "notes": "The numbered instructions are taken almost verbatim from Melville (see wes-melville-crystal-gazing); Achad's own contribution is the commentary and the diary material. Later chapters are largely imaginal (astral journey), not perceptual."
+}

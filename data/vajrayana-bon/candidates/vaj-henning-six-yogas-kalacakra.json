@@ -1,0 +1,48 @@
+{
+ "id": "vaj-henning-six-yogas-kalacakra",
+ "stream": "vajrayana-bon",
+ "title": "Introduction to the Six Yogas (The Six Yogas of Kālacakra), web page 6ytheory.htm",
+ "author": "Edward Henning",
+ "translator": null,
+ "year": "last updated 29 October 2016",
+ "edition_cited": "author's website kalacakra.org; copy read is a PDF print dated 18 February 2022, uploaded to archive.org 5 March 2022",
+ "tradition": "Kālacakra six-limbed yoga (Jonang and Kagyu presentation)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "in_copyright",
+ "access": "fulltext_saved",
+ "url": "http://www.kalacakra.org/6ytheory.htm",
+ "alt_urls": [
+  "https://archive.org/details/the-six-yogas-of-kalacakra"
+ ],
+ "source_files": [
+  "sources/vaj-henning-six-yogas-kalacakra.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Opening: prerequisites (preliminaries, generation stage, 10 million mantras in Kagyu and Jonang) and the statement that performance instructions are deliberately withheld",
+  "Section listing the six yogas: 'Pratyahara, withdrawal' and 'Dhyana, mental focus' (print pages 12-13 of 17)",
+  "Closing list correlating each yoga with signs, winds and aggregates (pages 16-17)"
+ ],
+ "summary": "A translator-practitioner's overview of the Kālacakra six yogas, written for the public and explicitly not a how-to: the author says he will deliberately avoid describing how to perform them and that preliminaries, generation-stage practice and supervision are required. Even so, it states what happens in the first yoga. Withdrawal is a non-conceptual absorption, practised mostly in complete darkness; when it has become deep, images begin to appear 'completely naturally and without prompting'. These are the empty forms, mostly visual, not external. The ten signs (smoke, mirage, firefly, lamp and so on) are explained as names for manners of appearance (murky, flickering, unstable, bright, stable) rather than literal pictures. The second yoga settles the mind one-pointedly on these forms. The rest covers winds, channels and correlations.",
+ "why_relevant": "A named specialist's plain statement of conditions (darkness, deep non-conceptual stillness, no prompting) under which seen forms first arise in Kālacakra practice, and a non-obvious reading of the ten signs; also records the tradition's withholding of method.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "darkness_exposure",
+  "concentration_nonvisual",
+  "sensory_restriction",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 2,
+ "medium": "web_article",
+ "date_evidence": {
+  "date": "2016-10-29",
+  "class": "self_reported",
+  "basis": "page footer 'E. Henning. Last updated 29 October 2016'; independently, the copy read is a browser print stamped '2/18/22' and archive.org records the upload on 2022-03-05"
+ },
+ "author_identifiable": true,
+ "author_basis": "Edward Henning (d. 2016), author of Kālacakra and the Tibetan Calendar (AIBS 2007) and translator of Jonang six-yoga texts; kalacakra.org was his own site",
+ "found_via": "seed lead (Henning's Kalacakra site); archive.org metadata search for kalacakra 'six yogas'",
+ "notes": "The archive.org copy was uploaded by a third party, but it is a print of a page the author published freely on his own site; treated as freely offered. Safety: the author warns that the practices can be harmful without supervision and preparation. Sets transmission_required_by_tradition. He did not live to write the promised later pages. His statement that the signs name 'manners of appearance' is his reading; other presenters take them more literally."
+}

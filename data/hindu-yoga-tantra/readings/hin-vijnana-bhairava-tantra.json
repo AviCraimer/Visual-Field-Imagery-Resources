@@ -1,0 +1,118 @@
+{
+ "id": "hin-vijnana-bhairava-tantra",
+ "stream": "hindu-yoga-tantra",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 4,
+ "practicality": 4,
+ "text_read": "Whole text (162 verses) read in Sanskrit by the orchestrator.",
+ "mode": "ambiguous",
+ "mode_evidence": "Verse 36 is explicit that the bindu is seen (dṛṣṭe bindau, 'when the bindu has been seen') after the eyes are closed with the hands; verse 76 has the gaze fixed on space made variegated (śabalīkṛte) by the brilliance of sun or lamp. Elsewhere the verbs are dhyāyet / bhāvayet (meditate, contemplate), so most dhāraṇās do not say whether anything is seen; the text's interest is the dissolution of mind, not the light itself.",
+ "eyes": "both",
+ "onset_pathway": "induction",
+ "onset_evidence": "Short self-contained methods, each claimed to work on its own (v. 140: by joining with any one, one becomes Bhairava). V. 36 is the clearest induction of seen light: close the eyes (and other openings) with the hands, pierce or press at the brows, and a bindu appears, which gradually dissolves. No time scales except 'by degrees' (krameṇa, 34, 36) and 'within days' for related practices (51, 107). Nothing is said to someone who sees nothing; the text assumes any one method suffices and asks only steadiness (dārḍhya).",
+ "stimulus_independence": "unclear",
+ "techniques": [
+  "eye_pressure_or_sense_closure",
+  "darkness_exposure",
+  "sky_or_space_gazing",
+  "light_source_gazing",
+  "gazing_fixed_point",
+  "eye_position"
+ ],
+ "conditions": {
+  "posture": "seated; v. 34 sitting with eyes closed, mind placed within the skull",
+  "gaze_or_eye_position": "closed with the hands (36); fixed and unwavering on clear sky (84); fixed on space lit by sun or lamp (76); eyes simply motionless (113)",
+  "setting": "a dark night of the waning fortnight for darkness contemplation (87)",
+  "duration_and_schedule": "not stated; 'by degrees'",
+  "prerequisites": "none stated; the text is to be given only to devoted disciples (158-159)",
+  "other": ""
+ },
+ "phenomena": [
+  "sphere_pearl_bindu",
+  "sparks_or_points",
+  "colour_fields",
+  "black_light"
+ ],
+ "stages": [
+  {
+   "label": "bindu (36)",
+   "description": "After closing the eyes with the hands and piercing at the brows, a point (bindu) is seen; it dissolves by degrees, and in its midst is the supreme state."
+  },
+  {
+   "label": "fiery tilaka (37)",
+   "description": "A bindu shaped like a subtle fiery tilaka, arising from inner agitation, meditated on at the crown or heart, leads to absorption."
+  }
+ ],
+ "what_to_do_with_light": "Let the seen bindu dissolve and rest in what is in its midst (36); in all methods the aim is the mind's dissolution, not the light.",
+ "obstacles_and_fixes": [],
+ "cautions": [
+  "The text is to be given only to devoted disciples of the guru line (vv. 157-160)."
+ ],
+ "safety_flags": [
+  "eye_pressure",
+  "transmission_required_by_tradition"
+ ],
+ "interpretation": "Light, darkness and open space are doorways: the seen bindu or the luminous space is where the mind dissolves into Bhairava's own form (bhairavaṃ vapuḥ), which is consciousness itself.",
+ "practice_summary": "Several of the 112 methods use the visual field. Sit, close the eyes with the hands and press or attend at the brows, shutting the other openings: a point of light is seen; let it dissolve gradually and rest in what lies within it (v. 36). Alternatively, fix an unwavering gaze on a clear sky until the body is still (84); fix the gaze on space made bright and dappled by sun or lamp (76); on a moonless night contemplate the darkness itself for a long time, or with eyes closed attend to the blackness before them and expand it (87-88); or simply hold the eyes motionless (113). Each is said to suffice on its own. The text asks only steadiness, gives no time scale, and treats the light as a threshold for the mind's dissolution, not a goal.",
+ "key_passages": [
+  {
+   "locator": "v. 36",
+   "about": "onset",
+   "anchor": "kararuddhadṛgastreṇa bhrūbhedād dvārarodhanāt dṛṣṭe bindau kramāl līne tanmadhye paramā sthitiḥ",
+   "paraphrase": "With the eyes closed by the hands, piercing at the brows and the openings shut, when the bindu is seen and gradually dissolves, in its midst is the supreme state. The one verse that names light as seen, and an induction by sense closure and pressure.",
+   "quote": "kararuddhadṛgastreṇa bhrūbhedād dvārarodhanāt | dṛṣṭe bindau kramāl līne tanmadhye paramā sthitiḥ || 36 ||",
+   "source_file": "sources/hin-vijnana-bhairava-tantra.txt"
+  },
+  {
+   "locator": "v. 37",
+   "about": "stages",
+   "anchor": "dhāmāntaḥkṣobhasambhūtasūkṣmāgnitilakākṛtim binduṃ śikhānte hṛdaye layānte dhyāyato layaḥ",
+   "paraphrase": "Meditating on a bindu shaped like a subtle fiery tilaka, arising from agitation within, at the crown or in the heart, one is absorbed.",
+   "quote": "dhāmāntaḥkṣobhasambhūtasūkṣmāgnitilakākṛtim | binduṃ śikhānte hṛdaye layānte dhyāyato layaḥ || 37 ||",
+   "source_file": "sources/hin-vijnana-bhairava-tantra.txt"
+  },
+  {
+   "locator": "v. 76",
+   "about": "method",
+   "anchor": "tejasā sūryadīpāder ākāśe śabalīkṛte dṛṣṭir niveśyā tatraiva svātmarūpaṃ prakāśate",
+   "paraphrase": "When space is made dappled by the brilliance of the sun, a lamp and the like, fix the gaze right there: one's own nature shines forth. A light-source gazing method.",
+   "quote": "tejasā sūryadīpāder ākāśe śabalīkṛte | dṛṣṭir niveśyā tatraiva svātmarūpaṃ prakāśate || 76 ||",
+   "source_file": "sources/hin-vijnana-bhairava-tantra.txt"
+  },
+  {
+   "locator": "v. 84",
+   "about": "method",
+   "anchor": "ākāśaṃ vimalaṃ paśyan kṛtvā dṛṣṭiṃ nirantarām stabdhātmā tatkṣaṇād devi bhairavaṃ vapur āpnuyāt",
+   "paraphrase": "Looking at the clear sky with unbroken gaze, the body motionless, one at once attains Bhairava's form. Sky gazing, eyes open.",
+   "quote": "ākāśaṃ vimalaṃ paśyan kṛtvā dṛṣṭiṃ nirantarām | stabdhātmā tatkṣaṇād devi bhairavaṃ vapur āpnuyāt || 84 ||",
+   "source_file": "sources/hin-vijnana-bhairava-tantra.txt"
+  },
+  {
+   "locator": "vv. 87-88",
+   "about": "method",
+   "anchor": "evam eva nimīlyādau netre kṛṣṇābham agrataḥ prasārya bhairavaṃ rūpaṃ bhāvayaṃs tanmayo bhavet",
+   "paraphrase": "On a dark night of the waning moon, contemplating the darkness for long, one reaches Bhairava's form; likewise, first closing the eyes, expanding the black expanse before one and contemplating it as Bhairava, one becomes it. Darkness gazing, eyes open and closed.",
+   "quote": "evam eva durniśāyāṃ kṛṣṇapakṣāgame ciram | taimiraṃ bhāvayan rūpaṃ bhairavaṃ rūpam eṣyati || 87 || evam eva nimīlyādau netre kṛṣṇābham agrataḥ | prasārya bhairavaṃ rūpaṃ bhāvayaṃs tanmayo bhavet || 88 ||",
+   "source_file": "sources/hin-vijnana-bhairava-tantra.txt"
+  },
+  {
+   "locator": "v. 32",
+   "about": "stages",
+   "anchor": "śikhipakṣaiś citrarūpair maṇḍalaiḥ śūnyapañcakam dhyāyato 'nuttare śūnye praveśo hṛdaye bhavet",
+   "paraphrase": "Meditating on the five voids through circles variegated like peacock feathers, one enters the supreme void in the heart. Whether the coloured circles are seen or imagined is not said.",
+   "quote": "",
+   "source_file": "sources/hin-vijnana-bhairava-tantra.txt"
+  }
+ ],
+ "cross_refs": [
+  "hin-thirty-minor-upanishads-aiyar",
+  "hin-avalon-serpent-power"
+ ],
+ "new_leads": [
+  "Kṣemarāja's and Śivopādhyāya's commentaries (Vivṛti) on vv. 32, 36-37 for how the bindu is said to appear"
+ ],
+ "reader_confidence": "high",
+ "confidence_note": "Read whole in Sanskrit. The English renderings are the reader's own; mode is ambiguous except in v. 36."
+}

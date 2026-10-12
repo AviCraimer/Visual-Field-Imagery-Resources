@@ -1,0 +1,51 @@
+{
+ "id": "snt-johnson-path-of-the-masters",
+ "stream": "sant-mat",
+ "title": "The Path of the Masters: The Science of Surat Shabd Yoga",
+ "author": "Julian P. Johnson (1873-1939)",
+ "translator": null,
+ "year": "1939",
+ "edition_cited": "First edition, Radha Swami Satsang Beas, printed at the Tribune Press, Ambala, 'Copyright 1939'; Digital Library of India scan, archive.org item dli.ernet.537309",
+ "tradition": "Radha Soami Satsang Beas (Western initiate of Sawan Singh)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "unknown",
+ "access": "partial_saved",
+ "url": "https://archive.org/details/dli.ernet.537309",
+ "alt_urls": [
+  "https://archive.org/details/in.ernet.dli.2015.506039",
+  "https://archive.org/details/ThePathOfTheMasters"
+ ],
+ "source_files": [
+  "sources/snt-johnson-path-of-the-masters.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Chapter XI, section 4 'The Surat Shabda Yoga' (printed pp. c. 378-386): the seat behind the eyes 'an inch and a half or two inches' back; simran; closing the nine doors; printed p. 382: 'He will at first experience flashes of light, or hear sounds ... he must never go out after any sound or sight'",
+  "Same section: the tenth door; the starry sky, sun and moon worlds; meeting the Radiant Form (Nuri Sarup); Sahasra-dal Kanwal described as a large central light with a thousand small ones",
+  "Section 5 'The Technology of this Yoga' (printed p. c. 386 ff.): asana, no pranayama, dharana, smarana before dhyana",
+  "Index entries in the full book: Darkness 37, 89, 167, 178, 194, 199; Flash 310, 382"
+ ],
+ "summary": "The standard Western exposition of the Beas teaching, written by an American physician after seven years with Sawan Singh. The practical chapter (XI, sections 4 and 5) describes the method in general terms, omitting what is reserved for initiation: sit, forget the outer world, fix attention at a centre behind the eyes, repeat the given names until the mind rests there and the limbs lose feeling. Then 'he must get results': flashes of light or sounds come first, and the rule is to stay at the centre and let them come, since going after any sight or sound loses both. Next come the tenth door, a sky of stars, sun and moon, and the Master's radiant form, after which the sound current takes over. Johnson says there is no breath control in this yoga and maps its limbs onto Patanjali's.",
+ "why_relevant": "Widely read public statement of the method and of the rule for handling first flashes; the source through which Eckankar and other Western offshoots received the scheme.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "sound_or_mantra",
+  "eye_position",
+  "concentration_nonvisual",
+  "attention_to_spontaneous_phenomena",
+  "devotion_or_transmission"
+ ],
+ "priority": 2,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1939",
+  "class": "published_record",
+  "basis": "Title page of the scanned first edition: 'All rights reserved, Copyright 1939', Radha Swami Satsang Beas; archive.org metadata date 1939 (Digital Library of India)."
+ },
+ "author_identifiable": true,
+ "author_basis": "Julian P. Johnson, American surgeon resident at Dera Baba Jaimal Singh 1932-1939",
+ "found_via": "seed lead; archive.org title search 'path of the masters johnson'",
+ "notes": "Rights unknown: published in India in 1939 by an author who died that year (public domain in India; US status not checked), still printed by RSSB. Treated as in copyright: only Chapter XI sections 4-5 are saved (about 3% of the book), paraphrase + anchor only. OCR is double-spaced with frequent c/e and w/vv errors: pick anchors from clean lines. Johnson's With a Great Master in India (1934) was checked and has little on seen light."
+}

@@ -1,0 +1,46 @@
+{
+ "id": "snt-expremie-journey-ajw",
+ "stream": "sant-mat",
+ "title": "Journeys: A. J. W. (Anth Ginn)",
+ "author": "Anth Ginn (handle AJW)",
+ "translator": null,
+ "year": "1998, with additions signed 2001 (recounting 1972-1998)",
+ "edition_cited": "ex-premie.org 'Journeys' page as read on 2026-10-11",
+ "tradition": "Divine Light Mission / Elan Vital (Prem Rawat, 'Knowledge'); former member of 25 years",
+ "language": "English",
+ "source_type": "practitioner_testimony",
+ "rights": "in_copyright",
+ "access": "fulltext_saved",
+ "url": "https://ex-premie.org/pages/journs/j_ajw.htm",
+ "alt_urls": [],
+ "source_files": [
+  "sources/snt-expremie-journey-ajw.full.txt",
+  "sources/snt-expremie-journey-ajw.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Section on the friend's promise: 'you'll see this light, brighter than a thousand suns, better than acid'",
+  "Initiation, March 1973, section beginning 'Being ready meant understanding...': 'I didn't see light brighter than a thousand suns'",
+  "Section 'Premies should no longer practise...': late-1980s restriction of the first technique to formal sitting",
+  "'Forum Frolicks' / 'Wasting Time': lack of experience blamed on the practitioner"
+ ],
+ "summary": "A long memoir by a man who received the Knowledge in March 1973 and stayed twenty-five years. He had been told that in meditation he would see a light brighter than a thousand suns. Shown the four techniques, he saw no such light and heard no music, only a vague buzzing; the instructors' concern was whether he was 'ready', meaning convinced there was one Master and one method. He lived in ashrams with meditation every morning from six. He notes that in the late 1980s premies were told to stop practising the first technique through the day and to do it only when sitting, and that a meditator who did not experience 'infinite glory' was told the fault was his own impurity. He reports no later onset of light.",
+ "why_relevant": "Long-term practitioner who was promised light, was taught the induction technique, and reports not seeing it across 25 years; documents how the organisation explained non-seeing.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "eye_pressure_or_sense_closure",
+  "devotion_or_transmission"
+ ],
+ "priority": 1,
+ "medium": "web_article",
+ "date_evidence": {
+  "date": "1998-11-01",
+  "class": "self_reported",
+  "basis": "Page header \"Date: November 1, 1998\"; signed \"Utrecht March 2001\" at the end. Full page saved by the user as MHT on 2026-10-11."
+ },
+ "author_identifiable": true,
+ "author_basis": "Signed 'Anth Ginn' with an email address on a long-running ex-member site",
+ "found_via": "WebSearch restricted to ex-premie.org",
+ "notes": "Reader extract. The extract does not say how he performed the first technique or for how long each day; the null result is stated for the initiation and no later light is mentioned, which is weaker than an explicit statement that none ever came. Full page text supplied by the user (MHT, 14,572 words); the earlier reader extract is superseded."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "wes-iamblichus-de-mysteriis", "stream": "western-esoteric",
+  "verdict": "keep", "drop_reason": null, "drop_note": "",
+  "relevance": 4, "practicality": 2,
+  "text_read": "digest only (Taylor and Wilder translations)",
+  "mode": "ambiguous",
+  "mode_evidence": "Iamblichus says the divine light shines on the luminous vehicle of the soul and moves the faculty of imagination (phantasia), while attention and reason stay conscious. The light is thus received in the imaginal faculty yet also named as light brought through sun, moon, air, water or a wall. Book II separately grades luminosity and fire seen at epiphanies as visible appearances.",
+  "eyes": "open",
+  "onset_pathway": "unclear",
+  "onset_evidence": "No technique for breaking through is given. Methods listed (darkness, sun or moon light, open air, water, a prepared wall, chants) are only vehicles; the light comes from the will of the gods, who shine through whatever instruments they choose. The Chaldean Oracles quoted by Wilder say one should not invoke the vision before the body is perfected or initiated.",
+  "stimulus_independence": "unclear",
+  "techniques": ["darkness_exposure", "light_source_gazing", "sky_or_space_gazing", "scrying_surface", "sound_or_mantra", "devotion_or_transmission"],
+  "conditions": {"posture": "", "gaze_or_eye_position": "", "setting": "darkness, open air, sun or moon light, water, or a wall prepared with sacred engraved figures", "duration_and_schedule": "", "prerequisites": "the gods' will; priestly preparation; initiation per the Oracles", "other": "the light is fixed in a solid place so it is not widely diffused"},
+  "phenomena": ["lamp_or_flame", "all_pervading_light", "figures_or_forms", "lightning_flashes"],
+  "stages": [
+    {"label": "grades of light at epiphanies", "description": "Images of gods are replete with fulgid light, archangels supernaturally luminous, angels luminous, demons a turbid or smouldering fire, souls partial gleams; the fire of the gods is stable, that of angels in motion, that of demons unstable."}
+  ],
+  "what_to_do_with_light": "Receive it; the seer stays attentive and awake. It is not to be produced by technique.",
+  "obstacles_and_fixes": [],
+  "cautions": ["Chaldean Oracles: do not invoke the Autoptic Image of Being before the body is perfected or initiated", "The light is from the gods, not the operator's art"],
+  "safety_flags": ["transmission_required_by_tradition"],
+  "interpretation": "A single faculty, the 'bringing of light' (photagogia): divine light illuminating the soul's aether-like vehicle and moving the imagination, whatever the outward medium.",
+  "practice_summary": "Iamblichus describes rather than prescribes. Diviners who stay conscious are lit from the gods by one faculty, the bringing of light. The outward means are darkness as an auxiliary, the light of sun or moon, the open air, chants prepared for the god's coming, conducting light through water, or letting it shine on a wall prepared with sacred engraved figures and fixed in a solid place so it does not diffuse. Attention and reason remain aware while the fancy is moved by the gods. The light is external, undivided and subject only to the gods' will, so none of these means compels it. A Damascius note describes a woman who poured pure water into a glass cup and saw luminous appearances of future events in it.",
+  "key_passages": [
+    {"locator": "Taylor, Book III ch. 14, source lines 6289-6401", "about": "mode",
+     "anchor": "of the soul, are conscious of what is effected, since the divine light does not come into",
+     "paraphrase": "The seer's attention and reasoning remain conscious because the divine light does not touch them; only the imaginative faculty is divinely moved.", "quote": "", "source_file": "sources/wes-iamblichus-de-mysteriis.taylor.txt"},
+    {"locator": "Taylor, Book III ch. 14, source lines 6289-6401", "about": "method",
+     "anchor": "receive darkness as a cooperator, and employ in illuminating the light of the sun, or of the moon, or, in short, of the air.",
+     "paraphrase": "Light-bringers use darkness as an auxiliary and employ sun, moon or open air.", "quote": "", "source_file": "sources/wes-iamblichus-de-mysteriis.taylor.txt"},
+    {"locator": "Taylor, Book III ch. 14, source lines 6289-6401", "about": "method",
+     "anchor": "cause light to shine forth on a wall, having previously prepared the wall for the reception of light in the best manner",
+     "paraphrase": "Light is made to shine on a wall prepared with sacred characters and fixed in a solid place so it is not widely diffused.", "quote": "", "source_file": "sources/wes-iamblichus-de-mysteriis.taylor.txt"},
+    {"locator": "Taylor, Book III ch. 14, source lines 6289-6401", "about": "onset",
+     "anchor": "and has every thing which it possesses subservient to the will and intelligence alone of the Gods",
+     "paraphrase": "The illumination comes from outside and is subject only to the will of the gods, however it is brought.", "quote": "", "source_file": "sources/wes-iamblichus-de-mysteriis.taylor.txt"},
+    {"locator": "Taylor, Book III ch. 14 footnote, source lines 6289-6401", "about": "testimony",
+     "anchor": "pouring pure water into a certain glass cup, she saw in the water that was within the cup the luminous appearances of future events",
+     "paraphrase": "Damascius reports a gifted woman who saw luminous appearances in a cup of water.", "quote": "", "source_file": "sources/wes-iamblichus-de-mysteriis.taylor.txt"}
+  ],
+  "cross_refs": [], "new_leads": [],
+  "reader_confidence": "medium", "confidence_note": "Digest only; theological, with no operational instruction for the seer."
+}

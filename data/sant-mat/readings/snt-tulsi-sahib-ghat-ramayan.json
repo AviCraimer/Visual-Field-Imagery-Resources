@@ -1,0 +1,129 @@
+{
+ "id": "snt-tulsi-sahib-ghat-ramayan",
+ "stream": "sant-mat",
+ "verdict": "keep",
+ "drop_reason": null,
+ "drop_note": "",
+ "relevance": 5,
+ "practicality": 3,
+ "text_read": "Section 'भक्ति का वरनन' file lines 3670-3730 read in full in the original Hindi; grep of the whole file for तिल, जोति/ज्योति and other light terms. Rest of the book not read.",
+ "mode": "perceptual",
+ "mode_evidence": "Repeatedly 'seen' (दीसे, दिखावा, देखे, निरखि): a star 'appears' (दीसे इक तारा) at the sky-door; the light 'grows' as surat advances; the moon is 'seen in the ghat (body)'. Framed as seen with the inner eye (निज नैना) in the body, not as imagined.",
+ "eyes": "unspecified",
+ "onset_pathway": "induction",
+ "onset_evidence": "Instruction: in the black lotus the satguru dwells; know the til-sized point there; fix the mind there moment by moment so that not one blink breaks it (छिन छिन मन के तहाँ लगावे। एक पलक दुटन नहिं पावे), dwell in the til window night and day; then the star appears and the anahad sound is heard. Prerequisite: refuge at the satguru's feet (सतगरू पद). No time scale beyond 'night and day' and 'some days' (कछु दिवस) of travel within.",
+ "stimulus_independence": "not_applicable",
+ "techniques": [
+  "gazing_fixed_point",
+  "concentration_nonvisual",
+  "sound_or_mantra",
+  "devotion_or_transmission"
+ ],
+ "conditions": {
+  "posture": "",
+  "gaze_or_eye_position": "Surat fixed at the til (sesame-seed point) at the black lotus (स्याम कंज)",
+  "setting": "",
+  "duration_and_schedule": "Unbroken, moment by moment; night and day",
+  "prerequisites": "Satguru",
+  "other": "Coupled with listening to the anahad nad"
+ },
+ "phenomena": [
+  "stars",
+  "lightning_flashes",
+  "colour_fields",
+  "white",
+  "red",
+  "gold_yellow",
+  "green",
+  "lamp_or_flame",
+  "moon_disc",
+  "sun_disc",
+  "all_pervading_light",
+  "figures_or_forms"
+ ],
+ "stages": [
+  {
+   "label": "तिल / इक तारा",
+   "description": "Surat fixed at the til; a single star appears at the sky-door; anahad nad heard"
+  },
+  {
+   "label": "बीज (lightning)",
+   "description": "Lightning flashes in the sky; light grows as surat moves toward the door"
+  },
+  {
+   "label": "पाँच रंग",
+   "description": "White and black, then five colours: black, red, white, yellow, green"
+  },
+  {
+   "label": "जोति",
+   "description": "Tej and jyoti shown, like a lamp seen through a temple door"
+  },
+  {
+   "label": "चंद",
+   "description": "The jyoti bursts; a full moon seen within, moonlight spreads; many stars"
+  },
+  {
+   "label": "भान (sun)",
+   "description": "Star and moon fade; light like the midday sun in the ghat; the seven continents, oceans, rivers and all beings seen within"
+  }
+ ],
+ "what_to_do_with_light": "Keep the surat steady (ठहराइ) and keep ascending; the lights mark successive stations, not the goal.",
+ "obstacles_and_fixes": [
+  "The mind must not break away even for a blink"
+ ],
+ "cautions": [],
+ "safety_flags": [
+  "transmission_required_by_tradition"
+ ],
+ "interpretation": "The lights are the stations of the surat's ascent through the inner sky (gagan) toward the satguru's abode.",
+ "practice_summary": "Taking refuge in the satguru, fix the attention (surat) at the sesame-seed point in the dark lotus behind the eyes, renewing it moment by moment so that not even a blink breaks it, and live there night and day. A single star appears at the door of the sky and the unstruck sound is heard; listen and let the surat settle. Lightning flashes; the light grows as the surat advances. White and black appear, then five colours. Then a light like a lamp seen through a temple door; it bursts and a full moon appears within, then many stars; then a light like the midday sun fills the body, in which the whole cosmos is seen.",
+ "key_passages": [
+  {
+   "locator": "भक्ति का वरनन, file lines 3682-3686",
+   "about": "onset",
+   "anchor": "छिन छिन मन के तहाँ लगावे। एक पलक दुटन नहिं पावे ॥",
+   "paraphrase": "Fix the mind on the til-sized point moment by moment, not breaking for a single blink; dwell in the til window night and day.",
+   "quote": "स्थाम कंज लोला गिरि साई ।तिल परिमान जान जन का हुं॥ छिन छिन मन के तहाँ लगावे। एक पलक दुटन नहिं पावे ॥",
+   "source_file": "sources/snt-tulsi-sahib-ghat-ramayan.txt"
+  },
+  {
+   "locator": "file lines 3686-3687",
+   "about": "stages",
+   "anchor": "गगन द्वार दीसे इक तारा। अनहद नाद सुने ऋनकाराव",
+   "paraphrase": "At the sky-door a single star appears; the unstruck sound is heard.",
+   "quote": "",
+   "source_file": "sources/snt-tulsi-sahib-ghat-ramayan.txt"
+  },
+  {
+   "locator": "file lines 3693-3697",
+   "about": "stages",
+   "anchor": "जस जस सुरति सरकि सत द्वारा।ततस तस बढ़त जात उंजिया रा ॥",
+   "paraphrase": "Lightning flashes in the sky; as the surat moves toward the door the light keeps growing; then five colours.",
+   "quote": "",
+   "source_file": "sources/snt-tulsi-sahib-ghat-ramayan.txt"
+  },
+  {
+   "locator": "file lines 3710-3714",
+   "about": "stages",
+   "anchor": "जैसे मंदिर दीप किवारा। ऐसे जाति हात उेंजियारा ॥",
+   "paraphrase": "Jyoti appears like a lamp at a temple door; it bursts and a full moon is seen within.",
+   "quote": "",
+   "source_file": "sources/snt-tulsi-sahib-ghat-ramayan.txt"
+  },
+  {
+   "locator": "file lines 3722-3723",
+   "about": "stages",
+   "anchor": "तारा चंद्र तेज मंद मयऊ । जाम मध्यान भान घट भयकऊ॥",
+   "paraphrase": "Star and moon dim; a midday sun arises in the body.",
+   "quote": "",
+   "source_file": "sources/snt-tulsi-sahib-ghat-ramayan.txt"
+  }
+ ],
+ "cross_refs": [
+  "snt-kirpal-crown-of-life",
+  "snt-sawan-singh-spiritual-gems"
+ ],
+ "new_leads": [],
+ "reader_confidence": "medium",
+ "confidence_note": "Read in original Hindi through noisy OCR with dropped vowel signs; the stage sequence is clear but individual words (e.g. the colour list) are partly conjectural."
+}

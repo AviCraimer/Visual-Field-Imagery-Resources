@@ -1,0 +1,44 @@
+{
+ "id": "snt-expremie-journey-strasburg",
+ "stream": "sant-mat",
+ "title": "Journeys: Tor Strasburg",
+ "author": "Tor Strasburg",
+ "translator": null,
+ "year": "2012 (recounting 1972 onward)",
+ "edition_cited": "ex-premie.org 'Journeys' page as read on 2026-10-11",
+ "tradition": "Divine Light Mission / Elan Vital (Prem Rawat, 'Knowledge'); former member",
+ "language": "English",
+ "source_type": "practitioner_testimony",
+ "rights": "in_copyright",
+ "access": "reader_extract_saved",
+ "url": "https://ex-premie.org/pages/journs/strasburg.htm",
+ "alt_urls": [],
+ "source_files": [
+  "sources/snt-expremie-journey-strasburg.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Early paragraph on receiving Knowledge in 1972 from Mohani Bai Ji at the Frankfurt ashram: 'explosive experience ... pushing on the optic nerve'",
+  "Same paragraph: the 1974 announcement that the light technique had changed; 'gently stabilize the eyes, not push'; 'The light pretty much disappeared but there was still a faint luminosity'",
+  "Later: 2009 Knowledge review; 2012 comparison with a secular guided meditation"
+ ],
+ "summary": "A named former member recounts receiving the Knowledge at seventeen in Frankfurt in 1972, after two weeks of satsang. The first technique, then done by pushing on the eyes, gave him what he calls an explosive experience, which he now attributes to pressure on the optic nerve. He practised daily and diligently for two years. In 1974 premies were officially told the light technique had changed: one should only gently stabilise the eyes and not push. With the pressure gone, the light 'pretty much disappeared', leaving a faint luminosity; he concluded they had been 'looking at the wrong light'. He goes on to describe inconsistencies in all four techniques, an unhelpful technique review in 2009, and his judgement in 2012 that a short secular guided meditation worked as well as the breath technique.",
+ "why_relevant": "Rare before-and-after report on the same practitioner: pressure-induced light for two years, then near disappearance when pressure was withdrawn. Direct evidence on stimulus independence.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "eye_pressure_or_sense_closure",
+  "devotion_or_transmission"
+ ],
+ "priority": 1,
+ "medium": "web_article",
+ "date_evidence": {
+  "date": "2012-12-17",
+  "class": "self_reported",
+  "basis": "'Date: December 17, 2012' printed at the head of the Journeys entry; no other posting date on the page."
+ },
+ "author_identifiable": true,
+ "author_basis": "Signed with full name and an email address on a long-running ex-member site; a private individual, not a public figure",
+ "found_via": "WebSearch restricted to ex-premie.org ('light technique' never saw light)",
+ "notes": "Safety: eye pressure. Reader extract; anchors only from the quoted phrases. Short on procedure (no finger placement or durations) but precise on the sequence of events."
+}

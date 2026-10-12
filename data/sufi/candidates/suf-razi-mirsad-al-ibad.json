@@ -1,0 +1,55 @@
+{
+ "id": "suf-razi-mirsad-al-ibad",
+ "stream": "sufi",
+ "title": "Mirsad al-'ibad min al-mabda' ila'l-ma'ad (The Path of God's Bondsmen from Origin to Return), Part 3, chs. 12-18: dhikr, khalwa, visions, the witnessing of lights",
+ "author": "Najm al-Din Razi, known as Daya (d. 654/1256)",
+ "translator": null,
+ "year": "1223 (first recension), 1230 (second); editions 1933 and 1973",
+ "edition_cited": "Persian text. File 1: chapters 12-18 of Part 3 from the OCR of M. A. Riyahi's edition (Tehran, 1973; 10th printing 2004), archive.org mirsad_al-ibad_202511. File 2: whole book, OCR of the 1312 SH/1933 Tehran edition, archive.org mersadol-ebad-edite-shode",
+ "tradition": "Kubrawiyya (disciple of Majd al-Din Baghdadi and Kubra)",
+ "language": "Persian",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "partial_saved",
+ "url": "https://archive.org/details/mirsad_al-ibad_202511",
+ "alt_urls": [
+  "https://archive.org/details/mersadol-ebad-edite-shode"
+ ],
+ "source_files": [
+  "sources/suf-razi-mirsad-al-ibad.txt",
+  "sources/suf-razi-mirsad-al-ibad.1933.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Line numbers refer to file 1 (sources/suf-razi-mirsad-al-ibad.txt)",
+  "l. ~1-150: Part 3 ch. 12, need for dhikr and choice of la ilaha illa'llah",
+  "l. ~150-310: ch. 13, how to perform dhikr, conditions and manners (posture, dark room, force of the formula)",
+  "l. ~535-885: ch. 15, khalwa: its conditions (small dark cell, ablution, fast, silence, constant dhikr, expelling thoughts, heart bound to the shaykh)",
+  "l. ~885-1268: ch. 16, unseen events (waqa'i') and how they differ from dreams",
+  "l. ~1268-1755: ch. 17, witnessing of lights and their degrees: first flashes and gleams (buruq, lawami', lawa'ih); then lamp, candle, torch, fires; then stars, moon, sun; then lights without locus; sources of each kind; the colour sequence by station (look for 'nuri azraq', 'nuri zard', white, green, red, black) ~l. 1595-1700",
+  "l. ~1755-2000: ch. 18, unveilings and their kinds"
+ ],
+ "summary": "The Kubrawi handbook in Persian. The chapters saved cover the working method (dhikr of la ilaha illa'llah, how to sit and strike it, why it must be received from a shaykh, the conditions of the forty-day retreat in a small dark cell) and then what is seen. Chapter 17 says that as the heart is polished by dhikr lights appear: at first mostly as lightning-flashes and gleams, then as lamps, candles, torches and kindled fires, then as small and large stars, moon and sun, then as lights free of any locus. It assigns each form to a source (flashes mostly from dhikr and ablution; lamp-like light from the shaykh or the Qur'an; and so on), gives a sequence of colours tied to the stations of the soul ending in black light, and insists that colour and shape belong to the veils of imagination: the pure light has neither.",
+ "why_relevant": "Step-by-step khalwa and dhikr instruction with a staged account of first light (flashes) and its development, and an interpretive key; the most systematic classical source on the Kubrawi light sequence. Seed lead confirmed.",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "sound_or_mantra",
+  "darkness_exposure",
+  "sensory_restriction",
+  "fasting_or_austerity",
+  "devotion_or_transmission",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1933",
+  "class": "published_record",
+  "basis": "13th-century work. File 2 title page (OCR) gives the Tehran printing of 1312 SH (1933); file 1 front matter gives Riyahi's edition, first printed 1352 SH (1973), 10th printing 1383 SH (2004). archive.org item dates are upload dates only"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; archive.org search for the Persian title",
+ "notes": "Both files are OCR of Persian print; file 1 is the more legible but has the editor's variant-reading apparatus interleaved; anchors must be copied exactly as they stand in the file. English: Hamid Algar, The Path of God's Bondsmen from Origin to Return (Caravan Books, 1982; in copyright, not saved): Part 3 chs. 12-19, with ch. 17 'The Witnessing of Lights and their Degrees'. An unauthorised scan of Algar exists on archive.org and was deliberately not downloaded."
+}

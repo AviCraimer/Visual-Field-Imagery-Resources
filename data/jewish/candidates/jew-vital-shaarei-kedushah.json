@@ -1,0 +1,51 @@
+{
+ "id": "jew-vital-shaarei-kedushah",
+ "stream": "jewish",
+ "title": "Sha'arei Kedushah (Gates of Holiness), Part 3 gates 1-8 and the stub of Part 4",
+ "author": "Hayyim Vital",
+ "translator": "Amiram Markel",
+ "year": "c. 1572-1578 (composition, per Sefaria); English 2013",
+ "edition_cited": "Sefaria: Hebrew 'Shaarei Kedusha' (Public Domain); English 'Gates of Holiness, translated by Rabbi Amiram Markel, 2013' (CC-BY, source TrueKabbalah.com)",
+ "tradition": "Safed Kabbalah (Vital, school of Isaac Luria)",
+ "language": "Hebrew with complete English",
+ "source_type": "classical_text",
+ "rights": "in_copyright",
+ "access": "fulltext_saved",
+ "url": "https://www.sefaria.org/Sha'arei_Kedusha,_Part_3.5",
+ "alt_urls": [
+  "https://www.sefaria.org/Sha'arei_Kedusha,_Part_3.8"
+ ],
+ "source_files": [
+  "sources/jew-vital-shaarei-kedushah.txt",
+  "sources/jew-vital-shaarei-kedushah.III5-translation.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Part 3, Gate 5, paragraphs 8-12: divestment (hitpashtut); the imagination is redirected to depict ascent and 'the forms of all these lights'; the light then descends into the imagination and is 'copied' to the five outer senses",
+  "Part 3, Gate 5, paragraph 14: the outer senses tremble and the prophet collapses",
+  "Part 3, Gate 6, paragraphs 7-10: summary, need for transmitted kavvanot and yichudim",
+  "Part 3, Gate 8, paragraphs 8-11: the practical summary 'for our times': secluded house, after midnight, eyes closed, as if dead; what to do when nothing is felt; testing the spirit; removing the imagination",
+  "Part 4, paragraphs 3-6: only the heading and the early printers' note that Part 4 was withheld"
+ ],
+ "summary": "Vital's theory and procedure for attaining ruach ha-kodesh. Gate 5 says the practitioner stops the imaginative faculty (koach ha-medameh) from picturing worldly things and turns it to depict his ascent through the worlds, engraving 'the forms of all these lights' in thought 'though he does not actually see them'. He then intends to draw light down; when it reaches the imagination it is depicted 'as though he literally saw them with his physical eyes', sometimes as an angel, and may pass on to the outer senses so that he sees and hears physically. Gate 8 gives the working method: repentance and purity, a secluded house after midnight, eyes closed, thought emptied 'like a dead person', yearning upward. If he feels nothing he is not yet fit and should return later. Early visitations are rare and slight; he must test them and uproot imagination.",
+ "why_relevant": "An explicit classical account of imagined lights crossing into sense perception, with instructions, advice for the person who gets no result, and warnings about deceptive spirits. Fits `imaginal_crossing` closely.",
+ "expected_mode": "imaginal_crossing",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "visualization_crossing",
+  "sensory_restriction",
+  "sleep_threshold",
+  "concentration_nonvisual"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "2013",
+  "class": "published_record",
+  "basis": "Sefaria version record for the English: 'Gates of Holiness, translated by Rabbi Amiram Markel, 2013'; Sefaria's index gives composition 1572-1578. The Hebrew is Sefaria's public-domain transcription of the traditional printed text (first printed 18th century; year not stated on Sefaria)."
+ },
+ "author_identifiable": true,
+ "author_basis": "Hayyim Vital (1542-1620); translator Amiram Markel named in the Sefaria version record",
+ "found_via": "seed lead; Sefaria index listing",
+ "notes": "Rights: the Hebrew is public domain and may be quoted; the English is CC-BY (reuse permitted with attribution) but is recorded here as in_copyright, so use paraphrase plus anchor for English. Part 4 (the techniques with Names, with Vital's extracts from Abulafia, Isaac of Acre and others) is NOT on Sefaria: the saved text has only the printers' note and the translator's footnote saying it was printed in Ketavim Chadashim me-Rabbenu Hayyim Vital (Jerusalem 1988). Kaplan's Meditation and Kabbalah translates parts of it (see jew-kaplan-meditation-and-kabbalah). III.5 also in a fresh English translation from the Hebrew supplied by the user (12 Oct); prefer it to the Markel translation for that gate."
+}

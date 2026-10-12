@@ -1,0 +1,50 @@
+{
+ "id": "hin-vivekananda-raja-yoga",
+ "stream": "hindu-yoga-tantra",
+ "title": "Raja Yoga: being lectures by the Swami Vivekananda, with Patanjali's Aphorisms, Commentaries and a Glossary",
+ "author": "Swami Vivekananda",
+ "translator": null,
+ "year": "1896; new edition printed 1920",
+ "edition_cited": "New York: Brentano's, new edition with enlarged glossary (archive.org raajayogabeingle00viveuoft, University of Toronto scan, catalogued 1920)",
+ "tradition": "Ramakrishna-Vivekananda Vedanta; modern Raja Yoga",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/raajayogabeingle00viveuoft",
+ "alt_urls": [
+  "https://archive.org/details/RajaYogaAndPatanjalisYogaAphorisms"
+ ],
+ "source_files": [
+  "sources/hin-vivekananda-raja-yoga.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Chapter 'Pratyahara and Dharana', printed pp. 68-69 (file lines c. 2505-2540): imagine a lotus full of effulgent light in the heart or brain; signs for those who practise hard: 'little specks of light floating and becoming bigger and bigger ... know that you are progressing very fast'",
+  "Chapter 'Dhyana and Samadhi' and the lesson summaries: lotus of the heart turned upward with 'an effulgent light' inside (file lines c. 3285, 4798-4804)",
+  "Commentary on Patanjali 1.36 and 3.25-33 (file lines c. 6930-6940): samyama on the 'effulgent light' in the heart",
+  "Appendix, Svetasvatara Upanishad ch. 2, printed pp. 224-225 (file lines c. 7935-7950): 'Like snowfall, smoke, sun, wind, fire, firefly, lightning, crystal, moon, these forms, coming before, gradually manifest the Brahman in Yoga'",
+  "File line c. 5862-5870: the yogi's perception becoming fine enough to see the light every being emanates"
+ ],
+ "summary": "Vivekananda's 1895-96 New York class lectures. Light enters in three ways. As an aid to dharana he recommends 'a little play of the imagination': think of a lotus in the heart or brain as full of effulgent light, or meditate on a flame-like light inside the upturned heart-lotus on the out-breath. As a sign: those who practise hard will sometimes hear bell-like sounds and see 'little specks of light floating and becoming bigger and bigger', which he tells students to take as proof of fast progress, without further instruction on working with them. As scripture: his appendix translates Svetasvatara 2.11, the list of forms (snowfall, smoke, sun, fire, firefly, lightning, crystal, moon) that precede realisation. He also says practised perception comes to see the light emanating from living beings. No troubleshooting for those who see nothing.",
+ "why_relevant": "Influential modern teacher treating spontaneously arising seen lights as a progress sign, alongside a visualised light whose relation to the seen lights the reading agent should assess.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "visualization_crossing",
+  "breath_control",
+  "concentration_visual_object",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 2,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1920",
+  "class": "published_record",
+  "basis": "archive.org metadata for raajayogabeingle00viveuoft gives year 1920 (Toronto scan of the Brentano's 'new edition'); first edition 1896, author died 1902"
+ },
+ "author_identifiable": true,
+ "author_basis": "Swami Vivekananda (1863-1902)",
+ "found_via": "seed lead; archive.org title/creator search",
+ "notes": "The specks-of-light passage is brief; relevance rests on it and on the Svetasvatara list. Vivekananda's own boyhood experience of a ball of light between the eyebrows on falling asleep is reported in the biographies, not in this book (not pursued)."
+}

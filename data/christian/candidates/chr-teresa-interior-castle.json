@@ -1,0 +1,46 @@
+{
+ "id": "chr-teresa-interior-castle",
+ "stream": "christian",
+ "title": "The Interior Castle, or The Mansions",
+ "author": "Teresa of Avila (1515-1582)",
+ "translator": "The Benedictines of Stanbrook; revised with notes by Benedict Zimmerman",
+ "year": "written 1577; this edition 1921",
+ "edition_cited": "London: Thomas Baker, 3rd ed. 1921. archive.org scan interiorcastleor00tere",
+ "tradition": "Spanish Carmelite",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/interiorcastleor00tere",
+ "alt_urls": [],
+ "source_files": [
+  "sources/chr-teresa-interior-castle.txt",
+  "sources/chr-teresa-interior-castle-es.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Sixth Mansions, ch. VIII: intellectual visions and advice on them (from about line 8968)",
+  "Sixth Mansions, ch. IX: imaginary visions (lines 9295-9760; printed pp. 236 ff.): the locket simile; vision 'passes as quickly as a flash of lightning'; 'an infused light like that of the sun covered with a veil as transparent as a diamond'; 'seen by the interior sight alone; but of bodily apparitions I can say nothing'; later sections on how imagination counterfeits visions and why they must never be desired",
+  "Sixth Mansions, ch. X and Seventh Mansions ch. I (line 10480: 'like a most dazzling cloud of light')",
+  "Editor's note on corporal, imaginary and intellectual visions (lines 6600-6690)"
+ ],
+ "summary": "Teresa's mature treatise for her nuns, written as instruction. Sixth Mansions chapters VIII to X go over the same ground as the Life but as teaching: the intellectual vision in which nothing is seen; the imaginative vision, which comes without warning, lasts about as long as a lightning flash, shows a living figure in 'an infused light like that of the sun covered with a veil as transparent as a diamond', and usually brings on ecstasy. She says the image is seen 'by the interior sight alone' and that she cannot speak of bodily apparitions because she never had one. She describes people of weak imagination who think they see what they picture, gives marks for telling the difference, and sets out reasons never to ask for or desire such visions. An editorial note states the scholastic threefold classification.",
+ "why_relevant": "Practical guidance from a visionary to others on how seen light and form arrive, how to tell them from self-generated imagery, and why not to seek them; supplies the classification the stream's boundary note asks for.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "development_only",
+ "expected_techniques": [
+  "devotion_or_transmission",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1921",
+  "class": "published_record",
+  "basis": "archive.org metadata year 1921; imprimatur in the saved text dated 24 February 1921"
+ },
+ "author_identifiable": true,
+ "author_basis": "",
+ "found_via": "seed lead; archive.org title search",
+ "notes": "OCR renders 'ct' ligatures as 'd:' in places ('pid:ure'); choose anchors from clean lines. Spanish text saved from archive.org lasmoradas00tereuoft (Las Moradas, ed. Tomas Navarro Tomas, Clasicos Castellanos, Madrid 1916; OCR) as sources/chr-teresa-interior-castle-es.txt."
+}

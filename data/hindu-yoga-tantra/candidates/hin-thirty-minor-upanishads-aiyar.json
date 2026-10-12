@@ -1,0 +1,54 @@
+{
+ "id": "hin-thirty-minor-upanishads-aiyar",
+ "stream": "hindu-yoga-tantra",
+ "title": "Thirty Minor Upanishads (Mandalabrahmana and other Yoga Upanishads)",
+ "author": "Anonymous (medieval Yoga Upanishads)",
+ "translator": "K. Narayanasvami Aiyar",
+ "year": "medieval texts; translation 1914",
+ "edition_cited": "Madras: [printed by Annie Besant at the Vasanta Press, Adyar], 1914; OCR of archive.org scan thirtyminorupani00xxxxuoft",
+ "tradition": "Yoga Upanishads (taraka yoga, hatha and laya yoga in Vedantic frame)",
+ "language": "English",
+ "source_type": "classical_text",
+ "rights": "public_domain",
+ "access": "fulltext_saved",
+ "url": "https://archive.org/details/thirtyminorupani00xxxxuoft",
+ "alt_urls": [
+  "https://archive.org/details/thirtyminorupani00naraiala"
+ ],
+ "source_files": [
+  "sources/hin-thirty-minor-upanishads-aiyar.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Mandalabrahmana-Upanishad, Brahmana I (printed pp. 244-246; file lines c. 11560-11680): taraka, the three lakshyas, colours seen 4 to 12 digits before the nose, streaks at the eye-corners, jyotis 12 digits above the head, purva (taraka) and uttara (amanaska) yoga, Sambhavi",
+  "Mandalabrahmana, Brahmana II (printed p. 247; file lines c. 11682-11740): three kinds of sight (closed, half-open, fully open eyes: ama, pratipat, purnima); 'the practice of purnima should be resorted to', aim at the nose-tip; darkness at the root of the palate, then a sphere of light; ordered signs: star, diamond, full moon, nine gems, midday sun, flame",
+  "Yogatattva-Upanishad (file line c. 8990 ff.)",
+  "Nadabindu-Upanishad (file line c. 12030 ff.): sound practice",
+  "Yogakundali-Upanishad (file line c. 12342 ff.)",
+  "Also in the volume: Dhyanabindu, Sandilya, Tejobindu, Hamsa, Varaha, Trisikhibrahmana if present: search 'light', 'jyotis', 'lamp', 'lightning', 'smoke', 'firefl'",
+  "File line c. 8653: 'calm contemplation of the world of taraka (star or eye) between' (another Upanishad, identify)"
+ ],
+ "summary": "The Mandalabrahmana Upanishad is the fullest classical statement of taraka yoga available in a public-domain English translation. It gives three lakshyas. Internal: close the ears with the forefinger tips, fix the mind on the booming sound heard, and a blue light is seen between the eyes and in the heart. External: colours seen in order at 4, 6, 8, 10 and 12 digits before the nose (blue, indigo-black, red wave, yellows); looking at space while moving the eyes, streaks of light at the eye-corners, after which vision can be steadied; a jyotis twelve digits above the head. Middle: variegated dawn colours in space, then five akashas. Brahmana II grades sight by eye aperture (closed, half open, fully open) and recommends the fully open gaze aimed at the nose-tip; first a deep darkness at the palate-root, then an endless sphere of light, with ordered signs from star to diamond, full moon, gems, midday sun and flame. Other Yoga Upanishads in the volume add related lists.",
+ "why_relevant": "Step-ordered classical instruction for producing seen light with open and closed eyes, with measured distances, sequence of colours and a list of signs; includes an induction sequence (ear closure and sound leading to blue light).",
+ "expected_mode": "perceptual",
+ "expected_onset_pathway": "both",
+ "expected_techniques": [
+  "gazing_fixed_point",
+  "sky_or_space_gazing",
+  "eye_position",
+  "eye_pressure_or_sense_closure",
+  "sound_or_mantra",
+  "darkness_exposure"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1914",
+  "class": "published_record",
+  "basis": "archive.org metadata for thirtyminorupani00xxxxuoft gives year 1914; University of Toronto scan of the Madras 1914 edition"
+ },
+ "author_identifiable": true,
+ "author_basis": "Classical Sanskrit texts; translator K. Narayanasvami Aiyar, published 1914",
+ "found_via": "seed lead; archive.org title search 'thirty minor upanishads'",
+ "notes": "Advaya-taraka Upanishad is not in this collection (it is only named in the list of 108). Aiyar's bracketed glosses ('spiritual light', 'introvision') and footnotes citing 'the commentator' (Upanishad Brahmayogin) are his additions; keep them distinct from the text. OCR damages some words (e.g. 'as 8180 1 the heart' for 'as also in the heart')."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "frm-tulpa-luigi-tulpamancy-guide", "stream": "practitioner-forums",
+  "verdict": "keep",
+  "drop_reason": null, "drop_note": "",
+  "relevance": 3, "practicality": 3,
+  "text_read": "digest (Sections 2, 5, 14, 15 and parts of 16); no grep",
+  "mode": "imaginal_crossing",
+  "mode_evidence": "The guide separates visualization (mind's eye, 'a prerequisite') from visual imposition, which it defines as seeing the figure in the physical world without the mind's eye, a controlled and intentional hallucination that overrides sight. The darkness method says the image should come to be seen even with closed eyes. Whether anyone actually obtains this is not documented; the guide calls it the hardest and rarest form.",
+  "eyes": "both",
+  "onset_pathway": "both",
+  "onset_evidence": "Induction ladder for someone who sees nothing: first visualization, then the wall method (plain white wall, dim light, impose the figure flat for several minutes without looking away, over multiple sessions, until a faint outline, shadow or distortion appears), then the darkness method (blacked-out room, eyes open, a glowing sphere of light first, blink sparingly, let it burn in until seen with closed eyes, then add light gradually). No time scale beyond 'multiple sessions'. An experimental third method relies on the tulpa manipulating the sensory centres and is flagged as untested. Nothing here says light cannot be forced.",
+  "stimulus_independence": "unclear",
+  "techniques": ["visualization_crossing", "gazing_fixed_point", "darkness_exposure", "afterimage_retention", "attention_to_spontaneous_phenomena", "sensory_restriction"],
+  "conditions": {"posture": "sitting upright in a chair (wall method); comfortable sitting (darkness method)", "gaze_or_eye_position": "eyes open, watching the wall without looking away; eyes wide open in the dark, blinking sparingly", "setting": "plain white wall in dim light; or a room in complete darkness, windows covered", "duration_and_schedule": "at least a few minutes per wall session, longer preferred; many sessions; impose occasionally afterwards or progress deteriorates", "prerequisites": "visualization ability; spatial awareness of the figure", "other": "experimental sensory-control method requires possession skill"},
+  "phenomena": ["figures_or_forms", "sphere_pearl_bindu", "light_in_the_room"],
+  "stages": [
+    {"label": "wall method", "description": "A faint outline, shadow or distortion where the figure is imposed, becoming more distinct over sessions; the wall can then be dropped."},
+    {"label": "darkness method", "description": "Image burned in until seen with closed eyes; light reintroduced gradually until it is seen in normal light."}
+  ],
+  "what_to_do_with_light": "Stabilise and enlarge: affirm the form with further sessions if it fades, add detail, move from a simple glowing sphere to the full figure, and add room light step by step.",
+  "obstacles_and_fixes": ["Nothing changes at first: repeat sessions.", "Figure fades: continue sessions and impose occasionally.", "Cannot be imposed with any light in the room: darken again and re-add light gradually.", "Lack of detail or deformities are normal at first."],
+  "cautions": ["Visual imposition is the most challenging, rare and tedious type.", "Guide advises waiting until the tulpa is developed before switching or fusing, and breaks if overwhelmed."],
+  "safety_flags": ["prolonged_darkness"],
+  "interpretation": "The guide treats the seen figure as a controlled hallucination produced by the brain; it also presents the tulpa as a sentient being, a claim outside what this research needs.",
+  "practice_summary": "Start with plain visualization until the figure is clear in the mind. For the wall method, sit upright in dim light before a plain white wall and impose the figure flat on it, watching without looking away for several minutes, over many sessions, until a faint outline, shadow or distortion appears. For the darkness method, sit with eyes wide open in a fully darkened room and impose a glowing sphere of light, blinking sparingly, letting it burn in; the aim is for it to be seen even with the eyes closed. Then reintroduce room light step by step, re-darkening if it vanishes. Keep sessions regular and impose occasionally afterwards.",
+  "key_passages": [
+    {"locator": "Section 15, Imposition, source lines 1199-1351", "about": "mode", "anchor": "essentially a controlled and intentional hallucination, overriding sight in order for a tulpa to be seen.", "paraphrase": "Visual imposition is a controlled, intentional hallucination that overrides sight, done without the mind's eye.", "quote": "", "source_file": "sources/frm-tulpa-luigi-tulpamancy-guide.txt"},
+    {"locator": "Section 15, Method One: Wall Method, source lines 1199-1351", "about": "onset", "anchor": "seeing a faint outline, shadow, or distortion wherever the tulpa is imposed.", "paraphrase": "After multiple wall sessions the host should begin seeing a faint outline, shadow or distortion where the figure is imposed.", "quote": "", "source_file": "sources/frm-tulpa-luigi-tulpamancy-guide.txt"},
+    {"locator": "Section 15, Method Two: Darkness Method, source lines 1199-1351", "about": "method", "anchor": "Entire concentration should be on the tulpa/object, allow it to burn into the eyes for as long as", "paraphrase": "In a dark room with eyes open, concentrate fully on the imposed object, letting it burn in, blinking sparingly.", "quote": "", "source_file": "sources/frm-tulpa-luigi-tulpamancy-guide.txt"},
+    {"locator": "Section 15, Method Two: Darkness Method, source lines 1199-1351", "about": "development", "anchor": "Given enough time, the image should begin to be seen even with closed eyes", "paraphrase": "With enough time the image is meant to be seen with closed eyes, like staring into a bright light, and light is then added back gradually.", "quote": "", "source_file": "sources/frm-tulpa-luigi-tulpamancy-guide.txt"}
+  ],
+  "cross_refs": [], "new_leads": [],
+  "reader_confidence": "medium", "confidence_note": "Community manual read in digest; claims are untested testimony and the light element is a simple imposed sphere rather than inner light as such."
+}

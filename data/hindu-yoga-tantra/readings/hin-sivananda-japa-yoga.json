@@ -1,0 +1,18 @@
+{"id":"hin-sivananda-japa-yoga","stream":"hindu-yoga-tantra","verdict":"keep_marginal","drop_reason":null,"drop_note":"","relevance":2,"practicality":3,
+"text_read":"reader extract of the dlshq.org book page (introduction); chapters not read",
+"mode":"ambiguous","mode_evidence":"The deity image is 'visualised' after alternating open-eye gazing and eye closure; nothing says it becomes perceived. Coloured lights are mentioned only as something to ignore.",
+"eyes":"both","onset_pathway":"unclear","onset_evidence":"No claim that japa produces seen light. For someone who cannot visualise: picture any part, or a hazy image, and let it sharpen; failing that, fix the mind on the effulgent light in the heart. Time scale: 'some months' for a clear image.",
+"stimulus_independence":"unclear","techniques":["concentration_visual_object","visualization_crossing","sound_or_mantra"],
+"conditions":{"posture":"Seated motionless","gaze_or_eye_position":"Open-eye gaze at picture, then closed eyes","setting":"Early morning (Brahmamuhurta, 4 a.m.)","duration_and_schedule":"A few minutes of gazing; 5-6 alternations; months","prerequisites":"","other":""},
+"phenomena":["colour_fields","figures_or_forms"],"stages":[],
+"what_to_do_with_light":"Ignore visions and coloured lights; treat the heart-light as the form of the Ishta if the image will not come.",
+"obstacles_and_fixes":["Cannot hold full image: visualise a part or a hazy image","Still failing: fix the mind on the light in the heart"],
+"cautions":["Ignore the visions and coloured lights"],"safety_flags":["tradition_warns_against_seeking"],
+"interpretation":"Lights and visions are by-products to be disregarded; the heart-light can stand in for the deity's form.",
+"practice_summary":"Gaze at a picture of your Ishta-Devata for a few minutes, close the eyes and try to hold it; when it fades open the eyes and gaze again; repeat five or six times, for months, until the image is clear. If the whole image will not come, take a part or a hazy outline; if that fails, rest the mind on the effulgent light in the heart and treat it as the deity. In silent early-morning meditation, sit motionless and ignore any visions or coloured lights.",
+"key_passages":[
+{"locator":"Introduction, Part III (reader extract)","about":"method","anchor":"Gaze at the picture of the Lord, your Ishta-Devata, for a few minutes, and close your eyes.","paraphrase":"Alternate open-eye gazing at the picture with closed-eye holding, 5-6 times.","quote":"","source_file":"sources/hin-sivananda-japa-yoga.txt"},
+{"locator":"Introduction, Part III (reader extract)","about":"onset","anchor":"fix the mind on the effulgent light in the heart","paraphrase":"Fallback when no image comes.","quote":"","source_file":"sources/hin-sivananda-japa-yoga.txt"},
+{"locator":"Introduction, Part III (reader extract)","about":"caution","anchor":"Sit motionless and calm in the early morning hours. Ignore the visions and coloured lights.","paraphrase":"Disregard lights in meditation.","quote":"","source_file":"sources/hin-sivananda-japa-yoga.txt"}],
+"cross_refs":["hin-sivananda-kundalini-yoga"],"new_leads":["Japa Yoga ch. 4-5 (PDF es69.pdf) unread"],
+"reader_confidence":"low","confidence_note":"Rests on a WebFetch reader extract of the introduction only; the extract states no japa-light linkage on that page."}

@@ -1,0 +1,316 @@
+{
+  "_note": "Seed leads are UNVERIFIED pointers written from the orchestrator's memory. Titles, chapter numbers and attributions may be wrong. Verify every one against a real source before cataloguing; drop freely. Spend at least a third of your effort on leads NOT listed here.",
+  "streams": [
+    {
+      "id": "theravada-east-asian",
+      "prefix": "bud",
+      "name": "Theravada, kasina and East Asian Buddhism",
+      "scope": "Nimitta in breath and kasina practice; obhasa (illumination) and aloka-sanna (perception of light); modern fire-kasina practice; Dhammakaya; East Asian sutra-based light contemplations and Zen makyo.",
+      "boundary": "Tibetan and Bon material belongs to vajrayana-bon. Non-Buddhist candle gazing belongs to hindu-yoga-tantra or modern-nonlineage. Forum threads and online practice logs (Dharma Overground, SuttaCentral Discourse, Dhamma Wheel) belong to practitioner-forums; the Fire Kasina book and site stay here.",
+      "seed_leads": [
+        "Visuddhimagga: earth kasina chapter (learning sign, counterpart sign), the other kasinas incl. light kasina, the anapanasati section's list of nimitta appearances, and obhasa among the imperfections of insight",
+        "Vimuttimagga on kasina and nimitta",
+        "Upakkilesa Sutta (MN 128): the Buddha's account of light and vision of forms arising, vanishing, and the causes he diagnosed",
+        "Suttas on aloka-sanna / perception of light (e.g. AN 4.41, AN 7.58, SN 51.20) and attending to it day and night",
+        "Pa Auk Sayadaw, Knowing and Seeing (free distribution): step by step on the breath nimitta and what to do when it appears or will not",
+        "Ajahn Brahm, The Basic Method of Meditation / The Jhanas: troubleshooting a dull, unstable or absent nimitta",
+        "Ajahn Lee Dhammadharo, Keeping the Breath in Mind; other Thai forest accounts (Ajahn Mun, Maha Boowa, Ajahn Chah on lights)",
+        "Shaila Catherine, Wisdom Wide and Deep; Snyder and Rasmussen, Practicing the Jhanas; Leigh Brasington's nimitta page (leighb.com)",
+        "Culadasa, The Mind Illuminated: the illumination phenomenon and luminous jhana",
+        "Mahasi and U Pandita on obhasa as a corruption of insight (what to do when brilliant light appears)",
+        "Dhammakaya / Luang Pu Sodh: crystal sphere at the centre of the body becoming a seen luminous sphere",
+        "Daniel Ingram and collaborators: the Fire Kasina book and site, MCTB2 kasina sections",
+        "Contemplation Sutra (Guan Wuliangshou jing), first contemplation of the setting sun, said to be seen eyes open or closed; Pratyutpanna samadhi",
+        "Zen makyo: Yasutani in Kapleau's Three Pillars of Zen; Hakuin",
+        "Shingon moon-disc (gachirinkan) and A-syllable (ajikan) practice where the disc is said to be actually seen"
+      ],
+      "web_sites": [
+        "www.dhammatalks.org",
+        "www.accesstoinsight.org",
+        "www.mctb.org",
+        "leighb.com",
+        "firekasina.org"
+      ],
+      "warmup_query": "breath nimitta light how to develop Pa Auk Ajahn Brahm"
+    },
+    {
+      "id": "vajrayana-bon",
+      "prefix": "vaj",
+      "name": "Dzogchen, Bon and Kalacakra",
+      "scope": "Thogal / direct crossing, the lamps, sky gazing, sun-ray and dark-retreat practice; Kalacakra six-limbed yoga and its day and night signs; dissolution signs in completion-stage practice; modern dark-retreat testimony within these lineages.",
+      "boundary": "Openly published sources only. Do not seek out or reproduce texts the tradition restricts; where a published book carries a restriction notice, catalogue it, record the notice, and summarise at the level the publisher's own public description does. Set safety flag transmission_required_by_tradition wherever the source says so.",
+      "seed_leads": [
+        "Shardza Tashi Gyaltsen, Heart Drops of Dharmakaya (Lopon Tenzin Namdak commentary): thogal postures, gazes, dark retreat, the four visions",
+        "Tenzin Wangyal, Wonders of the Natural Mind; Healing with Form, Energy and Light",
+        "Lopon Tenzin Namdak, Bonpo Dzogchen Teachings; Jean-Luc Achard's translations (The Six Lamps and related)",
+        "Christopher Hatchell, Naked Seeing: academic, but carries full translations of three primary texts on dark-retreat and sky-gazing vision (catalogue as secondary_conduit under the primary texts)",
+        "Dudjom Lingpa, The Vajra Essence / Buddhahood Without Meditation (B. Alan Wallace translations): direct crossing over",
+        "Namkhai Norbu, The Crystal and the Way of Light; Dzogchen: The Self-Perfected State (thigle, practice of light)",
+        "Longchenpa on the lamps and four visions in published translation; Jigme Lingpa's Yeshe Lama (published with restriction: note only)",
+        "Martin Lowenthal, Dawning of Clear Light (dark retreat); other published dark-retreat accounts from Bon and Nyingma retreatants",
+        "Kalacakra six-limbed yoga: the ten signs (smoke, mirage, fireflies, lamp and so on). Khedrup Norsang Gyatso, Ornament of Stainless Light; Khentrul Rinpoche's Jonang presentations; Edward Henning's Kalacakra site",
+        "Six Yogas of Naropa literature: dissolution signs and clear light (Tsongkhapa via Glenn Mullin)",
+        "Keith Dowman's Dzogchen translations; Flavio Geisshuesler on sky-gazing (academic: mine for primary sources)",
+        "Tsoknyi, Tulku Urgyen and other teachers' public remarks on thogal visions versus ordinary eye phenomena (floaters, entoptics)"
+      ],
+      "web_sites": [],
+      "warmup_query": "thogal dark retreat visions published instructions"
+    },
+    {
+      "id": "hindu-yoga-tantra",
+      "prefix": "hin",
+      "name": "Hindu yoga and tantra",
+      "scope": "Trataka, taraka yoga and the lakshyas, shambhavi and shanmukhi/yoni mudra, nada-to-light, Kriya Yoga's spiritual eye, Siddha Yoga's lights and blue pearl, Kashmir Shaiva dharanas, modern guru instructions and testimony.",
+      "boundary": "Surat Shabd Yoga lineages belong to sant-mat.",
+      "seed_leads": [
+        "Hatha Yoga Pradipika: trataka, shambhavi mudra, the nada section; Gheranda Samhita: trataka, shambhavi, yoni mudra and jyotir-dhyana; Shiva Samhita: sense-closure practice and the shadow-gazing (chaya purusha / pratika) practice, which is an afterimage method",
+        "Advaya-taraka Upanishad and Mandala-brahmana Upanishad: taraka yoga, inner/outer/middle lakshya, lights seen at measured distances in front of the nose",
+        "Other Yoga Upanishads (Dhyanabindu, Nadabindu, Yogashikha, Yogatattva); Shvetashvatara Upanishad 2.11 list of preliminary appearances",
+        "Vijnana Bhairava Tantra: dharanas on pressing the eyes, the bindu, darkness, gazing at clear sky (Jaideva Singh; Lakshmanjoo)",
+        "Siddha Siddhanta Paddhati and Goraksha texts on lakshyas",
+        "Swami Sivananda: 'Lights in meditation' sections in Concentration and Meditation and Kundalini Yoga (Divine Life Society site)",
+        "Paramahansa Yogananda on the spiritual eye / kutastha and jyoti mudra; Lahiri Mahasaya and Sri Yukteswar; Swami Kriyananda",
+        "Swami Muktananda, Play of Consciousness (red, white, black, blue lights; blue pearl) and Siddha Yoga testimony",
+        "Bihar School: Satyananda, Dharana Darshan; trataka with afterimage instructions in Asana Pranayama Mudra Bandha; Swami Niranjanananda",
+        "Sri Aurobindo, Letters on Yoga: lights and colours in vision, including with open eyes; the Mother",
+        "Gopi Krishna, Kundalini: The Evolutionary Energy in Man (standing luminosity in ordinary vision)",
+        "Ramalinga Swamigal and Tamil Siddha material on jyoti; Jnaneshwar",
+        "Swami Rama, Swami Satchidananda and others on trataka; solar trataka instructions (set sun_gazing flag)",
+        "Swami Vivekananda, Raja Yoga (public domain) on lights as signs of progress"
+      ],
+      "web_sites": [
+        "www.dlshq.org",
+        "incarnateword.in"
+      ],
+      "warmup_query": "trataka shambhavi mudra inner light instructions"
+    },
+    {
+      "id": "sant-mat",
+      "prefix": "snt",
+      "name": "Sant Mat and light-and-sound lineages",
+      "scope": "Radhasoami and Sant Mat branches, Kirpal Singh's line, Maharshi Mehi's drishti yoga, Divine Light Mission, Eckankar, Quan Yin, MSIA; initiates' and ex-initiates' testimony.",
+      "boundary": "These lineages explicitly teach seeing inner light as a core method, so the stream should be rich in step-by-step instruction. Prioritise instructions over cosmology.",
+      "seed_leads": [
+        "Kirpal Singh: The Crown of Life, Naam or Word, Morning Talks, meditation instruction circulars (ruhanisatsangusa.org and kirpalsingh.org host free texts)",
+        "Sawan Singh, Philosophy of the Masters; Spiritual Gems (letters answering disciples who see nothing or see flashes)",
+        "Soami Ji, Sar Bachan; Julian Johnson, The Path of the Masters (1939)",
+        "Charan Singh's letters (Divine Light, Light on Sant Mat): replies about darkness, flashes and stars",
+        "Rajinder Singh / Darshan Singh on jyoti meditation instructions",
+        "Maharshi Mehi and Sant Sevi: manas jap, manas dhyan, drishti yoga (bindu dhyan) then nada; Philosophy of Liberation",
+        "Divine Light Mission / Prem Rawat: the light technique of the 'Knowledge' (physical eye pressure: set flag) and ex-premie accounts of results",
+        "Faqir Chand's dissenting testimony on the nature of inner visions; David Christopher Lane's first-person and critical writings",
+        "Eckankar (Paul Twitchell) blue light exercises; Ching Hai's Quan Yin method as publicly described; MSIA",
+        "Kabir, Tulsi Sahib, Dadu and Sikh Gurbani passages used as practice instructions for inner light",
+        "Initiate forums and memoirs: long-term meditators reporting what they did before first seeing light, and those who never did"
+      ],
+      "web_sites": [
+        "ruhanisatsangusa.org",
+        "ex-premie.org"
+      ],
+      "warmup_query": "Sant Mat meditation inner light instructions Kirpal Singh"
+    },
+    {
+      "id": "taoist",
+      "prefix": "dao",
+      "name": "Taoist inner alchemy and meditation",
+      "scope": "Turning the light around, the white light of the empty chamber, nature-light (xingguang), signs in neidan stages, Shangqing absorption of sun, moon and star light, inner viewing, dark-room practice, modern qigong testimony.",
+      "boundary": "Buddhist-Taoist hybrids such as the Golden Flower stay here.",
+      "seed_leads": [
+        "The Secret of the Golden Flower: Wilhelm/Baynes (1931) and Cleary (1991) translations; confirmatory signs; Hui Ming Ching",
+        "Zhuangzi ch. 4, 'the empty room brings forth white', and how neidan commentators use it as a practice sign",
+        "Charles Luk (Lu K'uan Yu), Taoist Yoga: Alchemy and Immortality (Zhao Bichen): explicit light manifestations by stage",
+        "Wang Mu, Foundations of Internal Alchemy (Pregadio tr.); Liu Yiming; Zhang Boduan",
+        "Nan Huai-Chin, Tao and Longevity: practical discussion of lights seen in sitting",
+        "Yin Shi Zi (Jiang Weiqiao), Tranquil Sitting: first-person account",
+        "Wang Liping: Opening the Dragon Gate; Ling Bao Tong Zhi Neng Nei Gong Shu (inner vision, seeing light in dark sitting)",
+        "Damo Mitchell, White Moon on the Mountain Peak and related essays: light as a sign and warnings about chasing it",
+        "Mantak Chia, Darkness Technology (dark room retreat)",
+        "Shangqing practices of absorbing solar and lunar essences and visualised lights that become seen: Isabelle Robinet's Taoist Meditation (academic: mine for primary texts), Zhen'gao, Huangting jing",
+        "Neiguan jing / inner observation texts (Livia Kohn's translations)",
+        "Thomas Cleary's and Eva Wong's translation anthologies; Fabrizio Pregadio's Golden Elixir Press materials"
+      ],
+      "web_sites": [],
+      "warmup_query": "Secret of the Golden Flower turning the light around signs"
+    },
+    {
+      "id": "jewish",
+      "prefix": "jew",
+      "name": "Jewish mystical practice",
+      "scope": "Zohar on colours seen with the eye closed and on candle-flame contemplation; Abulafia's circle and prophetic Kabbalah techniques and their recorded results; Hekhalot; Vital; Hasidic sources; modern Jewish meditation teachers.",
+      "boundary": "Use the Sefaria API for primary texts (Hebrew/Aramaic plus English where it exists). Give Hebrew/Aramaic key terms alongside translation.",
+      "seed_leads": [
+        "Zohar passage on rolling the closed eye to reveal hidden shining colours (possibly II:23a-b; also I:42a, I:97a-b): find and verify on Sefaria",
+        "Zohar on the colours of the candle flame (around I:50b-51b) as a contemplative gazing practice",
+        "Abraham Abulafia: Chayei ha-Olam ha-Ba, Or ha-Sekhel, Sefer ha-Cheshek: setting, letter permutation, breath, head movements, what is then seen",
+        "Sha'arei Tzedek (attributed to Natan ben Sa'adyah Har'ar): first-person account of light appearing after weeks of night-time letter permutation; in Scholem's Major Trends ch. 4 and Idel's editions",
+        "Isaac of Acre (Otzar Hayyim, Me'irat Einayim); Judah Albotini, Sulam ha-Aliyah; Joseph Tzayach",
+        "Hayyim Vital: Sha'arei Kedushah parts 3-4, Sha'ar Ruach ha-Kodesh, Sefer ha-Hezyonot (Book of Visions)",
+        "Hekhalot and Merkavah texts: the chashmal, descriptions of light at the palaces; Hai Gaon's responsum on the method",
+        "Aryeh Kaplan: Meditation and Kabbalah, Jewish Meditation, Meditation and the Bible: translations of technique passages",
+        "Moshe Idel: The Mystical Experience in Abraham Abulafia (light chapter) and Kabbalah: New Perspectives on visualising colours (academic: mine for primary sources)",
+        "Hasidic: seeing lights in the letters of prayer (Baal Shem Tov circle, Tzava'at ha-Rivash, Keter Shem Tov); Yitzhak Isaac of Komarno's Megillat Setarim; Kalonymus Kalman Shapira's exercises",
+        "Tekhelet and tzitzit gazing (Menachot 43b), Havdalah flame gazing, Shiviti practices",
+        "Mark Verman, The History and Varieties of Jewish Meditation; David Cooper; Jewish Renewal teachers on light practice",
+        "Brit Menuchah; Sefer ha-Bahir and Sefer Yetzirah commentaries where they give practice"
+      ],
+      "web_sites": [],
+      "warmup_query": "Abulafia letter permutation vision of light Shaarei Tzedek"
+    },
+    {
+      "id": "sufi",
+      "prefix": "suf",
+      "name": "Sufi practice",
+      "scope": "Kubrawi coloured photisms and khalwa method, dhikr manuals that describe lights, lata'if colours, Ishraqi lists of lights, sultan al-adhkar and sense-closure practices, modern Sufi testimony.",
+      "boundary": "Henry Corbin's Man of Light is academic but is the main English conduit: use as secondary_conduit and catalogue the primary authors.",
+      "seed_leads": [
+        "Najm al-Din Kubra, Fawa'ih al-jamal wa-fawatih al-jalal: lights, colours, the eight rules of seclusion (Meier's German edition, Ballanfat's French, partial English)",
+        "Najm al-Din Razi Daya, Mirsad al-'ibad (Algar tr., The Path of God's Bondsmen): chapter on witnessing lights and their colours",
+        "'Ala al-Dawla Simnani on the seven subtle centres and their colours; Lahiji on black light",
+        "Suhrawardi, Hikmat al-Ishraq, closing section listing kinds of light experienced by practitioners",
+        "Ibn 'Arabi, Risalat al-Anwar (Journey to the Lord of Power): what appears in retreat and what to do with it",
+        "Ibn 'Ata' Allah, Miftah al-Falah (The Key to Salvation): dhikr method and reported lights",
+        "Dara Shikoh, Risala-i Haqq-numa (English tr. S. C. Vasu, 1912, public domain): practical, includes sense closure and sultan al-adhkar",
+        "Shattari and Chishti manuals: Muhammad Ghawth's Jawahir-i Khamsa, Kashkul-i Kalimi; Mir Valiuddin, Contemplative Disciplines in Sufism",
+        "Naqshbandi-Mujaddidi lata'if and muraqaba instructions with colours; Shah Wali Allah",
+        "Ruzbihan Baqli, The Unveiling of Secrets (Ernst tr.): visionary diary",
+        "Hazrat Inayat Khan's Sufi Message volumes (public domain): practices of light and breath",
+        "Irina Tweedie, Daughter of Fire; Llewellyn Vaughan-Lee; other modern disciples' testimony",
+        "Javad Nurbakhsh, In the Paradise of the Sufis; Mevlevi whirling accounts (movement induction)"
+      ],
+      "web_sites": [
+        "wahiduddin.net"
+      ],
+      "warmup_query": "Najm al-Din Kubra coloured lights khalwa"
+    },
+    {
+      "id": "christian",
+      "prefix": "chr",
+      "name": "Christian contemplative",
+      "scope": "Hesychast method and the light it reports, including the tradition's strong warnings; Western Christian visionaries' own accounts; early Quaker practice of waiting in the Light.",
+      "boundary": "Magic, theurgy and occult practice belong to western-esoteric. Classification of visions as corporeal / imaginative / intellectual (Augustine, Teresa) is directly useful for the perceptual-versus-imaginal tag: record it.",
+      "seed_leads": [
+        "Symeon the New Theologian: Discourses and Hymns (first-person light accounts); the 'Three Methods of Prayer' attributed to him",
+        "Nikephoros the Monk, On Watchfulness; Gregory of Sinai (method plus warnings about accepting lights); Kallistos and Ignatios Xanthopoulos",
+        "Gregory Palamas, Triads: defence of the hesychasts' seeing of light with transformed senses",
+        "Diadochos of Photiki and Evagrius on the mind's own light and on refusing visible forms",
+        "Writings from the Philokalia on Prayer of the Heart (Kadloubovsky and Palmer); The Way of a Pilgrim",
+        "Seraphim of Sarov's conversation with Motovilov (light seen outdoors, eyes open)",
+        "Ignatius Brianchaninov and Theophan the Recluse on prelest and lights",
+        "Hildegard of Bingen on the 'shadow of the living light' seen while awake with open eyes",
+        "Teresa of Avila, Life chs. 27-29 and Interior Castle VI; John of the Cross's cautions in Ascent of Mount Carmel",
+        "Ignatius of Loyola: Autobiography (Manresa) and Spiritual Diary",
+        "Jakob Boehme's illumination triggered by gazing at a gleam on a pewter dish",
+        "Richard Rolle; Angela of Foligno; other medieval accounts that describe what the person was doing",
+        "Early Quakers and Rex Ambler's reconstructed 'Experiment with Light' practice (check whether light is seen or metaphorical)",
+        "Swedenborg's Spiritual Diary on breathing and lights (could also sit in western-esoteric: catalogue once)"
+      ],
+      "web_sites": [],
+      "warmup_query": "Symeon the New Theologian vision of light hesychast method"
+    },
+    {
+      "id": "western-esoteric",
+      "prefix": "wes",
+      "name": "Western esoteric, theurgic and occult",
+      "scope": "Late-antique theurgy and the Greek magical papyri; scrying manuals and scryers' testimony; Golden Dawn tattva and flashing-colour work; Steiner, Bardon, Theosophy; spiritualist development circles; Reichenbach and aura-seeing methods.",
+      "boundary": "Many 1850-1928 works are public domain and on archive.org or Gutenberg: download full text. Modern third-eye schools with no lineage claim go to modern-nonlineage.",
+      "seed_leads": [
+        "Iamblichus, De Mysteriis III.14 on photagogia (drawing in light) using darkness, water, walls, sun and moon; Chaldean Oracles fragments; Proclus",
+        "Greek Magical Papyri: the Mithras Liturgy (PGM IV.475-829: breath drawn from the rays, the sun disc opening) and lamp divination spells (Betz edition; older public domain translations)",
+        "Corpus Hermeticum I, X, XIII on vision of light where a practice is described",
+        "Crystal gazing manuals and testimony: Northcote Thomas, Crystal Gazing (1905); Ada Goodrich-Freer ('Miss X'), Essays in Psychical Research (1899); John Melville (1896); Sepharial; Theodore Besterman (1924); Andrew Lang's introduction",
+        "John Dee and Edward Kelley scrying records; Agrippa; Paracelsus",
+        "Golden Dawn: tattva vision method and flashing colours, an afterimage technique (Regardie's The Golden Dawn; Flying Rolls XI and others)",
+        "Aleister Crowley: Liber E, Liber O, Book 4 Part I on phenomena during dharana",
+        "Rudolf Steiner, Knowledge of the Higher Worlds: seed and plant meditations and the seen flame-like form",
+        "Franz Bardon, Initiation into Hermetics: eyes-open visual concentration steps and light exercises",
+        "AE (George William Russell), The Candle of Vision (1918, Gutenberg): method and testimony",
+        "Theosophy: Leadbeater's Clairvoyance; etheric vision exercises; Besant",
+        "Karl von Reichenbach's sensitives sitting for hours in total darkness until luminous emanations are seen (public domain translations); Walter Kilner, The Human Atmosphere",
+        "Spiritualist development-circle manuals on sitting in the dark and seeing lights; W. E. Butler, Ophiel, Mouni Sadhu, Dion Fortune on developing clairvoyant sight",
+        "Rosicrucian (AMORC, Heindel) candle and mirror exercises"
+      ],
+      "web_sites": [
+        "hermetic.com"
+      ],
+      "warmup_query": "crystal gazing how to develop vision clouding 1905"
+    },
+    {
+      "id": "shamanic-indigenous",
+      "prefix": "shm",
+      "name": "Shamanic and indigenous traditions",
+      "scope": "Practitioners' own accounts (usually carried in ethnographies or as-told-to memoirs) of training to see light or to see in darkness: seclusion, darkness, gazing, dance, drumming, fasting and vigil.",
+      "boundary": "Ethnographies are acceptable carriers: catalogue as ethnographic_report and anchor on the practitioner's reported words or the described procedure, not the ethnographer's theory. Plant-medicine and other psychedelic induction is OUT: log such finds in excluded_leads.md with one line each. Flag disputed provenance (e.g. Castaneda) in notes rather than silently including or excluding.",
+      "seed_leads": [
+        "Inuit qaumaneq / angakkuq 'lighting': Knud Rasmussen, Intellectual Culture of the Iglulik Eskimos (1929), incl. Aua's account and how apprentices sought it",
+        "Australian Aboriginal 'men of high degree': A. P. Elkin (1945); A. W. Howitt, The Native Tribes of South-East Australia (1904, public domain): quartz, the 'strong eye', inner light",
+        "Ju|'hoan (San) healing dance: Richard Katz, Boiling Energy; Bradford Keeney's Bushman books: ropes or threads of light seen once n|um is activated by dance (movement induction)",
+        "Kogi mamas raised in darkness (Reichel-Dolmatoff; Alan Ereira, The Heart of the World)",
+        "Dagara initiation in Malidoma Some, Of Water and the Spirit: prolonged open-eyed tree gazing until vision breaks through",
+        "Lakota hanblecheya and yuwipi lights: Black Elk, Lame Deer, Fools Crow as-told-to books",
+        "Siberian accounts (Shirokogoroff; Popov; Diószegi) of the shaman's inner fire or light; Sami and Nenets",
+        "Celtic incubation in darkness: imbas forosnai, the bardic dark-cell method described by Martin Martin (1703) and in Cormac's Glossary",
+        "Himalayan jhankri training (Larry Peters; Robert Desjarlais)",
+        "Joan Halifax, Shamanic Voices (anthology of first-person narratives); Holger Kalweit, Dreamtime and Inner Space",
+        "Michael Harner, The Way of the Shaman and core-shamanism exercises that involve darkness or covered eyes; Sandra Ingerman",
+        "Carlos Castaneda's gazing exercises (disputed provenance: flag)",
+        "Zulu and other southern African diviner training accounts; Hawaiian and Polynesian sources; Mapuche machi"
+      ],
+      "web_sites": [],
+      "warmup_query": "qaumaneq shaman inner light Rasmussen Iglulik"
+    },
+    {
+      "id": "modern-nonlineage",
+      "prefix": "mod",
+      "name": "Modern non-lineage methods and testimony",
+      "scope": "Twentieth and twenty-first century methods outside a traditional lineage, from books, manuals and published accounts: phosphenism, autogenic colour exercises, third-eye schools, hypnagogic and dream-entry methods, sensory restriction, dark retreat, flicker devices, breathwork lights.",
+      "boundary": "Forum threads and community guides (Reddit, tulpa forums, astral forums, meditation forums) belong to practitioner-forums. Fire-kasina material belongs to theravada-east-asian. Psychedelic reports are out. You have no website access beyond the archives: work from books and texts on archive.org and catalogue other finds as links.",
+      "seed_leads": [
+        "Francis Lefebure's Phosphenism: lamp afterimage combined with rhythmic head sways and thought ('phosphenic mixing'); English materials and practitioner reports",
+        "Autogenic training's advanced/meditative exercises: spontaneous colour and 'own colour' (J. H. Schultz; Luthe)",
+        "Win Wenger's Image Streaming: afterimage and other starter techniques for people who see nothing",
+        "Samuel Sagan (Clairvision), Awakening the Third Eye: throat friction, eyebrow focus, stages of haze and colours",
+        "Prophantasia communities: r/Prophantasia, r/CureAphantasia guides distinguishing prophantasia, autogogia and phantasia, with training routines",
+        "Tulpa community visual imposition guides (open-eye training)",
+        "Closed-eye-visual training threads on meditation forums (r/streamentry, r/Meditation, r/TheMindIlluminated, Dharma Overground non-kasina threads): what people did before lights first appeared",
+        "Hypnagogic methods: Ouspensky on half-dream states; Mavromatis, Hypnagogia (academic: mine for methods); LaBerge's hypnagogic-imagery entry; Robert Bruce's energy and 'aura sight' tutorials; Monroe",
+        "Secular dark-retreat testimony (blogs, retreat-centre reports, interviews) and float-tank accounts (John Lilly)",
+        "Home ganzfeld practice reports",
+        "Flicker: Brion Gysin's Dreamachine, modern stroboscopic lamps; reports of lasting effects after the device is off (set flicker_seizure_risk)",
+        "Breathwork lights: holotropic and similar, where the report says how to cultivate them",
+        "Sun-gazing movement (set sun_gazing flag and record the medical risk plainly)",
+        "W. H. Bates's palming (seeing perfect black versus lights): a public-domain inverse case",
+        "Aura-seeing exercises: evaluate honestly whether they are afterimage and contrast effects"
+      ],
+      "web_sites": [],
+      "warmup_query": "Lefebure phosphenism phosphene mixing method"
+    },
+    {
+      "id": "practitioner-forums",
+      "prefix": "frm",
+      "name": "Online practitioner testimony",
+      "scope": "First-person reports from practice forums and community guides, across all traditions: what people did, for how long, before light first appeared; what happened next; what failed. Also community-written training guides (prophantasia, closed-eye-visual training, tulpa imposition).",
+      "boundary": "You own every forum site in this run; no other agent can read them. One candidate per thread or guide (id frm-<site>-<slug>). Prefer threads with detail: method, duration, and outcome. Every post carries a platform date: record the first and last post dates and use class platform_timestamp. Aim for breadth across the sites and across traditions (Theravada, kasina, Taoist neigong, kundalini, Sant Mat, astral and hypnagogic, prophantasia). Reports of people who tried and saw nothing are valuable too.",
+      "web_sites": [
+        "www.dharmaoverground.org",
+        "discourse.suttacentral.net",
+        "www.dhammawheel.com",
+        "buddhism.stackexchange.com",
+        "www.thedaobums.com",
+        "www.astralpulse.com",
+        "community.tulpa.info",
+        "www.reddit.com"
+      ],
+      "warmup_query": "site:dharmaoverground.org fire kasina log first lights",
+      "seed_leads": [
+        "Dharma Overground: fire-kasina practice logs and retreat diaries; nimitta threads; threads asking why no light appears",
+        "SuttaCentral Discourse: long threads on the breath nimitta and on perception of light, with monastics answering",
+        "Dhamma Wheel: nimitta, kasina and \"light in meditation\" threads since 2009; Pa Auk practitioners comparing notes",
+        "Buddhism Stack Exchange: questions tagged nimitta, kasina, jhana about seeing light",
+        "The Dao Bums: neigong and qigong threads on first seeing light, \"light in the upper dantian\", dark-room practice, Golden Flower practice reports",
+        "Astral Pulse: seeing through closed eyelids, hypnagogic light, third-eye practice reports",
+        "Tulpa community: visual imposition guides and progress logs (open-eye)",
+        "Reddit (may be refused by the fetch tool; try once): r/Prophantasia and r/CureAphantasia training guides; r/streamentry, r/TheMindIlluminated, r/kundalini, r/Meditation threads on first appearance of light"
+      ]
+    }
+  ]
+}
