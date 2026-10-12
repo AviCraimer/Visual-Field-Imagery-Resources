@@ -7,7 +7,7 @@ A cross-tradition library of practical sources on developing **visual field imag
 | Path | Contents |
 |---|---|
 | `report/report.md` | The synthesis report: technique families, breaking through versus developing, physical induction, cautions, starting protocols. |
-| `ui/dist/visual-field-imagery-library.html` | The navigator: a self-contained page to browse, filter and search the library. Open it in a browser. |
+| `index.html` | The navigator, served by GitHub Pages: browse, filter and search the library. Also at `ui/dist/visual-field-imagery-library.html`. |
 | `library/CATALOGUE.md` | Readable catalogue of every source with practice summaries and key passages. |
 | `library/library.json` | The full built library (all records, curation, families). |
 | `library/curation.json`, `library/gaps.md` | Tiers, technique families, and the gap report. |
@@ -24,6 +24,7 @@ A cross-tradition library of practical sources on developing **visual field imag
 ```
 python3 tools/il.py build        # rebuild library/library.json and CATALOGUE.md
 python3 ui/build.py              # rebuild the navigator
+python3 tools/make_index.py      # refresh index.html (GitHub Pages) from the navigator
 python3 tools/il.py validate --stream <stream>
 ```
 
