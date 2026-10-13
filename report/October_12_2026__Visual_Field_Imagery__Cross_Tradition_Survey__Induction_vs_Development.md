@@ -1,6 +1,6 @@
 # Developing visual field imagery: what the sources tell a practitioner to do
 
-Ninety-three sources are now kept. Earlier records came mostly from keyword-selected digests; many have since been read in full in their original language, so confidence is high for roughly forty records and medium for most of the rest. Each claim below is labelled by kind: a classical text prescribing, a teacher asserting, or a practitioner reporting.
+Earlier records came mostly from keyword-selected digests; many have since been read in full, often in their original language, so confidence is high for a substantial share of records and medium for most of the rest. The current count of kept sources is in the library's Coverage tab. Each claim below is labelled by kind: a classical text prescribing, a teacher asserting, or a practitioner reporting.
 
 ## 1. What is being claimed
 
