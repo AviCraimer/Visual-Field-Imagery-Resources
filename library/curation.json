@@ -573,9 +573,11 @@
    "families": [
     "darkness-gazing",
     "breath-energy",
-    "nonvisual-concentration"
+    "nonvisual-concentration",
+    "gaze-posture",
+    "scrying"
    ],
-   "librarian_note": "Later chapters on seeing, pressure and night practice not read."
+   "librarian_note": "Seeing chapters (5, 7) reread 2026-10-12: open-eye eye-contact and mirror practice, palming afterlight, night glow."
   },
   "mod-wenger-image-streaming-backup": {
    "tier": "B",
@@ -841,6 +843,16 @@
     "nonvisual-concentration"
    ],
    "librarian_note": "Added 12 Oct (sign terminology pass)."
+  },
+  "hin-niranjanananda-dharana-darshan": {
+   "tier": "A",
+   "families": [
+    "source-afterimage",
+    "gaze-posture",
+    "scrying",
+    "darkness-gazing"
+   ],
+   "librarian_note": "Added 2026-10-12 from the user's copy; the fullest afterimage (trataka) manual in the library."
   }
  }
 }

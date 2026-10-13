@@ -1,8 +1,8 @@
 # Inner light library: catalogue
 
-Generated 2026-10-12 12:57. 
+Generated 2026-10-12 21:18. Sagan reread; Dharana Darshan added
 
-Counts: drop 6, keep 79, keep_marginal 21, screened_out 1, unread 58
+Counts: drop 6, keep 80, keep_marginal 21, screened_out 1, unread 58
 
 
 ## Theravada, kasina and East Asian Buddhism
@@ -404,6 +404,24 @@ In the first limb, withdrawal, the senses are turned from outer objects to inner
 
 ## Hindu yoga and tantra
 
+### Dharana Darshan: A Panoramic View of the Yogic, Tantric and Upanishadic Practices of Concentration and Visualization
+
+Swami Niranjanananda Saraswati, 1993; 2nd ed. 1999. `hin-niranjanananda-dharana-darshan` Tier A.
+
+- Mode: ambiguous. Eyes: both. Onset pathway: **both**. Relevance 5/5, practicality 5/5.
+- Techniques: afterimage_retention, light_source_gazing, gazing_fixed_point, eye_position, darkness_exposure, scrying_surface, sky_or_space_gazing, attention_to_spontaneous_phenomena, visualization_crossing, letter_or_symbol_contemplation, breath_control, posture_or_body_lock
+- Date: 1993 (published_record)
+- Safety flags: sun_gazing, prolonged_darkness
+- Onset: Explicit induction for those who cannot hold an inner image: combined outer-inner trataka 'is useful for people who are not able to develop an inner image at will'; inner trataka alone is reserved for those who already can, and trying it with a vague or absent image ends in sleep or wandering thought. Time scales: a round begins at about five minutes (three minutes outer gazing) and grows to half an hour (three minutes outer, twenty-seven inner); eleven rounds make one dharana; the Sri Yantra sequence is built up week by week. Says even beginners will have experiences after a short period. Shoonya drishti 'takes a long time'. Darkness-gazing is reserved for those with a disciplined inner life. No grace or transmission requirement is stated.
+
+Sit motionless. Gaze at a candle flame at eye level, an arm's length away, without blinking, for three minutes. Close the eyes and look at the afterimage at the eyebrow centre: a small luminous dot whose colour depends on how long you gazed. Watch it steadily; if it drifts, bring it back; when it fades, keep the eyes closed and gather it again until it finally merges into the dark. That is one round. Extend the inner phase until a round lasts half an hour; eleven rounds 'make one dharana', when the candle can be seen in full detail with the eyes closed. The same method works with a black dot, a flower (whose afterimage is first a disc of the opposite colour), a deity picture framed in black, or the Sri Yantra built up week by week. Open-eye variants: gaze at your shadow, then up at the sky to see its silver image; gaze into total darkness or into a crystal until visions come.
+
+- *onset* at Ch. 11 Trataka, Modes of practice (anchor verified): Combined outer and inner trataka is for people who cannot produce an inner image at will; inner trataka alone is for those who already can, and trying it without a clear image leads to sleep or drifting thought.
+- *method* at Ch. 11, Trataka Two (Bahya-Antar Drishti), Technique 1: candle flame (anchor verified): After three minutes of gazing, the afterimage is seen in chidakasha as a tiny luminous dot whose colour depends on gazing time (black, white or dull brown after a minute; bright red after about five); it fades, vanishes and returns in another colour until it merges into the background.
+- *stages* at Ch. 11, Trataka Two, Technique 1 (anchor verified): Rounds lengthen from five minutes to half an hour; eleven rounds make one dharana, when the image is absolutely clear. Seeing the object is dharana; merely thinking of it is kalpana.
+- *method* at Ch. 11, Trataka Two, Technique 8: chhaya upasana (anchor verified): After gazing at the throat point of one's shadow, looking up shows a great silver, hazy shadow on the sky; repeated, it takes on the form of one's own shadow.
+- *caution* at Ch. 11, Trataka Four (Shoonya Drishti), Technique 4: darkness (anchor verified): Gazing open-eyed into total darkness, the darkness gives way to floating visions, said to bring up subconscious fears; reserved for those with mental control and a disciplined inner life.
+- *development* at Ch. 14 Chidakasha Dharana, Stage 7 (anchor verified): With eyes closed, watch the spontaneous streaks, points, shades and clusters of light and colour on the inner screen without analysing them; earlier the book trains the practitioner to identify each colour as it appears.
 ### Kundalini Yoga
 
 Swami Sivananda, 1935 (first ed.); 10th ed. 1994; WWW edition 1999. `hin-sivananda-kundalini-yoga` Tier A.
@@ -1886,17 +1904,22 @@ This source gives testimony, not a method. In the Cumberland Sound account, on b
 Samuel Sagan, 1992; 3rd ed. 2007. `mod-sagan-awakening-third-eye` Tier A.
 
 - Mode: perceptual. Eyes: both. Onset pathway: **both**. Relevance 5/5, practicality 5/5.
-- Techniques: sound_or_mantra, breath_control, concentration_nonvisual, posture_or_body_lock, darkness_exposure, gazing_fixed_point, attention_to_spontaneous_phenomena
+- Techniques: attention_to_spontaneous_phenomena, breath_control, concentration_nonvisual, darkness_exposure, eye_position, gazing_fixed_point, light_source_gazing, posture_or_body_lock, scrying_surface, sound_or_mantra
 - Date: 2007 (published_record)
-- Onset: Staged ladder for those who see nothing: first find any vibration/tingling/pressure between the eyebrows (throat friction plus gentle awareness, 5 to 10 minutes per phase), then in the later phase look there for any fog, haze or glow and connect it to the throat friction. Says most who think they cannot see light see it but do not recognise it, faint whitish haze counts. Claims no student at his school failed to feel the vibration after a bit of practice, and urges persistence. Intensity varies day to day. No grace or transmission requirement stated in the digest; one should not grasp or concentrate. Suggested 5 to 10 minutes each morning plus constant background awareness.
+- Safety flags: sun_gazing
+- Onset: Closed-eye ladder: find any vibration between the eyebrows with throat friction, then look for any fog, haze or glow there and connect the friction to it. 3.5, for those who feel nothing: the vibration may be unregistered because one expects too much or tries too hard; or one may already be getting light, which bypasses the vibration ('If you are perceiving light in any form ... then you are already in the astral'); he has never seen a student fail after a bit of practice. Open-eye induction: eye contact with a partner or mirror (motionless focus in the brow, blinking as little as possible, attention to 'seeingness' rather than the image) for 3 to 5 minutes, building to 15 or more, in candlelight against a blank wall; the image blurs and colours appear. Ending each round by palming, 'you will have momentous experiences of inner light' (5.5). Where seeingness cannot be found, 'feel the image instead of looking at it'. Night walks without a torch: dirt paths and objects glow (7.1), 'typically one of those perceptions that most people miss'. No grace or transmission requirement.
 
-Lie down or sit with a vertical spine, eyes closed, and breathe with a soft friction sound in the throat. Move awareness to the area between the eyebrows without grasping or turning the eyeballs there. Look for any vibration, tingling or pressure and join it to the throat friction for several minutes. Then drop the vibration and look in front of the brow for a fog, haze, glow or colour, however faint, and connect the friction to it so it grows brighter; attend to the brightest part, often tiny drifting particles. Finally rest in the dark or purple background as a space. Use no imagination or visualisation. Faint whitish haze is the right beginning. Practise 5 minutes per phase, and every morning, and keep a light awareness between the eyebrows through the day.
+Sit straight, eyes closed, breathing with a soft friction in the throat. Find any vibration between the eyebrows and join the friction to it; then look there for haze, glow or colour, however faint, and connect the friction to the brightest part; then rest in the purple or dark space behind. No visualising. For open-eye work, sit 90 cm from a partner or a mirror, by candlelight against a blank wall. After two or three minutes of this closed-eye reconnection, open the eyes on the partner's eyes: stay motionless with awareness in the brow, blink as little as possible, and attend to the fact of seeing rather than the image. Let the image blur and distort; colours, halos, a darkened room or changed faces may appear. When the sharp image snaps back, relax and let it go again. After 3 to 15 minutes, close the eyes, rub the hands and palm the eyes for half a minute, where inner light is common.
 
 - *method* at 3.2 First opening, Phase 6, source lines 1335-1530 (anchor verified): After stopping the throat friction, stay extremely still and watch for light or colour between the eyebrows.
 - *mode* at 3.7 Meditation phase 3, source lines 1742-1803 (anchor verified): Light is to be perceived, not imagined: it is spiritual light seen with the eyes closed.
 - *onset* at Tips, phase 3, source lines 1872-1911 (anchor verified): Most who think they cannot see the light do see it but do not recognise it; a faint whitish haze is the first thread, to be developed with the amplifying throat friction.
-- *onset* at 3.5, source lines 1624-1699 (anchor verified): For those who feel nothing, he says every student eventually felt the vibration and urges persistence.
 - *stages* at 3.7 phase 3, source lines 1742-1803 (anchor verified): Tiny shining particles drifting in the space in front are a common experience; the friction is connected to the most luminous part.
+- *onset* at 3.5 If you are not feeling any vibration at all (anchor verified): Someone who feels no vibration may already be perceiving light, any form of it from a blurry whitish haze to purple, and should simply work with the light instead.
+- *onset* at 5.5 To end any practice of eye contact (anchor verified): Each eye-contact round ends by rubbing the hands and palming the closed eyes for half a minute or more, a phase in which inner light is said to come strongly.
+- *mode* at 5.7 A few common experiences while practising eye contact (anchor verified): With open eyes the room can suddenly look darker even by day; this glowing semi-darkness is the 'astral light', the same as the purple light seen when meditating with closed eyes.
+- *development* at 5.9 Watching the graspings of the mind (anchor verified): In eye contact the image blurs and colours appear, until something inside retracts and the sharp physical image snaps back; relaxing into the brow and seeingness lets the blur and colours return, and the blurred mode also widens vision to the periphery.
+- *method* at 7.1 The use of darkness (anchor verified): Walking at night without artificial light, aware in the brow, objects and dirt paths often show a glow; he calls this easy and commonly missed.
 
 <https://archive.org/details/awakening-the-third-eye-2007-samuel-sagan>
 

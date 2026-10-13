@@ -1,0 +1,51 @@
+{
+ "id": "hin-niranjanananda-dharana-darshan",
+ "stream": "hindu-yoga-tantra",
+ "title": "Dharana Darshan: A Panoramic View of the Yogic, Tantric and Upanishadic Practices of Concentration and Visualization",
+ "author": "Swami Niranjanananda Saraswati",
+ "translator": null,
+ "year": "1993; 2nd ed. 1999",
+ "edition_cited": "Yoga Publications Trust, Munger, 2nd ed. 1999, reprinted 2003/2006; PDF supplied by the user",
+ "tradition": "Bihar School of Yoga (Satyananda lineage)",
+ "language": "English",
+ "source_type": "teacher_manual",
+ "rights": "in_copyright",
+ "access": "fulltext_saved",
+ "url": "",
+ "alt_urls": [],
+ "source_files": [
+  "sources/hin-niranjanananda-dharana-darshan.txt"
+ ],
+ "seen_via": null,
+ "locator_hints": [
+  "Ch. 11 Trataka (pp. 156-200): introduction, Bahya Drishti, Bahya-Antar Drishti, Antar Drishti, Shoonya Drishti",
+  "Ch. 14 Chidakasha Dharana, stage 7 sensorial manifestations",
+  "Ch. 15 Ajna Chakra Dharana",
+  "Ch. 19 Vyoma Panchaka"
+ ],
+ "summary": "Transcribed teachings from a 1992-93 sannyasa course at Ganga Darshan, presenting the Bihar School's graded concentration and visualization practices. The trataka chapter is the fullest modern manual of afterimage work in the library: gaze at a candle flame, black dot, flower, deity picture, yantra, one's shadow, reflection or crystal, then close the eyes and hold the counter-image at the eyebrow centre through repeated fading and return; eleven rounds 'make one dharana', when the inner image becomes as clear as the outer. It also teaches shadow-gazing against the sky, gazing into darkness until visions float, crystal gazing until visions come with open eyes, and nothingness gazing. The chidakasha chapter trains attention to spontaneous streaks, points and clusters of light and colour on the dark 'mind screen'.",
+ "why_relevant": "Named by the user as a gap. Gives explicit afterimage-to-inner-image procedures with time scales, and open-eye practices (shadow on the sky, darkness, crystal) where seen light or vision is the stated result.",
+ "expected_mode": "ambiguous",
+ "expected_onset_pathway": "induction",
+ "expected_techniques": [
+  "afterimage_retention",
+  "light_source_gazing",
+  "gazing_fixed_point",
+  "darkness_exposure",
+  "scrying_surface",
+  "sky_or_space_gazing",
+  "eye_position",
+  "attention_to_spontaneous_phenomena"
+ ],
+ "priority": 1,
+ "medium": "book_or_classical_text",
+ "date_evidence": {
+  "date": "1993",
+  "class": "published_record",
+  "basis": "Copyright page: first edition 1993, second edition 1999; course held October 1992 to March 1993"
+ },
+ "author_identifiable": true,
+ "author_basis": "Named teacher, head of the Bihar School of Yoga; publisher Yoga Publications Trust",
+ "found_via": "user (gap list: Bihar School)",
+ "notes": "Rights: in copyright (all rights reserved). Text supplied by the user; not to be published in the public repo."
+}

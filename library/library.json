@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-12 12:57",
- "note": "",
+ "generated": "2026-10-12 21:18",
+ "note": "Sagan reread; Dharana Darshan added",
  "streams": [
   {
    "id": "theravada-east-asian",
@@ -271,7 +271,7 @@
   }
  ],
  "counts": {
-  "keep": 79,
+  "keep": 80,
   "keep_marginal": 21,
   "unread": 58,
   "drop": 6,
@@ -5549,6 +5549,232 @@
    "anchors_verified": 0,
    "anchors_failed": 0,
    "curation": null
+  },
+  {
+   "id": "hin-niranjanananda-dharana-darshan",
+   "stream": "hindu-yoga-tantra",
+   "title": "Dharana Darshan: A Panoramic View of the Yogic, Tantric and Upanishadic Practices of Concentration and Visualization",
+   "author": "Swami Niranjanananda Saraswati",
+   "translator": null,
+   "year": "1993; 2nd ed. 1999",
+   "edition_cited": "Yoga Publications Trust, Munger, 2nd ed. 1999, reprinted 2003/2006; PDF supplied by the user",
+   "tradition": "Bihar School of Yoga (Satyananda lineage)",
+   "language": "English",
+   "source_type": "teacher_manual",
+   "rights": "in_copyright",
+   "access": "fulltext_saved",
+   "url": "",
+   "alt_urls": [],
+   "source_files": [
+    "sources/hin-niranjanananda-dharana-darshan.txt"
+   ],
+   "seen_via": null,
+   "locator_hints": [
+    "Ch. 11 Trataka (pp. 156-200): introduction, Bahya Drishti, Bahya-Antar Drishti, Antar Drishti, Shoonya Drishti",
+    "Ch. 14 Chidakasha Dharana, stage 7 sensorial manifestations",
+    "Ch. 15 Ajna Chakra Dharana",
+    "Ch. 19 Vyoma Panchaka"
+   ],
+   "summary": "Transcribed teachings from a 1992-93 sannyasa course at Ganga Darshan, presenting the Bihar School's graded concentration and visualization practices. The trataka chapter is the fullest modern manual of afterimage work in the library: gaze at a candle flame, black dot, flower, deity picture, yantra, one's shadow, reflection or crystal, then close the eyes and hold the counter-image at the eyebrow centre through repeated fading and return; eleven rounds 'make one dharana', when the inner image becomes as clear as the outer. It also teaches shadow-gazing against the sky, gazing into darkness until visions float, crystal gazing until visions come with open eyes, and nothingness gazing. The chidakasha chapter trains attention to spontaneous streaks, points and clusters of light and colour on the dark 'mind screen'.",
+   "why_relevant": "Named by the user as a gap. Gives explicit afterimage-to-inner-image procedures with time scales, and open-eye practices (shadow on the sky, darkness, crystal) where seen light or vision is the stated result.",
+   "expected_mode": "ambiguous",
+   "expected_onset_pathway": "induction",
+   "expected_techniques": [
+    "afterimage_retention",
+    "light_source_gazing",
+    "gazing_fixed_point",
+    "darkness_exposure",
+    "scrying_surface",
+    "sky_or_space_gazing",
+    "eye_position",
+    "attention_to_spontaneous_phenomena"
+   ],
+   "priority": 1,
+   "medium": "book_or_classical_text",
+   "date_evidence": {
+    "date": "1993",
+    "class": "published_record",
+    "basis": "Copyright page: first edition 1993, second edition 1999; course held October 1992 to March 1993"
+   },
+   "author_identifiable": true,
+   "author_basis": "Named teacher, head of the Bihar School of Yoga; publisher Yoga Publications Trust",
+   "found_via": "user (gap list: Bihar School)",
+   "notes": "Rights: in copyright (all rights reserved). Text supplied by the user; not to be published in the public repo.",
+   "stream_name": "Hindu yoga and tantra",
+   "status": "keep",
+   "screen": null,
+   "reading": {
+    "id": "hin-niranjanananda-dharana-darshan",
+    "stream": "hindu-yoga-tantra",
+    "verdict": "keep",
+    "drop_reason": null,
+    "drop_note": "",
+    "relevance": 5,
+    "practicality": 5,
+    "text_read": "full text of Ch. 11 Trataka, Ch. 14 Chidakasha and Ch. 15 Ajna Chakra Dharana; Ch. 19 Vyoma Panchaka skimmed for light passages (Opus, from the user's PDF)",
+    "mode": "ambiguous",
+    "mode_evidence": "Two modes are worked deliberately. The bahya-antar trataka begins with a perceptual afterimage ('a tiny, luminous, coloured dot' seen in chidakasha, its colour changing with gazing time) and, when it vanishes, asks the practitioner to 'recollect' it, so the later rounds shade into willed recall; the aim is an inner image as vivid as the outer object ('dharana' as seeing, versus 'kalpana', merely thinking). Open-eye practices are plainly perceptual: a silver, hazy shadow seen against the sky after shadow-gazing; 'visions start floating' in total darkness; visions come in the crystal 'even while your eyes are open'. Chidakasha stage 7 is perceptual (spontaneous streaks, points and clusters of light, which the book also calls an optical effect in the brain). Vyoma Panchaka lights are willed visualization; the text itself calls the ring of light 'a voluntary vision'.",
+    "eyes": "both",
+    "onset_pathway": "both",
+    "onset_evidence": "Explicit induction for those who cannot hold an inner image: combined outer-inner trataka 'is useful for people who are not able to develop an inner image at will'; inner trataka alone is reserved for those who already can, and trying it with a vague or absent image ends in sleep or wandering thought. Time scales: a round begins at about five minutes (three minutes outer gazing) and grows to half an hour (three minutes outer, twenty-seven inner); eleven rounds make one dharana; the Sri Yantra sequence is built up week by week. Says even beginners will have experiences after a short period. Shoonya drishti 'takes a long time'. Darkness-gazing is reserved for those with a disciplined inner life. No grace or transmission requirement is stated.",
+    "stimulus_independence": "yes",
+    "techniques": [
+     "afterimage_retention",
+     "light_source_gazing",
+     "gazing_fixed_point",
+     "eye_position",
+     "darkness_exposure",
+     "scrying_surface",
+     "sky_or_space_gazing",
+     "attention_to_spontaneous_phenomena",
+     "visualization_crossing",
+     "letter_or_symbol_contemplation",
+     "breath_control",
+     "posture_or_body_lock"
+    ],
+    "conditions": {
+     "posture": "steadiest possible seated posture, siddhasana or padmasana preferred; kaya sthairyam (total body stillness) first",
+     "gaze_or_eye_position": "no blinking or eye movement; eyes relaxed, not straining; nose-tip and eyebrow-centre convergence (agochari, shambhavi) as outer trataka; counter-image held at the eyebrow centre",
+     "setting": "candle: no other light, no breeze, flame at eye level an arm's length away; black dot: good light from behind; crystal: dim light on a black cloth; darkness: total darkness; shadow: sun at the back, then the sky",
+     "duration_and_schedule": "3 to 5 minutes outer gazing (crystal up to 10); inner phase up to 27 minutes per round; eleven rounds to one dharana; best 4 to 6 a.m. on an empty stomach, or late at night before meditation",
+     "prerequisites": "antar trataka requires a clear inner image; shoonya drishti only after antar trataka is mastered; darkness trataka only for the mentally stable",
+     "other": "close the eyes before tears fall in the raja-yoga form (tears belong to the hatha-yoga cleansing form); palming at the end; no glasses"
+    },
+    "phenomena": [
+     "sphere_pearl_bindu",
+     "colour_fields",
+     "red",
+     "white",
+     "sparks_or_points",
+     "stars",
+     "smoke_mist_cloud",
+     "figures_or_forms",
+     "geometric_patterns",
+     "blue"
+    ],
+    "stages": [
+     {
+      "label": "bahir trataka",
+      "description": "outer gazing at a steady object without blinking"
+     },
+     {
+      "label": "bahya-antar trataka",
+      "description": "afterimage at the eyebrow centre: a luminous coloured dot that fades, vanishes and returns in new colours until it merges into the dark background"
+     },
+     {
+      "label": "dharana",
+      "description": "after eleven rounds the inner image is 'absolutely clear', the candle seen in every detail with eyes closed"
+     },
+     {
+      "label": "dhyana",
+      "description": "the inner object acquires three dimensions and is as real as external sight"
+     },
+     {
+      "label": "shoonya drishti",
+      "description": "open-eyed gazing at nothing until the eyes dim and nothing is seen"
+     }
+    ],
+    "what_to_do_with_light": "Hold the counter-image steadily at the eyebrow centre; follow it gently back if it drifts; when it vanishes keep the eyes closed and gather it again; with spontaneous chidakasha lights, watch without analysing and identify the colours; with visions in darkness, stay aware but uninvolved.",
+    "obstacles_and_fixes": [
+     "image unclear: be aware of whatever can be seen; relax the eye muscles",
+     "image drifts: follow it and bring it back to the eyebrow centre",
+     "image fades: keep the eyes closed and recreate it",
+     "eye strain: breathe to and from ajna through the eyebrow centre; rest the eyes",
+     "double object: change the dot size",
+     "uncontrollable thoughts: add mantra japa"
+    ],
+    "cautions": [
+     "never gaze directly at the sun (use its reflection in still water or a pea-sized hole in dark cloth, as the book also prescribes); direct moon-gazing can unbalance the mind",
+     "darkness trataka raises subconscious fears as visions and is not for the restless or unstable",
+     "in mirror or water gazing, whatever appears is one's own projection; leave the practice if psychic apparitions emerge",
+     "do not strain the eyes; trataka is heat-producing"
+    ],
+    "safety_flags": [
+     "sun_gazing",
+     "prolonged_darkness"
+    ],
+    "interpretation": "Trataka stabilises the retinal image until perception blanks out, isolating the nervous system ('sushumna awakening'); the inner screen (chidakasha) shows impressions from deeper consciousness, and the clear inner image marks dharana proper.",
+    "practice_summary": "Sit motionless. Gaze at a candle flame at eye level, an arm's length away, without blinking, for three minutes. Close the eyes and look at the afterimage at the eyebrow centre: a small luminous dot whose colour depends on how long you gazed. Watch it steadily; if it drifts, bring it back; when it fades, keep the eyes closed and gather it again until it finally merges into the dark. That is one round. Extend the inner phase until a round lasts half an hour; eleven rounds 'make one dharana', when the candle can be seen in full detail with the eyes closed. The same method works with a black dot, a flower (whose afterimage is first a disc of the opposite colour), a deity picture framed in black, or the Sri Yantra built up week by week. Open-eye variants: gaze at your shadow, then up at the sky to see its silver image; gaze into total darkness or into a crystal until visions come.",
+    "key_passages": [
+     {
+      "locator": "Ch. 11 Trataka, Modes of practice",
+      "about": "onset",
+      "anchor": "The method of outer and inner trataka combined is useful for people who are not able to develop an inner image at will",
+      "paraphrase": "Combined outer and inner trataka is for people who cannot produce an inner image at will; inner trataka alone is for those who already can, and trying it without a clear image leads to sleep or drifting thought.",
+      "quote": "",
+      "source_file": "sources/hin-niranjanananda-dharana-darshan.txt",
+      "anchor_verified": true
+     },
+     {
+      "locator": "Ch. 11, Trataka Two (Bahya-Antar Drishti), Technique 1: candle flame",
+      "about": "method",
+      "anchor": "See somewhere in chidakasha a tiny, luminous, coloured dot",
+      "paraphrase": "After three minutes of gazing, the afterimage is seen in chidakasha as a tiny luminous dot whose colour depends on gazing time (black, white or dull brown after a minute; bright red after about five); it fades, vanishes and returns in another colour until it merges into the background.",
+      "quote": "",
+      "source_file": "sources/hin-niranjanananda-dharana-darshan.txt",
+      "anchor_verified": true
+     },
+     {
+      "locator": "Ch. 11, Trataka Two, Technique 1",
+      "about": "stages",
+      "anchor": "Eleven rounds of trataka make one dharana, which means that the mental image becomes absolutely clear",
+      "paraphrase": "Rounds lengthen from five minutes to half an hour; eleven rounds make one dharana, when the image is absolutely clear. Seeing the object is dharana; merely thinking of it is kalpana.",
+      "quote": "",
+      "source_file": "sources/hin-niranjanananda-dharana-darshan.txt",
+      "anchor_verified": true
+     },
+     {
+      "locator": "Ch. 11, Trataka Two, Technique 8: chhaya upasana",
+      "about": "method",
+      "anchor": "you will perceive a great shadow cast over the background of the sky",
+      "paraphrase": "After gazing at the throat point of one's shadow, looking up shows a great silver, hazy shadow on the sky; repeated, it takes on the form of one's own shadow.",
+      "quote": "",
+      "source_file": "sources/hin-niranjanananda-dharana-darshan.txt",
+      "anchor_verified": true
+     },
+     {
+      "locator": "Ch. 11, Trataka Four (Shoonya Drishti), Technique 4: darkness",
+      "about": "caution",
+      "anchor": "After some time the darkness vanishes and visions start floating",
+      "paraphrase": "Gazing open-eyed into total darkness, the darkness gives way to floating visions, said to bring up subconscious fears; reserved for those with mental control and a disciplined inner life.",
+      "quote": "",
+      "source_file": "sources/hin-niranjanananda-dharana-darshan.txt",
+      "anchor_verified": true
+     },
+     {
+      "locator": "Ch. 14 Chidakasha Dharana, Stage 7",
+      "about": "development",
+      "anchor": "Sometimes a cluster of light or colour manifests in chidakasha and remains there for a few moments",
+      "paraphrase": "With eyes closed, watch the spontaneous streaks, points, shades and clusters of light and colour on the inner screen without analysing them; earlier the book trains the practitioner to identify each colour as it appears.",
+      "quote": "",
+      "source_file": "sources/hin-niranjanananda-dharana-darshan.txt",
+      "anchor_verified": true
+     }
+    ],
+    "cross_refs": [
+     "hin-hatha-yoga-pradipika-sinh",
+     "hin-sivananda-kundalini-yoga",
+     "wes-melville-crystal-gazing"
+    ],
+    "new_leads": [
+     "Satyananda, Asana Pranayama Mudra Bandha (trataka section)",
+     "Satyananda, Kundalini Tantra (ajna chakra practices)"
+    ],
+    "reader_confidence": "high",
+    "confidence_note": "In copyright: paraphrase and anchors only. Chapters 1-10, 12-13, 16-18 and 20 not read closely; the light material is concentrated in 11, 14 and 15."
+   },
+   "anchors_verified": 6,
+   "anchors_failed": 0,
+   "curation": {
+    "tier": "A",
+    "families": [
+     "source-afterimage",
+     "gaze-posture",
+     "scrying",
+     "darkness-gazing"
+    ],
+    "librarian_note": "Added 2026-10-12 from the user's copy; the fullest afterimage (trataka) manual in the library."
+   }
   },
   {
    "id": "hin-rama-prasad-natures-finer-forces",
@@ -21593,76 +21819,93 @@
     "drop_note": "",
     "relevance": 5,
     "practicality": 5,
-    "text_read": "digest only; section 3.5 (nothing felt at all) shown only by its last lines, and Ch. 5/7 aura seeing and Ch. 10 troubleshooting only in fragments",
+    "text_read": "full text of 3.4-3.7, 3.10, Ch. 5 (Seeing), Ch. 7.1-7.12 (Seeing 2), 9.9 and 10.7 (Opus, rereading the saved text); remaining chapters from the digest",
     "mode": "perceptual",
-    "mode_evidence": "Insists on 'no imagination, no visualisation – just awareness of what is in front of you' and calls the light 'spiritual light, perceived with your eyes closed', not physical light; it ranges from haze to colours, shining dots and patterns. Open-eye work: room appears darker, 'astral light' seen, paths glow at night. The source's own metaphysics (etheric/astral) frames it, but the instruction is perceptual.",
+    "mode_evidence": "Closed-eye work is perceptual: 'no imagination, no visualisation' and the light is 'spiritual light, perceived with your eyes closed', from whitish haze to colours, shining particles and the purple 'space'. The open-eye chapters place what is seen in the visual field itself: during eye contact the physical image blurs and distorts, halos and colours appear, the partner's face is replaced by another, and the room 'appears darker' with a glowing semi-darkness he identifies with the purple light seen behind closed eyes (5.7). Sagan reads these as astral rather than physical perception, but his instructions are about where and how it is seen: in front of the open eyes, and only once ordinary sharp-outlined vision is let go (5.9-5.11).",
     "eyes": "both",
     "onset_pathway": "both",
-    "onset_evidence": "Staged ladder for those who see nothing: first find any vibration/tingling/pressure between the eyebrows (throat friction plus gentle awareness, 5 to 10 minutes per phase), then in the later phase look there for any fog, haze or glow and connect it to the throat friction. Says most who think they cannot see light see it but do not recognise it, faint whitish haze counts. Claims no student at his school failed to feel the vibration after a bit of practice, and urges persistence. Intensity varies day to day. No grace or transmission requirement stated in the digest; one should not grasp or concentrate. Suggested 5 to 10 minutes each morning plus constant background awareness.",
+    "onset_evidence": "Closed-eye ladder: find any vibration between the eyebrows with throat friction, then look for any fog, haze or glow there and connect the friction to it. 3.5, for those who feel nothing: the vibration may be unregistered because one expects too much or tries too hard; or one may already be getting light, which bypasses the vibration ('If you are perceiving light in any form ... then you are already in the astral'); he has never seen a student fail after a bit of practice. Open-eye induction: eye contact with a partner or mirror (motionless focus in the brow, blinking as little as possible, attention to 'seeingness' rather than the image) for 3 to 5 minutes, building to 15 or more, in candlelight against a blank wall; the image blurs and colours appear. Ending each round by palming, 'you will have momentous experiences of inner light' (5.5). Where seeingness cannot be found, 'feel the image instead of looking at it'. Night walks without a torch: dirt paths and objects glow (7.1), 'typically one of those perceptions that most people miss'. No grace or transmission requirement.",
     "stimulus_independence": "not_applicable",
     "techniques": [
-     "sound_or_mantra",
+     "attention_to_spontaneous_phenomena",
      "breath_control",
      "concentration_nonvisual",
-     "posture_or_body_lock",
      "darkness_exposure",
+     "eye_position",
      "gazing_fixed_point",
-     "attention_to_spontaneous_phenomena"
+     "light_source_gazing",
+     "posture_or_body_lock",
+     "scrying_surface",
+     "sound_or_mantra"
     ],
     "conditions": {
      "posture": "first opening lying down; meditation sitting with spine vertical, still",
-     "gaze_or_eye_position": "eyes closed; eyeballs not directed at the brow, which only creates tension",
-     "setting": "darkness and candlelight favoured over electric light for open-eye seeing",
-     "duration_and_schedule": "30 minute meditation: 5 minutes per phase; at least 5 to 10 minutes every morning; first opening phases 5 to 10 minutes",
+     "gaze_or_eye_position": "eyes closed for the meditation; eyeballs never turned toward the brow (awareness only); in eye contact, gaze at the partner's eye, brow centre or the space in front, or 1-2 inches above the head for auras; blink as little as possible",
+     "setting": "candles or oil lamps rather than electric light; blank white or very light wall; partner 90 cm away at eye height, or a mirror; semi-darkness indoors, never outdoors in daylight; white shawl",
+     "duration_and_schedule": "30-minute meditation, about 5 minutes per phase; eye contact 3 to 5 minutes rising to 15 or more, each round preceded by a 2-3 minute closed-eye 'reconnection' and ended with palming",
      "prerequisites": "none stated; avoid grasping",
      "other": "throat friction: soft laryngeal breathing sound kept up through the phases"
     },
     "phenomena": [
-     "smoke_mist_cloud",
-     "colour_fields",
-     "sparks_or_points",
-     "violet",
-     "blue",
      "black_light",
+     "blue",
+     "body_or_objects_luminous",
+     "colour_fields",
+     "figures_or_forms",
      "geometric_patterns",
      "light_in_the_room",
-     "body_or_objects_luminous",
+     "smoke_mist_cloud",
+     "sparks_or_points",
+     "violet",
      "white"
     ],
     "stages": [
      {
       "label": "vibration (etheric)",
-      "description": "tingling, pressure, density between the eyebrows; the first thread"
+      "description": "tingling, pressure, density between the eyebrows; may be bypassed if light comes first"
      },
      {
       "label": "light (astral)",
-      "description": "haze, cloud, glow, colours, shining dots, patterns; to be refined into brighter light"
+      "description": "haze, cloud, glow, colours, shining particles and patterns between the eyebrows, brightened by the throat friction"
      },
      {
-      "label": "purple light / space",
-      "description": "purple, dark blue or dark expanse behind the lights felt as space around you; relief in the heart"
+      "label": "purple space",
+      "description": "the dark or purple background behind the lights, entered as a space; relief in the heart (3.10)"
      },
      {
-      "label": "open-eye seeing",
-      "description": "the room appears darker, 'astral light' as glowing semi-darkness, auras and glowing objects"
+      "label": "blurring and astral colour (open eyes)",
+      "description": "in eye contact the sharp image blurs, vision widens to the periphery, colours made of 'tiny hyper-brilliant points' and halos appear; the partner seems far away; faces change"
+     },
+     {
+      "label": "astral light in the room",
+      "description": "the room suddenly appears darker though it is day: a glowing semi-darkness, the same purple light seen with eyes closed; later physical and non-physical seen together"
      }
     ],
-    "what_to_do_with_light": "connect throat friction to it to amplify it, drop the hazier parts and attend to the brightest; then rest awareness in the background space; do not label hues too readily",
+    "what_to_do_with_light": "Closed eyes: connect the throat friction to the brightest part, then rest in the purple space. Open eyes: let the image blur rather than refocus; when 'something inside' grasps and the sharp outlines snap back, relax into the brow and seeingness and let it blur again, watching the grasping itself (5.9-5.10). Do not analyse visions while they occur; draw them afterwards; attend to the fact of seeing rather than content (5.8). Connecting the friction to halos enhances them (7.5).",
     "obstacles_and_fixes": [
      "grasping or concentrating blocks the process: stay vacant",
      "sensation elsewhere in the face: ignore and stay between the eyebrows",
      "faint or blurry light: accept as first thread and keep practising",
      "too intense: open the eyes",
-     "thoughts: do not fight, return to the eye or intensify throat friction"
+     "thoughts: do not fight, return to the eye or intensify throat friction",
+     "image snaps back to sharp outlines (the mind 'grasping'): relax, return to the brow and to seeingness; the perception returns",
+     "seeingness unclear: feel the image instead of looking at it, including the space around the partner",
+     "frequent blinking on some days, 'as if you had a cloud of toxic smoke' before the eyes: accept the fluctuation and keep practising",
+     "pressure in the brow becoming a headache: stop grasping; or the energy is pulling upward, so move awareness above the head (10.7-10.8)",
+     "progress blocked: do some channel release (7.7)"
     ],
     "cautions": [
      "no forcing, no visualisation",
-     "do not attach meaning to minor tingling and flashes",
-     "keep the practice relative; psychic protection treated in a separate chapter"
+     "no gazing at the Sun under any circumstances; no unblinking moon-gazing; no eye contact outdoors in daylight (5.2)",
+     "faces seen may be guides, past lives, sub-personalities or attached entities, or one's own projection: do not interpret early (5.8)",
+     "the 'Atlantean climax' variant builds power without compassion and is not for regular practice (5.12)",
+     "do not attach meaning to minor tingling and flashes"
     ],
-    "safety_flags": [],
-    "interpretation": "Light between the eyebrows indicates activation of the astral layer of the third eye; the purple space is the astral space. A teacher-manual metaphysics.",
-    "practice_summary": "Lie down or sit with a vertical spine, eyes closed, and breathe with a soft friction sound in the throat. Move awareness to the area between the eyebrows without grasping or turning the eyeballs there. Look for any vibration, tingling or pressure and join it to the throat friction for several minutes. Then drop the vibration and look in front of the brow for a fog, haze, glow or colour, however faint, and connect the friction to it so it grows brighter; attend to the brightest part, often tiny drifting particles. Finally rest in the dark or purple background as a space. Use no imagination or visualisation. Faint whitish haze is the right beginning. Practise 5 minutes per phase, and every morning, and keep a light awareness between the eyebrows through the day.",
+    "safety_flags": [
+     "sun_gazing"
+    ],
+    "interpretation": "Light between the eyebrows marks the astral layer of the third eye; the purple space is the astral space, and the glowing darkness seen with open eyes is the occultists' 'astral light'. Sharp ordinary vision is the mind's construction, a 'cramp'; the fluid light and colour behind it is nearer reality (5.11).",
+    "practice_summary": "Sit straight, eyes closed, breathing with a soft friction in the throat. Find any vibration between the eyebrows and join the friction to it; then look there for haze, glow or colour, however faint, and connect the friction to the brightest part; then rest in the purple or dark space behind. No visualising. For open-eye work, sit 90 cm from a partner or a mirror, by candlelight against a blank wall. After two or three minutes of this closed-eye reconnection, open the eyes on the partner's eyes: stay motionless with awareness in the brow, blink as little as possible, and attend to the fact of seeing rather than the image. Let the image blur and distort; colours, halos, a darkened room or changed faces may appear. When the sharp image snaps back, relax and let it go again. After 3 to 15 minutes, close the eyes, rub the hands and palm the eyes for half a minute, where inner light is common.",
     "key_passages": [
      {
       "locator": "3.2 First opening, Phase 6, source lines 1335-1530",
@@ -21692,19 +21935,55 @@
       "anchor_verified": true
      },
      {
-      "locator": "3.5, source lines 1624-1699",
-      "about": "onset",
-      "anchor": "Persist, persist, persist... and everything will come.",
-      "paraphrase": "For those who feel nothing, he says every student eventually felt the vibration and urges persistence.",
+      "locator": "3.7 phase 3, source lines 1742-1803",
+      "about": "stages",
+      "anchor": "A common experience is that of tiny shining particles of light,",
+      "paraphrase": "Tiny shining particles drifting in the space in front are a common experience; the friction is connected to the most luminous part.",
       "quote": "",
       "source_file": "sources/mod-sagan-awakening-third-eye.txt",
       "anchor_verified": true
      },
      {
-      "locator": "3.7 phase 3, source lines 1742-1803",
-      "about": "stages",
-      "anchor": "A common experience is that of tiny shining particles of light,",
-      "paraphrase": "Tiny shining particles drifting in the space in front are a common experience; the friction is connected to the most luminous part.",
+      "locator": "3.5 If you are not feeling any vibration at all",
+      "about": "onset",
+      "anchor": "it may be that you are getting light instead of vibration",
+      "paraphrase": "Someone who feels no vibration may already be perceiving light, any form of it from a blurry whitish haze to purple, and should simply work with the light instead.",
+      "quote": "",
+      "source_file": "sources/mod-sagan-awakening-third-eye.txt",
+      "anchor_verified": true
+     },
+     {
+      "locator": "5.5 To end any practice of eye contact",
+      "about": "onset",
+      "anchor": "During this phase, you will have momentous experiences of inner light",
+      "paraphrase": "Each eye-contact round ends by rubbing the hands and palming the closed eyes for half a minute or more, a phase in which inner light is said to come strongly.",
+      "quote": "",
+      "source_file": "sources/mod-sagan-awakening-third-eye.txt",
+      "anchor_verified": true
+     },
+     {
+      "locator": "5.7 A few common experiences while practising eye contact",
+      "about": "mode",
+      "anchor": "The room in which you are practising appears darker, the quality of the colours changes",
+      "paraphrase": "With open eyes the room can suddenly look darker even by day; this glowing semi-darkness is the 'astral light', the same as the purple light seen when meditating with closed eyes.",
+      "quote": "",
+      "source_file": "sources/mod-sagan-awakening-third-eye.txt",
+      "anchor_verified": true
+     },
+     {
+      "locator": "5.9 Watching the graspings of the mind",
+      "about": "development",
+      "anchor": "From time to time, something seems to retract inside yourself",
+      "paraphrase": "In eye contact the image blurs and colours appear, until something inside retracts and the sharp physical image snaps back; relaxing into the brow and seeingness lets the blur and colours return, and the blurred mode also widens vision to the periphery.",
+      "quote": "",
+      "source_file": "sources/mod-sagan-awakening-third-eye.txt",
+      "anchor_verified": true
+     },
+     {
+      "locator": "7.1 The use of darkness",
+      "about": "method",
+      "anchor": "if you walk on a dirt path in the countryside at night, you will often discover that the path glows",
+      "paraphrase": "Walking at night without artificial light, aware in the brow, objects and dirt paths often show a glow; he calls this easy and commonly missed.",
       "quote": "",
       "source_file": "sources/mod-sagan-awakening-third-eye.txt",
       "anchor_verified": true
@@ -21715,21 +21994,23 @@
      "Oxyrhynchus Sayings of Jesus"
     ],
     "new_leads": [
-     "Sagan chapters 5, 7 (seeing and auras), 10 (experiences on the way, pressure and headaches), 15 (night practice)"
+     "Sagan Ch. 15 night practice (spontaneous images at the sleep threshold) not reread"
     ],
-    "reader_confidence": "medium",
-    "confidence_note": "Read in digest; complete 3.5 and the Ch. 5/7/10 material were not visible."
+    "reader_confidence": "high",
+    "confidence_note": "Chapters on seeing reread in full. In copyright: paraphrase and anchors only."
    },
-   "anchors_verified": 5,
+   "anchors_verified": 9,
    "anchors_failed": 0,
    "curation": {
     "tier": "A",
     "families": [
      "darkness-gazing",
      "breath-energy",
-     "nonvisual-concentration"
+     "nonvisual-concentration",
+     "gaze-posture",
+     "scrying"
     ],
-    "librarian_note": "Later chapters on seeing, pressure and night practice not read."
+    "librarian_note": "Seeing chapters (5, 7) reread 2026-10-12: open-eye eye-contact and mirror practice, palming afterlight, night glow."
    }
   },
   {
