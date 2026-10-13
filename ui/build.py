@@ -13,12 +13,19 @@ def text(path):
         return None
 
 lib = json.load(open(P("library", "library.json"), encoding="utf-8"))
+# Full texts present in this checkout (in-copyright texts are withheld from the public repo).
+# --base URL prefixes download links (default: relative to the page, as on GitHub Pages).
+BASE = sys.argv[sys.argv.index("--base") + 1] if "--base" in sys.argv else ""
+for it in lib.get("items") or []:
+    it["downloads"] = [f"data/{it['stream']}/{f}" for f in (it.get("source_files") or [])
+                       if os.path.isfile(P("data", it["stream"], f))]
 data = {
     "streams": lib.get("streams") or [],
     "vocab": lib.get("vocab") or {},
     "families": lib.get("families") or [],
     "items": lib.get("items") or [],
     "generated": lib.get("generated"),
+    "dlbase": BASE,
     "report": text(P("report", "report.md")),
     "gaps": text(P("library", "gaps.md")),
     "overview": text(P("library", "overview.md")),
